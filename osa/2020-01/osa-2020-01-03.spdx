@@ -1,0 +1,375 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_osa-2020-01-03.zip_1578338593.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-06T19:23:13Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: osa-2020-01-03.zip
+PackageFileName: osa-2020-01-03.zip
+SPDXID: SPDXRef-upload2034
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 7446007ad98475be072c7c2eae383c6cbbc9685b
+PackageChecksum: SHA1: 86648dec54b51f0b46cb52cb2367ac7a26f3c8f3
+PackageChecksum: MD5: 43078fd61d7ef65b569aa2fc06a12b99
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2034
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: osa/docs/index.rst
+SPDXID: SPDXRef-item7901855
+FileChecksum: SHA1: 0ac52a99d2315873d00fa154f01275d4c3930525
+FileChecksum: MD5: 72803726c23d63b45a5c36ed4193aed3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/docs/osalist.rst
+SPDXID: SPDXRef-item7901856
+FileChecksum: SHA1: 3218393800e1ccee3d0ed92874bbf14cb349870e
+FileChecksum: MD5: 0019411d2b512bf910adb9516630ce77
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-023.rst
+SPDXID: SPDXRef-item7901828
+FileChecksum: SHA1: 4b78f997272dbc7b2f958805fefb3ce59b6107ed
+FileChecksum: MD5: c3b7074ddbb7d5023a770bd597ee5b13
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-008.rst
+SPDXID: SPDXRef-item7901829
+FileChecksum: SHA1: 8cc7cbd4c66f5ab98da3d7a46b3a2627aa2f82a7
+FileChecksum: MD5: ce5d7f4131e0a799018563204a208173
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/docs/process.rst
+SPDXID: SPDXRef-item7901857
+FileChecksum: SHA1: b25b0419e9b5101f034fd985d3e30fd694206f45
+FileChecksum: MD5: 8cd0c9ea23f5b0d8d5ce036415c04df7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics
+copyrighted to OpenStack Foundation </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-025.rst
+SPDXID: SPDXRef-item7901831
+FileChecksum: SHA1: 9de5615d35175084c6093d4bc4d15fad10926363
+FileChecksum: MD5: ce6147415f3074a1616f6519e1524d0d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-024.rst
+SPDXID: SPDXRef-item7901830
+FileChecksum: SHA1: cc25607db89eb28590e7ed045509f468c0a44b88
+FileChecksum: MD5: dfe07e0be73c65d0b9c5ac4099e61c8f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-007.rst
+SPDXID: SPDXRef-item7901832
+FileChecksum: SHA1: c0038f14f2eff52cb667a291378e67c911647d7e
+FileChecksum: MD5: ff36dd87be74dd9ac81241ecc9f449ce
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-006.rst
+SPDXID: SPDXRef-item7901833
+FileChecksum: SHA1: 2be14af73fbcd610116c0ce94218f42803c742a8
+FileChecksum: MD5: fcd97455b4b2fb80f322b467e71e6f72
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-018.rst
+SPDXID: SPDXRef-item7901835
+FileChecksum: SHA1: afc0a80fb67239d6aef4c6bfc660a530c691fd81
+FileChecksum: MD5: fc19b2c1bc3b427719f09b7dffc11951
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-015.rst
+SPDXID: SPDXRef-item7901834
+FileChecksum: SHA1: a10b8df9c818d8524f0755f8a3c09777c667b89d
+FileChecksum: MD5: b7a7d90efd750684ffc526da2153236d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-011.rst
+SPDXID: SPDXRef-item7901836
+FileChecksum: SHA1: 6f738c9dd9dcb3272e559a9f17c9ac35c6727745
+FileChecksum: MD5: 1124a006dfdda607c68fa2982df53c82
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-004.rst
+SPDXID: SPDXRef-item7901837
+FileChecksum: SHA1: ee93c71000e75f6793fd6008a78139ce06be0eb4
+FileChecksum: MD5: 6ea62b17d35ded45784efa9269ca34b6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-002.rst
+SPDXID: SPDXRef-item7901839
+FileChecksum: SHA1: 138f9985d779afaa6d14be97d8a007b97c3a3af8
+FileChecksum: MD5: a394dee59064891024acb8917dab3a67
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-009.rst
+SPDXID: SPDXRef-item7901838
+FileChecksum: SHA1: d4717ea90ebf1639c64dfe5c9b07ddecc8ede618
+FileChecksum: MD5: 0ea4218af2d3eb0d5dcf57c437e9effb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-017.rst
+SPDXID: SPDXRef-item7901841
+FileChecksum: SHA1: e1a6c1e6620690b2fd5aaf4dd98d829b731cffe9
+FileChecksum: MD5: e489e2a6836a58c9d04882c65f002074
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-014.rst
+SPDXID: SPDXRef-item7901840
+FileChecksum: SHA1: 68fd519088afc917d96076f40afb57443f0cb39e
+FileChecksum: MD5: 3db669f6ca6281f83e1adb79c21297c3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-010.rst
+SPDXID: SPDXRef-item7901842
+FileChecksum: SHA1: 7b4b2a291f8ad76e0209a09dd844bd034dba5967
+FileChecksum: MD5: ca92567b39fda9dea8fae97e27945950
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-020.rst
+SPDXID: SPDXRef-item7901844
+FileChecksum: SHA1: bc35f05e2da5b0d64363db7ce40e8a4e5d4237df
+FileChecksum: MD5: b47fed4ce9cf441a0b6fb8bdcce7e926
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-019.rst
+SPDXID: SPDXRef-item7901843
+FileChecksum: SHA1: e868fb9e6735609b98b02b6a4c2c1b6255a67d87
+FileChecksum: MD5: 1b126e25e11ecddebabea523c9cb67b3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-012.rst
+SPDXID: SPDXRef-item7901845
+FileChecksum: SHA1: 47ebf9eea6b9b839ee35436345aeb3789e1042b2
+FileChecksum: MD5: 4d00bbdb875bc9e7065d2626fe7c10cf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-003.rst
+SPDXID: SPDXRef-item7901846
+FileChecksum: SHA1: 74a0337cf482dde7995da969413cd3fe1d697404
+FileChecksum: MD5: 440f026bd4e8ef42eb536db648c3c622
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-001.rst
+SPDXID: SPDXRef-item7901847
+FileChecksum: SHA1: 8deb78796a369007525391514573a3a6418f74ac
+FileChecksum: MD5: 34cf76bdba1dc7a9c572cb5e60dc5e1e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-022.rst
+SPDXID: SPDXRef-item7901848
+FileChecksum: SHA1: 1c0b317bffbf7b58787ed068daf000fb88466844
+FileChecksum: MD5: 9b06b1b51479dbc0adaad4357cd4b0df
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-016.rst
+SPDXID: SPDXRef-item7901850
+FileChecksum: SHA1: 8169ae4600f62c22983311d65446849c4a859c02
+FileChecksum: MD5: 36e8e0229286d73373558ca4b4bfecfc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-026.rst
+SPDXID: SPDXRef-item7901849
+FileChecksum: SHA1: 7091a2cd14f8750ebd3a3fc6de5271a1017667c9
+FileChecksum: MD5: 08f1cd78e69b39f77fd230f5644a55ba
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-005.rst
+SPDXID: SPDXRef-item7901851
+FileChecksum: SHA1: 88a6041ebe9da5faf64c203947a8f165be1786df
+FileChecksum: MD5: d2df919c6dc1ae547ce06ae6e52a7080
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-013.rst
+SPDXID: SPDXRef-item7901852
+FileChecksum: SHA1: b418cff603099b5a024be08bb2de58d424719aa6
+FileChecksum: MD5: f7de9238f95b14e57db690255604d34b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+##File
+
+FileName: osa/osa/OSA-2019-021.rst
+SPDXID: SPDXRef-item7901853
+FileChecksum: SHA1: 9fcab347eded48d51796d2435e6ae1e931a23edb
+FileChecksum: MD5: ad7a99a5c522893810db640650c300ea
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics </text>
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
