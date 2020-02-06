@@ -1,0 +1,525 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_oparent-2020-02-03.zip_1580849792.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-02-04T20:56:32Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: oparent-2020-02-03.zip
+PackageFileName: oparent-2020-02-03.zip
+SPDXID: SPDXRef-upload2179
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 4bdbe65a8a3356ff89520c918b52113a34ca7961
+PackageChecksum: SHA1: 00596482ba3bd23c83f90868a1453b4eaf449147
+PackageChecksum: MD5: ded3a2f8b1611a18ceaf197284c15125
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2179
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: oparent/license/src/main/resources/LICENSE
+SPDXID: SPDXRef-item8337645
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/checkstyle/src/main/resources/onap-checkstyle/check-license.xml
+SPDXID: SPDXRef-item8337670
+FileChecksum: SHA1: 40a3259048df3791b8ca95f5511c9b6154dd57ab
+FileChecksum: MD5: 0209bce66b56cb7ee2b237387530f4d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2017 Huawei Technologies Co., Ltd. </text>
+ 
+
+##File
+
+FileName: oparent/versions/src/main/resources/onap-versions/ruleset.xml
+SPDXID: SPDXRef-item8337663
+FileChecksum: SHA1: 71d0e03c6e614877919721f5de1d6d102f2108e0
+FileChecksum: MD5: 258e6ba316dc73f482ce82073f01c8b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: oparent/license/doc/java-license-header.txt
+SPDXID: SPDXRef-item8337648
+FileChecksum: SHA1: f57ae702d6cd195323a1c159f3f6ad804ad3cf86
+FileChecksum: MD5: bb183a5d21f46fb6e513c326b31b729d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 [company name] and others. </text>
+ 
+
+##File
+
+FileName: oparent/license/pom.xml
+SPDXID: SPDXRef-item8337646
+FileChecksum: SHA1: 189b281c30b1afb5fe9267da3a5d2228b287f85a
+FileChecksum: MD5: aa617ead57ad9b9f6b3f1e72b73ccfec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2017 Huawei Technologies Co., Ltd.
+copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: oparent/checkstyle/pom.xml
+SPDXID: SPDXRef-item8337672
+FileChecksum: SHA1: c90aba3ded2777314ae907743264b52309742753
+FileChecksum: MD5: a76b0dec854c01169948c5ce7e6d2edb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2017 Huawei Technologies Co., Ltd.
+copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: oparent/oparent-python/pom.xml
+SPDXID: SPDXRef-item8337676
+FileChecksum: SHA1: 5c37c84cefae93d16927488fb2c9b0e6a20c0e0d
+FileChecksum: MD5: 326467c5df2d73c97fed09a8ee7d6bbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2018 Huawei Technologies Co., Ltd.
+copyright (C) 2017-2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: oparent/dependencies-clm/pom.xml
+SPDXID: SPDXRef-item8337682
+FileChecksum: SHA1: 53f794284c29de5896c3665ce6af6bbc1ed731f6
+FileChecksum: MD5: 7f84e1426c079987c0fd1a69c66b9fd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2019 AT&T Technologies and others. </text>
+ 
+
+##File
+
+FileName: oparent/checkstyle/src/main/resources/onap-checkstyle/onap-java-style.xml
+SPDXID: SPDXRef-item8337669
+FileChecksum: SHA1: a25df54d8a2d8d163048f6edb2fda0eedb3ef425
+FileChecksum: MD5: 7736895b9d92d0f372b57e09b87f766f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 Huawei Technologies Co., Ltd.
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: oparent/oparent/pom.xml
+SPDXID: SPDXRef-item8337656
+FileChecksum: SHA1: d49d751fe234207069bc35a3d422ab32a98dbe8b
+FileChecksum: MD5: ffd110065d26856e39fe5b246506ef8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2017 Huawei Technologies Co., Ltd.
+copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: oparent/pom.xml
+SPDXID: SPDXRef-item8337680
+FileChecksum: SHA1: a4b4e431d99a3d7ffa434f61b666b26113c6613c
+FileChecksum: MD5: 49e9b49c10b35675efd8ab8e8be908d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2018 Huawei Technologies Co., Ltd.
+copyright (C) 2017-2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: oparent/dependencies/pom.xml
+SPDXID: SPDXRef-item8337674
+FileChecksum: SHA1: 15901b54833969802753ae7c90287c3af8fafb1e
+FileChecksum: MD5: 43007343ce8eb8a237794da82ed3508e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018-2020 AT&T Technologies and others. </text>
+ 
+
+##File
+
+FileName: oparent/settings.xml
+SPDXID: SPDXRef-item8337679
+FileChecksum: SHA1: 8e35232a54d49ee4829d5b2c7c15e4c0af60f818
+FileChecksum: MD5: 6b31220868d4988720fdedd5518fe359
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2018 Huawei Technologies Co., Ltd. and others. All rights reserved.
+Copyright (c) 2020 AT&T Technologies. All rights reserved. </text>
+ 
+
+##File
+
+FileName: oparent/LICENSE.txt
+SPDXID: SPDXRef-item8337652
+FileChecksum: SHA1: e9289e01f84448ed79752f14ac33ea98780a1371
+FileChecksum: MD5: ef8371591d6e41b61f3ee5d852d1fbb0
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/context/downstream/appc_user_guide.pdf/appc_user_guide
+SPDXID: SPDXRef-item8337714
+FileChecksum: SHA1: 34f0aa756be020b692e168d1d54af643543d38c1
+FileChecksum: MD5: a286633c3256824576287c3ebc183538
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs All rights reserved.
+Copyright © 2017 AT&T Intellectual Property.
+Copyright © 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: oparent/version.properties
+SPDXID: SPDXRef-item8337640
+FileChecksum: SHA1: 82f366791462656d7e14264b8d927994cb956605
+FileChecksum: MD5: 7a3d85ca1956cac53aaa746c9492f6e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/README.md
+SPDXID: SPDXRef-item8337649
+FileChecksum: SHA1: 2de7f5562f402b88664720e85f64168d13bc6d52
+FileChecksum: MD5: 630d3e06a3057137ebf4ce95a963484e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/INFO.yaml
+SPDXID: SPDXRef-item8337650
+FileChecksum: SHA1: f9cd71bc88c7ebb44fba1f4a05e4c02cdc0fae38
+FileChecksum: MD5: 6ddd91c15a42c20510f1301fd53533af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/.gitreview
+SPDXID: SPDXRef-item8337651
+FileChecksum: SHA1: 44e91d298f1d6d6177fde7047d7bc7d9848c15a0
+FileChecksum: MD5: 67b8882fe87d297a9eef41f8d25562a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/releases/2.1.0.yaml
+SPDXID: SPDXRef-item8337654
+FileChecksum: SHA1: 949ff59dbe9d4a75a38dd6ed99882535ecaaec75
+FileChecksum: MD5: 00ce554901c86a15376154d893ad9811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/versions/src/main/resources/onap-versions/README.md
+SPDXID: SPDXRef-item8337662
+FileChecksum: SHA1: e78b3025f668184f535ded43a92b8bd1a5254053
+FileChecksum: MD5: c575510d1794acfe92d66d8ae86219f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/checkstyle/src/main/resources/onap-checkstyle/apache-license-2.regexp.txt
+SPDXID: SPDXRef-item8337671
+FileChecksum: SHA1: 63e3eb3b0942c9e017f8136ab38bdc94c5819a21
+FileChecksum: MD5: 0855cfa561a88db81098e359927b5e35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/.gitattributes
+SPDXID: SPDXRef-item8337677
+FileChecksum: SHA1: 29d12a8ed17c449c7df8f1627a33921a3e40feb3
+FileChecksum: MD5: 2a5a4325355a572bd7f492b825252522
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent/.gitignore
+SPDXID: SPDXRef-item8337678
+FileChecksum: SHA1: 4381d4fe4fa52213da9e89b886eaa2b482ff6e6e
+FileChecksum: MD5: 6731135b5d25fc70f38e6a59963a194b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/docs/cia-casablanca-release-notes.rst
+SPDXID: SPDXRef-item8337685
+FileChecksum: SHA1: 5f226da5b0b3155c3cb64f6157aeae8e14a53cf7
+FileChecksum: MD5: 122a9762a46ad869283859bf4da0ed7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/base-image/Dockerfile.ubuntu
+SPDXID: SPDXRef-item8337689
+FileChecksum: SHA1: 5f317d6bafcbd62f18feaa0253a8ad202758f169
+FileChecksum: MD5: a92963e82529d74afeafdae24079e61e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/base-image/app.py
+SPDXID: SPDXRef-item8337690
+FileChecksum: SHA1: f88d0d0758b119160f91cd31a5587a24f2e2ca5b
+FileChecksum: MD5: d838b2f96a35e93756e77b1ef350b39a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/base-image/Dockerfile.python
+SPDXID: SPDXRef-item8337691
+FileChecksum: SHA1: f59c43a24c88b6e373c00aec6b288107ba21f40f
+FileChecksum: MD5: d6dfec20ab840b8e26d7b896e83f0f3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/base-image/requirements.txt
+SPDXID: SPDXRef-item8337692
+FileChecksum: SHA1: e5b453f464d2b64fec735f6f6b12c94c21cae5f2
+FileChecksum: MD5: cfdea7934019617dc8e2d9a7ea631e00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/base-image/Dockerfile.alpine
+SPDXID: SPDXRef-item8337693
+FileChecksum: SHA1: 0bfb6e09af6806afbf5fde76a882ad73843b9709
+FileChecksum: MD5: 23cd6420d92758a7d730a7e650fb55bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/README.md
+SPDXID: SPDXRef-item8337694
+FileChecksum: SHA1: bcbd690446fa6ced93536fbe4639d10463d658fe
+FileChecksum: MD5: f8a4a5b73374810689d52c7eacda9450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/cmd-chain/app.py
+SPDXID: SPDXRef-item8337696
+FileChecksum: SHA1: f88d0d0758b119160f91cd31a5587a24f2e2ca5b
+FileChecksum: MD5: d838b2f96a35e93756e77b1ef350b39a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/cmd-chain/requirements.txt
+SPDXID: SPDXRef-item8337697
+FileChecksum: SHA1: e5b453f464d2b64fec735f6f6b12c94c21cae5f2
+FileChecksum: MD5: cfdea7934019617dc8e2d9a7ea631e00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/cmd-chain/Dockerfile.ubuntu-no-chain
+SPDXID: SPDXRef-item8337698
+FileChecksum: SHA1: 4c151f1b36d4a63d94c0bd1bd59a4a44f9b381ca
+FileChecksum: MD5: 446e54caed7d5cdda21f61301272b956
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/context/app.py
+SPDXID: SPDXRef-item8337700
+FileChecksum: SHA1: f88d0d0758b119160f91cd31a5587a24f2e2ca5b
+FileChecksum: MD5: d838b2f96a35e93756e77b1ef350b39a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/context/requirements.txt
+SPDXID: SPDXRef-item8337701
+FileChecksum: SHA1: e5b453f464d2b64fec735f6f6b12c94c21cae5f2
+FileChecksum: MD5: cfdea7934019617dc8e2d9a7ea631e00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/context/downstream/DW-CIAMeetingNotes-250918-0039-908.pdf/DW-CIAMeetingNotes-250918-0039-908
+SPDXID: SPDXRef-item8337705
+FileChecksum: SHA1: fa17946f75f9a66b5c8a417d47001ef44ab47ad4
+FileChecksum: MD5: 85cb58d9dfb70a5afd814e4150fdc536
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/context/downstream/DW-ContainerImagesGenericBuildProcess-250918-0039-910.pdf/DW-ContainerImagesGenericBuildProcess-250918-0039-910
+SPDXID: SPDXRef-item8337708
+FileChecksum: SHA1: bb40b2530c340dac56ec03e865210af2760c0c69
+FileChecksum: MD5: 2ec011902bddbec62ee24f46423346cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/context/downstream/DW-34375682-250918-0038-904.pdf/DW-34375682-250918-0038-904
+SPDXID: SPDXRef-item8337711
+FileChecksum: SHA1: 19ce291542d8b87120dc66fbb3c9e6182dff70c6
+FileChecksum: MD5: ee88489104d82c17ec46432695f50d1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/context/downstream/DW-BestPractices-250918-0038-906.pdf/DW-BestPractices-250918-0038-906
+SPDXID: SPDXRef-item8337717
+FileChecksum: SHA1: 41cd06911906b00a171b8a101fbc43416b6b63c6
+FileChecksum: MD5: c5a6ab7aedf1890c1d37279c14b638f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: oparent-cia/demos/min/context/Dockerfile.alpine
+SPDXID: SPDXRef-item8337718
+FileChecksum: SHA1: 0bfb6e09af6806afbf5fde76a882ad73843b9709
+FileChecksum: MD5: 23cd6420d92758a7d730a7e650fb55bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
