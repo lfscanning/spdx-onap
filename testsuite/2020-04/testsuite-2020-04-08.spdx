@@ -1,0 +1,4397 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_testsuite-2020-04-08.zip_1586885536.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-04-14T17:32:16Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: testsuite-2020-04-08.zip
+PackageFileName: testsuite-2020-04-08.zip
+SPDXID: SPDXRef-upload2339
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 04f206c15297f04d20ed416cad030f501d43ae8f
+PackageChecksum: SHA1: 2db8c602ce7e55fc3de28c03d0c11d584c0922a1
+PackageChecksum: MD5: dbb9cd49d319ab9594ea46ba0a7172eb
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2339
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: testsuite-oom/scripts/etescript/vnfsdk-etescript.sh
+SPDXID: SPDXRef-item9044837
+FileChecksum: SHA1: 94c64533c752627ea8b3d3254a472880e35684e9
+FileChecksum: MD5: 75f80bb6a1cb17d694565943667987d2
+LicenseConcluded: Apache-2.0 AND LicenseRef-Meta-Incomplete
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/setup.py
+SPDXID: SPDXRef-item9044766
+FileChecksum: SHA1: 16f0fe95028d5ba04af31d33b76983bca05d2be6
+FileChecksum: MD5: 9c24605289b49ad77a51ba7986425158
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Hewlett-Packard Development Company, L.P. </text>
+ 
+
+##File
+
+FileName: testsuite/LICENSE.TXT
+SPDXID: SPDXRef-item9044378
+FileChecksum: SHA1: 8f5aa71e1c83c84737e66b717c7e1b6641d79053
+FileChecksum: MD5: 8f6a9d0d71b08f0925aea5a15c1c6ab4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-heatbridge/LICENSE.txt
+SPDXID: SPDXRef-item9044372
+FileChecksum: SHA1: c088110fe3c041c7974eacd74b7ae03a6b9ba5d2
+FileChecksum: MD5: e0d6475a8783ce261a66ee52390ddf5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/LICENSE.TXT
+SPDXID: SPDXRef-item9044714
+FileChecksum: SHA1: c088110fe3c041c7974eacd74b7ae03a6b9ba5d2
+FileChecksum: MD5: e0d6475a8783ce261a66ee52390ddf5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite/robot/assets/sdc/blueprints/tca_docker_k8s_v4.yaml
+SPDXID: SPDXRef-item9044467
+FileChecksum: SHA1: 59597ef7a109e0f9844fcf1271b5c4415f2edc47
+FileChecksum: MD5: b9f82ca2154b0b71c59e864f6ba59f19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite/robot/assets/sdc/blueprints/k8s-tca-clamp-policy-05082019.yaml
+SPDXID: SPDXRef-item9044464
+FileChecksum: SHA1: bc296e1bd21976849e08283547413bc41f56bccb
+FileChecksum: MD5: e22c92c82c0d274aba5238b8aa5687c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/ServiceMappingKeywords.py
+SPDXID: SPDXRef-item9044755
+FileChecksum: SHA1: 08f3b5bd67fd61628d8b742375d7e1557ff86c1c
+FileChecksum: MD5: cd4abeb9c3d508f3200beb3c93c3fd08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/__init__.py
+SPDXID: SPDXRef-item9044744
+FileChecksum: SHA1: 40a63c5a08d388f24e77c74d55892597b128ee85
+FileChecksum: MD5: bea60011286fe401d2098d295e73480d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/BaseOpenstackKeywords.py
+SPDXID: SPDXRef-item9044726
+FileChecksum: SHA1: 7574fdbc1e12494a2a6a1af5fc75532e1b2f1877
+FileChecksum: MD5: 4463e0bfa886c293a75c4f955163363b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/TemplatingKeywords.py
+SPDXID: SPDXRef-item9044751
+FileChecksum: SHA1: 2a4286076f19a3b3f1fee80bffcae47b3dc7b0d4
+FileChecksum: MD5: 4cf707a5fc0e95460b19406ce1c39d2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/HTTPKeywords.py
+SPDXID: SPDXRef-item9044731
+FileChecksum: SHA1: 3bfc53f963e191a351f01d4b886a770d0bd66ecd
+FileChecksum: MD5: 49fb18568f5e6ecd11ab70234bd8ba05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/ProtobufKeywords.py
+SPDXID: SPDXRef-item9044727
+FileChecksum: SHA1: 6260b7779f385df0bfc63623ac5287fd9014c447
+FileChecksum: MD5: 616e5e923ec3f98163ad2e8e521a7a57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/PreloadDataKeywords.py
+SPDXID: SPDXRef-item9044739
+FileChecksum: SHA1: 50588aef8d5ef9384cdf917b4dbb012f4d54bcd9
+FileChecksum: MD5: 47ad077a8b1cf853ff0845700d531a44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/UUIDKeywords.py
+SPDXID: SPDXRef-item9044753
+FileChecksum: SHA1: 6d24283632869f743100f017f967267f1c933a92
+FileChecksum: MD5: 11e78bcca2dd635cce49a8e058b76117
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/UUIDKeywordsTest.py
+SPDXID: SPDXRef-item9044780
+FileChecksum: SHA1: c8b73edd07cbef8de2c13340ef9599de8003eb75
+FileChecksum: MD5: 8b55c93fc085e7dc131d855b59a6202e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/ProtobufKeywordsTest.py
+SPDXID: SPDXRef-item9044779
+FileChecksum: SHA1: 914a17d5edfe748dcbe8b3ad4114198a4f067051
+FileChecksum: MD5: 13049955f410c5a1c3efc703f7b2ceb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/VESProtobuf.py
+SPDXID: SPDXRef-item9044749
+FileChecksum: SHA1: 9c436538af17a9e58fa73843bc94b4ecb7145cf2
+FileChecksum: MD5: 5c038322163398e53dfc2d3762f74b8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/ServiceMappingKeywordsTests.py
+SPDXID: SPDXRef-item9044783
+FileChecksum: SHA1: 8e477d3d1a4c2a5691db6f5b012c346571f685c4
+FileChecksum: MD5: 2912b64b13526bd2fc633a1582d0ea69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/BaseSOKeywords.py
+SPDXID: SPDXRef-item9044722
+FileChecksum: SHA1: 8b0f703ab1dc50ea6dde2f289ffbc05d0ef34ac9
+FileChecksum: MD5: 9a3f86efe1421874333241361e294d57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/JSONPathKeywords.py
+SPDXID: SPDXRef-item9044720
+FileChecksum: SHA1: 7005329bea1550b0a171cd17a3c0aefd267d9034
+FileChecksum: MD5: fcde95b8382487d5546d26bfc5da6b9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/SocketKeywords.py
+SPDXID: SPDXRef-item9044721
+FileChecksum: SHA1: 3a51df9c5fc7322f181160ac09cbd90dd2888ada
+FileChecksum: MD5: 7f62669f86fcee1e1325dc2017671f8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/CLAMP.py
+SPDXID: SPDXRef-item9044724
+FileChecksum: SHA1: 2af9390ad4d35c171a2148c2c39f3b67ba6a21b1
+FileChecksum: MD5: 8bae295b63db2fc01243b9e1c28229b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/JSON.py
+SPDXID: SPDXRef-item9044723
+FileChecksum: SHA1: c96e7618f7dcb2b9c9411c3dd4177184ebe858ec
+FileChecksum: MD5: 8a5834daf7d655553062770b0d93b665
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/BaseSDNCKeywords.py
+SPDXID: SPDXRef-item9044729
+FileChecksum: SHA1: 4c316b5b1bfcf3880bda56524eb04a6efe19d651
+FileChecksum: MD5: 107e5c34cce5b4203d0144ddb9c25b02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/Templating.py
+SPDXID: SPDXRef-item9044728
+FileChecksum: SHA1: 82cdb7b85781d1d22a1b58aa41d0c16e8e916688
+FileChecksum: MD5: d8e16698e6e143275e78ac0173abfe4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/BaseSDCKeywords.py
+SPDXID: SPDXRef-item9044725
+FileChecksum: SHA1: cc30e91d3ba63c1a4ba4b3f7aecc29aa7103bbb3
+FileChecksum: MD5: 90cac98d7d7bcba542fd2711aa45d9c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/MUSIC.py
+SPDXID: SPDXRef-item9044732
+FileChecksum: SHA1: 81ddbc2edf0ea234aa00b1599957c535705b28fc
+FileChecksum: MD5: 131993e33e0d7a8d1f10db8f2a85893b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/ServiceMapping.py
+SPDXID: SPDXRef-item9044735
+FileChecksum: SHA1: 7c0571104cc52f6cc407ae82e04536ad48902831
+FileChecksum: MD5: 86462463f08f9c682518dd588cb77afc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/AAI.py
+SPDXID: SPDXRef-item9044736
+FileChecksum: SHA1: 3cefaedfc72d9a78c71ca229a496a3b818f0593c
+FileChecksum: MD5: 94fe50d3ba843d8139d18bca8ebd8821
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/PreloadSDNCKeywords.py
+SPDXID: SPDXRef-item9044738
+FileChecksum: SHA1: 1e4f67ec1d907b24ea2e0d7858bb80e485d520db
+FileChecksum: MD5: bcaeb4bc7ce18620ca2b1dbb89a87383
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/SNIROKeywords.py
+SPDXID: SPDXRef-item9044737
+FileChecksum: SHA1: 95e07df233e130b91dd6ac0a9441b39ef30970a0
+FileChecksum: MD5: 30fe824270e37b7da8feaedc9633a4f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/SO.py
+SPDXID: SPDXRef-item9044740
+FileChecksum: SHA1: 3265dae6d01b50c975c916bf4e4ee041496019ed
+FileChecksum: MD5: 616f89236243d21d49126a78f543fa5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/PreloadData.py
+SPDXID: SPDXRef-item9044743
+FileChecksum: SHA1: d1dfa92038a1bd8d6a2b7653de8afc4aafbfa77a
+FileChecksum: MD5: 2c28cbfc655a508202dfe6efd6561183
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/Utilities.py
+SPDXID: SPDXRef-item9044742
+FileChecksum: SHA1: c304debf7de3794a55a13a3e1fd4fc145cd704c9
+FileChecksum: MD5: f1b2168478f45c4bba81f21df785802c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/SDNC.py
+SPDXID: SPDXRef-item9044745
+FileChecksum: SHA1: 459bce54644f6d2851070c1c88e6a810f0343680
+FileChecksum: MD5: 4f23e835c078607696e75069ed679bfa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/VariableKeywords.py
+SPDXID: SPDXRef-item9044746
+FileChecksum: SHA1: 84cb9c5f53c58a4e4eacec8f81108e9797ee25d1
+FileChecksum: MD5: 6a0765430ce75b98afea30a6f0bd42fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/SDC.py
+SPDXID: SPDXRef-item9044750
+FileChecksum: SHA1: 548e260f10e5df716e8ff06a7989ab49a49eeb38
+FileChecksum: MD5: 9ea3b9ea6dd8620288f8fb734a22decf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/Base64Keywords.py
+SPDXID: SPDXRef-item9044752
+FileChecksum: SHA1: e75e1e43024902d47dcc75aa829c7b663a8e02b7
+FileChecksum: MD5: ef5afa2314c1df5aba320b136b580add
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/MUSICKeywords.py
+SPDXID: SPDXRef-item9044748
+FileChecksum: SHA1: cbd77c91a41a265793214362cb8647ff89abca6e
+FileChecksum: MD5: d113d535779d828baf0f15f168c2add1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/DNSKeywords.py
+SPDXID: SPDXRef-item9044754
+FileChecksum: SHA1: 18090312ecdfb0f565ba904ddab47d90968ee7ea
+FileChecksum: MD5: 7fdf233a4ab663b89d802ddf5471e59b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/Kafka.py
+SPDXID: SPDXRef-item9044757
+FileChecksum: SHA1: 8f5606d4292b10a889a05ef63f1db8f690ed8f0d
+FileChecksum: MD5: b0b8447ed4734c200c68547a734af146
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/RequestSOKeywords.py
+SPDXID: SPDXRef-item9044756
+FileChecksum: SHA1: 65f1406be69822d8a005cc438bf64d1e3a996ce1
+FileChecksum: MD5: f36b485e243b1dbb05c73f65c47307fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/BaseCLAMPKeywords.py
+SPDXID: SPDXRef-item9044760
+FileChecksum: SHA1: 80e44703486346b2dab36e1de9bde18c655134a9
+FileChecksum: MD5: 6ef032ba4b49dd95121493f06a1bbd07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/Protobuf.py
+SPDXID: SPDXRef-item9044758
+FileChecksum: SHA1: fac3c775b48e42f629d101bb4502f31bc7452ffc
+FileChecksum: MD5: d34ba9dcf44f60766eb04cc2a0bdd639
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/Openstack.py
+SPDXID: SPDXRef-item9044761
+FileChecksum: SHA1: 4f9919152f7b4a873583d55f2dcbf8e3e5d571c1
+FileChecksum: MD5: d290c1480fb56ebe6e95b7870e1c2fe6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/RequestsDecorators.py
+SPDXID: SPDXRef-item9044762
+FileChecksum: SHA1: 6dd1768e9925be669852a85a18ac91500e310733
+FileChecksum: MD5: 35408c3eae0f87e68fc5bbb6ee9c92e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/OOF.py
+SPDXID: SPDXRef-item9044765
+FileChecksum: SHA1: 0a19f876197c27713a20232a2128e0d0d5abf7ba
+FileChecksum: MD5: e2f2734f53a3e1c2effd81eff92c707d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/BaseAAIKeywords.py
+SPDXID: SPDXRef-item9044763
+FileChecksum: SHA1: a55a5ec1a50d36121adbdf0eb2dab5f1bec49427
+FileChecksum: MD5: 338b234c39139f7621ae0216f7e639c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/AAITests.py
+SPDXID: SPDXRef-item9044782
+FileChecksum: SHA1: 3cfaf6e3409a8651916992f0e0b061877a4ba1fe
+FileChecksum: MD5: cbf488db40435e52bd6a41b44197717e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/RequestsHelperTests.py
+SPDXID: SPDXRef-item9044784
+FileChecksum: SHA1: d1ae27107d195b4ed6ae8312e2798a52bd906e91
+FileChecksum: MD5: f8d46ac1f0a14867d71ea026273251d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/Base64KeywordsTests.py
+SPDXID: SPDXRef-item9044787
+FileChecksum: SHA1: 3e0d3b4a638b931a34abe044f675b908e7d9898d
+FileChecksum: MD5: c266eb91456e821c14c6e7b3073362df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-oom/eteHelm-k8s.sh
+SPDXID: SPDXRef-item9044805
+FileChecksum: SHA1: 9f302be515b654644f1c82aa55a54e6249572f44
+FileChecksum: MD5: 3a2da01a3f1ffeacf1a50fe688df58df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-oom/scripts/etescript/hvves-etescript.sh
+SPDXID: SPDXRef-item9044836
+FileChecksum: SHA1: 00d0e207f164615e24965572650e1a65be31d0a2
+FileChecksum: MD5: f1d9f278a5755f3174d925f0ecdaa355
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2019 Nokia </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/VVPValidation.py
+SPDXID: SPDXRef-item9044747
+FileChecksum: SHA1: acad78bb51058c78abc9134f0883e18c71634859
+FileChecksum: MD5: ba153f45a03b69aa21002fae7cbecfc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/CloudConfigSOKeywords.py
+SPDXID: SPDXRef-item9044730
+FileChecksum: SHA1: b7fdc5fd4c900f47bda97c9f30d3159b65d7addd
+FileChecksum: MD5: a48de6493a1ad6781d1df90b90dca637
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/RequestsHelper.py
+SPDXID: SPDXRef-item9044733
+FileChecksum: SHA1: ef59ef0ea693710df3e441056c233e2e0e36e984
+FileChecksum: MD5: 91597c712d32950d1db5aa2674a58a0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/HeatVNFValidation.py
+SPDXID: SPDXRef-item9044759
+FileChecksum: SHA1: 558d3800550ff5cadb3b90bb5b90f42c5ceec116
+FileChecksum: MD5: 9eea520e1cd2c61245b2f19a02cb958f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/HEATKeywords.py
+SPDXID: SPDXRef-item9044764
+FileChecksum: SHA1: eb24f3c68003726f9fc6558ae22febd1ad2220a4
+FileChecksum: MD5: 9b1f76cd7deef92bf0b743dd247ada2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/SOTests.py
+SPDXID: SPDXRef-item9044786
+FileChecksum: SHA1: 109d8726672ac8fa380f80af1291c563a88f9ad8
+FileChecksum: MD5: 31e12116c7538b84d46e858378468d67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/listeners/OVPListener.py
+SPDXID: SPDXRef-item9044796
+FileChecksum: SHA1: c4f70b81027a774b8337ec6a6b6b85bcf1dda06f
+FileChecksum: MD5: 32966e1d6a2741101d6112d1c41c9f31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-oom/instantiate-k8s.sh
+SPDXID: SPDXRef-item9044829
+FileChecksum: SHA1: e607f8ddfa88059826ee76e3e181c8b32e081c0d
+FileChecksum: MD5: 39e0bc8fe188cee32b74635a195bc1f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/JSONKeywords.py
+SPDXID: SPDXRef-item9044741
+FileChecksum: SHA1: 4e39e7c2e8a99108bc52008e421d0d567bdccc79
+FileChecksum: MD5: dd937ff0aed8bdd014a6c4b1ef4ef46f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/JSONKeywordsTest.py
+SPDXID: SPDXRef-item9044781
+FileChecksum: SHA1: 083be64a6d04473512a9477c4548d75eb56f93bb
+FileChecksum: MD5: 16f333484d11b3acb0fbcdab0859a0e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics Co., Ltd. </text>
+ 
+
+##File
+
+FileName: testsuite-oom/demo-k8s.sh
+SPDXID: SPDXRef-item9044830
+FileChecksum: SHA1: 7373de47ffa3f0089b75ee16e49ca3ef5579fda2
+FileChecksum: MD5: 083240e9a81180d65ab0f93518e62845
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 Amdocs, Bell Canada
+Copyright (C) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/ONAPLibrary/KafkaKeywords.py
+SPDXID: SPDXRef-item9044734
+FileChecksum: SHA1: 7acad693c801fde4cd16323b0fd7633f7a0d8e51
+FileChecksum: MD5: b94a87a06b5b1a5186075c92a463cb47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: testsuite-oom/scripts/etescript/security-etescript.sh
+SPDXID: SPDXRef-item9044834
+FileChecksum: SHA1: 375ebd8133934e65f8253897c58c9731b6b27da4
+FileChecksum: MD5: d37025a963664bcc982170ac7ca5334e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Samsung Electronics Co., Ltd. </text>
+ 
+
+##File
+
+FileName: testsuite-oom/ete-k8s.sh
+SPDXID: SPDXRef-item9044800
+FileChecksum: SHA1: c6fd95f60897d12b8dcf948e10219f2d7916859d
+FileChecksum: MD5: fbdfd993bf7eeac9f51431563c0208db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-oom/templates/pv.yaml
+SPDXID: SPDXRef-item9044823
+FileChecksum: SHA1: caf3bc230e6493b1819b33b343a0463fbc19613f
+FileChecksum: MD5: 2bc568c9d7dd3a0e58b4c1ddbc02c186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-oom/templates/pvc.yaml
+SPDXID: SPDXRef-item9044821
+FileChecksum: SHA1: 96a040052a6d0143cb7e6aa59a93a15195ca1b4f
+FileChecksum: MD5: 24d4ad6146167d09d7b235d69cfd203d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-oom/templates/service.yaml
+SPDXID: SPDXRef-item9044827
+FileChecksum: SHA1: 0ffb2f72977ef7d0dee0083856bab1a4a540065f
+FileChecksum: MD5: 3e02ef03b0de705ef32a2491b9e11e4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-oom/requirements.yaml
+SPDXID: SPDXRef-item9044803
+FileChecksum: SHA1: 24931b045cdd3eb1cf722f53ae815680ab2c5a81
+FileChecksum: MD5: bdfcda281295b71df0e1da891f539b01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-oom/values.yaml
+SPDXID: SPDXRef-item9044804
+FileChecksum: SHA1: c2bc74dfca544f2bebfd72f224b36e17f60b9d29
+FileChecksum: MD5: 5db831325a01513f25e3d069dcb1b186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-oom/resources/config/eteshare/config/robot_properties.py
+SPDXID: SPDXRef-item9044810
+FileChecksum: SHA1: 5d96cace739cce68970ec168e0c5d21d3f7688a8
+FileChecksum: MD5: 9dc52bbaef055e0492c3c75ce3a15c9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Amdocs, Bell Canada, and others </text>
+ 
+
+##File
+
+FileName: testsuite-oom/templates/deployment.yaml
+SPDXID: SPDXRef-item9044825
+FileChecksum: SHA1: 7c855a0a728c21bce2cc059807160fa101850907
+FileChecksum: MD5: 4d09946fc10dab2bb9a66c63d16e4e89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada, AT&T </text>
+ 
+
+##File
+
+FileName: testsuite-oom/templates/configmap.yaml
+SPDXID: SPDXRef-item9044826
+FileChecksum: SHA1: 79d99661913bce2c4a10390abf4145d367aa0e66
+FileChecksum: MD5: e519a6f8d436b4618a6e0bcf478a4246
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-oom/Chart.yaml
+SPDXID: SPDXRef-item9044842
+FileChecksum: SHA1: 6088993743a0d06271824c3188afacdfde8b6b7f
+FileChecksum: MD5: 652bdd799f775f9d0ffe10aa591b6879
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/vcpeutils/csar_parser.py
+SPDXID: SPDXRef-item9044772
+FileChecksum: SHA1: c1c4c81f77a65424fdebf979900f34a4b01e7cbb
+FileChecksum: MD5: 72a8d0b82c6c89c5259223e58f1a0f72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/setup.cfg
+SPDXID: SPDXRef-item9044794
+FileChecksum: SHA1: c56f0c7619ec4c2e5dab58d4df66705f3193ddb8
+FileChecksum: MD5: 192c7b481b5447c3536b9d7985b7dedd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/test-requirements.txt
+SPDXID: SPDXRef-item9044718
+FileChecksum: SHA1: 3908100aaef3e15bf11fa31a6c9574618690d7dd
+FileChecksum: MD5: d44c3a560b3358cc5c3c346aa20d3d1d
+LicenseConcluded: LicenseRef-Meta-List-of-Dependencies-1
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/templates/NOTES.txt
+SPDXID: SPDXRef-item9044822
+FileChecksum: SHA1: 3851a35415f6f69b847cebed4370cc74078cc896
+FileChecksum: MD5: 588bc28493eb156794ebc72cf2b7e1c6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: testsuite-heatbridge/INFO.yaml
+SPDXID: SPDXRef-item9044355
+FileChecksum: SHA1: 616be7f3b89e7aa56cd29431106f59bfd75dfe3d
+FileChecksum: MD5: b920aaf2b9d5ec055daffb306340a179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/.gitreview
+SPDXID: SPDXRef-item9044356
+FileChecksum: SHA1: a7ee7236624642857119d8b67615f9643795fde8
+FileChecksum: MD5: f4a6c30d713ba7c947c3153b3a97b3a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/test-requirements.txt
+SPDXID: SPDXRef-item9044358
+FileChecksum: SHA1: 5ae4ddf7806ba10e64211be04ca72859e36c9e20
+FileChecksum: MD5: 285b37bfe33eaf6bfed19173002414c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/heatbridge/AAIManager.py
+SPDXID: SPDXRef-item9044360
+FileChecksum: SHA1: e3339172a3b85a2a7d62acb34c6d238eebf02331
+FileChecksum: MD5: 11ad416f22ab6c2a18f710a36294a9fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/heatbridge/__init__.py
+SPDXID: SPDXRef-item9044361
+FileChecksum: SHA1: bb63e2dcc8c45fe7e31a56215d7d0c65545bd914
+FileChecksum: MD5: d65dab104a378620a625d34eee7c6cad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/heatbridge/OpenstackContext.py
+SPDXID: SPDXRef-item9044362
+FileChecksum: SHA1: 4d5345b93f21b9e96a9f2f857c7e9e4200d454d3
+FileChecksum: MD5: c382aed649a3ed56bd0027293ab2749b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/heatbridge/tests/test_default.py
+SPDXID: SPDXRef-item9044364
+FileChecksum: SHA1: 5f62ff06a7f7a2ad813375605ca488f9bc24719b
+FileChecksum: MD5: b8e579ba1ea796ca2005791675a02249
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/heatbridge/.gitignore
+SPDXID: SPDXRef-item9044365
+FileChecksum: SHA1: b0acf915c54d2c6ef53be580ed2045225a3b02d8
+FileChecksum: MD5: 140a5c671ee97b3723686f6412818f0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/heatbridge/OpenstackManager.py
+SPDXID: SPDXRef-item9044366
+FileChecksum: SHA1: 409df5855c7e17a506f17f50c607d33741dff345
+FileChecksum: MD5: e8ba2c62221f56783b126c3f4028a204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/heatbridge/HeatBridge.py
+SPDXID: SPDXRef-item9044367
+FileChecksum: SHA1: 6ca3692bfd09fa290f399a89cee31f235fccd164
+FileChecksum: MD5: 7dbceb9ecae3d0973b5cfc2148d260d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/setup.py
+SPDXID: SPDXRef-item9044368
+FileChecksum: SHA1: 11ae391dfd22e1d4e8ae1452dd1b9f931b045df5
+FileChecksum: MD5: 924e16b859bdab4d620867611b48b359
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/tox.ini
+SPDXID: SPDXRef-item9044369
+FileChecksum: SHA1: 4b6e74bf7225e31cf60f47964df5804e7a13c8fb
+FileChecksum: MD5: d2e00f60b064243a9b4017acfb134e3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/requirements.txt
+SPDXID: SPDXRef-item9044370
+FileChecksum: SHA1: c74e3fbc9ce28e363de27d0d70429a757654021d
+FileChecksum: MD5: a6b7c4fb91a4fee2630bf1f78638de16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/heatbridge/setup.cfg
+SPDXID: SPDXRef-item9044371
+FileChecksum: SHA1: f5abc23c83f696b320d1f96fe3f5b66f87523020
+FileChecksum: MD5: 0f0ba5f7d759ec3585303c29fd3d505f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/.gitignore
+SPDXID: SPDXRef-item9044373
+FileChecksum: SHA1: 4e2f9865e54e5fcf75d4cfd474ab6d5ae95ff13a
+FileChecksum: MD5: 30399190891ebd7134ee53cc596ac2fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/pom.xml
+SPDXID: SPDXRef-item9044374
+FileChecksum: SHA1: 8ce23a1b1d8a044ba4ab05b7b4438b52da37150e
+FileChecksum: MD5: c9b32fec9369d398e5f7acfacd1fe338
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-heatbridge/README.txt
+SPDXID: SPDXRef-item9044375
+FileChecksum: SHA1: edaf71cbf7c015f44200ddd0ce7674180c3397b9
+FileChecksum: MD5: db33c869746ee9014e2913a5cf91afd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/version.properties
+SPDXID: SPDXRef-item9044377
+FileChecksum: SHA1: 5ef1c0278dd12271ea6464af73c7ca95abc710e6
+FileChecksum: MD5: ed5907625efd1d697bb62bcad3f2a54d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/docker/authorization
+SPDXID: SPDXRef-item9044380
+FileChecksum: SHA1: e4d6818ee72c65bfa0e456a2a433fc81eb14c97c
+FileChecksum: MD5: ee5c2864455e148eb1d36f0b9d47d47b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/docker/lighttpd.conf
+SPDXID: SPDXRef-item9044381
+FileChecksum: SHA1: f5280e23a51b5e70d613dc6a22d4f5a5eb116aad
+FileChecksum: MD5: 8cd2003223854ab70d6aec25ef30857c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/docker/Dockerfile
+SPDXID: SPDXRef-item9044382
+FileChecksum: SHA1: 63066f80facbc1f59c0dd31a325e964db49fe8cb
+FileChecksum: MD5: bc81346a4c018198a1ed40fa56da383f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/README.md
+SPDXID: SPDXRef-item9044383
+FileChecksum: SHA1: 8f605e79c4191609e497af65cb3941dec024b396
+FileChecksum: MD5: fd227e2f761eea4318cb91784ebfd270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/INFO.yaml
+SPDXID: SPDXRef-item9044384
+FileChecksum: SHA1: b6c626e52fc34b899bc5771ea656331366704236
+FileChecksum: MD5: 568f7e33070586574cbffc561b02b413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/.gitreview
+SPDXID: SPDXRef-item9044385
+FileChecksum: SHA1: 8f03466edc4163d4fad16f0a5ae2614373898fcd
+FileChecksum: MD5: c49889308c0ce6e3cd979c8567fd62fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/setup.sh
+SPDXID: SPDXRef-item9044386
+FileChecksum: SHA1: 7ae47665db072b2df5ef99f51d18beb8bb48c763
+FileChecksum: MD5: d8361d843f84485f03505963ce97e16f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/dnstraffic.sh
+SPDXID: SPDXRef-item9044387
+FileChecksum: SHA1: d5bd310cebc566e9d1356ca520eaf78dd2906055
+FileChecksum: MD5: 34e95df7f1f77a4a686276a75d0663c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/.project
+SPDXID: SPDXRef-item9044388
+FileChecksum: SHA1: a48f3e667075770e056636f2edb60214bb2916d5
+FileChecksum: MD5: c97499fe7ade2ca98f46f9cc337696f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/aai/aai-regression-test-v14.robot
+SPDXID: SPDXRef-item9044392
+FileChecksum: SHA1: b05fe02468c888b87a7b8be07bc69869bc19f3cf
+FileChecksum: MD5: af97c06a82f77c879e171bdc297739b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/oof/oof-cmso.robot
+SPDXID: SPDXRef-item9044394
+FileChecksum: SHA1: eb603a90a057990ea83b342a9b460dee5747c3c8
+FileChecksum: MD5: aa334fb2c95d18f7b76e2803a95eb4d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/oof/oof-has.robot
+SPDXID: SPDXRef-item9044395
+FileChecksum: SHA1: 4a3c7f18354906dd2c73d0ced7a65a7b9f4a5c40
+FileChecksum: MD5: 39eaffa0ea30ced3f2b483eec5f2bc1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/oof/oof-osdf.robot
+SPDXID: SPDXRef-item9044396
+FileChecksum: SHA1: 18e70835eac3924bb00a63b1e722cba4af162946
+FileChecksum: MD5: e8c60e15ab6de8e5959859cccd012f72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/update_onap_page.robot
+SPDXID: SPDXRef-item9044397
+FileChecksum: SHA1: 42f1c89ad3fdbac2829360967084614d1bd03c76
+FileChecksum: MD5: 308c4a5c57e2ca80d8a389c67a8617c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/model-distribution.robot
+SPDXID: SPDXRef-item9044398
+FileChecksum: SHA1: ff92aa85b39439beefd1dad5f7c8aa5edbfa5178
+FileChecksum: MD5: 0f9c99f3f2d62ec688ec81a1841bfec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/vnf-orchestration-direct-so.robot
+SPDXID: SPDXRef-item9044399
+FileChecksum: SHA1: fa62d89a2a4ef6488459765e382a3878b15f9704
+FileChecksum: MD5: 094c5ef818f173b5b3fa065541d10662
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/cds.robot
+SPDXID: SPDXRef-item9044400
+FileChecksum: SHA1: 9b7427b92ac55beb5e28c7b0cd9ff5956b1e95ae
+FileChecksum: MD5: af3216de5c9d093b2eed1cacfd11c653
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/health-check.robot
+SPDXID: SPDXRef-item9044401
+FileChecksum: SHA1: 430c900ef2db95befc2b2989e84665b848d97f05
+FileChecksum: MD5: 5da85000f28b8f5a6acfdaffcc102c67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/hvves.robot
+SPDXID: SPDXRef-item9044402
+FileChecksum: SHA1: 2b6d9210178e8baf3e0590a8a34dfd2dc04d1342
+FileChecksum: MD5: 7e1b0fc35f7adc272a980db874981cd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/security.robot
+SPDXID: SPDXRef-item9044403
+FileChecksum: SHA1: 8b3cfd1ed16f6c103b8292668b1550dd97747b1e
+FileChecksum: MD5: 7c562651150d1bb0b403bd28d6e381b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/post-install-tests.robot
+SPDXID: SPDXRef-item9044404
+FileChecksum: SHA1: 784f57df8abf30c1095f4e6cc834f5a5dc7ab960
+FileChecksum: MD5: 7e78496ef82eb7fb7d956491297fae59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/portalApp.robot
+SPDXID: SPDXRef-item9044405
+FileChecksum: SHA1: c0ed310ccee9c62cf72258b311af7c82b5136ef4
+FileChecksum: MD5: 3fcaf7b9ba97cd4e55166291b5860bbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/create-cloud-config.robot
+SPDXID: SPDXRef-item9044406
+FileChecksum: SHA1: 44dc85d00489d76dd80c6099b7079ebe5430080a
+FileChecksum: MD5: 106e6154eed5b1c16a0488e7018fcf46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/usecases/5gbulkpm.robot
+SPDXID: SPDXRef-item9044408
+FileChecksum: SHA1: 5379bb765b1797edc5c818dd982adc1654e68aab
+FileChecksum: MD5: 1c653070758ddfec80606da943cd4075
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/vnf-orchestration-gra.robot
+SPDXID: SPDXRef-item9044409
+FileChecksum: SHA1: 3a62622f42384fc8b046e17dcf1981292eef28c1
+FileChecksum: MD5: 3c194c304d6fadc77ae1c6b12434881c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/sdc-dcae-d.robot
+SPDXID: SPDXRef-item9044410
+FileChecksum: SHA1: 5890ff5e4637a8ba5e1bdfcfe7906b112177d8ae
+FileChecksum: MD5: ab2496d9770eb60ca95841ccfe37cd62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/demo.robot
+SPDXID: SPDXRef-item9044411
+FileChecksum: SHA1: efb4192887c3ae2fce5a3c85709c231cae30eca1
+FileChecksum: MD5: 8b21e263f34961c73eb9be6c82403942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/vnf-orchestration-ovp.robot
+SPDXID: SPDXRef-item9044412
+FileChecksum: SHA1: 89bf440d548cac80318fc2474a87e1e8fc3be684
+FileChecksum: MD5: 52905c1ffaafa3ecc216f4e01e17f7e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/vnfsdk_validation.robot
+SPDXID: SPDXRef-item9044413
+FileChecksum: SHA1: 730c8de335b3467d730ceb86dc8fc7c862137899
+FileChecksum: MD5: bd28cb717f3cb93d58d4c0b71981ed5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/closed-loop.robot
+SPDXID: SPDXRef-item9044414
+FileChecksum: SHA1: cd133f20cce735ed7307ca94f2b4ea288d405fb4
+FileChecksum: MD5: a8b37e8780aeaecca095f256058bd43a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/model-distribution-vcpe.robot
+SPDXID: SPDXRef-item9044415
+FileChecksum: SHA1: 16009926c421e321d705923df50bef37aacae054
+FileChecksum: MD5: 79d2e740109abc5c35a17a6c07c0b913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/clamp.robot
+SPDXID: SPDXRef-item9044416
+FileChecksum: SHA1: 8faec39ceaddb82adf41220124a53234ce69596f
+FileChecksum: MD5: 2be358adf776c7d2b4a75ac96f91c8f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/pnf-registration.robot
+SPDXID: SPDXRef-item9044417
+FileChecksum: SHA1: e76b953f4d8dcc275bed5ec036400c5935e8b7fe
+FileChecksum: MD5: 06aa2a7f4589edcc0d5b55e1a4de5a87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/testsuites/vnf-orchestration.robot
+SPDXID: SPDXRef-item9044418
+FileChecksum: SHA1: 3dba9ff34da81b1eb2e947d81b499d82c7789be4
+FileChecksum: MD5: 2e023b6654f88cbc52a34c44714d2294
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/oof/optf-has/plan_with_wrong_version.json
+SPDXID: SPDXRef-item9044422
+FileChecksum: SHA1: 2004cc972cb5201800dd6dd189370bdf9a7d9713
+FileChecksum: MD5: b60aeae28cf6eea80ef7814651664f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/oof/optf-osdf/pci-opt-request.json
+SPDXID: SPDXRef-item9044424
+FileChecksum: SHA1: 491ee35228f09be83a4ed3c1f5225ad89e790ea3
+FileChecksum: MD5: 8a907b94bfc0fb6c02eb2b28340871f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/oof/optf-osdf/placement_request.json
+SPDXID: SPDXRef-item9044425
+FileChecksum: SHA1: 06da3a79d3d3fbefb3b3b89d416bd29af0827597
+FileChecksum: MD5: 672fe046b191e3c368256fa0e514ea45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/dcae/hvves_msg.raw
+SPDXID: SPDXRef-item9044427
+FileChecksum: SHA1: 349a92c46de4f85dfb90defff6e805d5e38680f0
+FileChecksum: MD5: d3ff8a82c8fa0c3e608e11494d27cbfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/dcae/dcae_healthcheck.json
+SPDXID: SPDXRef-item9044428
+FileChecksum: SHA1: 81ca97a085b9204d0a73220649cb244a2b67939b
+FileChecksum: MD5: 8a33124608bab33080dc7be1effbd54b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/news_widget.zip/news-widget/js/controller.js
+SPDXID: SPDXRef-item9044435
+FileChecksum: SHA1: f34441e33d9253add284a5d14594f07ca3e25a4d
+FileChecksum: MD5: 0bbddaa90a9dc105a8cea96c06e2f11a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/news_widget.zip/news-widget/markup/markup.html
+SPDXID: SPDXRef-item9044437
+FileChecksum: SHA1: d713bc2c78684ab579012e03c48f4e7c624d8cde
+FileChecksum: MD5: b08ea58ec089e5d9e6d99849cf7e2e90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/news_widget.zip/news-widget/styles/images/grips.png
+SPDXID: SPDXRef-item9044440
+FileChecksum: SHA1: c74d02e42f662e933c96a81a286f6271cc96c27e
+FileChecksum: MD5: f2101b666a56064a8119040a0f5a449e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/news_widget.zip/news-widget/styles/images/generic.png
+SPDXID: SPDXRef-item9044441
+FileChecksum: SHA1: 0f54c69bfa3a84c04ecf0b4153f08d23523a357c
+FileChecksum: MD5: 4d50d56b71e89e1c4996c178bd56ee6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/news_widget.zip/news-widget/styles/app-widget.css
+SPDXID: SPDXRef-item9044442
+FileChecksum: SHA1: 47c42d8804275b45ab8430bb9a78475dc039d4da
+FileChecksum: MD5: 811c8e8b3fddce64613c85bc4d614e2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/news_widget.zip/news-widget/styles/styles.css
+SPDXID: SPDXRef-item9044443
+FileChecksum: SHA1: 617ffcbdb497df57a1f5c342399e0cd070ffbda4
+FileChecksum: MD5: f51d54e52d91099e12811c1f8b8e45ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/news_widget.zip/news-widget/styles/style.css
+SPDXID: SPDXRef-item9044444
+FileChecksum: SHA1: 617ffcbdb497df57a1f5c342399e0cd070ffbda4
+FileChecksum: MD5: f51d54e52d91099e12811c1f8b8e45ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/news_widget.zip/news-widget/styles/app-widget-1-by-3.css
+SPDXID: SPDXRef-item9044445
+FileChecksum: SHA1: f7b05dae66b07de7322d4e0ca28795d4b5103959
+FileChecksum: MD5: 7a83d11be4548f2ebc53f2f45f53a26c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/widget_news.zip/news-widget/js/controller.js
+SPDXID: SPDXRef-item9044451
+FileChecksum: SHA1: f2d19a3628c8846ff81a3dad08be1b3e6d66c1f0
+FileChecksum: MD5: 7bdc3383efd2a9a7e1dff2c4cbbce237
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/widget_news.zip/news-widget/markup/markup.html
+SPDXID: SPDXRef-item9044453
+FileChecksum: SHA1: a902ad68ac438be956fd11d1ee755b99455e699c
+FileChecksum: MD5: 1d33c0f8495cb4144b8f06e383512f69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/widget_news.zip/news-widget/styles/images/grips.png
+SPDXID: SPDXRef-item9044456
+FileChecksum: SHA1: c74d02e42f662e933c96a81a286f6271cc96c27e
+FileChecksum: MD5: f2101b666a56064a8119040a0f5a449e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/widget_news.zip/news-widget/styles/images/generic.png
+SPDXID: SPDXRef-item9044457
+FileChecksum: SHA1: 0f54c69bfa3a84c04ecf0b4153f08d23523a357c
+FileChecksum: MD5: 4d50d56b71e89e1c4996c178bd56ee6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/widget_news.zip/news-widget/styles/app-widget.css
+SPDXID: SPDXRef-item9044458
+FileChecksum: SHA1: 370101bc0a268dfbbb1b552cf691b9381e016d3c
+FileChecksum: MD5: f85dafac8b460e6f4f037b1b1fd1867d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/widget_news.zip/news-widget/styles/styles.css
+SPDXID: SPDXRef-item9044459
+FileChecksum: SHA1: be6d7c500997cf138ce05666c8d24b9fa96e28ef
+FileChecksum: MD5: 517a8076cc72fad28e03de851f20cf03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/widget_news.zip/news-widget/styles/style.css
+SPDXID: SPDXRef-item9044460
+FileChecksum: SHA1: be6d7c500997cf138ce05666c8d24b9fa96e28ef
+FileChecksum: MD5: 517a8076cc72fad28e03de851f20cf03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/widgets/widget_news.zip/news-widget/styles/app-widget-1-by-3.css
+SPDXID: SPDXRef-item9044461
+FileChecksum: SHA1: a6694f275bb9cb7dd8f85066574f1bf085717229
+FileChecksum: MD5: f78f27fd794aa070dd7658f112c8559b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/sdc/blueprints/translate.yaml
+SPDXID: SPDXRef-item9044465
+FileChecksum: SHA1: 81a0a6b7d08b756acccf11047e1ee46429746e96
+FileChecksum: MD5: 3c86dbb93ba4f2d8f1b0a377e6769d44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/sdc/blueprints/schema.yaml
+SPDXID: SPDXRef-item9044466
+FileChecksum: SHA1: a12270cd9c6f008992a23c3f36141c73254be0d7
+FileChecksum: MD5: 5e0413702be5bb35387d67d7242329b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/sdc/blueprints/template.yaml
+SPDXID: SPDXRef-item9044468
+FileChecksum: SHA1: 690fdcbda7fd64c560983e10c591a55d8e44bcb3
+FileChecksum: MD5: b3ac70bde8c7e102b0c959cac849aa33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/sdc/.gitignore
+SPDXID: SPDXRef-item9044469
+FileChecksum: SHA1: 6effac0bd6f9a5f2b89ca63e81ddaf64691eecc1
+FileChecksum: MD5: a639066184a268294d198d8eec999e8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/security/ExpectedNodePorts.json
+SPDXID: SPDXRef-item9044471
+FileChecksum: SHA1: 752198cac7dd3202bdb669049b0f3d663414e940
+FileChecksum: MD5: e27cb485e1a2c37b45eacb490b83890e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/hvves/hvves_decoded_msg.template
+SPDXID: SPDXRef-item9044474
+FileChecksum: SHA1: b9015efdb495ed3e039b6bfcd61ae43c0b3e9373
+FileChecksum: MD5: 034832cc7bacc78e6bccf98d953cb8e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/cmso/OneVnfOneChangeWindow.jinja
+SPDXID: SPDXRef-item9044476
+FileChecksum: SHA1: e1b54695839dbb082f9808b01b52a54398adbdc1
+FileChecksum: MD5: 2e892738084fe4e17761750f6a684d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/cmso/VidCallbackData.jinja
+SPDXID: SPDXRef-item9044477
+FileChecksum: SHA1: bd6cc4c8a7ee2f05598c611fb426d3767b649e0a
+FileChecksum: MD5: 92ad7d3505de397a17295b8bd8ac79ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/ves/pnf_registration_request.jinja
+SPDXID: SPDXRef-item9044479
+FileChecksum: SHA1: aa29ced95b546dddbfa4c9e78665a38e44601f02
+FileChecksum: MD5: b0d5d84dff78e4e944be5efac3b372b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/web/index.html.jinja
+SPDXID: SPDXRef-item9044481
+FileChecksum: SHA1: 3fdf24fc7b3f21ce9a3c13fc704f00dc41830389
+FileChecksum: MD5: 7a8a5733cee0dd947d8f3c7855ffbdaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/closedloop_deletepolicy.jinja
+SPDXID: SPDXRef-item9044483
+FileChecksum: SHA1: cf7ec31ab24a024c7c919a700b2d63d68d15afad
+FileChecksum: MD5: 7483b4f98dba866febe769bf22277a35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/closedloop_createpolicy.jinja
+SPDXID: SPDXRef-item9044484
+FileChecksum: SHA1: e4fd0b7e1ced99231ad1cc449f11791dfad6cec5
+FileChecksum: MD5: e761bd78daf676621df44d1cccb3ba97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/vFirewall_policy_operational_url_enc_content_input.jinja
+SPDXID: SPDXRef-item9044485
+FileChecksum: SHA1: a7ca2504b468d2faca28754d606b538b01896f74
+FileChecksum: MD5: 681454c55914562eb18be97a7f70762f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/vFirewall_policy_operational_content.yaml
+SPDXID: SPDXRef-item9044486
+FileChecksum: SHA1: 7be18d73e70f7fecb341ddf2bf56a1cfa57a0212
+FileChecksum: MD5: 9860297ae171dc46894bd07b6300ac29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/closedloop_getconfigpolicy.jinja
+SPDXID: SPDXRef-item9044487
+FileChecksum: SHA1: 9c3844ffd8a992cc1c8d181fb7cea34cfe1c3679
+FileChecksum: MD5: a84ccd32020dad61a98adb3f117ae3e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/closedloop_opspolicy.jinja
+SPDXID: SPDXRef-item9044488
+FileChecksum: SHA1: 43787940b21c3d47d91f2a83a2a3d1add50241b8
+FileChecksum: MD5: 84c860221489bcddc71094f6bd3c0bdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/FirewallPolicy_push.jinja
+SPDXID: SPDXRef-item9044489
+FileChecksum: SHA1: d891f998dab644cc8ad19e5edf145196151496c3
+FileChecksum: MD5: 130c11a80cdabcf19fbc6f668f50a5f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/vFirewall_policy_operational_input.template
+SPDXID: SPDXRef-item9044490
+FileChecksum: SHA1: 4af79243e51f965670d550c09b485a8c542be635
+FileChecksum: MD5: 35c6009bc8d0e74f84f2850c0f51d4fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/FirewallPolicy_delete.jinja
+SPDXID: SPDXRef-item9044491
+FileChecksum: SHA1: 5a330a10cdf2bb5e33e052c625ffe281784b8b2a
+FileChecksum: MD5: 39b20de795a86f9a26a59dd63aab3a7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/vFirewall_push.jinja
+SPDXID: SPDXRef-item9044492
+FileChecksum: SHA1: 0b5c20487d71c9c14c5820d9334a14ad24f71d3c
+FileChecksum: MD5: e72e4609394c7a7359e35b7623b9335f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/closedloop_pushpolicy.jinja
+SPDXID: SPDXRef-item9044493
+FileChecksum: SHA1: 65abad7d1f9bc9bb8e5c16ee0a86e1565a027709
+FileChecksum: MD5: 6bf8f00ceeb942129d3eba24677712dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/vFirewall_policy_monitoring_input_tosca.jinja
+SPDXID: SPDXRef-item9044494
+FileChecksum: SHA1: 2c4b9121b16a601b401a66c265fccddd6470da16
+FileChecksum: MD5: 4363e00147d33d6bc22c090339db0d76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/FirewallPolicy_update.jinja
+SPDXID: SPDXRef-item9044495
+FileChecksum: SHA1: a604d47f16468764211faa23bb4978b130fca599
+FileChecksum: MD5: 2568e944eacda9ba2f6b00660ec8071c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/policy/closedloop_configpolicy.jinja
+SPDXID: SPDXRef-item9044496
+FileChecksum: SHA1: 43be6525b7088ca95a3ec82c727a045e0d5f978f
+FileChecksum: MD5: a2c7ed5102ad8c3435c4880656ff19e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/so/cds_service_template.jinja
+SPDXID: SPDXRef-item9044498
+FileChecksum: SHA1: 69d769fa349a43428c821b6c2fb6458a136e280f
+FileChecksum: MD5: afb08ca1726908994f5746ecdab6a5e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/so/cds_vfmodule.jinja
+SPDXID: SPDXRef-item9044499
+FileChecksum: SHA1: f45b4c10484e65e8c3f78e8ae9f76684fe4e502e
+FileChecksum: MD5: 9fa8b9cc42ab6169914c79d09267fd34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/so/service_recipe.jinja
+SPDXID: SPDXRef-item9044500
+FileChecksum: SHA1: 5535dcf2764c927de31981e60ce47bb5f988fcb4
+FileChecksum: MD5: 273129b11ed95db6a1c055bd74a03ced
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/so/cds_request.jinja
+SPDXID: SPDXRef-item9044501
+FileChecksum: SHA1: 5e20bca7f676a1ed7d04897aca7e38b9fca296b1
+FileChecksum: MD5: bc9630df9d3fa651ca265baeb217a1f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/so/create_pnf_service_building_block.jinja
+SPDXID: SPDXRef-item9044502
+FileChecksum: SHA1: 735ddb470bc2fb58ff95eb4532c2d46d3e88d0ce
+FileChecksum: MD5: f7f71afb69ccda9f8f19ad17891ce781
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/so/cds_vnf.jinja
+SPDXID: SPDXRef-item9044503
+FileChecksum: SHA1: 5270d8b501611aa5eea97fcb828cff4424b5da4a
+FileChecksum: MD5: 5444500a86976ea9ef73ba0ced60a853
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/so/create_cloud_config.jinja
+SPDXID: SPDXRef-item9044504
+FileChecksum: SHA1: 9ba22f9c906e43daa729b4d19ca9d994dbf22f53
+FileChecksum: MD5: a54d65dad6050ea5ec193e5226ea85e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add-vpn-binding.jinja
+SPDXID: SPDXRef-item9044506
+FileChecksum: SHA1: df9963234cfd20e492ae607f3d853a8fae40eeba
+FileChecksum: MD5: 4a6a176757aba9ea53e84d835e829897
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/customer.jinja
+SPDXID: SPDXRef-item9044507
+FileChecksum: SHA1: a7b430f86191bf36b6f2b98df0aa2460798ba21a
+FileChecksum: MD5: 99fbb1cb162bf4e5fd2bcab2d47b5a30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add-connectivity.jinja
+SPDXID: SPDXRef-item9044508
+FileChecksum: SHA1: 6f96905b5516f95523a7ec1442a08abda5ee2589
+FileChecksum: MD5: 9e105c212b96da2766dcb38397951421
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_complex_body.jinja
+SPDXID: SPDXRef-item9044509
+FileChecksum: SHA1: fe17c9a33d5e6d20b6bbbc8ba044c8479906e4ac
+FileChecksum: MD5: 988200835082021e56b790e091ecb8fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_zone_body.jinja
+SPDXID: SPDXRef-item9044510
+FileChecksum: SHA1: c0f091bd854bbe2a41a158f1539f48aad8bbcc21
+FileChecksum: MD5: c3993d207e61c19a58536d6a0b702c53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_pnf_registration_info.jinja
+SPDXID: SPDXRef-item9044511
+FileChecksum: SHA1: d8aeb19f2cacf0936f04bd1997f29c74a671d0b9
+FileChecksum: MD5: 26d4790bf09267d84fcd7f597851ee39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/named_query.jinja
+SPDXID: SPDXRef-item9044512
+FileChecksum: SHA1: 2b1b8147f9e4e95c0be4170a90c659b13fd30af9
+FileChecksum: MD5: 80542d3d331ca6788adbf6729d4c5595
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/service_subscription.jinja
+SPDXID: SPDXRef-item9044513
+FileChecksum: SHA1: de5ef32510b933915a75f2b1cfe689c1aa0dd7ae
+FileChecksum: MD5: 9ff9487724ce4891ef794b31329d8389
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_vnfc_body.jinja
+SPDXID: SPDXRef-item9044514
+FileChecksum: SHA1: 4d54be43fdad2d6c0d9654e5edc4cef4f63c0f99
+FileChecksum: MD5: 7d794bbc661a31d25aa4f45129bdd3e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_availability_zone_body.jinja
+SPDXID: SPDXRef-item9044515
+FileChecksum: SHA1: 3025f702d5a2bafb957f45c417c99177370daa0f
+FileChecksum: MD5: 57efebc73196d2b2c882321d8ab371b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_service_body.jinja
+SPDXID: SPDXRef-item9044516
+FileChecksum: SHA1: 1265c293a2a94072315f562044dc23c204328df8
+FileChecksum: MD5: 8e79fc0b20b4850d41484ad98c78fc77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add-relationship.jinja
+SPDXID: SPDXRef-item9044517
+FileChecksum: SHA1: c3db36e72db882193132c82fb850318b38e7f99b
+FileChecksum: MD5: 99ccc7366b59c88985ccb596aeac62c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_tenant_body.jinja
+SPDXID: SPDXRef-item9044518
+FileChecksum: SHA1: 850939c9d9f33e03375449b634365af62924fb7b
+FileChecksum: MD5: 124ad7baa2cb3162d90d5ba91fd65c79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_demo_customer.jinja
+SPDXID: SPDXRef-item9044519
+FileChecksum: SHA1: e79863bd6a24ece3c344e92b0f1650036a7571c7
+FileChecksum: MD5: 4fffbee28f38316f3e1c09aa020bf4dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/aai/add_customer.jinja
+SPDXID: SPDXRef-item9044520
+FileChecksum: SHA1: dbcd0238e7078c9b6c8fa7d398578145ac4d574f
+FileChecksum: MD5: 88a7cfd10bbb232fc2669be4a4cd06ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/mr/mr_put_acl.jinja
+SPDXID: SPDXRef-item9044522
+FileChecksum: SHA1: cb05f5139a6a2055bc6f02602a4be8b5132a1e08
+FileChecksum: MD5: 4923a44be61b8d432196525ae4cc9e9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/mr/mr_publish.jinja
+SPDXID: SPDXRef-item9044523
+FileChecksum: SHA1: 008e335ebedae88b1a3bfe5c4a4c35a45de48495
+FileChecksum: MD5: 7950109b9706e568783834c3dac49e4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/openstack/keystone_get_v2_auth.jinja
+SPDXID: SPDXRef-item9044525
+FileChecksum: SHA1: 79f0295844e5dc3a2b89a5dc5b1b7baa8578f136
+FileChecksum: MD5: 62b01cf3f3354ec235729cfc0d2612f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/openstack/heat_add_stack.jinja
+SPDXID: SPDXRef-item9044526
+FileChecksum: SHA1: ce7629a14b3be4593f0486cd136c6c8614709d02
+FileChecksum: MD5: 54a52765e7588bdae30ce15747ae2197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/openstack/nova_add_keypair.jinja
+SPDXID: SPDXRef-item9044527
+FileChecksum: SHA1: 55cbbe9f708735454ef6785d4e0218381e50531f
+FileChecksum: MD5: f15366b6a8969e8340aa6beb53ce3459
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/openstack/keystone_get_v3_auth.jinja
+SPDXID: SPDXRef-item9044528
+FileChecksum: SHA1: a0543e40a35ccbf96c642cd51eeaadbaa0944afa
+FileChecksum: MD5: cb95f072daa7e777ada1dbe4528c1300
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/openstack/nova_add_server.jinja
+SPDXID: SPDXRef-item9044529
+FileChecksum: SHA1: 9b9205fc72975d298741d7baf4ac5859a17345b5
+FileChecksum: MD5: 388dab5f15cfcc1d4bf247f17ca35df7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/openstack/neutron_add_subnet.jinja
+SPDXID: SPDXRef-item9044530
+FileChecksum: SHA1: ec29bd8b5ae1412b94653536755f6b7434e32be7
+FileChecksum: MD5: 0c37cf46fc6dfae4c68566ffe598070b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/openstack/cinder_add_volume.jinja
+SPDXID: SPDXRef-item9044531
+FileChecksum: SHA1: 8618727ae27060fa443b836a2a860f5fe4c1f736
+FileChecksum: MD5: b1f3156840c6b4ec490a5ccd8cc72055
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/openstack/neutron_add_network.jinja
+SPDXID: SPDXRef-item9044532
+FileChecksum: SHA1: 14826651ad8303aaea34a023e49a031c14f63de0
+FileChecksum: MD5: 0ee699f9d9cf0721a8d77f9b705a0f53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/clamp/create_model.jinja
+SPDXID: SPDXRef-item9044534
+FileChecksum: SHA1: 8967f40943928720587ec37b6d0788072a2aa640
+FileChecksum: MD5: fcf58d6837155f0c357d70ac5f3bc944
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/clamp/save_model_vlb.jinja
+SPDXID: SPDXRef-item9044535
+FileChecksum: SHA1: 6e6b0e88622016cd196aa6602dea1c5578de1928
+FileChecksum: MD5: 9ddf39b0953194fdc4dbd027fa13043b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/portal/portal.jinja
+SPDXID: SPDXRef-item9044537
+FileChecksum: SHA1: 035ab4bc1aebccffd6d26ec458e2a453878d9284
+FileChecksum: MD5: 855b8e6983761645bdb6e999039160e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/user_remarks.jinja
+SPDXID: SPDXRef-item9044539
+FileChecksum: SHA1: a8a9c5b0c08190f290eb71475dba85a35e34ee37
+FileChecksum: MD5: eddd229b3dfb1c046251610d2508798c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/resource_instance.jinja
+SPDXID: SPDXRef-item9044540
+FileChecksum: SHA1: e3ea5339d87c3d21c0058962bea721985e857ffa
+FileChecksum: MD5: d6a99dbd239f345409eaa4070e73a36f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/dcae_composition.jinja
+SPDXID: SPDXRef-item9044541
+FileChecksum: SHA1: 8cd6b2c00269173cf03fc0031873db2fa421a932
+FileChecksum: MD5: 3010c4e17c21e5545ad4c282fe51911b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/software_product.jinja
+SPDXID: SPDXRef-item9044542
+FileChecksum: SHA1: 64d39c8cda0378d2762b09259842687274f50b36
+FileChecksum: MD5: efa7f0bee69297db00f75bc52a8c10fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/create_vfcmt.jinja
+SPDXID: SPDXRef-item9044543
+FileChecksum: SHA1: f89439bdfa841023f5802bb25e835f394b04e247
+FileChecksum: MD5: 814c639768c72963f1190f79c7f447f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_resource_alloted_resource.jinja
+SPDXID: SPDXRef-item9044544
+FileChecksum: SHA1: 24a2b2bff29a569f7187861a0558286aefb09bf4
+FileChecksum: MD5: 0bcbdbdcfad451a55086d2b07b0bcb75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_service.jinja
+SPDXID: SPDXRef-item9044545
+FileChecksum: SHA1: 1c21662b5348909f26b127febbc72139010387ac
+FileChecksum: MD5: 20e9739a10296ff5a069252faa919996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/license_model.jinja
+SPDXID: SPDXRef-item9044546
+FileChecksum: SHA1: 2fb828dfa16bae24756df93411d62cf40f73b217
+FileChecksum: MD5: 8c50be0936121759ffb4ade832e6597d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_allotted_properties.jinja
+SPDXID: SPDXRef-item9044547
+FileChecksum: SHA1: 011b752e8038ca24ccdb892f87cecab46a260b7b
+FileChecksum: MD5: 0df0ce337b2749b038445a96b0a44132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/key_group.jinja
+SPDXID: SPDXRef-item9044548
+FileChecksum: SHA1: c185e5aa2f189daa0284206c968c75c45767ebf6
+FileChecksum: MD5: 15cbb56a58bf45fd10c104fad00fdab5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/action.jinja
+SPDXID: SPDXRef-item9044549
+FileChecksum: SHA1: de4699ee4de07ba9c552556b4dddc5cd5ae36314
+FileChecksum: MD5: fd34aa777ac121f549a7ff7ad7d4d009
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_vnf_inputs.jinja
+SPDXID: SPDXRef-item9044550
+FileChecksum: SHA1: 8545ae454eea9da00d5d5af04dcd38b21532ac9b
+FileChecksum: MD5: 9b6ddc0c8768509213a7037f34b0ecda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/dcae_component_microservice.jinja
+SPDXID: SPDXRef-item9044551
+FileChecksum: SHA1: ad53999a3c626538bcb0a8c3656c3fe847995239
+FileChecksum: MD5: 41895a1d81f5bf40812cbd1e05e696d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/artifact_upload.jinja
+SPDXID: SPDXRef-item9044552
+FileChecksum: SHA1: 696ecd73adfb5404e6a32de2ef21fd9a40f52388
+FileChecksum: MD5: 64e700fb8024ba1d369f80c3b6b13f67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/entitlement_pool.jinja
+SPDXID: SPDXRef-item9044553
+FileChecksum: SHA1: 9e1972358a8193ccda54ec1448659bf86efee546
+FileChecksum: MD5: c2f8899ae80fdbf92e94dae73b4db096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_resource.jinja
+SPDXID: SPDXRef-item9044554
+FileChecksum: SHA1: a1bd7573e662bcb245b37c2793f8e550a8838d1d
+FileChecksum: MD5: c9a74911585cf06285f13a1245417561
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/license_agreement.jinja
+SPDXID: SPDXRef-item9044555
+FileChecksum: SHA1: c567e6e837646da6a4bde6e590c6a83335690384
+FileChecksum: MD5: cbdce4818b9dfd9b57843712ae0b72e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_net_input_properties.jinja
+SPDXID: SPDXRef-item9044556
+FileChecksum: SHA1: 048d44e676dae68e676ba7f36ae48f8a5905a4d7
+FileChecksum: MD5: 07790cd108dc456af406795e22e2f9cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/feature_group.jinja
+SPDXID: SPDXRef-item9044557
+FileChecksum: SHA1: 1a5b4579e2fe63061b2cacdf73c528955f71d910
+FileChecksum: MD5: d40db18eb4efc9cd05e31fa98bca8068
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_allotted_inputs.jinja
+SPDXID: SPDXRef-item9044558
+FileChecksum: SHA1: 6f68ef38d8736e5ac016d30b2e95883d9715c6d1
+FileChecksum: MD5: b09d32028660c7e554a5d51c2b8ebe0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/dcae_monitoring_configuration.jinja
+SPDXID: SPDXRef-item9044559
+FileChecksum: SHA1: cda68050d85aeb1fd850d839e95961890169fd97
+FileChecksum: MD5: db1120abb199484411ff7211c252708e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_service_monitoring.jinja
+SPDXID: SPDXRef-item9044560
+FileChecksum: SHA1: 610556823f3afc4e04622e1b5d01d05fd1d8b333
+FileChecksum: MD5: f17660771462dcc83368324e96697caf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdc/catalog_vnf_properties.jinja
+SPDXID: SPDXRef-item9044561
+FileChecksum: SHA1: 5353efbee4a4c1b86ee53f19ccca484397e1cfe4
+FileChecksum: MD5: 2869281685cb8bff3c9abc7acca7732f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vfw/vfw_pg_streams_v2.jinja
+SPDXID: SPDXRef-item9044563
+FileChecksum: SHA1: aaf8b69aecc7a1673f8a6a104042949c68f0c522
+FileChecksum: MD5: f61b370eb9cf8861833b71d28a19d611
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vfw/vfw_pg_stream_enable.jinja
+SPDXID: SPDXRef-item9044564
+FileChecksum: SHA1: 24442710d73c65fc6f5c2054285927674c3dcc0d
+FileChecksum: MD5: 41ce2f0100bc335e4303f2c1e8863ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vfw/vfw_pg_streams_enable.jinja
+SPDXID: SPDXRef-item9044565
+FileChecksum: SHA1: c5188a2bd096d947d2b39b421fdca2894f300220
+FileChecksum: MD5: cc6cc5e340e51334e443ffaa2e98fa14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/appc/vnf_mount.jinja
+SPDXID: SPDXRef-item9044567
+FileChecksum: SHA1: 22edb4f690a7dcad27eeaaceb0a412a77107af38
+FileChecksum: MD5: d880fc0592b5517501314b793c7dd8de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdnc/template.network.jinja
+SPDXID: SPDXRef-item9044569
+FileChecksum: SHA1: 2fe83c6dd275b9f8e183252ea1fdcb29ae29e361
+FileChecksum: MD5: 33d6abf9da7cce14afc6f0bcf25b83c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdnc/template.vcpe_gwgra_vfmodule.jinja
+SPDXID: SPDXRef-item9044570
+FileChecksum: SHA1: 39b7c6cfc2b3353e12fccfce9dcfd95e0bc2e4e2
+FileChecksum: MD5: 669a55f07a24292850841ac0eb48d2b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdnc/template.vcpe_vgw_vfmodule.jinja
+SPDXID: SPDXRef-item9044571
+FileChecksum: SHA1: 271f17e4d396f37c1b5525e0809f30f202ac0f12
+FileChecksum: MD5: e267e9807575567577ec7de358fb64a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdnc/preload.jinja
+SPDXID: SPDXRef-item9044572
+FileChecksum: SHA1: 9e2c2d74e0820fb4709bd7b0f47c98b4d90d25be
+FileChecksum: MD5: 1a2fcdab3548c5fe1606bb8ed76a70ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdnc/preload.GRA.jinja
+SPDXID: SPDXRef-item9044573
+FileChecksum: SHA1: b52b620272192bd4f4fb5eb28985b43ed850a435
+FileChecksum: MD5: 3f1e026215c2f623962b7b5ef0e4be4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/sdnc/template.vcpe_infra_vfmodule.jinja
+SPDXID: SPDXRef-item9044574
+FileChecksum: SHA1: 4d7405450c56ba8943704b037598d4199eb167eb
+FileChecksum: MD5: 6eb86b57dd4734c32911de96777bb96b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vcpeutils/template.vcpe_bng_vfmodule.json
+SPDXID: SPDXRef-item9044576
+FileChecksum: SHA1: d17ec322682a22b7d6f16eabb8740a24db729d29
+FileChecksum: MD5: c36a6c8d8c3609baa6d437a1a9794a13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vcpeutils/template_sniro_data.jinja
+SPDXID: SPDXRef-item9044577
+FileChecksum: SHA1: d0ad0b0e1f4bf6f51adc8fe4d95a63143813198d
+FileChecksum: MD5: 30e0ef62337f2267f01a1ede8efc2ac0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vcpeutils/simple_neutron_heat.yaml
+SPDXID: SPDXRef-item9044578
+FileChecksum: SHA1: 53a3b141f844cf18b4327160dfcbbd2ca492de4e
+FileChecksum: MD5: 5a65bd806627cd62e3139e880f8cca3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vcpeutils/template.vcpe_brgemu_vfmodule.json
+SPDXID: SPDXRef-item9044579
+FileChecksum: SHA1: db78614d11ee94ff50e3f2f2f4e6974850e4c2e4
+FileChecksum: MD5: f7ab13acef0d542afdcfe900e5f67ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vcpeutils/template_sniro_request.jinja
+SPDXID: SPDXRef-item9044580
+FileChecksum: SHA1: 7c316986d749999c062daff90bdf7f3f3f386bfd
+FileChecksum: MD5: 646ab4d515cfabee4f8fc2fe004aeb3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vcpeutils/template.vfw_vfmodule.json
+SPDXID: SPDXRef-item9044581
+FileChecksum: SHA1: 724bf38d0efe852e68bad28f24486fdfebf61ccd
+FileChecksum: MD5: 74c67c1b0745facfa20453950fb78d95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vcpeutils/template.vcpe_gmux_vfmodule.json
+SPDXID: SPDXRef-item9044582
+FileChecksum: SHA1: dd16316b95b74ec57cf6b9d4c1f7adf187a34bd0
+FileChecksum: MD5: ee3c9d8ff1dbe05a6279a84a14037f10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/templates/vnfsdk/vnfsdk_validation_request.jinja
+SPDXID: SPDXRef-item9044584
+FileChecksum: SHA1: c03a095aa7ed3a44b9b7c888fde285201c624fef
+FileChecksum: MD5: a4697978acff5b2021cb7f24cc6273a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/usecases/5gbulkpm/pmfiles/A20181002.0000-1000-0015-1000_5G.xml.gz/A20181002.0000-1000-0015-1000_5G.xml
+SPDXID: SPDXRef-item9044590
+FileChecksum: SHA1: a864239c7715026a68b25d928ce51899ffd4c6df
+FileChecksum: MD5: d7338df2050a0f270cbe9d9c70571ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/usecases/5gbulkpm/blueprintTemplate.json
+SPDXID: SPDXRef-item9044591
+FileChecksum: SHA1: 7daea2a0e086218e710ec8777ba264ad3a41401f
+FileChecksum: MD5: 5c1f00ad364f2a3af5fac9c5bb2d0851
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/usecases/5gbulkpm/Notification.json
+SPDXID: SPDXRef-item9044592
+FileChecksum: SHA1: e3d03a1993d9db588e58e7fcbc35ac0b58929dcb
+FileChecksum: MD5: 5eee25372b346dc1406a09630822dce9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/usecases/5gbulkpm/sub.json
+SPDXID: SPDXRef-item9044593
+FileChecksum: SHA1: b4495cb3f1d5b8f69fd9de68b99a63bc85629ca0
+FileChecksum: MD5: a824e8eb09140fc1676878ff8aaf5ca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/usecases/5gbulkpm/k8s-sftp.yaml
+SPDXID: SPDXRef-item9044594
+FileChecksum: SHA1: 2982fffe3ed81f510d1eb9812c5a4aa2a9961ae3
+FileChecksum: MD5: a7df4d75665f4c7086cde452fa911cf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/usecases/5gbulkpm/mr_clusters.json
+SPDXID: SPDXRef-item9044595
+FileChecksum: SHA1: 3f4aff8b5cdb83b194b2acc45669df2f271be675
+FileChecksum: MD5: 5f3a3a8d236668734b5e50e602a97171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/keys/org.onap.clamp.cert.pem
+SPDXID: SPDXRef-item9044597
+FileChecksum: SHA1: fd56c3858077783e0cc7e6c4e36507d8ba0b2ba2
+FileChecksum: MD5: 994d1bedb0734b327832031a2f541830
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/keys/org.onap.clamp.key.clear.pem
+SPDXID: SPDXRef-item9044598
+FileChecksum: SHA1: a14699abe9b0408ca5dd443d9f613d2c202208bb
+FileChecksum: MD5: 1f7ec824f6acaa3ef20b9f338082babb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/appc/reference_AllAction_vLoadBalancer_vLoadBalancer-test0_0.0.1V.json
+SPDXID: SPDXRef-item9044600
+FileChecksum: SHA1: 7a82883c186a755d9dbe30b7e4bfe66190bbb3ca
+FileChecksum: MD5: 95cee86cb6a47f3005bbf52e1026fee9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/appc/pd_ConfigScaleOut_vLoadBalancer_vLoadBalancer-test0_0.0.1V_vLB.yaml
+SPDXID: SPDXRef-item9044601
+FileChecksum: SHA1: 6b74c73f48ad918f80bc69d0a0934e4ba007bce8
+FileChecksum: MD5: aa09bf1e7d24390f50104ca45e95248e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/appc/template_ConfigScaleOut_vLoadBalancer_vLoadBalancer-test0_0.0.1V_vLB.xml
+SPDXID: SPDXRef-item9044602
+FileChecksum: SHA1: c6d6ed76356127782d65c8b1ba85adcb89f227b4
+FileChecksum: MD5: b8e69fdbe6eb62a34630059f73bfa871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/cds/env.yml
+SPDXID: SPDXRef-item9044604
+FileChecksum: SHA1: e8d0185e12d2209933825eaaa6a737cf264da892
+FileChecksum: MD5: 1624f1f45028908d7a7906936f7e7f40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/assets/cds/service-Vfirewall0911-template.yml
+SPDXID: SPDXRef-item9044605
+FileChecksum: SHA1: a5304c3f2b2e4eae771509dc5a57437520e8c783
+FileChecksum: MD5: 065e8f94226b7f357cda67fd7a77023b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/heatbridge.robot
+SPDXID: SPDXRef-item9044607
+FileChecksum: SHA1: fc1c741195b933818a70d0efc2620a5520b21488
+FileChecksum: MD5: 46495be46cb1f96063ecf1788c612201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/demo_preload.robot
+SPDXID: SPDXRef-item9044608
+FileChecksum: SHA1: 78c307900d85c435e2297645e8f554633fee8ae2
+FileChecksum: MD5: 094693fa0dc23075a610c4ebf9f1d10c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/cli_interface.robot
+SPDXID: SPDXRef-item9044609
+FileChecksum: SHA1: f4f98ebf5eebeeb0e03835ab209db006dd806bcd
+FileChecksum: MD5: 62f21bd52d0cfa9a44ba4d3ce35794fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/vnfsdk_interface.robot
+SPDXID: SPDXRef-item9044610
+FileChecksum: SHA1: d61763d65a8f251bb25cf2a3df45b151ddffe594
+FileChecksum: MD5: 5a68f3f86ab419bd1f926e6f540b0679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/vnf_orchestration_test_template.robot
+SPDXID: SPDXRef-item9044612
+FileChecksum: SHA1: 5084e125c77a4338d84349be56fea2d8e93c923b
+FileChecksum: MD5: 194f7301a0cf0868990857d2dfd84eed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/vnf_instantiation_ovp.robot
+SPDXID: SPDXRef-item9044613
+FileChecksum: SHA1: a269b05fb17ce7f069ae88a435f7a2618d6cde47
+FileChecksum: MD5: 7e6fd03f47969bc3414aadd374760147
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/vnf_orchestration_with_cds_test_template.robot
+SPDXID: SPDXRef-item9044614
+FileChecksum: SHA1: 794da2d5665637144e996c446734a3fe0f2d4ff8
+FileChecksum: MD5: ce30eaf3e66793ede322ea0c7c3988ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/pnf_registration_without_SO_template.robot
+SPDXID: SPDXRef-item9044615
+FileChecksum: SHA1: 0482ddc7b5a460643d25c599355d8ff36bb22429
+FileChecksum: MD5: f16c24c9e463255572724d9f6551930d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/pnf_orchestration_test_template.robot
+SPDXID: SPDXRef-item9044616
+FileChecksum: SHA1: 8cd944b568eb10d8ad48637ae8232454e1cf95eb
+FileChecksum: MD5: 974ab4f5b87490514769a3823c876f31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/model_test_template_vcperescust.robot
+SPDXID: SPDXRef-item9044617
+FileChecksum: SHA1: 825001eb71ab831deff4c2015ec83cea48a5c26f
+FileChecksum: MD5: 2e326ef97a173c87ddb6c55a453057e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/vnfsdk_validation_template.robot
+SPDXID: SPDXRef-item9044618
+FileChecksum: SHA1: f01e06bc787ec24ee125608bbda349eeb2d0a27b
+FileChecksum: MD5: 3b044a2dd8e468d8e96eedcf8305a31d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/model_test_template.robot
+SPDXID: SPDXRef-item9044619
+FileChecksum: SHA1: b5c98a7daa592423092fe11370ab507f4d3ce59c
+FileChecksum: MD5: 282dea3b76a0daa05b3521ca3dddec6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/test_templates/closedloop_test_template.robot
+SPDXID: SPDXRef-item9044620
+FileChecksum: SHA1: 7afd6fa4bc61b52871a14a042ba643920997cf50
+FileChecksum: MD5: e2980bc67c7ff5a0588c3336b60b76d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/so/direct_instantiate.robot
+SPDXID: SPDXRef-item9044622
+FileChecksum: SHA1: d3f38cdbdce7c5b18732d8e3699ea09a6f3c1204
+FileChecksum: MD5: eb48bda513abefb8d99afedc0831f4d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/so/add_service_recipe.robot
+SPDXID: SPDXRef-item9044623
+FileChecksum: SHA1: cc063a8f0b276498278baeeac7a25b413f307787
+FileChecksum: MD5: cf9f569f50c7dab14035838c18518cbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/so/create_service_instance.robot
+SPDXID: SPDXRef-item9044624
+FileChecksum: SHA1: 6b627c6dfdfa4418a8f32789fe2852a1d6889c89
+FileChecksum: MD5: 1a4b6332dead55bced82003857c32288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/global_properties.robot
+SPDXID: SPDXRef-item9044625
+FileChecksum: SHA1: 65c45d0927fe7f6388b126c107777faf52de4261
+FileChecksum: MD5: f7d59d07953dae435aaa914e119a8680
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/network.robot
+SPDXID: SPDXRef-item9044627
+FileChecksum: SHA1: c897c69ec960d02ed9e33aeac22162b15ae71434
+FileChecksum: MD5: 3e42a0d311d1c6db61776e71d55a0452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/create_complex.robot
+SPDXID: SPDXRef-item9044628
+FileChecksum: SHA1: 07c653d8116933007cea2bc83349e20b6bde3404
+FileChecksum: MD5: 5e06e5ff7c8098b6d86a36c7fc66a35a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/aai_interface.robot
+SPDXID: SPDXRef-item9044629
+FileChecksum: SHA1: 224f4d3ec97b52d8afe02b18167a635fc9b772c8
+FileChecksum: MD5: f71121e64326d6a69c484f3dec329406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/create_tenant.robot
+SPDXID: SPDXRef-item9044630
+FileChecksum: SHA1: 93be01ddf8e396ead89a229b4505465f95edd601
+FileChecksum: MD5: 48681df4fc379cb21bc8b2fa77f3e220
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/create_customer.robot
+SPDXID: SPDXRef-item9044631
+FileChecksum: SHA1: 7c8ee4ca4f5af030d88b688a75fbab429153d6ff
+FileChecksum: MD5: 0d5927a57a516dfb5fcc28fc1866c368
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/volume_group.robot
+SPDXID: SPDXRef-item9044632
+FileChecksum: SHA1: f8c57156dfe7eacb26fa4093b1c8a5c1b5a37043
+FileChecksum: MD5: 4eb61bc2ca2c118726a2ede607e1279b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/add-relationship-list.robot
+SPDXID: SPDXRef-item9044633
+FileChecksum: SHA1: a053c17e24aed77eeebf7e670f16d67162681717
+FileChecksum: MD5: 12763e22b314f10ebdd351968f273c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/ccvpn-vpn-bindings.robot
+SPDXID: SPDXRef-item9044634
+FileChecksum: SHA1: a37199ff108ee0f68495bb1f4c8aad7f8bb91a54
+FileChecksum: MD5: 6eff01091f0fd9a8aea95ae6b8ab9f2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/create_zone.robot
+SPDXID: SPDXRef-item9044635
+FileChecksum: SHA1: 79f2229163482233d89785c9bd247717e931cf2e
+FileChecksum: MD5: 8d270804609c8eaf99691cd7e102d6ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/models.robot
+SPDXID: SPDXRef-item9044636
+FileChecksum: SHA1: 190d5929b4e1060453518acd4b42a5834a2bbb1e
+FileChecksum: MD5: a30af92d2b436d4dd27d241de7de7b4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/api_version_properties.robot
+SPDXID: SPDXRef-item9044637
+FileChecksum: SHA1: 6322297d595aa71022a324f18dc83a4a4bc8d598
+FileChecksum: MD5: 2d548fe19cf6dc622de8ea3eb84e055d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/service_instance.robot
+SPDXID: SPDXRef-item9044638
+FileChecksum: SHA1: bb36f59f4f3cdfe4e909bd297e3d94baa6599975
+FileChecksum: MD5: dede8c4ee82b0d06d36a0f9d3d89b686
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/create_vnfc.robot
+SPDXID: SPDXRef-item9044639
+FileChecksum: SHA1: 4404a0a4b4245fd52152ddae93fea7fc4500ae04
+FileChecksum: MD5: 0740d3b06c32b9c453008428eb316891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/create_availability_zone.robot
+SPDXID: SPDXRef-item9044640
+FileChecksum: SHA1: 5911f0070b149228ca6a58ae2adcec6a37094564
+FileChecksum: MD5: 49c4eb50b662c0ad0332a7d935bb12dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/create_service.robot
+SPDXID: SPDXRef-item9044641
+FileChecksum: SHA1: 9e2c027cdd8ec4846b2d0feed85477d959c1f943
+FileChecksum: MD5: 60d53df90198a395bcebc9f7f6bdac2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aai/ccvpn-connectivities.robot
+SPDXID: SPDXRef-item9044642
+FileChecksum: SHA1: 022c6a7244e71b77481aa69f142e9784361183ef
+FileChecksum: MD5: a3f13ea7227f006c0ff37f02158b7d87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/bc_interface.robot
+SPDXID: SPDXRef-item9044643
+FileChecksum: SHA1: c8bc156fdfd967fdc4f0fdc48a082011f9927e9f
+FileChecksum: MD5: 2f01193311be462e453b0bd47f4e1b40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/dcae/hvves.robot
+SPDXID: SPDXRef-item9044645
+FileChecksum: SHA1: 49f9b1fb6871797e27d718aa215286dcb9e5e964
+FileChecksum: MD5: ebfcb989c1cb7867830ae3120a5bc19f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/aaf_interface.robot
+SPDXID: SPDXRef-item9044646
+FileChecksum: SHA1: 81714c3f0167442de4fcebd694ddcca895bd2e46
+FileChecksum: MD5: aa92257166de2c74f1ccb0a8a1b47acc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/openstack/openstack_common.robot
+SPDXID: SPDXRef-item9044648
+FileChecksum: SHA1: e9b6d458d8e8780de88aa6bb99726d3c9398e957
+FileChecksum: MD5: b3848ae30238f93420c92245a2b6cf4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/openstack/cinder_interface.robot
+SPDXID: SPDXRef-item9044649
+FileChecksum: SHA1: f1062a30fed54329cda3ff31f488c260387e934c
+FileChecksum: MD5: 2ed773c6c486d9bb6326e2a1ed04cb88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/openstack/heat_interface.robot
+SPDXID: SPDXRef-item9044650
+FileChecksum: SHA1: 2a65b364307056efc150581b1b91c38fab04ae9e
+FileChecksum: MD5: 65b7d379bab4fc292b325ae51066f960
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/openstack/keystone_interface.robot
+SPDXID: SPDXRef-item9044651
+FileChecksum: SHA1: 8555f89d2761f825f63d9f6c4c9b650ab370f632
+FileChecksum: MD5: 374b77cfe7289f47f7ace7d9a456eebb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/openstack/nova_interface.robot
+SPDXID: SPDXRef-item9044652
+FileChecksum: SHA1: 02af2daf96d8aa635062b19d49294a38a907b8ad
+FileChecksum: MD5: d4c8fef9fc6c02a137b80d81c7043bc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/openstack/neutron_interface.robot
+SPDXID: SPDXRef-item9044653
+FileChecksum: SHA1: cacce8c92ca1f6bdc507ede12a0c7c6064b02202
+FileChecksum: MD5: f68e78a22b5ec8a7c4402faf32214eab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/sms_interface.robot
+SPDXID: SPDXRef-item9044654
+FileChecksum: SHA1: a172e9c2a94a2b222e861acb668db889b6c4a7c3
+FileChecksum: MD5: 52f6f880dd39ca17c2cd010cca14bfbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/stack_validation/validate_common.robot
+SPDXID: SPDXRef-item9044656
+FileChecksum: SHA1: 4e329555f5d0c50199ce7aac47a959b74e543fd3
+FileChecksum: MD5: a43e90afdcc98a429ad526f83cc209b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/stack_validation/validate_vfw.robot
+SPDXID: SPDXRef-item9044657
+FileChecksum: SHA1: f71d6b513b6ddfec215a97662ddf61333804c26f
+FileChecksum: MD5: cb35e1ec03608f6d55921bf7be3ea31a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/stack_validation/policy_check_vfw.robot
+SPDXID: SPDXRef-item9044658
+FileChecksum: SHA1: 37b4037a865135d945318709cc10cc43f38db86b
+FileChecksum: MD5: d3c08e44510d24ed528e80ee256294cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/stack_validation/packet_generator_interface.robot
+SPDXID: SPDXRef-item9044659
+FileChecksum: SHA1: 4b1eb40991b7e9dd28c20cc185ee7a26e878a3cb
+FileChecksum: MD5: d17b5b2eb253e06fbb92a9c9cf34a939
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/stack_validation/validate_vvg.robot
+SPDXID: SPDXRef-item9044660
+FileChecksum: SHA1: ac754c6a7c5ecc38f56e8067a704c84c30f2e9c1
+FileChecksum: MD5: 7dbe818eceba742e180a34e2b83ea3bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/stack_validation/validate_vlb.robot
+SPDXID: SPDXRef-item9044661
+FileChecksum: SHA1: eaf3beaae55a32e854e013d18751814fbc264ae3
+FileChecksum: MD5: 19cb2138db0f71800b62e4b7071d53ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/stack_validation/validate_dns_scaling.robot
+SPDXID: SPDXRef-item9044662
+FileChecksum: SHA1: b05754bfb0c6ba8a3357a58c63c68b3b7458f6d1
+FileChecksum: MD5: b1dea471bceb25bc29d1347ba41c1977
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/cds_interface.robot
+SPDXID: SPDXRef-item9044663
+FileChecksum: SHA1: 518abf9ba69809f7f001e641c02da75134fc276a
+FileChecksum: MD5: 5b490cd8d3d556bf3f3452a7663af035
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/nbi_interface.robot
+SPDXID: SPDXRef-item9044664
+FileChecksum: SHA1: fcf0d2e35ff6770a504ac2c5b4091abe27ec00c7
+FileChecksum: MD5: 3d964d82c670ef735c1a271578758525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/browser_setup.robot
+SPDXID: SPDXRef-item9044665
+FileChecksum: SHA1: 525e6605cd21612161be4cd99c6accad1f96ae21
+FileChecksum: MD5: 5415872389740112bfe20ddecb26af95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/dr_interface.robot
+SPDXID: SPDXRef-item9044666
+FileChecksum: SHA1: d0a7e95b3c359f683e22833f1a2841a658795ed2
+FileChecksum: MD5: d01417495b57158751b3c3101ac14836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/sdc_interface.robot
+SPDXID: SPDXRef-item9044667
+FileChecksum: SHA1: 8a2ab13e1b494d0191f4705b73b6fc6d2956ae66
+FileChecksum: MD5: 8e07c964b2430b469bc7af4a99c3ec98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/consul_interface.robot
+SPDXID: SPDXRef-item9044668
+FileChecksum: SHA1: 22cd5da05202a2c7ed39a653cdae5e2c1f985de6
+FileChecksum: MD5: 74c251cf42188ee31c8937e1ea2b7dab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/vvp_validation.robot
+SPDXID: SPDXRef-item9044669
+FileChecksum: SHA1: 589f67580ef67ecf998f45295ddcb1f075275220
+FileChecksum: MD5: 24b49cf0f6f839b3a884288adbd7995b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/usecases/5gbulkpm_interface.robot
+SPDXID: SPDXRef-item9044671
+FileChecksum: SHA1: 90bdd24f2cb1023c2da53a3541a26fef82082e24
+FileChecksum: MD5: 4036f3104071adfd23b07af6fc407827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/music/music_interface.robot
+SPDXID: SPDXRef-item9044673
+FileChecksum: SHA1: d3b76394fa1bcff10bf0e32e239235d90d109157
+FileChecksum: MD5: e882545ad63147d1bcc0b14dc38a7093
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/oof_interface.robot
+SPDXID: SPDXRef-item9044674
+FileChecksum: SHA1: d135d81fdbfd59d8561c9e34fb04923999bbc069
+FileChecksum: MD5: abae43d5494b13019d9581a9af391f8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/sdc_dcaed_interface.robot
+SPDXID: SPDXRef-item9044675
+FileChecksum: SHA1: 1318ca48db1b12da400b042e8095a8f21303dbad
+FileChecksum: MD5: 98df8ac9556e230b21cf6e5ccaa5d92f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/log_interface.robot
+SPDXID: SPDXRef-item9044676
+FileChecksum: SHA1: 9fff6eccd089c553ce957426446b5a3a3748f3db
+FileChecksum: MD5: a4400cd4838644d9a46aabb472e1f6d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/msb_interface.robot
+SPDXID: SPDXRef-item9044677
+FileChecksum: SHA1: 3be0c2c8fe4e6e5a9f73fb2c9f3d7ec98fadbb44
+FileChecksum: MD5: b1a7ca1cc8fa8db2efbab6776f74d97f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/sdnc_interface.robot
+SPDXID: SPDXRef-item9044678
+FileChecksum: SHA1: b289ab15be5534c2bee4dbe3f6c01a64c43a7af2
+FileChecksum: MD5: cc283f7f221ec464e82a74a0e5089358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/clamp_interface.robot
+SPDXID: SPDXRef-item9044679
+FileChecksum: SHA1: 6e70b438aea2572bd9d861d9be30db00b8986bdc
+FileChecksum: MD5: 8961d6738638b60c084c410c331c2c82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/holmes_interface.robot
+SPDXID: SPDXRef-item9044680
+FileChecksum: SHA1: a82131697635077a1f61e1646d1e381660201277
+FileChecksum: MD5: 139462fea23a57135e8f7befbfe67a92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/portal_interface.robot
+SPDXID: SPDXRef-item9044681
+FileChecksum: SHA1: fd112d1b23b8466701408064b0d20c96fde16713
+FileChecksum: MD5: 36e828719b3e2633361c7cb8510f7c3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/portal-sdk/portalSdkDef.robot
+SPDXID: SPDXRef-item9044683
+FileChecksum: SHA1: 58cdbefd244031c3c7cfa47b262694fabebeaeab
+FileChecksum: MD5: 8df62e5c6ffd0b232b4314ba737169b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/portal-sdk/portalDef.robot
+SPDXID: SPDXRef-item9044684
+FileChecksum: SHA1: 1e3f7156210456d29b62566fda0967e7b158a730
+FileChecksum: MD5: d75ee4958c4c1536c3a8a9c1cc8a5ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/mr_interface.robot
+SPDXID: SPDXRef-item9044685
+FileChecksum: SHA1: 19e21c00e1fbcc34e357d8ba5cc98f8b8c247340
+FileChecksum: MD5: 000eb91cd9e99a20af67cabd9dfb1f9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/dcae_interface.robot
+SPDXID: SPDXRef-item9044686
+FileChecksum: SHA1: bf2a7cac37d474d88e66e287b8dbbe96f8224227
+FileChecksum: MD5: c0f6b4544b418f31bee9f8d5bbde7c08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/ssh/processes.robot
+SPDXID: SPDXRef-item9044688
+FileChecksum: SHA1: 5a3fd27ce4cffe13c56d908beb2a6a57899778db
+FileChecksum: MD5: 620b649ffe59c78e768b8572012b3866
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/ssh/files.robot
+SPDXID: SPDXRef-item9044689
+FileChecksum: SHA1: 3c04dca48b96459de7b2777934a948b7bb31d627
+FileChecksum: MD5: 05afddafac5639ac2a9efa0f06bf26c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/policy_interface.robot
+SPDXID: SPDXRef-item9044690
+FileChecksum: SHA1: 93469862b7094796f54f9d3452e4ef36dfb0db54
+FileChecksum: MD5: 5515483e853525839b6d1d24f937be85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/pomba_interface.robot
+SPDXID: SPDXRef-item9044691
+FileChecksum: SHA1: ddf40f651b51f5dc0b18312e6be0934f9c7c9324
+FileChecksum: MD5: b47cd135b59bb0ac98af3da5aa3e597b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/vid/vid_interface.robot
+SPDXID: SPDXRef-item9044693
+FileChecksum: SHA1: 413811266eb53decc6cdb50ab8e8119fcd706251
+FileChecksum: MD5: 539515be6f7087b1f4225f695179ba3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/vid/teardown_vid.robot
+SPDXID: SPDXRef-item9044694
+FileChecksum: SHA1: d4c302bb84c8c547af1af7a35a108ed740fe8dd0
+FileChecksum: MD5: 09a4430951b5abd4342564ec8f4654b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/vid/create_vid_vnf.robot
+SPDXID: SPDXRef-item9044695
+FileChecksum: SHA1: d5eeb002f0350a6f76a6f0c84c4b4753c4db2f6f
+FileChecksum: MD5: 95036c459a452ee99c235e822cccb94c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/vid/create_service_instance.robot
+SPDXID: SPDXRef-item9044696
+FileChecksum: SHA1: 167351afbfd56baa153bdc017e1a61023a44dd6c
+FileChecksum: MD5: 6027435056452e4fe49ea94ce9e03c80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/robot/resources/appc_interface.robot
+SPDXID: SPDXRef-item9044697
+FileChecksum: SHA1: 5a004e06458712b54f54b0117033cc1cfb8b90e1
+FileChecksum: MD5: d85045ef4d709f7112b28bb83595036c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/.dockerignore
+SPDXID: SPDXRef-item9044698
+FileChecksum: SHA1: c93ae8d1d9773646663c900047dd6849b9265227
+FileChecksum: MD5: da40dc7963470794a6698cc89bd0bc4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/.coafile
+SPDXID: SPDXRef-item9044699
+FileChecksum: SHA1: 37fc2fb133a03203affd50713f488fc18b8850f8
+FileChecksum: MD5: 89b7726125e10ef1370a550bee76fc2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/tox.ini
+SPDXID: SPDXRef-item9044700
+FileChecksum: SHA1: 389ec86888ad8411de7d73b85fd408c2bb7a2eaa
+FileChecksum: MD5: 9f4d7265135796db70c0d3e41f042563
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/runTags.sh
+SPDXID: SPDXRef-item9044701
+FileChecksum: SHA1: 1fd0ff8b99160006899f7e4275fbe233267b65eb
+FileChecksum: MD5: 7f6f965f14e2e745690e8a0762294dd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/.yamllint
+SPDXID: SPDXRef-item9044702
+FileChecksum: SHA1: e141a2380ba8d777aaa782f31670cee1d8719e75
+FileChecksum: MD5: 7443965064e633476f1e1e106aa68192
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/runSoak.sh
+SPDXID: SPDXRef-item9044703
+FileChecksum: SHA1: e104a13ce32d02f5e9a19db695bb5656bc86c1f8
+FileChecksum: MD5: c0ee0e945ea3f37dca34d048b336bd40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/runEteTag.sh
+SPDXID: SPDXRef-item9044704
+FileChecksum: SHA1: fed79d2b61c04a07b5dcc545ecdf12260214e64a
+FileChecksum: MD5: 657c9691cc4d9f05acd94cc6067a3519
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/.gitattributes
+SPDXID: SPDXRef-item9044705
+FileChecksum: SHA1: 5a6e78ee357aad5c953ab63f7f8cd35046539168
+FileChecksum: MD5: 19373440c0d117c03502243e420e6cbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/.gitignore
+SPDXID: SPDXRef-item9044706
+FileChecksum: SHA1: 381afc3ff1a169f3d43396de762ce64ce84bcbc7
+FileChecksum: MD5: cf0d0266504b7a2332a213b6ba8374f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/html/index.html
+SPDXID: SPDXRef-item9044708
+FileChecksum: SHA1: 20a69594f28f2445af47c10fb01698cff39c5ba0
+FileChecksum: MD5: 93cdd298efca53942d8b0898f3085184
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/vcperestcust.notes.text
+SPDXID: SPDXRef-item9044709
+FileChecksum: SHA1: 14c9587107bd5b90ece4353bb9d608f64f81bddb
+FileChecksum: MD5: ef39bf2c8f7e484bed5b78c1964ad2e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/.pydevproject
+SPDXID: SPDXRef-item9044710
+FileChecksum: SHA1: 5f42139f60915bcfd6788f26922b5239f7fa7d1e
+FileChecksum: MD5: c5b7197cd23d2b0a8f06554d62d86c9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite/red.xml
+SPDXID: SPDXRef-item9044711
+FileChecksum: SHA1: e92ed743ffcaab3f3da26f9cc13b067b8a6403de
+FileChecksum: MD5: c21f9529769919df18f5791da40d377d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/version.properties
+SPDXID: SPDXRef-item9044713
+FileChecksum: SHA1: 5ef1c0278dd12271ea6464af73c7ca95abc710e6
+FileChecksum: MD5: ed5907625efd1d697bb62bcad3f2a54d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/INFO.yaml
+SPDXID: SPDXRef-item9044715
+FileChecksum: SHA1: 022e220b0b2190f2d22a8a6e196b34e21172e0e0
+FileChecksum: MD5: da3ae04d5b7f53e6b74ccb303952e9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/.gitreview
+SPDXID: SPDXRef-item9044716
+FileChecksum: SHA1: dbb26699c86be4f1fef19f120ab668859aa43827
+FileChecksum: MD5: 53552b2da1eadcccfdb116547a16c0a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tox.ini
+SPDXID: SPDXRef-item9044767
+FileChecksum: SHA1: 01827245b31071b308b43ff02cb0a66d852c5d10
+FileChecksum: MD5: dd503a40e402668102733f8f8adbf851
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/README.TXT
+SPDXID: SPDXRef-item9044768
+FileChecksum: SHA1: d9cd314a466bcd57d7cb039584f5bd47c939d087
+FileChecksum: MD5: 8df1b585c25de410df6b166bced4885f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/requirements.txt
+SPDXID: SPDXRef-item9044769
+FileChecksum: SHA1: 050cef9db72b716cd38e78f7272f56f75a40d587
+FileChecksum: MD5: 83082324da3df571e355550f3f9f84ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/vcpeutils/__init__.py
+SPDXID: SPDXRef-item9044771
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/vcpeutils/SoUtils.py
+SPDXID: SPDXRef-item9044773
+FileChecksum: SHA1: 559b556ec220d14676dda7494646d32b9e1dc9d9
+FileChecksum: MD5: 474a99731d8aa54e5f420c2ce17f1a8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/vFW/service_mapping.json
+SPDXID: SPDXRef-item9044777
+FileChecksum: SHA1: becb2608e5169c0585005ff5d334dcb769ed42be
+FileChecksum: MD5: 6ed8868b74406c49d6c14624022ee3bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/hvves_msg.raw
+SPDXID: SPDXRef-item9044778
+FileChecksum: SHA1: d7c8d10b0a14037c55603d4991235abd297e3391
+FileChecksum: MD5: e9a6292881165e0a58f6bb4683535069
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/ONAPLibrary/__init__.py
+SPDXID: SPDXRef-item9044785
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/__init__.py
+SPDXID: SPDXRef-item9044788
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/vcpeutils/__init__.py
+SPDXID: SPDXRef-item9044790
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/vcpeutils/SoUtils_test.py
+SPDXID: SPDXRef-item9044791
+FileChecksum: SHA1: d30e2e87ef486ec35c57c15a5e8e9e8527311f7d
+FileChecksum: MD5: 12d040f795022132b33e1ff9b60cf7ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/tests/runner.py
+SPDXID: SPDXRef-item9044792
+FileChecksum: SHA1: 83974bd44bc55c084c2d6fe40ca8e4a905c3f70b
+FileChecksum: MD5: 20c623490b19ff17ae506d1cb0730485
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/robotframework-onap/.gitignore
+SPDXID: SPDXRef-item9044793
+FileChecksum: SHA1: 6d216b4e7187fb1c5732cdec6c0e1e8e54dcc8b8
+FileChecksum: MD5: 6e4bb8323640042fc5723bba1195f66d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/README.TXT
+SPDXID: SPDXRef-item9044797
+FileChecksum: SHA1: e07c62869702cadea0ff197b47c4ad04cb0a0b90
+FileChecksum: MD5: 65c0be5ac83b6e44fce0788f87e625f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-python-testing-utils/.gitignore
+SPDXID: SPDXRef-item9044798
+FileChecksum: SHA1: 1c576674bf5e24443ec2dca0ee49724b6f32769a
+FileChecksum: MD5: 7d7cdb3d3dba7d5816a2c57a0c473b12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/onap_dev.pvt
+SPDXID: SPDXRef-item9044801
+FileChecksum: SHA1: c9f429efe485b26fb1593a6f82daeda22c0b6c16
+FileChecksum: MD5: 8ff218d7dfc2cf5383d560b967cc7d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/INFO.yaml
+SPDXID: SPDXRef-item9044802
+FileChecksum: SHA1: 800b04dc350927f686923ea0eafc446b456aac85
+FileChecksum: MD5: 948536b5832c6a015b3a007f347abc73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/resources/config/lighttpd/authorization
+SPDXID: SPDXRef-item9044812
+FileChecksum: SHA1: 13c8807d621aa3d5e952201ea7554e36d44ccad2
+FileChecksum: MD5: 265c40919e542f4bd8659824a5953808
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/resources/config/lighttpd/lighttpd.conf
+SPDXID: SPDXRef-item9044813
+FileChecksum: SHA1: 63810dabfa432a3a7235d7cf0c9400eaa73b37e7
+FileChecksum: MD5: fbd9a4db5cc2764f09a12ef90d68e2c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/resources/config/lighttpd/ssl/onap-robot.onap.crt
+SPDXID: SPDXRef-item9044815
+FileChecksum: SHA1: b1ea221ec0caf1e5fbb7d0f14e166c777a93f682
+FileChecksum: MD5: a6b676b11c7ccc58e9fa30db7e0c9820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/resources/config/lighttpd/ssl/onap-robot.onap.csr
+SPDXID: SPDXRef-item9044816
+FileChecksum: SHA1: 72a7256828829d72a9d61346f400e12057652be8
+FileChecksum: MD5: dce81bfb6a883450105be8ef9132fe01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/resources/config/lighttpd/ssl/README.TXT
+SPDXID: SPDXRef-item9044817
+FileChecksum: SHA1: 78cd6e34eac6b0828f63580b35941f010c47b84a
+FileChecksum: MD5: 04d20a63ade2f3e1adddc982fc8bfca4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/resources/config/lighttpd/ssl/onap-robot.onap.key
+SPDXID: SPDXRef-item9044818
+FileChecksum: SHA1: 31220c4f42e06799c83321bb82f527bed30f6f06
+FileChecksum: MD5: c0a2a42c24f2d36a2fd0907836b0d6b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/resources/config/lighttpd/ssl/onap-robot.onap.pem
+SPDXID: SPDXRef-item9044819
+FileChecksum: SHA1: 2447a402b16da7515c776166e19391151b50542b
+FileChecksum: MD5: 8566c68b662f90906e3b899c9bbc0907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/templates/ingress.yaml
+SPDXID: SPDXRef-item9044824
+FileChecksum: SHA1: a614b0c57e7e5d12991faa2b67e5fd62cdbaf3c8
+FileChecksum: MD5: d16c9c860769a0d5bfbd267bda7f568e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/.helmignore
+SPDXID: SPDXRef-item9044828
+FileChecksum: SHA1: 36fbf7fb9cf040f3bb7807f74108ce51c6eb9004
+FileChecksum: MD5: a38fb31dd5924d02c0a949a678cbf6a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/.gitignore
+SPDXID: SPDXRef-item9044831
+FileChecksum: SHA1: 69fa49cd2dda0ac83ed8a494a5f1c5b6915fa46e
+FileChecksum: MD5: 99c9c6692fadf9f65f03a18296aca0cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/scripts/etescript/README
+SPDXID: SPDXRef-item9044835
+FileChecksum: SHA1: bd33ad334fa96caeec33bcf0dafab422a61bb325
+FileChecksum: MD5: 987addf31e4cfa91acc72f91afd4e8c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/scripts/helmscript/README
+SPDXID: SPDXRef-item9044839
+FileChecksum: SHA1: 012ee0bdd28273b8867a6160b874cfb532f1e414
+FileChecksum: MD5: 9263366982a65118427aa199245463fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: testsuite-oom/scripts/demoscript/README
+SPDXID: SPDXRef-item9044841
+FileChecksum: SHA1: 0f5a6b0ace0a845ec348b482e34bea1fec7f0da0
+FileChecksum: MD5: fe53427e7a568e4038892855ab4701ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-Meta-List-of-Dependencies-1
+LicenseName: Meta-List-of-Dependencies-1
+ExtractedText: <text> Meta flag: Indicates a list of dependencies, which may or may not be incorporated into or used with the software being scanned. </text>
+
+LicenseID: LicenseRef-Meta-Incomplete
+LicenseName: Meta-Incomplete
+ExtractedText: <text> Meta flag: Indicates an incomplete license text or notice (e.g., only containing the first part of a license text). </text>
+
