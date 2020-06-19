@@ -1,0 +1,4381 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_externalapi-2020-06-18.zip_1592581077.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-06-19T15:37:58Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: externalapi-2020-06-18.zip
+PackageFileName: externalapi-2020-06-18.zip
+SPDXID: SPDXRef-upload2555
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: c1302571145dd288cce8264dde0cc25949f04316
+PackageChecksum: SHA1: 52e0426c582b34501b3dab7c038796d3efded0c9
+PackageChecksum: MD5: 29feab3609339549370bc96f0b1a4ef7
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2555
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: externalapi-nbi/docs/architecture/architecture.rst
+SPDXID: SPDXRef-item9750109
+FileChecksum: SHA1: de489ed838985cef720ac888d2d3ed36a5d7ba21
+FileChecksum: MD5: 67e3d8a0ad095875df168ce94ba40aff
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE architecture: </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/architecture/NBI_Developer_Guide.rst
+SPDXID: SPDXRef-item9750108
+FileChecksum: SHA1: 74d419134948e3330c14e1715119ae2674229125
+FileChecksum: MD5: 49f820f1b339d2707facf8dfbc9ee7b0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/installation/installation.rst
+SPDXID: SPDXRef-item9750116
+FileChecksum: SHA1: 441ec2d392fe578bbee7fd18bac5f8ae42b74811
+FileChecksum: MD5: 481518334868a9508ec5bbcc4d2f015b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/releasenotes/releasenotes.rst
+SPDXID: SPDXRef-item9750125
+FileChecksum: SHA1: ac8e09b18ca471305239589c8e3ea56bcba5dac2
+FileChecksum: MD5: 3475561977ba7514c4e597ed9101f5bd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ORANGE release_notes: </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/offeredapis.rst
+SPDXID: SPDXRef-item9750127
+FileChecksum: SHA1: afa69ad7e713d04992326ee353e497c96cbf8314
+FileChecksum: MD5: 2f0c52cbbaf3633bc2858d2969989236
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/groups.yml
+SPDXID: SPDXRef-item9749751
+FileChecksum: SHA1: e9c42b799521061e4bc17061e35e92ead2d81547
+FileChecksum: MD5: c6e146c0cf9b5b31dc175f01c6583653
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/groups.yml
+SPDXID: SPDXRef-item9749854
+FileChecksum: SHA1: e9c42b799521061e4bc17061e35e92ead2d81547
+FileChecksum: MD5: c6e146c0cf9b5b31dc175f01c6583653
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/groups.yml
+SPDXID: SPDXRef-item9749829
+FileChecksum: SHA1: e9c42b799521061e4bc17061e35e92ead2d81547
+FileChecksum: MD5: c6e146c0cf9b5b31dc175f01c6583653
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/policies.yml
+SPDXID: SPDXRef-item9749755
+FileChecksum: SHA1: 1a4d6a1143e4ab57f7e13df6339305551c6f75af
+FileChecksum: MD5: f7336aca35c7f5e0249c97f461402590
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/policies.yml
+SPDXID: SPDXRef-item9749858
+FileChecksum: SHA1: 1a4d6a1143e4ab57f7e13df6339305551c6f75af
+FileChecksum: MD5: f7336aca35c7f5e0249c97f461402590
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/policies.yml
+SPDXID: SPDXRef-item9749832
+FileChecksum: SHA1: 1a4d6a1143e4ab57f7e13df6339305551c6f75af
+FileChecksum: MD5: f7336aca35c7f5e0249c97f461402590
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/annotations.yml
+SPDXID: SPDXRef-item9749808
+FileChecksum: SHA1: 70a87c48a9a6c6303cd06a6510325b182ab0c4c5
+FileChecksum: MD5: e86ddc5078b7db2b6d849ae34bf06015
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/.maven-dockerignore
+SPDXID: SPDXRef-item9749691
+FileChecksum: SHA1: 8d14a08d29684e1bf781f881162156bbb84f5ec8
+FileChecksum: MD5: 25d9f03ac4be3be35fd67e78496ccc46
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/LICENSE.TXT
+SPDXID: SPDXRef-item9749690
+FileChecksum: SHA1: 031dfdfdbe5e3d7f8792cc8d787d223d447e0ce3
+FileChecksum: MD5: 690ad64a58f0c4d0d974ba47e52e57b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-TestNetwork-template.yml
+SPDXID: SPDXRef-item9749873
+FileChecksum: SHA1: 66461f03210b1504c8d59da5eca8d8aae59264e9
+FileChecksum: MD5: 92c9f20fb225366fc57b3fb861c1ee94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/restclient/onap.http
+SPDXID: SPDXRef-item9750085
+FileChecksum: SHA1: 4a27b5aaa5c6c7e3badcf299edffd3839d1dfddf
+FileChecksum: MD5: 0fa7d4cc4edf12b0ef202c5a821d0787
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/restclient/serviceOrder.http
+SPDXID: SPDXRef-item9750088
+FileChecksum: SHA1: d4532469e93524517887fb0da9c2908166073a3d
+FileChecksum: MD5: 209bf53ddae8df92b88ebc681dafadee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/artifacts.yml
+SPDXID: SPDXRef-item9749748
+FileChecksum: SHA1: b1a4c24d7a3e63490975da1c58dd630dd7cdb9cc
+FileChecksum: MD5: 58b824f07ba92e456163a3eb98e93eb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/artifacts.yml
+SPDXID: SPDXRef-item9749851
+FileChecksum: SHA1: b1a4c24d7a3e63490975da1c58dd630dd7cdb9cc
+FileChecksum: MD5: 58b824f07ba92e456163a3eb98e93eb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/artifacts.yml
+SPDXID: SPDXRef-item9749825
+FileChecksum: SHA1: b1a4c24d7a3e63490975da1c58dd630dd7cdb9cc
+FileChecksum: MD5: 58b824f07ba92e456163a3eb98e93eb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/interfaces.yml
+SPDXID: SPDXRef-item9749756
+FileChecksum: SHA1: 13e8adae53a370092286649999a476cbdc67358b
+FileChecksum: MD5: 9bf28b544ebd2bd904d9de87821b518a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/interfaces.yml
+SPDXID: SPDXRef-item9749859
+FileChecksum: SHA1: 13e8adae53a370092286649999a476cbdc67358b
+FileChecksum: MD5: 9bf28b544ebd2bd904d9de87821b518a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/interfaces.yml
+SPDXID: SPDXRef-item9749833
+FileChecksum: SHA1: 13e8adae53a370092286649999a476cbdc67358b
+FileChecksum: MD5: 9bf28b544ebd2bd904d9de87821b518a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/relationships.yml
+SPDXID: SPDXRef-item9749749
+FileChecksum: SHA1: 509a157a4d7d838a1ffb8f836ce94c22cd575c71
+FileChecksum: MD5: e33755b0eb5fb443a59ee5a7649c3f4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/relationships.yml
+SPDXID: SPDXRef-item9749852
+FileChecksum: SHA1: 509a157a4d7d838a1ffb8f836ce94c22cd575c71
+FileChecksum: MD5: e33755b0eb5fb443a59ee5a7649c3f4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/relationships.yml
+SPDXID: SPDXRef-item9749828
+FileChecksum: SHA1: 509a157a4d7d838a1ffb8f836ce94c22cd575c71
+FileChecksum: MD5: e33755b0eb5fb443a59ee5a7649c3f4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/capabilities.yml
+SPDXID: SPDXRef-item9749758
+FileChecksum: SHA1: 2f6e2578ba117d29b0668b136ba0a2b272214700
+FileChecksum: MD5: b61c17ccd35492aa6fee6f1336927d04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/capabilities.yml
+SPDXID: SPDXRef-item9749861
+FileChecksum: SHA1: 2f6e2578ba117d29b0668b136ba0a2b272214700
+FileChecksum: MD5: b61c17ccd35492aa6fee6f1336927d04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/capabilities.yml
+SPDXID: SPDXRef-item9749834
+FileChecksum: SHA1: 2f6e2578ba117d29b0668b136ba0a2b272214700
+FileChecksum: MD5: b61c17ccd35492aa6fee6f1336927d04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/data.yml
+SPDXID: SPDXRef-item9749753
+FileChecksum: SHA1: 04f03238426eed749cce5ceacc34684ba862a08c
+FileChecksum: MD5: 838a64f3ad85f24aee29d9e3dacf0c77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/data.yml
+SPDXID: SPDXRef-item9749856
+FileChecksum: SHA1: 04f03238426eed749cce5ceacc34684ba862a08c
+FileChecksum: MD5: 838a64f3ad85f24aee29d9e3dacf0c77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/data.yml
+SPDXID: SPDXRef-item9749830
+FileChecksum: SHA1: 04f03238426eed749cce5ceacc34684ba862a08c
+FileChecksum: MD5: 838a64f3ad85f24aee29d9e3dacf0c77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/nodes.yml
+SPDXID: SPDXRef-item9749754
+FileChecksum: SHA1: 67210bc1c832989e97b10833dc1803d78cbda904
+FileChecksum: MD5: 0c73ea1c15d91536ad789a2c7f2562d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/nodes.yml
+SPDXID: SPDXRef-item9749857
+FileChecksum: SHA1: 67210bc1c832989e97b10833dc1803d78cbda904
+FileChecksum: MD5: 0c73ea1c15d91536ad789a2c7f2562d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/nodes.yml
+SPDXID: SPDXRef-item9749831
+FileChecksum: SHA1: 67210bc1c832989e97b10833dc1803d78cbda904
+FileChecksum: MD5: 0c73ea1c15d91536ad789a2c7f2562d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_healthcheck.xml
+SPDXID: SPDXRef-item9749706
+FileChecksum: SHA1: af75f9b546bed7a6d44e4658a9f5ab9aa4f33d9a
+FileChecksum: MD5: 1ff406510f05683603e9f50760d3b79a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-VfwService2vfBased-template.yml
+SPDXID: SPDXRef-item9749782
+FileChecksum: SHA1: fb8915aeaab27de712d57612b6972b5f4eac66ad
+FileChecksum: MD5: d6428ab5e9a0d5a5c7907de3675db3c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/logback-test.xml
+SPDXID: SPDXRef-item9749874
+FileChecksum: SHA1: ef13deaa7e0083766a9dc857c585f2514def91de
+FileChecksum: MD5: e06d11813cd3c46e9549f5d211c4286d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docker-compose.yml
+SPDXID: SPDXRef-item9750093
+FileChecksum: SHA1: 4ec05f49a19c1074f803ce0d80cf839cc7144e46
+FileChecksum: MD5: 547e1e7b05f98a28a9494669b8c547bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/artifacts.yml
+SPDXID: SPDXRef-item9749787
+FileChecksum: SHA1: 421641f4b96b2cb41756e51f6160d86cf8f56832
+FileChecksum: MD5: 8dae67879e3c1fea138eabffebe5f73e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/relationships.yml
+SPDXID: SPDXRef-item9749791
+FileChecksum: SHA1: b6181fdb01b038e38b1d951ee39b2522d6451c4b
+FileChecksum: MD5: 2b5c76d9e580d5fbcd225db2f0ce85a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/groups.yml
+SPDXID: SPDXRef-item9749793
+FileChecksum: SHA1: 0d81531f8e8559316ea6aee1577a4010d77aac06
+FileChecksum: MD5: b46a860a32f57a6bcfe824e5260e5472
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/capabilities.yml
+SPDXID: SPDXRef-item9749807
+FileChecksum: SHA1: c007106cce4ccb7f18536991e7a684c9e923adc1
+FileChecksum: MD5: 149bd32226b3a37e196a0ab974fd647a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/interfaces.yml
+SPDXID: SPDXRef-item9749805
+FileChecksum: SHA1: 649785e9487dfca58cb842b65bc7e145d1d6996e
+FileChecksum: MD5: bb7857179e899d9d594bb306cf7a1d1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/INFO.yaml
+SPDXID: SPDXRef-item9749693
+FileChecksum: SHA1: ed34d86eca7b9cc37bfaab59c8e2c7a75cca98c2
+FileChecksum: MD5: 517b1a89b7b9c0ae6eaaa752e3e39c14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/karatetest/features/04--StatusRessourceTest.feature
+SPDXID: SPDXRef-item9749776
+FileChecksum: SHA1: 43226218c760c6d1235e622a412f2c61f4003698
+FileChecksum: MD5: 000c247281c5dbdeaeccf72ffd0f4796
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceCatalog/api.plantuml
+SPDXID: SPDXRef-item9750130
+FileChecksum: SHA1: 6910d1423e6b22a8e566aebf749d48c74764be59
+FileChecksum: MD5: beae307cab407fdbddb45276b967652b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceOrder/api.plantuml
+SPDXID: SPDXRef-item9750146
+FileChecksum: SHA1: 1100a1253dd32197297a610e382aa409c1b005e8
+FileChecksum: MD5: caa93035c4c98bab590c669d69235dc3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceOrder/model.xsd
+SPDXID: SPDXRef-item9750149
+FileChecksum: SHA1: a6cf61af7d1ec3a132822dc307ed264ea43f919b
+FileChecksum: MD5: ca79d4fb708db1416dc56096c1fc93fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceCatalog/model.xsd
+SPDXID: SPDXRef-item9750133
+FileChecksum: SHA1: 98c3fa74de57d5c354876076a08181643b21b5b1
+FileChecksum: MD5: e5de968fd6235b69db99cac63004514c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_hub/api.plantuml
+SPDXID: SPDXRef-item9750153
+FileChecksum: SHA1: 3c10e5f39b65cd1253550105c7becd4432768364
+FileChecksum: MD5: 8c0bc9f16492a3ae277e1c032e000b8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_hub/model.xsd
+SPDXID: SPDXRef-item9750156
+FileChecksum: SHA1: 08929aaa0d16b4a116f2099972feed78d617e2fc
+FileChecksum: MD5: 2d0b7a9ec01d99d2493f8329669e8fd3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceInventory/api.plantuml
+SPDXID: SPDXRef-item9750167
+FileChecksum: SHA1: add34765a481136d2bccb5435cad626df1107f55
+FileChecksum: MD5: ef184672924c8d642531f29ce068c1d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceInventory/model.xsd
+SPDXID: SPDXRef-item9750170
+FileChecksum: SHA1: 0774f7be2f8474f805295f228f6822c60d97ca39
+FileChecksum: MD5: 2fa586b315634d7e3c6e989a864287c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_status/api.plantuml
+SPDXID: SPDXRef-item9750160
+FileChecksum: SHA1: c3a38c3a3d57cb26eea80f05f4457078ef812e16
+FileChecksum: MD5: 056afe5f6ba63106df6bfaf3d578c8b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_status/model.xsd
+SPDXID: SPDXRef-item9750163
+FileChecksum: SHA1: 2c702250aeb0d4e2fc76da8466bd94993343d9a0
+FileChecksum: MD5: 2500d6476ef9d9b6c548544965185a35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/data.yml
+SPDXID: SPDXRef-item9749795
+FileChecksum: SHA1: 20ed0f4c7a6f5ea0d2349d1b66a0429d31215d8c
+FileChecksum: MD5: b571e325e47743a5e9d674b9e5307ac7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/policies.yml
+SPDXID: SPDXRef-item9749801
+FileChecksum: SHA1: 4d5d82aa32acdc5447340d150630043ea76c4f7b
+FileChecksum: MD5: 7d06bc6b548f6bab28f02d7c5915377c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/nodes.yml
+SPDXID: SPDXRef-item9749796
+FileChecksum: SHA1: 82bfc7f0bf1a609ab8e5dc03878c3b033f58dbb4
+FileChecksum: MD5: 715a36f866fba515f49eadd33a520872
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/java/org/onap/nbi/apis/servicecatalog/ToscaInfosProcessorTest.java
+SPDXID: SPDXRef-item9749882
+FileChecksum: SHA1: 678aea4607473e129cd9a17e9fa15e94a722c41b
+FileChecksum: MD5: 9b5574b43f2e7da6246247218da9022c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/java/org/onap/nbi/apis/assertions/ServiceOrderExecutionTaskAssertions.java
+SPDXID: SPDXRef-item9749884
+FileChecksum: SHA1: 32c62ed756a72e52b6ed71a133389ddd33c93ceb
+FileChecksum: MD5: 9fa21eac09507fd077ea72c44b0bfce0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/java/org/onap/nbi/test/Context.java
+SPDXID: SPDXRef-item9749887
+FileChecksum: SHA1: 3c82b6c6293270ad2f659cb2a99de33fadcbc6e8
+FileChecksum: MD5: 4bfb52c80c131ef140be1931103ae590
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/java/org/onap/nbi/test/KarateApiTest.java
+SPDXID: SPDXRef-item9749888
+FileChecksum: SHA1: 70567098e65f1370c6175847be1d1cb2a25b6a31
+FileChecksum: MD5: a2f95c2f95a8345ed555d26454675cb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/java/org/onap/nbi/test/ServiceOrderRepositoryTest.java
+SPDXID: SPDXRef-item9749889
+FileChecksum: SHA1: f50d2c78b1c2e82846882ec0fb30aacc30fea02e
+FileChecksum: MD5: 24aac28a11460040cb70a0848219fc59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/java/org/onap/nbi/api/listener/ListenerResourceTest.java
+SPDXID: SPDXRef-item9749892
+FileChecksum: SHA1: bf64472ce89e1437efbeb6caff3154c34ce0371a
+FileChecksum: MD5: 1b42962770c8f80f58677361efe51656
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/BeanUtils.java
+SPDXID: SPDXRef-item9749911
+FileChecksum: SHA1: 358ae6003238253216f0551bb9cda11dd561a760
+FileChecksum: MD5: 4076e54a4856d4baf3a8336248228e45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/resources/application-test.properties
+SPDXID: SPDXRef-item9749901
+FileChecksum: SHA1: e73935bd3b2a2e96c5cd1268c960158c116f6543
+FileChecksum: MD5: bf9addaa8d8e12bf0c11b249286a0448
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/JacksonFilter.java
+SPDXID: SPDXRef-item9749909
+FileChecksum: SHA1: ab0121b0f77f97276fcb45cba0f37903c524fcf7
+FileChecksum: MD5: d4e294647e861503401fdc4a613d36f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/JsonRepresentation.java
+SPDXID: SPDXRef-item9749914
+FileChecksum: SHA1: 96e1f5e42e8921ba250a6e109e8ec23e3151d4cb
+FileChecksum: MD5: 06d6fa087b99e8c2436c4f47ba76079f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/ReservedKeys.java
+SPDXID: SPDXRef-item9749913
+FileChecksum: SHA1: 67e98b3d5b1ee9edce3c49f38a4480efbca49a7f
+FileChecksum: MD5: d3083d3c334ee8a23f99e464f8239bfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/Resource.java
+SPDXID: SPDXRef-item9749915
+FileChecksum: SHA1: c7a5bfc311a9805315389746541289bfc46e5378
+FileChecksum: MD5: 09d8f4573da0b4713fad4ace70c116b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/ResourceManagement.java
+SPDXID: SPDXRef-item9749912
+FileChecksum: SHA1: 386e0a250cb677c02d71a5a026390613d557d217
+FileChecksum: MD5: 5517af04673250f02cbe905b3f8e79d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/Query.java
+SPDXID: SPDXRef-item9749916
+FileChecksum: SHA1: e511a6a887ab4c015e21770c334f13ac9c5d51f5
+FileChecksum: MD5: e8ec6364de9072eca8d945dd34c28fb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/EWInterfaceUtils.java
+SPDXID: SPDXRef-item9749917
+FileChecksum: SHA1: f04bff28199e409c882d2b5fac5817a0be103a74
+FileChecksum: MD5: 374ced2603f881c1d70150181d70c53a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Vodafone Group </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/QueryParserUtils.java
+SPDXID: SPDXRef-item9749918
+FileChecksum: SHA1: cf0392546e486c3e4c968c7c4c4a0ac16f9869b1
+FileChecksum: MD5: 4711f3e8ae3112742e3baa0340bad594
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/ServiceSpecificationDBManager.java
+SPDXID: SPDXRef-item9749921
+FileChecksum: SHA1: 10b8a39cd681d5340fa86e770bd24c0f5758d58b
+FileChecksum: MD5: adc63d6079ddfd2b0901fe61dbf1489c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Amdocs </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/jolt/FindServiceSpecJsonTransformer.java
+SPDXID: SPDXRef-item9749924
+FileChecksum: SHA1: 5c8dfe731b72c759d83c83dd907a9161a90b5fcb
+FileChecksum: MD5: 2d6f5123d44801807b504afdcbd00c77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/ServiceSpecificationResource.java
+SPDXID: SPDXRef-item9749922
+FileChecksum: SHA1: d58b8ac26f6ca2b80f36bbb73463fa30a979dea0
+FileChecksum: MD5: 172ecf7000e58f24675c7c5c308ce869
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/jolt/GetServiceSpecJsonTransformer.java
+SPDXID: SPDXRef-item9749925
+FileChecksum: SHA1: 96ba7c0e3cceb97d17bdaeca93eecc91029fb0a2
+FileChecksum: MD5: 7b64e71c0f867f267c91cd145d3ebd64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/model/ServiceSpecification.java
+SPDXID: SPDXRef-item9749929
+FileChecksum: SHA1: 033daeb2515c4e209d3d9a6ac6f46be4a310d9dc
+FileChecksum: MD5: 75cc7cbab83e5e24a761c2dd06ee5944
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Amdocs </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/SdcClient.java
+SPDXID: SPDXRef-item9749926
+FileChecksum: SHA1: cf6f8e420013459db86babb25f63266e03465e09
+FileChecksum: MD5: 62d2d4017e9363165425808d2ab0c29a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/repositories/SpecificationInputSchemaRepository.java
+SPDXID: SPDXRef-item9749932
+FileChecksum: SHA1: d744b3de3a9ac4b9c48cacf800fa87d838af1a22
+FileChecksum: MD5: 6e011b3f41d56c8b416b6cb02c17fb78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Amdocs </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/model/SpecificationInputSchema.java
+SPDXID: SPDXRef-item9749930
+FileChecksum: SHA1: 527f3f7b52d8e3cd82a72a613ad37df7f0e3733c
+FileChecksum: MD5: 7bfd28c2fa8a2301fc957e4d1f00eeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Amdocs </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/repositories/ServiceSpecificationRepository.java
+SPDXID: SPDXRef-item9749933
+FileChecksum: SHA1: 2ae204912e4d7b7136e4ea8d7796b33e4bc07fef
+FileChecksum: MD5: 33ba1c61def7f6704d7863daf71d2a04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Amdocs </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/ServiceSpecificationService.java
+SPDXID: SPDXRef-item9749934
+FileChecksum: SHA1: a8a00386ecc253e50efd3afda43a84028257f811
+FileChecksum: MD5: 7dfbce4180769c53e5752477f1d0647c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/status/StatusResource.java
+SPDXID: SPDXRef-item9749936
+FileChecksum: SHA1: 230801bf499698bcc51047d1ef1b9bc846082c8c
+FileChecksum: MD5: d899b9d3c081927b693bc2614d1c9999
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/status/StatusServiceImpl.java
+SPDXID: SPDXRef-item9749937
+FileChecksum: SHA1: d00addeada8889c31e16a7c40c0a6d15a5000453
+FileChecksum: MD5: 05bb642bba4a59b0adefca7198626b8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/status/OnapClient.java
+SPDXID: SPDXRef-item9749938
+FileChecksum: SHA1: 252a199252e3ddd5e120d8a42c652fe9d9238975
+FileChecksum: MD5: 3c2e6068b46dff906237cc9606da1ef5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/status/StatusService.java
+SPDXID: SPDXRef-item9749939
+FileChecksum: SHA1: 7a273e170527253820a75ed8565a8ecee3094f30
+FileChecksum: MD5: 02cdf263f6be75cec08e3b45641f5cee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/status/model/OnapModuleType.java
+SPDXID: SPDXRef-item9749941
+FileChecksum: SHA1: 17ea76c058a59ee12b66893ac2cb0f1900d4e36a
+FileChecksum: MD5: 35ebc913e9b7ff7a9a4218b34d974ff0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/status/model/StatusType.java
+SPDXID: SPDXRef-item9749942
+FileChecksum: SHA1: 5283d9d3d056831853cf641e7d1039b601eac6a8
+FileChecksum: MD5: ee6ddad12398fa8ec947354e38baf811
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/status/model/ApplicationStatus.java
+SPDXID: SPDXRef-item9749943
+FileChecksum: SHA1: 9740eddc4d9f348d833239e9eabcea39425c1320
+FileChecksum: MD5: cdb53fb40f883285346ac4a81ebc6eb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceinventory/jolt/GetServiceInventoryJsonTransformer.java
+SPDXID: SPDXRef-item9749947
+FileChecksum: SHA1: 246481ef3991b0e71ce3e5e4535a8dabe8c6fd57
+FileChecksum: MD5: 2a061ef0597d84c506bd0226f3ae7315
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceinventory/AaiClient.java
+SPDXID: SPDXRef-item9749945
+FileChecksum: SHA1: dff5552ee821040f0e47ead581269f2b8ae0e895
+FileChecksum: MD5: 1aa7cf53e5b2bda26d5cf887db909b42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceinventory/BaseClient.java
+SPDXID: SPDXRef-item9749949
+FileChecksum: SHA1: c0b780380eac8f1e1bba8c21fb08991bc93fac17
+FileChecksum: MD5: 1e640e2deb8eb54505af7c8d495634b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceinventory/jolt/FindServiceInventoryJsonTransformer.java
+SPDXID: SPDXRef-item9749948
+FileChecksum: SHA1: 0a6b05809c725f197fe900406249dd8dfaf7d366
+FileChecksum: MD5: 273a6e294e15d1113c5032c3cdd675c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceinventory/ServiceInventoryResource.java
+SPDXID: SPDXRef-item9749952
+FileChecksum: SHA1: 7188456dff379c8ef64a3666060a8a9f92fb3d4f
+FileChecksum: MD5: 3a0d5e0450461f67450dd6df86f178b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceinventory/NbiClient.java
+SPDXID: SPDXRef-item9749951
+FileChecksum: SHA1: d2f7714e3db8763e21e77c757167cfb112d681af
+FileChecksum: MD5: 8037ff02e601e3c5ab25b4705eb2585d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceinventory/ServiceInventoryService.java
+SPDXID: SPDXRef-item9749950
+FileChecksum: SHA1: f7e310c1c39de2c9d4b2d53f1ef603e1ea7bfcf9
+FileChecksum: MD5: f558448cc834b0774c272f37a118b1ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/service/ServiceOrderService.java
+SPDXID: SPDXRef-item9749955
+FileChecksum: SHA1: 124f2043e58a933215b0472bfe9dcc4cacdd5a8d
+FileChecksum: MD5: d047b069a936889f982aa76f6d2fceb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/serviceordervalidator/ValidServiceOrder.java
+SPDXID: SPDXRef-item9749957
+FileChecksum: SHA1: 8646457561cf8706bed7d66f860856bde3c7d844
+FileChecksum: MD5: 9c32bbea33681a779886bf78c1c5e0c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/ServiceOrderCheckScheduler.java
+SPDXID: SPDXRef-item9749961
+FileChecksum: SHA1: 8fdaad650a7f0e64e69fdc2c563d77bf015baef7
+FileChecksum: MD5: 96aea61b41720b4941e9ff980e55a9db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/serviceordervalidator/ServiceOrderValidator.java
+SPDXID: SPDXRef-item9749958
+FileChecksum: SHA1: bc78cb5d8525a90aaed492d9d135e97c7349bcc5
+FileChecksum: MD5: d29a0042b083d02f95c915c9e7713711
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/ExecutionTaskProcessorScheduler.java
+SPDXID: SPDXRef-item9749964
+FileChecksum: SHA1: aca0ca8b0eec446e3db9340bad277c194b6fde79
+FileChecksum: MD5: 93f5d69c8cf874011cbe7faf66d83c35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/SOGetStatusManager.java
+SPDXID: SPDXRef-item9749967
+FileChecksum: SHA1: d0e13ae05cfc299e95b7e289b9f9da58c75a660f
+FileChecksum: MD5: f2b9428c362f2b275fe90cb5fc4a63e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/CreateAAICustomerManager.java
+SPDXID: SPDXRef-item9749969
+FileChecksum: SHA1: 3b51c5555d9db65b1bf756dde477b8b0c677ab1c
+FileChecksum: MD5: ae3e6f05733657bcc84717ba03d40a1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/utils/JsonEntityConverter.java
+SPDXID: SPDXRef-item9749971
+FileChecksum: SHA1: 3f0c62bafffd7364b45606e5fcd1561bfdb83ba2
+FileChecksum: MD5: f1cbe7c31c2113d66aa6d7cf540422d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/ServiceCatalogUrl.java
+SPDXID: SPDXRef-item9749975
+FileChecksum: SHA1: 5aec3574215585140ac92d62b928fa742825f80f
+FileChecksum: MD5: 2257feafea2ec06bdc280fc829368985
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/ServiceOrder.java
+SPDXID: SPDXRef-item9749978
+FileChecksum: SHA1: 225c33279c701aacf7659a1404e875453a18ba03
+FileChecksum: MD5: 9eb6f5a7aae5c545616eb5595492d28f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/OrderMessage.java
+SPDXID: SPDXRef-item9749979
+FileChecksum: SHA1: 0701510cf8bcc29f48e15cf4747c95774f0bfed6
+FileChecksum: MD5: 3af115e35afa1c217dac9d723fc82cfb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/Value.java
+SPDXID: SPDXRef-item9749980
+FileChecksum: SHA1: 2bfb48c9fa4be3725cf05c0110f2d986614d4ba4
+FileChecksum: MD5: fc64184a64cd20f776e791b2896fd9d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/ServiceRelationship.java
+SPDXID: SPDXRef-item9749981
+FileChecksum: SHA1: 3ccaa66d5ca5bf8ebe423d4c6f4bfe296f1bac0f
+FileChecksum: MD5: 7e59219c396928470ff31cec60fe054e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/orchestrator/ExecutionTask.java
+SPDXID: SPDXRef-item9749984
+FileChecksum: SHA1: af5b7b09594d9896a18f6d316caf97facc49ab1d
+FileChecksum: MD5: 5cd16fe4cb9cbf1d20b7e6a9925c9911
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/orchestrator/ServiceOrderInfo.java
+SPDXID: SPDXRef-item9749985
+FileChecksum: SHA1: 034f281873b70883424ece1634db349934254df3
+FileChecksum: MD5: a6aa208427b5bd32ec5a99afe0146aee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/ServiceSpecificationRef.java
+SPDXID: SPDXRef-item9749982
+FileChecksum: SHA1: 7466602df95101fb1ec8711ac0c3aa610e2649f4
+FileChecksum: MD5: 57d70fc7b8adebd4854b2467e438e891
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/orchestrator/ServiceOrderItemInfo.java
+SPDXID: SPDXRef-item9749986
+FileChecksum: SHA1: ccadb753395f720bf1789a3051b27e26cc2e2eb1
+FileChecksum: MD5: ec922194b99a43a75b12d92e0531e76e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/ResourceSpecification.java
+SPDXID: SPDXRef-item9749988
+FileChecksum: SHA1: 95e845dd4c265b949a6582936d7b1ccbdf43748b
+FileChecksum: MD5: eb77673727e7911e827009c26057568e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/ActionType.java
+SPDXID: SPDXRef-item9749987
+FileChecksum: SHA1: e47e6ebb84e61405f1861394f85a35b82e2d1286
+FileChecksum: MD5: 3a8e6da3571748a02f18569a53b14319
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/RelationshipType.java
+SPDXID: SPDXRef-item9749989
+FileChecksum: SHA1: 6b39d3bdd995ae6bd351e137b16953278453ab9e
+FileChecksum: MD5: d107e2e0c37ded1d479fe48810ebf7a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/SeverityMessage.java
+SPDXID: SPDXRef-item9749990
+FileChecksum: SHA1: c73edb55af847b9a4023deda202a32bc0798a4ce
+FileChecksum: MD5: 258eaac820b836c147c83cf872f738f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/RelatedParty.java
+SPDXID: SPDXRef-item9749991
+FileChecksum: SHA1: dce86e55d2c87354d39da48bc6a689c5acbd6555
+FileChecksum: MD5: 5a6865297b7a63da28e16585d63bd84e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/StateType.java
+SPDXID: SPDXRef-item9749992
+FileChecksum: SHA1: 580951052027419ae8f3674d236f0cf23dba8828
+FileChecksum: MD5: 26c142c872cc5f9d7dafb0559e645dbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/OrderItemRelationship.java
+SPDXID: SPDXRef-item9749994
+FileChecksum: SHA1: 864bf4dca87e8bd8f7992ce1bb3528065944102c
+FileChecksum: MD5: 1871d459c423286a5ade9d174b481eb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/TargetServiceSchema.java
+SPDXID: SPDXRef-item9749995
+FileChecksum: SHA1: b2a4384a31be97bc573727cdffaa53a1ca56e140
+FileChecksum: MD5: cd4eb8a81976197c1a29f06d72124725
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/ServiceCharacteristic.java
+SPDXID: SPDXRef-item9749993
+FileChecksum: SHA1: 0b44ee556527f21604f9980353533c62cebeef4a
+FileChecksum: MD5: 0c30a1e38c952363da9fbed8861767a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/OrderRelationship.java
+SPDXID: SPDXRef-item9749996
+FileChecksum: SHA1: 54c3c23511dc93a08ad1bdf5aba67c191aaf4daa
+FileChecksum: MD5: e99a039a7f6fe0adebcdf02cb6c1df74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/CreateServiceInstanceResponse.java
+SPDXID: SPDXRef-item9750000
+FileChecksum: SHA1: 323d5fc6077042f67247b52fc81dd4014b203f73
+FileChecksum: MD5: 986d64eab99bf886acffcfc6fe0865c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/ServiceOrderItem.java
+SPDXID: SPDXRef-item9749998
+FileChecksum: SHA1: 9a94518c83a98eba35d622ee91ae05220486cbe9
+FileChecksum: MD5: 753ead5086348ecac0ce966eb9da426f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/ModelInfo.java
+SPDXID: SPDXRef-item9750001
+FileChecksum: SHA1: 601b130ef525cd62b74f695c4079e85923c7a1d9
+FileChecksum: MD5: 58a8364c397998f0cf67f99349bc3b36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/RequestState.java
+SPDXID: SPDXRef-item9750002
+FileChecksum: SHA1: 76f49909f96f57ada058e3ab377c7e33ec7aac83
+FileChecksum: MD5: 5f4bb44f9d9d96f9b9b5654bde6f392e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/UserParams.java
+SPDXID: SPDXRef-item9750004
+FileChecksum: SHA1: 0ad5c370ddd18d63e7e58b09b24af195ee29e674
+FileChecksum: MD5: 1950417b86d6b3e2be8c30f27845fa10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/RequestReferences.java
+SPDXID: SPDXRef-item9750003
+FileChecksum: SHA1: e9ba27d43ea777baed0c73619621f95ff31c8735
+FileChecksum: MD5: 35775baf25b711185183eb5625331345
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/OperationStatus.java
+SPDXID: SPDXRef-item9750005
+FileChecksum: SHA1: 9d9c029e62df05805865ab024c8ce098c54edce5
+FileChecksum: MD5: a53e0ae1be69d31f5e7fc3b8283b7b50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Vodafone Group </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/Request.java
+SPDXID: SPDXRef-item9750006
+FileChecksum: SHA1: f880ae7822c3346b69a75e14a16f12c0e25d81a4
+FileChecksum: MD5: 2f7b855246233b11ef22717e7ee977b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/RequestInfo.java
+SPDXID: SPDXRef-item9750007
+FileChecksum: SHA1: b7e645cd5176fcbef4e6d491ad21cbff156952e7
+FileChecksum: MD5: f17a134c5dd4555ab04bfb9f6625c821
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/OwningEntity.java
+SPDXID: SPDXRef-item9750008
+FileChecksum: SHA1: dc76bc39033e9f552f3a8781844faec1dca13db1
+FileChecksum: MD5: fb9f8a219ff9d3d1b368738dfbb82106
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/Project.java
+SPDXID: SPDXRef-item9750009
+FileChecksum: SHA1: 253cc77c9db01a5a29f4747b634664a151cca9de
+FileChecksum: MD5: 05356dfc30cefc7afcdbbab7d301b8da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/GetRequestStatusResponse.java
+SPDXID: SPDXRef-item9750010
+FileChecksum: SHA1: beabdf0f1de4cc9dd7f8ddff331887a2fecd78b9
+FileChecksum: MD5: 79e9493550e7a7639151e0a56331a028
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/RequestStatus.java
+SPDXID: SPDXRef-item9750012
+FileChecksum: SHA1: a5c5b9abdc3b6960b13532295b0e09e405feac1d
+FileChecksum: MD5: a3f7bee55576e64ddd959a5d77059d8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/MSOE2EPayload.java
+SPDXID: SPDXRef-item9750011
+FileChecksum: SHA1: 30320802757e2a25db09442f0440777a983868d9
+FileChecksum: MD5: 230686ee261031a325de1706dff49629
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/GetE2ERequestStatusResponse.java
+SPDXID: SPDXRef-item9750013
+FileChecksum: SHA1: 636bea4f65f9854b049f04e71850ec07abae92b0
+FileChecksum: MD5: 08e708489de83aaa56909d0decf2f8a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Vodafone Group </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/CreateE2EServiceInstanceResponse.java
+SPDXID: SPDXRef-item9750014
+FileChecksum: SHA1: 404ccc193727d97dfe8d2e5e1804e544442d903a
+FileChecksum: MD5: d95bc9c9d34390127c8a79a3c85b0d01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Vodafone Group </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/VnfLocationConstraintsModel.java
+SPDXID: SPDXRef-item9750016
+FileChecksum: SHA1: de9d0a87acb04a85dbec62ed9211d853791f7003
+FileChecksum: MD5: 5fa648a197df638327f545bb3dc2d747
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/ServiceResponse.java
+SPDXID: SPDXRef-item9750015
+FileChecksum: SHA1: ddf787d53257599e80c2f7eb8bfbc773892c8956
+FileChecksum: MD5: 68e567a2095c5f2a768d88f7ec277342
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/LocationConstraintsModel.java
+SPDXID: SPDXRef-item9750017
+FileChecksum: SHA1: e96cbadfc9dd72794c64e24e1176cee977094f04
+FileChecksum: MD5: 3d7805964d5fc9bd2bf32126a0dde868
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/SubscriberInfo.java
+SPDXID: SPDXRef-item9750018
+FileChecksum: SHA1: 191bf71a4b841852f112a820f3376ac8040e2457
+FileChecksum: MD5: 81623b7653413f7a57819369b83f4c45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/MSODeleteE2EPayload.java
+SPDXID: SPDXRef-item9750019
+FileChecksum: SHA1: 447558e13fb6577afe826b8543fe0c26a2699b3f
+FileChecksum: MD5: 0b1a725e1a994a7fe7d247155c1ccc4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/ServiceModel.java
+SPDXID: SPDXRef-item9750020
+FileChecksum: SHA1: fc8196393c15517d528fa475f91781c112edd01f
+FileChecksum: MD5: 10432a6130948af5dcb9b2a1447b8620
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/MSOPayload.java
+SPDXID: SPDXRef-item9750021
+FileChecksum: SHA1: 784eceba8679914807dcedd5474625d11ec70058
+FileChecksum: MD5: 28948ddac75f65d0ab003c0bae5fe1df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/DeleteE2EServiceInstanceResponse.java
+SPDXID: SPDXRef-item9750022
+FileChecksum: SHA1: eac892fc3beacfe690205f9122e5c6e1da463954
+FileChecksum: MD5: 1922e499fe11cb3cbbce5b232af38ddf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/ParametersModel.java
+SPDXID: SPDXRef-item9750023
+FileChecksum: SHA1: 9c1949fba7c48ad5dd531044a94f4e36c789c31d
+FileChecksum: MD5: a08dfdc94649ca49434961351421e729
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/RequestParameters.java
+SPDXID: SPDXRef-item9750024
+FileChecksum: SHA1: c64706d25927fdd57ce41656bac9ad868b2de1b8
+FileChecksum: MD5: e66c49330100a9d42143c1cde5da2707
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/RequestDetails.java
+SPDXID: SPDXRef-item9750025
+FileChecksum: SHA1: 120596905e8b93bd3eebf46c6ab92ed10f5f7e24
+FileChecksum: MD5: 3b2db9bdc7c2a91083ef7a5eadd9809e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/repositories/ServiceOrderRepository.java
+SPDXID: SPDXRef-item9750029
+FileChecksum: SHA1: 89bf78ec22a120375af92ec101f5d62661b3fe2f
+FileChecksum: MD5: a8ccc05146749ff1fb4f9974aa9a5694
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/ResourceModel.java
+SPDXID: SPDXRef-item9750026
+FileChecksum: SHA1: c70b9ad6da81a9f7ceffdeac4edd3603edae9843
+FileChecksum: MD5: 8aaeb808a3fcd9641c61dd0e749209db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/consumer/CloudConfiguration.java
+SPDXID: SPDXRef-item9750027
+FileChecksum: SHA1: 7341bf7bafe622441140b99ac57a3dfe8ef10b74
+FileChecksum: MD5: 33b6c05f184ff0090e8f4912d10ebc04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/repositories/ExecutionTaskRepository.java
+SPDXID: SPDXRef-item9750030
+FileChecksum: SHA1: 06528e3ba51d472514d12f9bdd5c4caff8cbc81e
+FileChecksum: MD5: 785dd7dd69f4402bdfc637fe86b098dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/ServiceInventoryUrl.java
+SPDXID: SPDXRef-item9750031
+FileChecksum: SHA1: 597ac651624b108cc919a5b829802167020fd765
+FileChecksum: MD5: 2aa14d89da70831c5f918ad384fb9fec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/listener/ListenerResourceTarget.java
+SPDXID: SPDXRef-item9750034
+FileChecksum: SHA1: e094221912712d73c4c93a2caa15bd58cf9cc1e1
+FileChecksum: MD5: 41164c7855a4f0b8d76d4f5f6442f9c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Vodafone Group </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/HubResource.java
+SPDXID: SPDXRef-item9750036
+FileChecksum: SHA1: b55dead2ba484fe23b356ee3f7f77391aa3caf91
+FileChecksum: MD5: a207c684cbf257d9d930b191e33b9802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/service/EventFactory.java
+SPDXID: SPDXRef-item9750038
+FileChecksum: SHA1: 14165300bffa06d0990a1344b6b8c9de5edceba0
+FileChecksum: MD5: 62f21564e2366a829aa112294e567731
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/service/NotificationAspect.java
+SPDXID: SPDXRef-item9750039
+FileChecksum: SHA1: 32d49cccfb55c836d832518ccb59bd4a4e749693
+FileChecksum: MD5: daa3576bd61b0d25ea26331235802e97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/service/dmaap/DMaaPEventsScheduler.java
+SPDXID: SPDXRef-item9750041
+FileChecksum: SHA1: 3044f1ebb6f91889aefbc93dc906feaa185a0206
+FileChecksum: MD5: 873bec70c5b31926cd35a977a2120ba0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/service/NotifierService.java
+SPDXID: SPDXRef-item9750043
+FileChecksum: SHA1: c8e5d9dfa0bdef526577eed5f55731b98f2d7ea0
+FileChecksum: MD5: c2b5e0ce449bab4df0fa8ad02f4b84d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/service/SubscriptionService.java
+SPDXID: SPDXRef-item9750044
+FileChecksum: SHA1: 54d8a92544ae3a3f7fbbb5c9b8f1678c4914653d
+FileChecksum: MD5: 80f7a4daca9cf389cad860de3960a7c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/service/CriteriaBuilder.java
+SPDXID: SPDXRef-item9750045
+FileChecksum: SHA1: 33e11c1f9c3bf6a3f4001f2952e57a9a393df659
+FileChecksum: MD5: cdf64026186f594910e830b64cea822d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/service/CriteriaBuilderServiceOrder.java
+SPDXID: SPDXRef-item9750046
+FileChecksum: SHA1: 1cc5204e7b7a3e1f502e4b70fc41e4778353afd9
+FileChecksum: MD5: a959e213c40516c65df11d85cc6f4a5f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/repository/SubscriberRepositoryImpl.java
+SPDXID: SPDXRef-item9750049
+FileChecksum: SHA1: 051103455600ebfc3cc74a7bc21f3ef057a8cf15
+FileChecksum: MD5: d60fceac0d329b2b3237831e687ded51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/repository/SubscriberFinder.java
+SPDXID: SPDXRef-item9750048
+FileChecksum: SHA1: aabb44c65d87db1fc49c2d4f2da7224690ccbb99
+FileChecksum: MD5: 2af8bda398752145fb021768566481fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/repository/SubscriberRepository.java
+SPDXID: SPDXRef-item9750050
+FileChecksum: SHA1: 6cc8060c95abd20c68a05890eb693f445d5d5c85
+FileChecksum: MD5: 3b05db6014b264c0cd6bf043194252a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/model/Subscription.java
+SPDXID: SPDXRef-item9750053
+FileChecksum: SHA1: b0fc75a514e999e7fbbb884deeb374f249c8d24b
+FileChecksum: MD5: 9d7f2966b8e7d5aa699bbb3e43f4bd9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/model/EventType.java
+SPDXID: SPDXRef-item9750052
+FileChecksum: SHA1: a4b13831caecd84ca4a89c363970880dd7bc5213
+FileChecksum: MD5: 3d173aad84b68ba23e65b74d98f51bed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/model/ServiceInstanceEvent.java
+SPDXID: SPDXRef-item9750054
+FileChecksum: SHA1: b9f1f9be87a47d60d24b4db3b741608141fc65dd
+FileChecksum: MD5: 8341ce91c99d0353f462b8a4a06b7d14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/model/Event.java
+SPDXID: SPDXRef-item9750055
+FileChecksum: SHA1: 9a4528fdcf457d8e0a49b69230d7c9cfae3d12e7
+FileChecksum: MD5: e07a15d980e33430c030973b4aab2c5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/model/Subscriber.java
+SPDXID: SPDXRef-item9750056
+FileChecksum: SHA1: 42725f674c112c15f11e51f0895ae25c9875be5d
+FileChecksum: MD5: dc6e30fc9c118a23efe9a358cdaaedba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/configuration/AppContext.java
+SPDXID: SPDXRef-item9750059
+FileChecksum: SHA1: d8311bddd907f3800acec97c76b6e8a67370565c
+FileChecksum: MD5: 9e6a492613a27309e7210122edf24efc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/configuration/RestConfiguration.java
+SPDXID: SPDXRef-item9750060
+FileChecksum: SHA1: da5074f6c1fd591b7792725fd4dfe5b62bde7897
+FileChecksum: MD5: ea0c00fdd7eab22dae91fb0f180c24b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/configuration/HubConfig.java
+SPDXID: SPDXRef-item9750061
+FileChecksum: SHA1: abb8d0375b11127e4e87903382d2f04ea8bbf784
+FileChecksum: MD5: 697333166eb74ef4e1d79123180f5f9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/exceptions/BackendFunctionalException.java
+SPDXID: SPDXRef-item9750063
+FileChecksum: SHA1: d86bb9c3cf6b0d3b95fddff587bd678591c86339
+FileChecksum: MD5: 7ca528dee761d6c374e8cfc57b305ff1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/exceptions/BackendErrorHandler.java
+SPDXID: SPDXRef-item9750064
+FileChecksum: SHA1: 0a155b910f9bf91e11a56ba350a607c3b10923d4
+FileChecksum: MD5: dd1573166463b4264dcbd3c7f753f188
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/exceptions/TechnicalException.java
+SPDXID: SPDXRef-item9750066
+FileChecksum: SHA1: 0a49405fe427bbc74eebd20989f88495ee2972a8
+FileChecksum: MD5: d966f539a6311911df0d086f378b20ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/exceptions/ApiError.java
+SPDXID: SPDXRef-item9750067
+FileChecksum: SHA1: 539e4a36adea42eb1587d9fde958f70de6399c06
+FileChecksum: MD5: fe4068c1f63f4e2d2c4522e2ab76fffb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/exceptions/ApiExceptionHandler.java
+SPDXID: SPDXRef-item9750065
+FileChecksum: SHA1: a4d7e0205ad41e8076fa97457dcb02989037e1df
+FileChecksum: MD5: 77d0cf0c5fff0dd94367fbfa6e7945e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/exceptions/ApiException.java
+SPDXID: SPDXRef-item9750068
+FileChecksum: SHA1: 36d90fa4a14b992884a682497af316a3df7552d7
+FileChecksum: MD5: 8ea9579de3ba687a0c2b4d3c1468a0fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/exceptions/ValidationException.java
+SPDXID: SPDXRef-item9750069
+FileChecksum: SHA1: c2adc99910ab8ee83450066afec89139c9a9767f
+FileChecksum: MD5: ff5e495ec0884ef494d426cdb56b1c23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/commons/MultiCriteriaRequestBuilder.java
+SPDXID: SPDXRef-item9749910
+FileChecksum: SHA1: b58c2631a520b4f178c8b732d9d3871f5fb8b988
+FileChecksum: MD5: 2bf41209b6dc371e7694bdc1ab36c96e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/servicecatalog/ToscaInfosProcessor.java
+SPDXID: SPDXRef-item9749927
+FileChecksum: SHA1: 04f226a22248451be77e957ac0e5bede69a55ad6
+FileChecksum: MD5: 91d2bdadec3042129c45e2e82833dc4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/SOTaskProcessor.java
+SPDXID: SPDXRef-item9749963
+FileChecksum: SHA1: be7762579caa676085a08fb7fbf5167fcf340e22
+FileChecksum: MD5: ff31bad2f37617fb74fa3c453fc429f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/utils/MacroServiceUtils.java
+SPDXID: SPDXRef-item9749972
+FileChecksum: SHA1: ea92e5201cbf6961f35c6aa72c1635f417c1c889
+FileChecksum: MD5: 087c5fdd01cf0e2cf2670de052ef6a64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 TechMahindra </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/PostSoProcessor.java
+SPDXID: SPDXRef-item9749962
+FileChecksum: SHA1: 9fb4783c18c080fd2c97c05e87fe1a1b31adc978
+FileChecksum: MD5: 9e711006060dc5897dc646fc33c09df6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/model/Service.java
+SPDXID: SPDXRef-item9749997
+FileChecksum: SHA1: c1eeb47f8feb4efd52879bf24cd3f272ed7bbda4
+FileChecksum: MD5: 913170e183c90fe4a5929b50f9d58b0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/utils/E2EServiceUtils.java
+SPDXID: SPDXRef-item9749973
+FileChecksum: SHA1: ede7594de18e30afca8251dcb6538d81bc42e5c4
+FileChecksum: MD5: 09b3248797cdcdf31ed373c35098c9cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/CreateAAIServiceTypeManager.java
+SPDXID: SPDXRef-item9749965
+FileChecksum: SHA1: 331d0fa5d2d169de54e76f56ba8b8c916103ba9b
+FileChecksum: MD5: 29d2e98f36e43069c5ad7831ccb62c8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/SOTaskManager.java
+SPDXID: SPDXRef-item9749960
+FileChecksum: SHA1: fc9035083d9750ef99b937fcd7e243f8360962f5
+FileChecksum: MD5: 55d3b43c264f7c8b78fe4deaae1ced2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/ServiceOrderResource.java
+SPDXID: SPDXRef-item9750032
+FileChecksum: SHA1: 21dfdb0f9725020d0b23dd460e484b2daad5cfbe
+FileChecksum: MD5: e9b05425f809dbf9b31f7ca770472ce5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/MultiClient.java
+SPDXID: SPDXRef-item9749974
+FileChecksum: SHA1: 6c58ce142e6773b4f7a4d1ab2f952ee9bde55fb2
+FileChecksum: MD5: 9fcaa7058d630c7d683f788a75cd6641
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/hub/service/dmaap/CheckDMaaPEventsManager.java
+SPDXID: SPDXRef-item9750042
+FileChecksum: SHA1: c3272acc68b83238c010dce82511e5c7b0151a22
+FileChecksum: MD5: 53f68d9fbf60415b4f183c179bd68dfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Huawei </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/.env
+SPDXID: SPDXRef-item9750071
+FileChecksum: SHA1: c84e3c44b70ec7a704636c69bccd01839736eef9
+FileChecksum: MD5: 66d35df371a14cac3971cc2dbd4c98bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/version.properties
+SPDXID: SPDXRef-item9749689
+FileChecksum: SHA1: e8f8ac89fb9d716d86ee85b21a34bec3134aa365
+FileChecksum: MD5: cf9d0e055614473fa7dd61e3bb831e9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/java/org/onap/nbi/test/ExecutionTaskTest.java
+SPDXID: SPDXRef-item9749886
+FileChecksum: SHA1: 3f491c0761797fc7050e3e2d94fc7a1c9922af96
+FileChecksum: MD5: e363481966a70996845fbb8cb4cb4432
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/OnapComponentsUrlPaths.java
+SPDXID: SPDXRef-item9749906
+FileChecksum: SHA1: d8fce1fa5031fc4701775aed8efc3a29e6715072
+FileChecksum: MD5: bbcd9820fc0e7e35c930fd195c47a65d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/SoClient.java
+SPDXID: SPDXRef-item9749976
+FileChecksum: SHA1: 7aa6db746cca0694707017074bc550df4b36614b
+FileChecksum: MD5: d430ae4a24f10fb8afc195d71d19b967
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/pom.xml
+SPDXID: SPDXRef-item9750189
+FileChecksum: SHA1: dc7c7f356fceb5703366469d462099758d35bf7e
+FileChecksum: MD5: 0acaa42ec579273e90ccf8c1b9e2554b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/Dockerfile
+SPDXID: SPDXRef-item9750190
+FileChecksum: SHA1: f59488ad7bda04c1d7e2a2cd951578073aaa073b
+FileChecksum: MD5: ae1d164df56a3851e4942240a98a0188
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/resources/application.properties
+SPDXID: SPDXRef-item9749895
+FileChecksum: SHA1: f464592d294894fc8e2853d4279bb026d9efba60
+FileChecksum: MD5: 438ce8a4a1ec9b9e256f6fe6ba687b78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/.gitignore
+SPDXID: SPDXRef-item9750092
+FileChecksum: SHA1: ecdd9731a525926ba21bf1f4610e1e1908655945
+FileChecksum: MD5: e6ebd71570d80c2078797f446fc00582
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/administration/administration.rst
+SPDXID: SPDXRef-item9750106
+FileChecksum: SHA1: e1cd7d43f659026886805022cc909d85f16de3ed
+FileChecksum: MD5: 7270269b57445aefab71487ab8ac8faf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/configuration/configuration.rst
+SPDXID: SPDXRef-item9750113
+FileChecksum: SHA1: 15e11fefb1886f94aa11dc0ef28c9ed6600cf83a
+FileChecksum: MD5: dcf5160c51de297e49b1a241f07a8775
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/humaninterfaces/humaninterfaces.rst
+SPDXID: SPDXRef-item9750096
+FileChecksum: SHA1: 6031a2d6d3094f05e6fe99189e10c9c29a50ce19
+FileChecksum: MD5: 88b17875a8c8e19d68e13a4268ae590d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/logging/logging.rst
+SPDXID: SPDXRef-item9750123
+FileChecksum: SHA1: 66750aac4cc9085a32f26a60da29aaec57f2636f
+FileChecksum: MD5: 0d1647dc41403af9c3ddd42bdffb7265
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_hub/swagger.yaml
+SPDXID: SPDXRef-item9750152
+FileChecksum: SHA1: 41e1aa6ee5fa9dae5a63c0e2cbef456f81e9390d
+FileChecksum: MD5: 23a5b6108cea5a918dd0dd9b8fa49b7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/configuration/MongoConfig.java
+SPDXID: SPDXRef-item9750058
+FileChecksum: SHA1: 6f26353fc65bb0ad14b6e6985039d386a6ed17ce
+FileChecksum: MD5: 84bd541200351e1969fcff9dba91c802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/Application.java
+SPDXID: SPDXRef-item9749907
+FileChecksum: SHA1: ec86aac434f5a699a60f2b39c89c28d24b969456
+FileChecksum: MD5: bf19ee1e197feb76e7790c3fd2bdcc08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceOrder/index.html
+SPDXID: SPDXRef-item9750148
+FileChecksum: SHA1: f58d708c7634dbddfcbf19c309288c1b3e45c844
+FileChecksum: MD5: 674e46082f098b322b6b9f6ea6a35c22
+LicenseConcluded: Apache-2.0 AND BSD-3-Clause AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2018 Hyunje Jun
+copyright © 2019 Denis Pushkarev (zloirock.ru)
+Copyright (c) 2014–2018, Julian Kühnel
+Copyright (c) 2017 Jed Watson.
+Copyright (C) 2019 Oliver Nightingale
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright Oleg Korsunsky | http://wd.dizaina.net/
+(c) Sindre Sorhus </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceOrder/swagger.yaml
+SPDXID: SPDXRef-item9750145
+FileChecksum: SHA1: dddc9bce66a1973b3e2dd50ebfd365daf5b9ee79
+FileChecksum: MD5: fea5852413868f82a323be81b057113d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_status/index.html
+SPDXID: SPDXRef-item9750162
+FileChecksum: SHA1: 373479ad856d8e84ecfe04f5617dd2b9273efd77
+FileChecksum: MD5: 61fd287e27a6b1e62af17f347c06519e
+LicenseConcluded: Apache-2.0 AND BSD-3-Clause AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2018 Hyunje Jun
+copyright © 2019 Denis Pushkarev (zloirock.ru)
+Copyright (c) 2014–2018, Julian Kühnel
+Copyright (c) 2017 Jed Watson.
+Copyright (C) 2019 Oliver Nightingale
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright Oleg Korsunsky | http://wd.dizaina.net/
+(c) Sindre Sorhus </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_status/swagger.yaml
+SPDXID: SPDXRef-item9750159
+FileChecksum: SHA1: 6566971cf06bedeb328d633d1e1bd4a78321d905
+FileChecksum: MD5: bb77018454309b20ba05c1d932b61bcf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/index.rst
+SPDXID: SPDXRef-item9750097
+FileChecksum: SHA1: 2420ec41cff690042f08d9ce6ed8471971362482
+FileChecksum: MD5: 73d619c21ea7f7a98bfedd42b476cdbb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/CheckOrderConsistenceManager.java
+SPDXID: SPDXRef-item9749968
+FileChecksum: SHA1: 6ca0ec840baa967942a32636ede66378c106bb85
+FileChecksum: MD5: 6a8e69ab2c25a4140e1ffe14d0e8493e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/java/org/onap/nbi/apis/serviceorder/workflow/CreateAAIOwningEntityManager.java
+SPDXID: SPDXRef-item9749966
+FileChecksum: SHA1: ed17124097c9a3a70f14eb804abe3e3b2a0bc511
+FileChecksum: MD5: 822c90a0a2747891482823b6bc45487b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/karatetest/features/00--ServiceCatalog.feature
+SPDXID: SPDXRef-item9749775
+FileChecksum: SHA1: bd51065ea84b62f4674458026339123c012fa905
+FileChecksum: MD5: 7073f5147e13dd1028bc8c682414e751
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/karatetest/features/01--ServiceInventory.feature
+SPDXID: SPDXRef-item9749777
+FileChecksum: SHA1: 706651f427ea605e272ce2182f9d5cb9bcdc1952
+FileChecksum: MD5: 6c969ac1867ac70840a2240407ca56d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/karatetest/features/02--ServiceOrder.feature
+SPDXID: SPDXRef-item9749774
+FileChecksum: SHA1: 4571bb0b8f7ac3da356c9d91f263614f4dcdd2af
+FileChecksum: MD5: 4b69d64e2c461b3885429e3c2933f1b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/karatetest/features/03--Subscriber.feature
+SPDXID: SPDXRef-item9749773
+FileChecksum: SHA1: db03160f9452bbf90d203e3acba01e04069bce7c
+FileChecksum: MD5: b5bb4e0c6e7206d4376f99e4eaaa88b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/karatetest/features/05--ListenerResourceTestTarget.feature
+SPDXID: SPDXRef-item9749772
+FileChecksum: SHA1: c742859616605cb732c4f9dd85f013f6ef11d469
+FileChecksum: MD5: 04217c08a514d82e9e9e9444726a387f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/.gitreview
+SPDXID: SPDXRef-item9750070
+FileChecksum: SHA1: 73be48299d4b40757c270e0f0f39b9b7d486cfa0
+FileChecksum: MD5: 941e3032ac896aa86b7ef7b287beff47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/README.md
+SPDXID: SPDXRef-item9749692
+FileChecksum: SHA1: ca1b860cc23988d321dad3cca520884a7eadd1a5
+FileChecksum: MD5: 73c2fc3dc2411b3e5c92c1a44401fb8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/consumedapis/consumedapis.rst
+SPDXID: SPDXRef-item9750104
+FileChecksum: SHA1: 81018897e276238980c8ddf876ef278a4bf93ea4
+FileChecksum: MD5: c193b120235a16e1f0ffd8b3b777a368
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/delivery/delivery.rst
+SPDXID: SPDXRef-item9750111
+FileChecksum: SHA1: 9f53c71299f6a2115c444b26da9cdb8c9e9964b2
+FileChecksum: MD5: 5298ef71f71a43b4a8c4e128f45a4c5b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 ORANGE </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_hub/index.html
+SPDXID: SPDXRef-item9750155
+FileChecksum: SHA1: f8239ca2213c9251b4e1be635989228ac4ed89f6
+FileChecksum: MD5: a6a372d7730018864781521aa43d8de8
+LicenseConcluded: Apache-2.0 AND BSD-3-Clause AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2018 Hyunje Jun
+copyright © 2019 Denis Pushkarev (zloirock.ru)
+Copyright (c) 2014–2018, Julian Kühnel
+Copyright (c) 2017 Jed Watson.
+Copyright (C) 2019 Oliver Nightingale
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright Oleg Korsunsky | http://wd.dizaina.net/
+(c) Sindre Sorhus </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceCatalog/index.html
+SPDXID: SPDXRef-item9750132
+FileChecksum: SHA1: 7e7759141a7c4b1d0260f63223520d102489d9d4
+FileChecksum: MD5: ee2cdaa3b21973d13985667b5a725bb5
+LicenseConcluded: Apache-2.0 AND BSD-3-Clause AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2018 Hyunje Jun
+copyright © 2019 Denis Pushkarev (zloirock.ru)
+Copyright (c) 2014–2018, Julian Kühnel
+Copyright (c) 2017 Jed Watson.
+Copyright (C) 2019 Oliver Nightingale
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright Oleg Korsunsky | http://wd.dizaina.net/
+(c) Sindre Sorhus </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceCatalog/swagger.yaml
+SPDXID: SPDXRef-item9750129
+FileChecksum: SHA1: 96d78a2ce09a53049b14306aaa0dadecbe720d30
+FileChecksum: MD5: 481c993394e5e54d7cb5446a0d1c6dbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceInventory/index.html
+SPDXID: SPDXRef-item9750169
+FileChecksum: SHA1: f2d0d2031873e0390b1bd49f343f083162103d06
+FileChecksum: MD5: 37709d9bbc927f538cdb2af137aacdab
+LicenseConcluded: Apache-2.0 AND BSD-3-Clause AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> (c) 2018 Hyunje Jun
+copyright © 2019 Denis Pushkarev (zloirock.ru)
+Copyright (c) 2014–2018, Julian Kühnel
+Copyright (c) 2017 Jed Watson.
+Copyright (C) 2019 Oliver Nightingale
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright Oleg Korsunsky | http://wd.dizaina.net/
+(c) Sindre Sorhus </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceInventory/swagger.yaml
+SPDXID: SPDXRef-item9750166
+FileChecksum: SHA1: 96dfd7a36c39f9532b44eb90fa6d976c50fbc8d3
+FileChecksum: MD5: 4f0856544e951912ec8d9ba4718410f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Orange </text>
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_hub/swagger.json
+SPDXID: SPDXRef-item9750157
+FileChecksum: SHA1: f5a6c26dccc78faf54f056156471a7644c157d1a
+FileChecksum: MD5: 0f7d2dac1b28e253738aaf71d0c20302
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceCatalog/swagger.json
+SPDXID: SPDXRef-item9750134
+FileChecksum: SHA1: 3e5708f0141d1157cbf76f04c4e00e846f8e4fd4
+FileChecksum: MD5: 8ef40ad2fcd8a9d41b5ba4bf2b6fd599
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceInventory/swagger.json
+SPDXID: SPDXRef-item9750171
+FileChecksum: SHA1: ab9a8d08656ad2170d11dc7eecb45f1b9f4ad5d5
+FileChecksum: MD5: 4e48d6d2cb973df97145dddc3eb132ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceOrder/swagger.json
+SPDXID: SPDXRef-item9750150
+FileChecksum: SHA1: ac3ee07dc74335cc947348517281cb0c330c226b
+FileChecksum: MD5: 0fa4fb10612313c63f19f784244e2a8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_status/swagger.json
+SPDXID: SPDXRef-item9750164
+FileChecksum: SHA1: ac9f09321e11c9f21cdcb9967f43de7dc8e370fe
+FileChecksum: MD5: 0786bc8c7dd37fb2ba9ba7ed40f8c1a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_delete_service_instance.json
+SPDXID: SPDXRef-item9749699
+FileChecksum: SHA1: cef4bae11ae494de009e4f6b9ae01aeb3b531f09
+FileChecksum: MD5: 2e96862b5a5789a381d4b7a7b5d472be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_get_healthcheck.json
+SPDXID: SPDXRef-item9749700
+FileChecksum: SHA1: fceab210fcd1a9b553ef615fe8cf0c262a9667f9
+FileChecksum: MD5: 4fead468dfe63e137c0f39a1f31f39df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_post_create_service_instance.json
+SPDXID: SPDXRef-item9749701
+FileChecksum: SHA1: 4f41079a116e69a8473006db62b610a5fe62945d
+FileChecksum: MD5: 9ffa25fd21198b368d902054fbb5dd95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_get_.json
+SPDXID: SPDXRef-item9749702
+FileChecksum: SHA1: 6bb8c01bf5609ddd55fd5447c4a5ef033c9d1329
+FileChecksum: MD5: 417ea088a3a12521d366ce4774c98437
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_get_e2e_delete.json
+SPDXID: SPDXRef-item9749703
+FileChecksum: SHA1: 9744701a2cc13824d847947b28b8974a182067f8
+FileChecksum: MD5: 8b6ddac3ef4459e0c4df8c3e0238af3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_get_e2e.json
+SPDXID: SPDXRef-item9749704
+FileChecksum: SHA1: a10a5ed70d4e0f3a424344c6d96893e2d4183e5a
+FileChecksum: MD5: c17b03c78ff67711227a1151cd235f62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_post_e2e_create_service_instance.json
+SPDXID: SPDXRef-item9749705
+FileChecksum: SHA1: 40e418587528c31c022f9607ca0fb3f97055f4ef
+FileChecksum: MD5: 9bcf508a0f1e7a8a2c1a76c35ea07e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/so/so_e2e_delete_service_instance.json
+SPDXID: SPDXRef-item9749707
+FileChecksum: SHA1: 5eab3d5164240ad87ed685736f3dc8c57efb5a74
+FileChecksum: MD5: 85cdd88a0b436e6f94addb3a47a446fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_6490_service-subscriptions.json
+SPDXID: SPDXRef-item9749709
+FileChecksum: SHA1: 3255efb24f339c23f731790d4fe4e0cb17a1971e
+FileChecksum: MD5: 3c9b755463a33285bd9fe4bfe462a386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service-subscriptionsvFW-service-2VF-based.json
+SPDXID: SPDXRef-item9749710
+FileChecksum: SHA1: 488f0f60d41d713f566b0f05c7e0a35ebef5ba23
+FileChecksum: MD5: 48089e0f2e1b050c6d5e7ff6c60d4650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_put_customer_service.json
+SPDXID: SPDXRef-item9749711
+FileChecksum: SHA1: 5e851d78fff3a97dfab08fc2cd7a7d44661e7eb0
+FileChecksum: MD5: 3e871ceaf6b85c828a4968f35fd5c1f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_tenants.json
+SPDXID: SPDXRef-item9749712
+FileChecksum: SHA1: 326bc604f74bbe7963d0aeabf9f8f6fb34fb38f1
+FileChecksum: MD5: 742a5594fb2cd9e6779b65d1e655cb58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_healtcheck.json
+SPDXID: SPDXRef-item9749713
+FileChecksum: SHA1: 5f65e3c39c8f12357a2663105b9ce848dfd90c42
+FileChecksum: MD5: ac80db9031730d26c570cc195b5d6aa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service_instance_2.json
+SPDXID: SPDXRef-item9749714
+FileChecksum: SHA1: 6d9cf90911572b1fadcab2a77eccdc3a7c4d3b94
+FileChecksum: MD5: de59b75840406a672f1740b8e0686fad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service_instance_format_resource_url.json
+SPDXID: SPDXRef-item9749715
+FileChecksum: SHA1: e13dc8418a6372b8a00ec8aa7ba99ffce184e4ae
+FileChecksum: MD5: dec17af42e44ae315bc9b9b529e24a97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_customer_6490.json
+SPDXID: SPDXRef-item9749716
+FileChecksum: SHA1: 786bd17b560fde33f0991b11a0c537f31880c1a9
+FileChecksum: MD5: 99fd9d106b8fc41c4702930a0b5ac689
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_customers.json
+SPDXID: SPDXRef-item9749717
+FileChecksum: SHA1: 3614f0567e606a348a2817ac72a4aec21eaa6cc5
+FileChecksum: MD5: 52f6a07e99b9679e2f8872d20be3fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service-subscription_vnf.json
+SPDXID: SPDXRef-item9749718
+FileChecksum: SHA1: a2128c12a77fd2fb17c96a4e4ce41d384f63da13
+FileChecksum: MD5: 4ed1085431ba95903acc0a4111854fe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service-subscription-Ansible-service.json
+SPDXID: SPDXRef-item9749719
+FileChecksum: SHA1: acb6183cad11b0e293bf2dff2aa38f762015b6ad
+FileChecksum: MD5: 81dcbb1696b16d966db0eeefc32b7627
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_owningentites.json
+SPDXID: SPDXRef-item9749720
+FileChecksum: SHA1: 4f794ede1015d303760df4a163e70bddc3759cb5
+FileChecksum: MD5: d4d58c0f0d2124ed8555737e460a48f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_put_owning-entity.json
+SPDXID: SPDXRef-item9749721
+FileChecksum: SHA1: afab1f7369ea342c7bbcb7660a1abb5002310aab
+FileChecksum: MD5: 3fcca166409dd5471a018b76d33414c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service_3_format_resource_url.json
+SPDXID: SPDXRef-item9749722
+FileChecksum: SHA1: e6322820ab5b1628ffccf5511aba38c1406820de
+FileChecksum: MD5: 191dc44d4db1b739629bf5e7a8fc789f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service_instance_2_format_resource_url.json
+SPDXID: SPDXRef-item9749723
+FileChecksum: SHA1: 9089a407cc3395aa73d2e02b648d821b33e703fe
+FileChecksum: MD5: 492e53810117b9e9b3530cf657404e7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_customer_generic.json
+SPDXID: SPDXRef-item9749724
+FileChecksum: SHA1: 5ece3737675358c3b1c4e63d03fa8567af2d0a57
+FileChecksum: MD5: 803be5a349cb20623a358a1eab01f60c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service_3.json
+SPDXID: SPDXRef-item9749725
+FileChecksum: SHA1: e32e2d9aa9a519007fd5ceaab75c1c88c7ce64bb
+FileChecksum: MD5: 068ad3cd8668249721bf987c08508396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service-subscriptionsVFW.json
+SPDXID: SPDXRef-item9749726
+FileChecksum: SHA1: 5dcd4a81897e51cb756fb6a76ea440f51fc2d597
+FileChecksum: MD5: ae48621afbff79a57ef1d371606bc191
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_owningentity.json
+SPDXID: SPDXRef-item9749727
+FileChecksum: SHA1: 0ddab50e1cb2869952aea66d71b8f21492ea213f
+FileChecksum: MD5: 962a41e7cce7247769a92f4a8272a5e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_generic_service-subscriptions.json
+SPDXID: SPDXRef-item9749728
+FileChecksum: SHA1: 93e1997664be76b5c4fb193ee2ac4b5b6e7191b3
+FileChecksum: MD5: 3053e586d850190545d85639c0666124
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_get_service_instance.json
+SPDXID: SPDXRef-item9749729
+FileChecksum: SHA1: b888cbf5598d87553d9dee872f92fe50db3aa3cb
+FileChecksum: MD5: 71d66f441671e1c2d387b11b1cd07d72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/aai/aai_put_customer.json
+SPDXID: SPDXRef-item9749730
+FileChecksum: SHA1: 0ff4c1a3b0adef258d0cf06b4a3233ef1e1e088c
+FileChecksum: MD5: eb97a2296ec519d6c7c67886a1f75dd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/sdc/sdc_get_1e3feeb0-8e36-46c6-862c-236d9c626439_tosca.json
+SPDXID: SPDXRef-item9749732
+FileChecksum: SHA1: 99a9a2a4aebb0ce7806b28505dccf487e640461d
+FileChecksum: MD5: a5de397cf4fc699f3887dd040f56f831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/sdc/sdc_get_healthcheck.json
+SPDXID: SPDXRef-item9749733
+FileChecksum: SHA1: 9e8ac5a7264137fc8d172629d1ccd0ad68ca4543
+FileChecksum: MD5: 4ce4ffb866aeb7b13c5880d12c41f2ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/sdc/sdc_get_462f84e5-f0e5-44c5-ab95-38fb4bf77064_toscafile.json
+SPDXID: SPDXRef-item9749734
+FileChecksum: SHA1: 00f477e6f0c35eea7aba0576b1554e4cd9e94e57
+FileChecksum: MD5: a791d42dd2085c3052e7d709602cb170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/sdc/sdc_get_artifactTypes.json
+SPDXID: SPDXRef-item9749735
+FileChecksum: SHA1: a0934c21fdd49b117cd49f39ebcae10561c38236
+FileChecksum: MD5: fd50e009efb4a599bdce8628eccb49ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/sdc/sdc_get_462f84e5-f0e5-44c5-ab95-38fb4bf77064_withTosca.json
+SPDXID: SPDXRef-item9749736
+FileChecksum: SHA1: d2cacd07a28e93d21c5a75fe69a4189a4faa3840
+FileChecksum: MD5: d321c5f829ecde15c3e4aeb04d5bea1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/sdc/sdc_get_1e3feeb0-8e36-46c6-862c-236d9c626439_withoutTosca.json
+SPDXID: SPDXRef-item9749737
+FileChecksum: SHA1: 53f697d15b68f47dee51b4eefdb8c55312f9de8f
+FileChecksum: MD5: c2b061273b74eab8e9a0c2cc45061761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/sdc/sdc_get_1e3feeb0-8e36-46c6-862c-236d9c626439.json
+SPDXID: SPDXRef-item9749738
+FileChecksum: SHA1: 33157174dca2909921bf48a10fdf21c82a955fe8
+FileChecksum: MD5: c527e6e9c5689595a3b6aec553ef87e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/sdc/sdc_find.json
+SPDXID: SPDXRef-item9749739
+FileChecksum: SHA1: 3d6eb4ae67242de8b0a40a79b079df139b2bd144
+FileChecksum: MD5: a80aa65d5c8e56b1bf9dc5679a7817b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/mappings/dmaap/dmaap_get_aaievents.json
+SPDXID: SPDXRef-item9749741
+FileChecksum: SHA1: 5b419d11cd95d7616e0dfa67ef7301b898789b16
+FileChecksum: MD5: 9228d353742d969268a4d567617bd64b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/service-Sdwanvpninfraservice-template-interface.yml
+SPDXID: SPDXRef-item9749750
+FileChecksum: SHA1: 4e8ac27036c4a98433a826a6779cd9a6865c7fe5
+FileChecksum: MD5: da469fb86ea98a51ee47704ccc477d5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/resource-Sdwanconnectivity-template.yml
+SPDXID: SPDXRef-item9749752
+FileChecksum: SHA1: 2536907edba1fc1ca14df9e3444d88601e861cb4
+FileChecksum: MD5: 57c59f9787c23b1b8920abc54b036afb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/service-Sdwanvpninfraservice-template.yml
+SPDXID: SPDXRef-item9749757
+FileChecksum: SHA1: 7d398fd1058976c0ca72efd2c2a0f08219386e9c
+FileChecksum: MD5: 51016889559a6a4a4bbccf0fcb3b7c73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/resource-Sppartnervf-template-interface.yml
+SPDXID: SPDXRef-item9749759
+FileChecksum: SHA1: ccf175f9aafe1ab96a2ff228463445762857ee5e
+FileChecksum: MD5: 790821ec396a6aa9b504141a7904fb49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/resource-Sppartnervf-template.yml
+SPDXID: SPDXRef-item9749760
+FileChecksum: SHA1: d1a570e2608ad34783890e523b53c7fddfde222b
+FileChecksum: MD5: 061e0b978a66a6507ebbc4bd4db4259f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/resource-Sppartner-template.yml
+SPDXID: SPDXRef-item9749761
+FileChecksum: SHA1: 433a2f8f5cc2a6fb1a12d16009430fc224a36b71
+FileChecksum: MD5: f3430d1a909967e97d047d52ab28f73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/csar.meta
+SPDXID: SPDXRef-item9749762
+FileChecksum: SHA1: 71b3fd60f2063cfde43fb9a18749e9d16181281f
+FileChecksum: MD5: e3f629a33ca2df8979047cbaa8ddc7b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Artifacts/Deployment/MODEL_INVENTORY_PROFILE/AAI-SPPartnerVF-resource-1.0.xml
+SPDXID: SPDXRef-item9749766
+FileChecksum: SHA1: ccc64136c60b2a37136c73c87a0f0cc26145711c
+FileChecksum: MD5: 2fe6954d0e08f8a31c836d5c825122a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/Artifacts/Deployment/MODEL_INVENTORY_PROFILE/AAI-SDWANVPNInfraService-service-1.0.xml
+SPDXID: SPDXRef-item9749767
+FileChecksum: SHA1: b1ad5c7af8135a4e0ed02ba5ef10d9247d8fa4c1
+FileChecksum: MD5: 31a692c2b86a37e08a605aa5d1ea0ff1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/__files/toscafile/service-Sdwanvpninfraservice-csar.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item9749769
+FileChecksum: SHA1: 19202c0624266c3350f647614e07b6fde5a072f8
+FileChecksum: MD5: 0073ae35e224cc6ec18cc5b78f099357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/karatetest/data/serviceOrder.json
+SPDXID: SPDXRef-item9749779
+FileChecksum: SHA1: a659696d2847e7730cd4eac80f31e76816080ffc
+FileChecksum: MD5: aec35aabb736125c42094282200327c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/karatetest/data/subscriber.json
+SPDXID: SPDXRef-item9749780
+FileChecksum: SHA1: ddb1e819a083f483491db074b0b2b19c8254bae3
+FileChecksum: MD5: e29c35b54f1e829b045b5d4280baae81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Evc-template.yml
+SPDXID: SPDXRef-item9749788
+FileChecksum: SHA1: 2d3040e49f0dc9db521b68b21d038d31b22f5025
+FileChecksum: MD5: 5958a3dc22671345749a0f01a648c30f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-MscmSubscriberuni-template-interface.yml
+SPDXID: SPDXRef-item9749789
+FileChecksum: SHA1: dba68d43afed00e80f46b15a837c92b594ca772e
+FileChecksum: MD5: 9e4e26153319446f29f1fb2244cf76cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmresource-template.yml
+SPDXID: SPDXRef-item9749790
+FileChecksum: SHA1: 05f2bd68fb7355bfe343079314b2aa8ab3a85aa0
+FileChecksum: MD5: a7a3b07e533ef8a1d8b763690a2c4ec4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmrootentity-template.yml
+SPDXID: SPDXRef-item9749792
+FileChecksum: SHA1: 3e6ebca4a011432e528d37043817d3af5c6cb94b
+FileChecksum: MD5: 0ecc0880d0766ea36d596bb4c4018b1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/service-MscmEvplService-template-interface.yml
+SPDXID: SPDXRef-item9749794
+FileChecksum: SHA1: 9b059f0e8b50f4dd5e078c02abd88f6c79af2156
+FileChecksum: MD5: 2865de5e8012a3ab94e5b69ab4302087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-MscmEvcendpoint-template.yml
+SPDXID: SPDXRef-item9749797
+FileChecksum: SHA1: 70924859c4202b7ac27cce04363655af868c46ad
+FileChecksum: MD5: ff912a4b6bb909603c69cc5363b034e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Subscriberuni-template.yml
+SPDXID: SPDXRef-item9749798
+FileChecksum: SHA1: a1e5a0cdc8b104c25d8ff1c05e46b79c7725ccf8
+FileChecksum: MD5: 8298ed4adca8da95ec5e8561a9643bb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmserviceendpoint-template.yml
+SPDXID: SPDXRef-item9749799
+FileChecksum: SHA1: 41d382c9d8c3b9199288e29f016665a7b79731fb
+FileChecksum: MD5: b7e8bab552459006de682b052a242edf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmmanagedentity-template.yml
+SPDXID: SPDXRef-item9749800
+FileChecksum: SHA1: 8af83dcf19e97acba65a43cf01b1e50ca7b81c2a
+FileChecksum: MD5: 247e9fa8a738aa076eb33a9732b5bd18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmserviceinterface-template.yml
+SPDXID: SPDXRef-item9749802
+FileChecksum: SHA1: b451c5909b4aa70879e488f4c08e574b1215a22f
+FileChecksum: MD5: 4227f2345f42b1428c7e519d32cd1f27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmentity-template.yml
+SPDXID: SPDXRef-item9749803
+FileChecksum: SHA1: 924993774546406b500b173acb71e17b3aebb5e7
+FileChecksum: MD5: 1c6890476a8a4c40fad97cddf2d17eb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-MscmEvc-template.yml
+SPDXID: SPDXRef-item9749804
+FileChecksum: SHA1: ed53ce3a4ecd85674a63898a07e572ce4dea3a4c
+FileChecksum: MD5: 7248815a88c2723a145fcdd73c470c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/service-MscmEvplService-template.yml
+SPDXID: SPDXRef-item9749806
+FileChecksum: SHA1: fb49e5b70a1edf921ab32faa5f444bb28ce01fbf
+FileChecksum: MD5: 6acc1f27ecd3bcd572946759574c7cde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmserviceatomic-template.yml
+SPDXID: SPDXRef-item9749809
+FileChecksum: SHA1: 332e738fffa8c578dade15f18b1baf9b2246a320
+FileChecksum: MD5: a4b26d9ff89d6a223be1575cabde9421
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-MscmEvcendpoint-template-interface.yml
+SPDXID: SPDXRef-item9749810
+FileChecksum: SHA1: 44b920239b79e2178006269f3ac3cfdeaeeb7e6b
+FileChecksum: MD5: 9869b266bdb77d35d819398c78135e5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-MscmSubscriberuni-template.yml
+SPDXID: SPDXRef-item9749811
+FileChecksum: SHA1: e777fe66ddde8a17d92a8940ce4cd056f3ad23d0
+FileChecksum: MD5: f753bafd22e28fda0e8ac96d2616395f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Evcendpoint-template.yml
+SPDXID: SPDXRef-item9749812
+FileChecksum: SHA1: 570f93f15fc7aff707f40ff0f823af5878bf45c1
+FileChecksum: MD5: 191c53029d2a9bd86ac97f287fe271ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-MscmEvc-template-interface.yml
+SPDXID: SPDXRef-item9749813
+FileChecksum: SHA1: 371d85f3c21c3a706dfb79e000acb3d8ccb8bab0
+FileChecksum: MD5: 8278b03452dc7b9e0a23497981b1b3d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmlogicalresource-template.yml
+SPDXID: SPDXRef-item9749814
+FileChecksum: SHA1: b4beb2dd7878d42cf61868f6d420c0d2dc74589c
+FileChecksum: MD5: 2ab185080ee4419d6ab95f9380c36e34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmlogicalresourceatomic-template.yml
+SPDXID: SPDXRef-item9749815
+FileChecksum: SHA1: 2419796157c6cf20bcb1c9a1006810cbd4f05375
+FileChecksum: MD5: bfff252221ae1453376bcfd8f7da2fd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmservicedecorator-template.yml
+SPDXID: SPDXRef-item9749816
+FileChecksum: SHA1: e920995db996562588d7fc99ee0f730c1c9856b2
+FileChecksum: MD5: 4dabf61f349403a115d55345c0548b4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/Definitions/resource-Mcmservice-template.yml
+SPDXID: SPDXRef-item9749817
+FileChecksum: SHA1: bf9232d730e40780ae77f832a89813efc1134b1a
+FileChecksum: MD5: 4e3b51fdf3009e9930a16e6d64e88b74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/csar.meta
+SPDXID: SPDXRef-item9749818
+FileChecksum: SHA1: 44405419de82533257242e9b2f86acc51896f76b
+FileChecksum: MD5: 34317ddd4ee86191ad81f9020514690e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-MscmEvplService-csar.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item9749820
+FileChecksum: SHA1: f35d0c39bcd1b057782aa6437755d46ae1bc0483
+FileChecksum: MD5: 66ce39fc31165fa03ad7ee6a2196db22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/service-Sotnvpninfraservice-template.yml
+SPDXID: SPDXRef-item9749826
+FileChecksum: SHA1: bf57778db2ce035622dc2d1e3bd5491f05f67a62
+FileChecksum: MD5: 7522b079e56d4193d72520d7d780e0fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/resource-Sotnconnectivity-template.yml
+SPDXID: SPDXRef-item9749827
+FileChecksum: SHA1: 05d65b8d262bade62c29146180279513f22bb275
+FileChecksum: MD5: e34228bb660b3d904b02cb1fa1887814
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/resource-Sppartnervf-template-interface.yml
+SPDXID: SPDXRef-item9749835
+FileChecksum: SHA1: ccf175f9aafe1ab96a2ff228463445762857ee5e
+FileChecksum: MD5: 790821ec396a6aa9b504141a7904fb49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/resource-Sppartnervf-template.yml
+SPDXID: SPDXRef-item9749836
+FileChecksum: SHA1: d1a570e2608ad34783890e523b53c7fddfde222b
+FileChecksum: MD5: 061e0b978a66a6507ebbc4bd4db4259f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/service-Sotnvpninfraservice-template-interface.yml
+SPDXID: SPDXRef-item9749837
+FileChecksum: SHA1: 3531ed6a285bd1d629574c911f51cb0d941ab45f
+FileChecksum: MD5: a060bafbdedf576ed4f828db92423101
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Definitions/resource-Sppartner-template.yml
+SPDXID: SPDXRef-item9749838
+FileChecksum: SHA1: 433a2f8f5cc2a6fb1a12d16009430fc224a36b71
+FileChecksum: MD5: f3430d1a909967e97d047d52ab28f73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/csar.meta
+SPDXID: SPDXRef-item9749839
+FileChecksum: SHA1: 71b3fd60f2063cfde43fb9a18749e9d16181281f
+FileChecksum: MD5: e3f629a33ca2df8979047cbaa8ddc7b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Artifacts/Deployment/MODEL_INVENTORY_PROFILE/AAI-SPPartnerVF-resource-1.0.xml
+SPDXID: SPDXRef-item9749843
+FileChecksum: SHA1: ccc64136c60b2a37136c73c87a0f0cc26145711c
+FileChecksum: MD5: 2fe6954d0e08f8a31c836d5c825122a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/Artifacts/Deployment/MODEL_INVENTORY_PROFILE/AAI-SOTNVPNInfraService-service-1.0.xml
+SPDXID: SPDXRef-item9749844
+FileChecksum: SHA1: 00a069335891a312a41b4a798406f5ab7ac10c93
+FileChecksum: MD5: 9d11e51aed31ac25c24dcb7c8777c4da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sotnvpninfraservice-csar.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item9749846
+FileChecksum: SHA1: fe7ed196a349d3cf644d9a4e6c02ca76e3076618
+FileChecksum: MD5: 5d568b91a65c583b5478c89bc32f08ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/service-Sdwanvpninfraservice-template-interface.yml
+SPDXID: SPDXRef-item9749853
+FileChecksum: SHA1: 4e8ac27036c4a98433a826a6779cd9a6865c7fe5
+FileChecksum: MD5: da469fb86ea98a51ee47704ccc477d5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/resource-Sdwanconnectivity-template.yml
+SPDXID: SPDXRef-item9749855
+FileChecksum: SHA1: 2536907edba1fc1ca14df9e3444d88601e861cb4
+FileChecksum: MD5: 57c59f9787c23b1b8920abc54b036afb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/service-Sdwanvpninfraservice-template.yml
+SPDXID: SPDXRef-item9749860
+FileChecksum: SHA1: 7d398fd1058976c0ca72efd2c2a0f08219386e9c
+FileChecksum: MD5: 51016889559a6a4a4bbccf0fcb3b7c73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/resource-Sppartnervf-template-interface.yml
+SPDXID: SPDXRef-item9749862
+FileChecksum: SHA1: ccf175f9aafe1ab96a2ff228463445762857ee5e
+FileChecksum: MD5: 790821ec396a6aa9b504141a7904fb49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/resource-Sppartnervf-template.yml
+SPDXID: SPDXRef-item9749863
+FileChecksum: SHA1: d1a570e2608ad34783890e523b53c7fddfde222b
+FileChecksum: MD5: 061e0b978a66a6507ebbc4bd4db4259f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Definitions/resource-Sppartner-template.yml
+SPDXID: SPDXRef-item9749864
+FileChecksum: SHA1: 433a2f8f5cc2a6fb1a12d16009430fc224a36b71
+FileChecksum: MD5: f3430d1a909967e97d047d52ab28f73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/csar.meta
+SPDXID: SPDXRef-item9749865
+FileChecksum: SHA1: 71b3fd60f2063cfde43fb9a18749e9d16181281f
+FileChecksum: MD5: e3f629a33ca2df8979047cbaa8ddc7b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Artifacts/Deployment/MODEL_INVENTORY_PROFILE/AAI-SPPartnerVF-resource-1.0.xml
+SPDXID: SPDXRef-item9749869
+FileChecksum: SHA1: ccc64136c60b2a37136c73c87a0f0cc26145711c
+FileChecksum: MD5: 2fe6954d0e08f8a31c836d5c825122a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/Artifacts/Deployment/MODEL_INVENTORY_PROFILE/AAI-SDWANVPNInfraService-service-1.0.xml
+SPDXID: SPDXRef-item9749870
+FileChecksum: SHA1: b1ad5c7af8135a4e0ed02ba5ef10d9247d8fa4c1
+FileChecksum: MD5: 31a692c2b86a37e08a605aa5d1ea0ff1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/resources/toscafile/service-Sdwanvpninfraservice-csar.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item9749872
+FileChecksum: SHA1: 19202c0624266c3350f647614e07b6fde5a072f8
+FileChecksum: MD5: 0073ae35e224cc6ec18cc5b78f099357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/test/java/karate-config.js
+SPDXID: SPDXRef-item9749876
+FileChecksum: SHA1: f0940cb2c634425294c56a5c4bf8919579cdf928
+FileChecksum: MD5: af92065b2c296e57d194bcaaab4bdddd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/resources/jolt/findServiceInventory.json
+SPDXID: SPDXRef-item9749897
+FileChecksum: SHA1: 04d78c61016cbffcf6438f59bcedd33678959528
+FileChecksum: MD5: 1c27a937b50df2692388cc8aa28f671d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/resources/jolt/getServiceInventory.json
+SPDXID: SPDXRef-item9749898
+FileChecksum: SHA1: ca2e692e3cb3107db0081ba0059daceb73dad8ed
+FileChecksum: MD5: 50c1c7dc0e0adf3b1e9f28fa22ee36c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/resources/jolt/getServiceCatalog.json
+SPDXID: SPDXRef-item9749899
+FileChecksum: SHA1: ceb0bcc927e82246dcc1cf3753c672fa6c15f079
+FileChecksum: MD5: 78d6081d30628de38f377d0d7e0644f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/src/main/resources/jolt/findServiceCatalog.json
+SPDXID: SPDXRef-item9749900
+FileChecksum: SHA1: 182bc46013c7fbd60786cc3cd8326d950bb51d42
+FileChecksum: MD5: 8f5797c9a80482fcd85c5e4bd947968e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/6.0.1.yaml
+SPDXID: SPDXRef-item9750073
+FileChecksum: SHA1: 7d315a8a9bc364eb6e6276592974e977d8d18ca9
+FileChecksum: MD5: 8a203b6347318fd99f94a4834956caf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/6.0.3.yaml
+SPDXID: SPDXRef-item9750074
+FileChecksum: SHA1: a23bae5386f274fa227acaee37d7b4b826eb2bfe
+FileChecksum: MD5: 7e4cb41da37be3860957cabbc768c3d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/5.0.1.yaml
+SPDXID: SPDXRef-item9750075
+FileChecksum: SHA1: 4294ac326f6b42a4d307277934d9c4a137ce80dc
+FileChecksum: MD5: 04f946bc3ccae261e6e4589d79add304
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/6.0.0-container.yaml
+SPDXID: SPDXRef-item9750076
+FileChecksum: SHA1: efe59e225c95cabc65ed8fe472a94423e9cdde2e
+FileChecksum: MD5: 563324c4277acefe1c2a348ed910f8a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/6.0.3-container.yaml
+SPDXID: SPDXRef-item9750077
+FileChecksum: SHA1: c5151368b9c50a3f116410cd572519694cd34d77
+FileChecksum: MD5: e44f2f6daf3e40f5539acf7103a94a75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/5.0.0.yaml
+SPDXID: SPDXRef-item9750078
+FileChecksum: SHA1: 46234907ad834eb48d611478cf7adb5232824cf2
+FileChecksum: MD5: 6c9d3214bfe4ddb4bc8449044c81d174
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/6.0.2-container.yaml
+SPDXID: SPDXRef-item9750079
+FileChecksum: SHA1: 87cbb25c7379416e28492c27208d7bf2d7566ec3
+FileChecksum: MD5: 4df8d39cc76548e3484268e8a5da3a52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/6.0.1-container.yaml
+SPDXID: SPDXRef-item9750080
+FileChecksum: SHA1: 879d5ff75d0398b79aa209484ef03cd46c1db096
+FileChecksum: MD5: c1e4b46d8c349eea615aaef5c9410337
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/releases/6.0.2.yaml
+SPDXID: SPDXRef-item9750081
+FileChecksum: SHA1: 9c1e4c5f3927bfb1a8e8d05d748cec1742625cc9
+FileChecksum: MD5: a262961d2afedd4b23eee4db789e3c0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/tox.ini
+SPDXID: SPDXRef-item9750082
+FileChecksum: SHA1: 20c21556d5880790fee2b36284a63d53bc9fe684
+FileChecksum: MD5: f89239628c423d10107dc6f94be6596b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/.readthedocs.yaml
+SPDXID: SPDXRef-item9750083
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/restclient/.vscode/settings.json
+SPDXID: SPDXRef-item9750087
+FileChecksum: SHA1: 1efe7495ab788c07c7cc49d79bc1b0329675bd1d
+FileChecksum: MD5: 40b1465ce1d1a5c1dc27812a46436c3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/restclient/json/serviceOrder_create_in_rejected.json
+SPDXID: SPDXRef-item9750090
+FileChecksum: SHA1: 50ed97bfcb6845126b5748b44bf4088064e01c88
+FileChecksum: MD5: 3c97be7e5b805ca0a9682ff3a936e13c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/restclient/json/serviceOrder_create_in_completed.json
+SPDXID: SPDXRef-item9750091
+FileChecksum: SHA1: 537a2d76660cad3c3da753c2d13b6a99b8868735
+FileChecksum: MD5: cd9f93effb0e9b772d893038c7177e54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/requirements-docs.txt
+SPDXID: SPDXRef-item9750098
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/conf.yaml
+SPDXID: SPDXRef-item9750099
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/conf.py
+SPDXID: SPDXRef-item9750100
+FileChecksum: SHA1: 563cbbe801ae2ce6edcd38c86c1f85e57dea72bc
+FileChecksum: MD5: d337e95d5645f61c16f48086749eb632
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/images/onap_nbi_dublin.jpg
+SPDXID: SPDXRef-item9750102
+FileChecksum: SHA1: c4dc01a33d82bea4402453ade3ae1a9f75db9e84
+FileChecksum: MD5: b65da10c24792c59787bfff077e94822
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/tox.ini
+SPDXID: SPDXRef-item9750114
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item9750119
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item9750120
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/_static/favicon.ico
+SPDXID: SPDXRef-item9750121
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceCatalog/onap_logo.png
+SPDXID: SPDXRef-item9750131
+FileChecksum: SHA1: 10dd0528333ffb682eecc2d06256a2daa5602ec3
+FileChecksum: MD5: ae56dbbee2f4a8862b565a86e73d32f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/images/pdf.png
+SPDXID: SPDXRef-item9750136
+FileChecksum: SHA1: 83557eb744cc05f070f49a69ebf3239c280a5d69
+FileChecksum: MD5: adb42a770dfe887287e94399b650b4ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/images/swagger.png
+SPDXID: SPDXRef-item9750137
+FileChecksum: SHA1: d52206325129492f43e8610254491adc324cd4d5
+FileChecksum: MD5: 5d9b98e719249dc8e585498f84c98bc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/images/uml.jpg
+SPDXID: SPDXRef-item9750138
+FileChecksum: SHA1: d90cb6e8165581123e4677517333ba9496a87c76
+FileChecksum: MD5: 33974c95a19a5ca352d92820ef050829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/images/notification.jpg
+SPDXID: SPDXRef-item9750139
+FileChecksum: SHA1: 2094f298714ff3e968ab9fa1df2e18fd223157c7
+FileChecksum: MD5: a143b273682629cfb4c06466e558ae4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/images/swaggerUI.png
+SPDXID: SPDXRef-item9750140
+FileChecksum: SHA1: d52206325129492f43e8610254491adc324cd4d5
+FileChecksum: MD5: 5d9b98e719249dc8e585498f84c98bc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/images/text_xml.png
+SPDXID: SPDXRef-item9750141
+FileChecksum: SHA1: a46b0ba9f7c428b5c2d9e258494049bad7740060
+FileChecksum: MD5: 819d1eea2d66aec1fbc66ac6befc9658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/images/postman.png
+SPDXID: SPDXRef-item9750142
+FileChecksum: SHA1: db9d0f391b89fed49683793774712b547f200b7b
+FileChecksum: MD5: 7d504bf66b4b2661c81fa62953b5af1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/images/html.png
+SPDXID: SPDXRef-item9750143
+FileChecksum: SHA1: bea10c6fe4a0a0c1082d85ea1c645e4bb8d86724
+FileChecksum: MD5: ee0a83325c912036dffd2c7aa3665387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceOrder/onap_logo.png
+SPDXID: SPDXRef-item9750147
+FileChecksum: SHA1: 10dd0528333ffb682eecc2d06256a2daa5602ec3
+FileChecksum: MD5: ae56dbbee2f4a8862b565a86e73d32f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_hub/onap_logo.png
+SPDXID: SPDXRef-item9750154
+FileChecksum: SHA1: 10dd0528333ffb682eecc2d06256a2daa5602ec3
+FileChecksum: MD5: ae56dbbee2f4a8862b565a86e73d32f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_status/onap_logo.png
+SPDXID: SPDXRef-item9750161
+FileChecksum: SHA1: 10dd0528333ffb682eecc2d06256a2daa5602ec3
+FileChecksum: MD5: ae56dbbee2f4a8862b565a86e73d32f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/api_serviceInventory/onap_logo.png
+SPDXID: SPDXRef-item9750168
+FileChecksum: SHA1: 10dd0528333ffb682eecc2d06256a2daa5602ec3
+FileChecksum: MD5: ae56dbbee2f4a8862b565a86e73d32f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/pdf/nbicallflow.pdf/nbicallflow
+SPDXID: SPDXRef-item9750175
+FileChecksum: SHA1: 1a11886bf13b63601c5fd881c42fa17f0b224eb6
+FileChecksum: MD5: 3ccb3f9a645f06b3db9c04e7a09059f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_status.js
+SPDXID: SPDXRef-item9750177
+FileChecksum: SHA1: a622ee9add612e62841cff0de88302c6c53a9b3c
+FileChecksum: MD5: 76e02e88b6d6a6874910ea5148e9b7e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_hub.rst
+SPDXID: SPDXRef-item9750178
+FileChecksum: SHA1: dcad7047dca274964f42e082a1fd788da9cd52c9
+FileChecksum: MD5: bb5421e6e586f7eb4039b77faaef2fbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_serviceCatalog.js
+SPDXID: SPDXRef-item9750179
+FileChecksum: SHA1: 1d3dd975bf66e114036cc66a63804bc02a3c87c6
+FileChecksum: MD5: fe510eaaaf5e2224f469f4bdf8222fa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_serviceCatalog.rst
+SPDXID: SPDXRef-item9750180
+FileChecksum: SHA1: a07ab8ac843cd709f209a3ae2cd1624d3fc3e42b
+FileChecksum: MD5: b79deb40052158cf158a3e0dc14f89e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_serviceInventory.js
+SPDXID: SPDXRef-item9750181
+FileChecksum: SHA1: 1a9173811ec7a214ba672a0920f830606be2dd4a
+FileChecksum: MD5: fb3419f5178d366d79111ccd7dc779c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_hub.js
+SPDXID: SPDXRef-item9750182
+FileChecksum: SHA1: fc7b38f7045644a3f08e5104cd8a00e6479f3ed6
+FileChecksum: MD5: 18b4091bcd88f90d153b51f37862cb1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_serviceInventory.rst
+SPDXID: SPDXRef-item9750183
+FileChecksum: SHA1: b03a271acecff90a801aa558cb38fcc9e31f4c88
+FileChecksum: MD5: cffbfd46fe1342bf790452f1a664af23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_status.rst
+SPDXID: SPDXRef-item9750184
+FileChecksum: SHA1: 142e0c8cd855520759e876cd978ee22f3e66d32e
+FileChecksum: MD5: 714271280b72622eec62ba84ea6fb86f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/redoc.js
+SPDXID: SPDXRef-item9750185
+FileChecksum: SHA1: 54ff673d9c9c392ec456ac20bce3c6fbe525d438
+FileChecksum: MD5: 0fd96b9a5683297f07d86d377fa95e5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_serviceOrder.js
+SPDXID: SPDXRef-item9750186
+FileChecksum: SHA1: 722b5c526a7b55479b350fdd766d4ad24e3493b7
+FileChecksum: MD5: 5f1dd48a8a2aefb8239115f51318c7c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/offeredapis/redoc/api_serviceOrder.rst
+SPDXID: SPDXRef-item9750187
+FileChecksum: SHA1: 9064fd603538263294a5c91524edc8975f6ce4c0
+FileChecksum: MD5: 8a5b0b9deb83ad190e451a21b37777a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: externalapi-nbi/docs/.gitignore
+SPDXID: SPDXRef-item9750188
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
