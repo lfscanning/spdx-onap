@@ -1,0 +1,3970 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_doc-2020-06-18.zip_1592581068.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-06-19T15:37:49Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: doc-2020-06-18.zip
+PackageFileName: doc-2020-06-18.zip
+SPDXID: SPDXRef-upload2554
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 2fbe218fa408551dbd3f610210738b4dc0bfda65
+PackageChecksum: SHA1: be7ea1087788a9b2d873fc9a5106451bcdc4d3dc
+PackageChecksum: MD5: 187f3e5ea9083f2397803e08f041fc80
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2554
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/onap-architecture.rst
+SPDXID: SPDXRef-item9749631
+FileChecksum: SHA1: a7f00da92df7f8c33e6dde026e99bef555812834
+FileChecksum: MD5: 9fd6cfaa33797c028b157c61978aa2f3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd.
+Copyright 2019 ONAP Contributors </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/settingup/index.rst
+SPDXID: SPDXRef-item9749570
+FileChecksum: SHA1: df0e32c5c948333bcf0ef29e12610403e6ddf863
+FileChecksum: MD5: b143ec20f085188a27739433b55c42a8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 AT&T Intellectual Property. All rights reserved.
+Copyright 2018 Amdocs
+Copyright 2018 Huawei
+Copyright 2018 Orange
+Copyright 2019 Orange </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-provider/index.rst
+SPDXID: SPDXRef-item9749609
+FileChecksum: SHA1: fbd3334b525ef335c28e26e43567c31626b1ad75
+FileChecksum: MD5: 2d17b5dcf40d0e6cd4acae749708865b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-provider/vnfvalidator.rst
+SPDXID: SPDXRef-item9749608
+FileChecksum: SHA1: db45d7b97c70622d985d58a9b60629e8138c0940
+FileChecksum: MD5: 9fcb727f886cff17b164db0e24796a61
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/pre-onboarding/index.rst
+SPDXID: SPDXRef-item9749291
+FileChecksum: SHA1: 186a80cca75e20db602c805e723693a55dc3b8a4
+FileChecksum: MD5: 2bde670b336680760780aec68936909c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/index.rst
+SPDXID: SPDXRef-item9749278
+FileChecksum: SHA1: bc97b3a2db66a6167331133fc39dcee0c683feeb
+FileChecksum: MD5: 6b43b27794f5d17be80165cddc6328fa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/overview/overview.rst
+SPDXID: SPDXRef-item9749244
+FileChecksum: SHA1: 20a9c1ebfe043bbabb6ad560eb9cf161fd009682
+FileChecksum: MD5: ab17b8028102c85082f0d3ea6432d11a
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property
+Copyright 2019 Nokia; Copyright 2017-2018 Huawei Technologies Co., Ltd. </text>
+ 
+
+##File
+
+FileName: doc/docs/release/releaserepos.rst
+SPDXID: SPDXRef-item9749683
+FileChecksum: SHA1: 14cae9d8934b5fc124b48622bac98c306e8c14df
+FileChecksum: MD5: a54f17ce3073cf09a4e5682156f4d7a7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/use-cases/index.rst
+SPDXID: SPDXRef-item9749651
+FileChecksum: SHA1: 51dd58d98a42128108b0e48d14ac3d3358dd6819
+FileChecksum: MD5: 44c98acdbad24b5281d31b4dfd801d68
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/build.rst
+SPDXID: SPDXRef-item9749656
+FileChecksum: SHA1: 44333033f5a400a9d55d761b670a00613e326020
+FileChecksum: MD5: a9d84b9ba3798135eb475ec7f41f47d2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/architecture.rst
+SPDXID: SPDXRef-item9749657
+FileChecksum: SHA1: ff3a2823298d2188632f9eec228a8e2b085bdb54
+FileChecksum: MD5: c8a0d12d4aeb4609d6acf3460cfd6ff9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/update-review.rst
+SPDXID: SPDXRef-item9749617
+FileChecksum: SHA1: 3fe550da94c230d445ca388e9046d3032f0bdcb8
+FileChecksum: MD5: 959dd8e557bc989440c7a119110dde3e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/vnf-reference.rst
+SPDXID: SPDXRef-item9749658
+FileChecksum: SHA1: c283ab46e7d8d6580b31a4a9f52723900875faed
+FileChecksum: MD5: 52c1a1e3f6129e6fdd819ecc3720a929
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/humaninterfaces.rst
+SPDXID: SPDXRef-item9749660
+FileChecksum: SHA1: 85550dc6238cbe5c4584460815fcb4c22e32db3d
+FileChecksum: MD5: deecd2232914c60d165de1d28ac87900
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/configuration.rst
+SPDXID: SPDXRef-item9749662
+FileChecksum: SHA1: e6935c5cdb7200b055f87f833521f5302f707c11
+FileChecksum: MD5: 86d91de00be5894a9a9c231f589ecd5c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/design.rst
+SPDXID: SPDXRef-item9749663
+FileChecksum: SHA1: 86f3024523e66a5708ffe6776f46cb07dfd4c517
+FileChecksum: MD5: d88b6563a097d9cb96b6fa0a3990e09f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/consumedapis.rst
+SPDXID: SPDXRef-item9749664
+FileChecksum: SHA1: 798016ca19896efa96ecc6358a7821874a3225c2
+FileChecksum: MD5: fb9d27075e4614d7cfb4d55b5baae684
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/installation.rst
+SPDXID: SPDXRef-item9749666
+FileChecksum: SHA1: 85d2a4dd4c8fb9322cc08b1992a8a00d29cee95a
+FileChecksum: MD5: 6f936a19431526018920c31b42c0b860
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/offeredapis.rst
+SPDXID: SPDXRef-item9749661
+FileChecksum: SHA1: aea3627caa040c42e51edd70161d5aaf32627fcb
+FileChecksum: MD5: 5a9f703dd33d06c2cc65f355c947ba58
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/logging.rst
+SPDXID: SPDXRef-item9749665
+FileChecksum: SHA1: 4f9200ec774c420380e65eb39b3c462f15e94352
+FileChecksum: MD5: 7453fbfd99f86f5f9a923006f26d5e15
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/delivery.rst
+SPDXID: SPDXRef-item9749667
+FileChecksum: SHA1: 5657844ce5ff9f0d3d9658a7aad7b129113055ec
+FileChecksum: MD5: 7c9885293b6f60895cfed1ba85b56d05
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/administration.rst
+SPDXID: SPDXRef-item9749668
+FileChecksum: SHA1: e0a386319d51400c8e358b50d39cd2fb5dda5a19
+FileChecksum: MD5: e9fbf80f9892e766d3e9985e251afbda
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/collections/platform-component.rst
+SPDXID: SPDXRef-item9749671
+FileChecksum: SHA1: 2459dab447c9f07943884ebdc97d4cf4784e1eb2
+FileChecksum: MD5: 2d922769ed66cab6053ef92a88e67f48
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/templates/collections/sdk.rst
+SPDXID: SPDXRef-item9749670
+FileChecksum: SHA1: c9b425cd243a293a26b70102fd9097cd90f905c7
+FileChecksum: MD5: ecc3b2687fb349e3b8565efe341ec3d8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/use-cases/vfw.rst
+SPDXID: SPDXRef-item9749629
+FileChecksum: SHA1: 09701793a0082ae971dfcd2d42e4068a035aba53
+FileChecksum: MD5: c3f76eeed3f954e6cf5c6f34b10b81ae
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/use-cases/index.rst
+SPDXID: SPDXRef-item9749628
+FileChecksum: SHA1: c1750f8b32072b95ef63ced8cd4a63b98cf28af2
+FileChecksum: MD5: deaf2be6b2a1734f47b3152400182434
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/use-cases/vfw.rst
+SPDXID: SPDXRef-item9749652
+FileChecksum: SHA1: 6e7c47972629b0b6a47c684d562438515a99916c
+FileChecksum: MD5: 8ff770d8c602e6887484f25140f00e3d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/index.rst
+SPDXID: SPDXRef-item9749632
+FileChecksum: SHA1: a35c0d5ea2f84ee831357d526c9dd56a62a4c0cc
+FileChecksum: MD5: fbe551b217af55030646e84a56865612
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/index.rst
+SPDXID: SPDXRef-item9749236
+FileChecksum: SHA1: a7c3322e8700632ee7f4b0a4436f98bb2086af20
+FileChecksum: MD5: 6c3dcd5be6e7a17b11a1176efb0a0aa9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onapportal.rst
+SPDXID: SPDXRef-item9749287
+FileChecksum: SHA1: 00481459ac9668430fa0d2494c905e8df3f202e9
+FileChecksum: MD5: 470da358191a9f79b20111ef1ded61a2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onapcli.rst
+SPDXID: SPDXRef-item9749540
+FileChecksum: SHA1: 67e48bd6b18b0a7206fa990ec5becceb8ca193f6
+FileChecksum: MD5: 0df161dc3cd322c51a7c9f3b3fa6fb06
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/platformoperations.rst
+SPDXID: SPDXRef-item9749568
+FileChecksum: SHA1: c21ff927bf6c7ae09749d07efe17d96a3eda201c
+FileChecksum: MD5: d191866b0647cf11c08bef8b921785e2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/release-notes.rst
+SPDXID: SPDXRef-item9749237
+FileChecksum: SHA1: d9b73915d527058bb5681da1fd4efd90dcfc7187
+FileChecksum: MD5: dc081fc437846ab7218f82ecdf17e428
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved.
+Copyright 2018-2020 by ONAP and contributors. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/apiref/index.rst
+SPDXID: SPDXRef-item9749626
+FileChecksum: SHA1: 01c1113f5e0ed9574734040de9117bb53a6bd634
+FileChecksum: MD5: 0db8f353ab6f0477ecda498f2f9df1ce
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/documentation-guide.rst
+SPDXID: SPDXRef-item9749624
+FileChecksum: SHA1: c2249bdfd8a454bc1e9916f1545847db008774ba
+FileChecksum: MD5: e80c94ec924467673957b81be1e6336c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved.
+Copyright YEAR ONAP or COMPANY or INDIVIDUAL </text>
+ 
+
+##File
+
+FileName: doc/docs/templates/sections/release-notes.rst
+SPDXID: SPDXRef-item9749659
+FileChecksum: SHA1: c12f9db3a77aa38e6594e7d9a05e0163fd6cc5da
+FileChecksum: MD5: 4e628d4d81d1cdcbcddd665508779ff2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/release/index.rst
+SPDXID: SPDXRef-item9749682
+FileChecksum: SHA1: 9d9d47a5f8c829029cec0bfd4299b6b42a510b19
+FileChecksum: MD5: bf54936a783d115cfa0f84e9d2634679
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/include-documentation.rst
+SPDXID: SPDXRef-item9749619
+FileChecksum: SHA1: 7f8527d233fe43a1fca5e18cd197595ba0ba3607
+FileChecksum: MD5: 62aa3c79e420032786154ddd7d06ce80
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/LICENSE
+SPDXID: SPDXRef-item9749229
+FileChecksum: SHA1: 376eef8566100ec79860b0c6edf6b6adb8cf82db
+FileChecksum: MD5: 1652a446f86ae2b7ffa02d2af06f49c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 Open Network Automation Platform and contributors </text>
+ 
+
+##File
+
+FileName: doc/shell/smsummary.sh
+SPDXID: SPDXRef-item9749228
+FileChecksum: SHA1: 041f9fa9f1761cf553ee835b239331a189877ddd
+FileChecksum: MD5: cf7eb12153304e916cb2655d839dedf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Open Network Automation Platform and contributors </text>
+ 
+
+##File
+
+FileName: doc/tools/c2m.sh
+SPDXID: SPDXRef-item9749225
+FileChecksum: SHA1: 5322c015cbf8165aebf7c2177d3b8b651cbca133
+FileChecksum: MD5: 8e3f1d2e40605925cc68b38296724674
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/tools/warnstats.sh
+SPDXID: SPDXRef-item9749222
+FileChecksum: SHA1: a5875e4ba7d39c991d61678479292e71d99014e6
+FileChecksum: MD5: 2a4a20acc5e80541c3b9db7d8ea4079c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/configure/pnf_connect/index.rst
+SPDXID: SPDXRef-item9749284
+FileChecksum: SHA1: 47560f5fd3880ae8111da2b03a1eb7bfb99f1bde
+FileChecksum: MD5: c1ccf34cdfc19ccd034ab98e647d44b8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/configure/vnf_connect/index.rst
+SPDXID: SPDXRef-item9749282
+FileChecksum: SHA1: 3e0e6bb07f522343feb7b406471d4481f161639b
+FileChecksum: MD5: 6882921d3c0e27a49d312d8ced097cf2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/configure/index.rst
+SPDXID: SPDXRef-item9749280
+FileChecksum: SHA1: 855d6effefea7213acbeed974b6069b581df69f6
+FileChecksum: MD5: 2ebd6f206494d7ae0d7320f7dc9109d3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/control-loop/index.rst
+SPDXID: SPDXRef-item9749302
+FileChecksum: SHA1: 722e742de86a724e6f625c240ced8ae956c17e09
+FileChecksum: MD5: d45640523043b953c1648714e7e271b4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/overview/index.rst
+SPDXID: SPDXRef-item9749243
+FileChecksum: SHA1: 21fdb62cdd48b4c6bc919f525970cd32612c74a9
+FileChecksum: MD5: ea12642328b1084281ced07981ca2f67
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Nokia </text>
+ 
+
+##File
+
+FileName: doc/docs/smsummary.rst
+SPDXID: SPDXRef-item9749675
+FileChecksum: SHA1: c7584dde6844db9f8b8496fb51d8e23e0754b2a9
+FileChecksum: MD5: 7c496793ed3c5fd6e56306027811383f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/active-projects/index.rst
+SPDXID: SPDXRef-item9749241
+FileChecksum: SHA1: fa8b68e1950112ed64eb40d20d5255f073b71b52
+FileChecksum: MD5: c415b2e6143b35d2f817a418f46b1c32
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2020 </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/references.rst
+SPDXID: SPDXRef-item9749633
+FileChecksum: SHA1: 6d1f72cb97d8e47f06803cda706ed64e7109713c
+FileChecksum: MD5: 2568663ba30654cbcc39dd7a73f36455
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/developing/index.rst
+SPDXID: SPDXRef-item9749648
+FileChecksum: SHA1: f190e4bc82914df042a65bb88d9a45391da433ba
+FileChecksum: MD5: d19025519dd94b20bed23f1e16330c7d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/addendum.rst
+SPDXID: SPDXRef-item9749623
+FileChecksum: SHA1: c1fda0e805b9361e35eae53b655068817e0bb9dc
+FileChecksum: MD5: a819f714c31532874a92aadfa327d17f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/api-swagger-guide.rst
+SPDXID: SPDXRef-item9749615
+FileChecksum: SHA1: 8c9dc9b2eb1da7b3693d0bfe7c7bb3349a168668
+FileChecksum: MD5: 706f1945e76104e72f53bccd327ff435
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Orange. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/converting-formats.rst
+SPDXID: SPDXRef-item9749618
+FileChecksum: SHA1: 30ce23589dbbef7141ded8e3a57e7f26559799a7
+FileChecksum: MD5: 51b39728731a22421f24dcb6c6399a7e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/index.rst
+SPDXID: SPDXRef-item9749614
+FileChecksum: SHA1: 72a97f9e7ca056f80f8abe5e810cf3ead6c08c35
+FileChecksum: MD5: 74c4c5316b7b298953a339fc92eec172
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/myAPI1.json
+SPDXID: SPDXRef-item9749622
+FileChecksum: SHA1: 3505116ffa233d5bb25281b79ccd25ca76e64f0b
+FileChecksum: MD5: edeec08ed669667eb2f22b33cb7f2805
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/myAPI2.json
+SPDXID: SPDXRef-item9749613
+FileChecksum: SHA1: a2c00f5f8460a6ef30e5725603f03423aaf49093
+FileChecksum: MD5: dc3eedac621dbd347fbbcb0f85419948
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/style-guide.rst
+SPDXID: SPDXRef-item9749620
+FileChecksum: SHA1: 9c97a3f452bed4982db140212ac06de4f3d6edf2
+FileChecksum: MD5: 1d152da45668661c06207d5e37e512e3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/tutorials/index.rst
+SPDXID: SPDXRef-item9749646
+FileChecksum: SHA1: c36eaea39fbc8108eca2ebb5445637489617a711
+FileChecksum: MD5: 62aeaaa4a885ebeaacc9300900452569
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/index.rst
+SPDXID: SPDXRef-item9749611
+FileChecksum: SHA1: c0b575d7b6282f2130bef36c8127811a5de82547
+FileChecksum: MD5: 3637f8a9b305b465329b26a3c4d68616
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/cloud_site/aws/index.rst
+SPDXID: SPDXRef-item9749565
+FileChecksum: SHA1: 812296b2ae00defcd056cf7d4f9255c15528331c
+FileChecksum: MD5: 70711ee094e532aa22f92b4c1ba2f814
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/cloud_site/azure/index.rst
+SPDXID: SPDXRef-item9749563
+FileChecksum: SHA1: 80dfbee27a322f7082d9166c1486d975e6961957
+FileChecksum: MD5: b4217531276a333ebda15cfd0c6ca131
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/cloud_site/k8s/index.rst
+SPDXID: SPDXRef-item9749567
+FileChecksum: SHA1: 985ff695ac3a650126be0371d95d03710305e0c3
+FileChecksum: MD5: aad3b871dc3bd8f089ba18676d9dd50d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/cloud_site/openstack/index.rst
+SPDXID: SPDXRef-item9749561
+FileChecksum: SHA1: f5514d6748eea37f4cc29e43ebb1a3cf55b989ac
+FileChecksum: MD5: 7545676f5633eb7b8805e5827cbb3845
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/cloud_site/vmware/index.rst
+SPDXID: SPDXRef-item9749559
+FileChecksum: SHA1: f76ba13cd5a05ed789a48da824f338b8d694f77d
+FileChecksum: MD5: bc882e9e56eedd912574e0bceccd358c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/cloud_site/index.rst
+SPDXID: SPDXRef-item9749557
+FileChecksum: SHA1: 0aa1b14a85301dd90d110f8dbcea2e24de22d605
+FileChecksum: MD5: 412139a8c56fa5d5cdc04585dfc27558
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/index.rst
+SPDXID: SPDXRef-item9749555
+FileChecksum: SHA1: 59f6a66bd3fe916e440e28d69db6cfd8edfbce9e
+FileChecksum: MD5: bb321309ea028737616de6c51abd19f1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/configure/change_config/index.rst
+SPDXID: SPDXRef-item9749286
+FileChecksum: SHA1: de6a4681ead0b317c6e62f53881eba05338d5427
+FileChecksum: MD5: 5a0c8f99f872c6d42ee4967b56979762
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/index.rst
+SPDXID: SPDXRef-item9749306
+FileChecksum: SHA1: 4b9dcd99da8cbd432982465cfca69bb76c0839c6
+FileChecksum: MD5: c39f15e89f212942ddaf1270b8620fa2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/index.rst
+SPDXID: SPDXRef-item9749515
+FileChecksum: SHA1: 93e4bbd4a31eaadf0300c25db7e99e1df06a9d9a
+FileChecksum: MD5: 84e9d7dc258075230460d809a41e112a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/index.rst
+SPDXID: SPDXRef-item9749501
+FileChecksum: SHA1: 72ce9200a671b840e2a6a7d202ce86818453b4ae
+FileChecksum: MD5: c73031e72689fb067df11a173fcfd508
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-distribution/index.rst
+SPDXID: SPDXRef-item9749295
+FileChecksum: SHA1: 66ff1a860e8a8bbd4c318cc454b7d2c53b95a6d8
+FileChecksum: MD5: 616abec4ece90ce7209a219ee360da77
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/index.rst
+SPDXID: SPDXRef-item9749482
+FileChecksum: SHA1: b0ccfe83e63ad91f987c76c1a27cfcc338f8866e
+FileChecksum: MD5: af5b090075ab13dab8674ec06d7b0e42
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Doc Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/index.rst
+SPDXID: SPDXRef-item9749289
+FileChecksum: SHA1: 530bd3a607dc9ba8dfb660d1a8a623fe7fb8ee8c
+FileChecksum: MD5: 7c4bfdf754df0a52c19942b16368246e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/nbi/index.rst
+SPDXID: SPDXRef-item9749266
+FileChecksum: SHA1: 8a12e7a618bb14fba7bba710697136555732e67d
+FileChecksum: MD5: 52c1990df071b6e03c3b4028fb81d35c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/pnf_instance/index.rst
+SPDXID: SPDXRef-item9749268
+FileChecksum: SHA1: 57bc41e150fdf8e30fcd38b4ef7e52ec3087e68b
+FileChecksum: MD5: 849bd0beda2c41316dfd3e3296884b11
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/service_instance/index.rst
+SPDXID: SPDXRef-item9749264
+FileChecksum: SHA1: 1e3d2ebc79f0d907fa8d06f11a349077d05c4051
+FileChecksum: MD5: 031529286f934f7f767c714de6c5e976
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/so1/index.rst
+SPDXID: SPDXRef-item9749274
+FileChecksum: SHA1: 64f56c6bdf9e29362b8e8ae40455bca1674e4250
+FileChecksum: MD5: 940c8552490b0fbc6d079ba15ae985c5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/so2/index.rst
+SPDXID: SPDXRef-item9749262
+FileChecksum: SHA1: 290b0415770e237ddb7e2a90781272b89b822d98
+FileChecksum: MD5: fc1b8e5f60d2a0c193d85613bae59389
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/uui/index.rst
+SPDXID: SPDXRef-item9749270
+FileChecksum: SHA1: 7e439bc308e4f83ab9c54bf493a451f6ea7fdd9c
+FileChecksum: MD5: b74c747dfabd548ff27eee00b6542539
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/vid/index.rst
+SPDXID: SPDXRef-item9749276
+FileChecksum: SHA1: 35bea04d577048141ad61e4542de28cbd031e243
+FileChecksum: MD5: 2b44ec7924392bb8ce0784ed4466a810
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/virtual_link_instance/index.rst
+SPDXID: SPDXRef-item9749259
+FileChecksum: SHA1: ee3a15ee3e6e5cf6d57d56611d11e39d87de080f
+FileChecksum: MD5: 43fae1cb222ff7af8585052bef7f7141
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/vnf_instance/index.rst
+SPDXID: SPDXRef-item9749272
+FileChecksum: SHA1: 679afcc1c23ee22235c9cca2954c5bb83b6a2df5
+FileChecksum: MD5: 97b932f9b501ca48d3ba93081ca8b88f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/instantiation/index.rst
+SPDXID: SPDXRef-item9749260
+FileChecksum: SHA1: df13ecb8f485f8263b59303a0095558d22077ce5
+FileChecksum: MD5: 04e01760214dad082f7b82bbd091bc01
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/pre_instantiation/index.rst
+SPDXID: SPDXRef-item9749255
+FileChecksum: SHA1: 51e94d8e31ff5d1292516a746132ea584da78007
+FileChecksum: MD5: 7439f2d11266606a8e2d6e97ba266f28
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 ONAP Contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/instantiate/index.rst
+SPDXID: SPDXRef-item9749256
+FileChecksum: SHA1: 0dcf35008af0bc03dbe1a7b4c345f74818702c5d
+FileChecksum: MD5: bb7b4a1f782f4926e7aa9d2d7be29a15
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: doc/INFO.yaml
+SPDXID: SPDXRef-item9749219
+FileChecksum: SHA1: 479314c80cc09e2b86c9d47c94058665b15193f4
+FileChecksum: MD5: 3cf1758fa7a838613cbbe1feb6a593ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/.gitreview
+SPDXID: SPDXRef-item9749220
+FileChecksum: SHA1: 41a69d638d82d00d133ce38f938ae476bc4aff96
+FileChecksum: MD5: 9a1378d6d6bd798cd4ca7661f84e7cf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/tools/README.md
+SPDXID: SPDXRef-item9749223
+FileChecksum: SHA1: 7a652f2962f2d6330653774ed842b330fe208236
+FileChecksum: MD5: 444233c0320f88ca20beb36631396dad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/tools/example.pagelist
+SPDXID: SPDXRef-item9749224
+FileChecksum: SHA1: e44c6aba5bea551e17f653673c422c0d53e5b66e
+FileChecksum: MD5: 105e6fd852a6d2a402f69b2bc9eb8960
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/tools/example-tox-build-log
+SPDXID: SPDXRef-item9749226
+FileChecksum: SHA1: b9adeb7c4a4ba9537e3446a6a3ca5e416fb9f7bb
+FileChecksum: MD5: ddd05fec8444114c123164ec29c89643
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/etc/requirements.txt
+SPDXID: SPDXRef-item9749231
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/tox.ini
+SPDXID: SPDXRef-item9749232
+FileChecksum: SHA1: 91111943cba87520ab4007d30ade295f06382e22
+FileChecksum: MD5: dd4daabc638cca9504334f3b2d19f59b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/.readthedocs.yaml
+SPDXID: SPDXRef-item9749233
+FileChecksum: SHA1: 578eb9bc3c8a44b470b726138bb5c76550ef9f35
+FileChecksum: MD5: 448c0c2a0772a8649563a476c0fec2da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/.gitignore
+SPDXID: SPDXRef-item9749234
+FileChecksum: SHA1: 39096767f23224b19e93ab2c40d2bc6cd128e355
+FileChecksum: MD5: f7eef6376c1d8c8f17b69c31a19b4bac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/conf.yaml
+SPDXID: SPDXRef-item9749238
+FileChecksum: SHA1: 14f4ce777b47aec89a812b784d8cb7e09c48e561
+FileChecksum: MD5: 02159a2cbb1f2319a34be0d454407bd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/overview/media/ONAP_architecture_high_level.svg
+SPDXID: SPDXRef-item9749246
+FileChecksum: SHA1: dd4b0e7e97217d3bd3a09b587a87ce963092c584
+FileChecksum: MD5: 1eaa506cd9a7aa7d5f657f6b2642ed91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/overview/media/ONAP_architecture_high_level.des
+SPDXID: SPDXRef-item9749247
+FileChecksum: SHA1: 9cc0b0fb07aea090632626352348c1c2d57d08f1
+FileChecksum: MD5: e3b3b42533f35f42bd04fdfb1df11c7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/overview/media/ONAP_main_functions.des
+SPDXID: SPDXRef-item9749248
+FileChecksum: SHA1: cdee42805321d7f7a48d23dbdcde4e647327fc63
+FileChecksum: MD5: 71e54de5c5fe2f25417493c11526b7fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/overview/media/ONAP_architecture_high_level.png
+SPDXID: SPDXRef-item9749249
+FileChecksum: SHA1: f68a0222b052f78b9726c8b2eaed3fd46f3dab36
+FileChecksum: MD5: d43702e6dcd139816a45019cadaed4b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/overview/media/ONAP_main_functions.svg
+SPDXID: SPDXRef-item9749250
+FileChecksum: SHA1: 6e69189c8b85b301348d182da23b60d482badc8f
+FileChecksum: MD5: 8c98dee2e6bcd0fcdc071e98431fe1c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/overview/media/ONAP_main_functions.png
+SPDXID: SPDXRef-item9749251
+FileChecksum: SHA1: 60c0468aa0663e0f6b8f7d9e3ab84ad4646b11d8
+FileChecksum: MD5: 15bb9793abbdbf95915dd7e38bd6d2d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-home.png
+SPDXID: SPDXRef-item9749277
+FileChecksum: SHA1: a0493cb5e77ddac9df296723253a43af638175db
+FileChecksum: MD5: 57b4e485aec2a9f6f2b9ad842f89ed68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/pre-onboarding/media/tenant.png
+SPDXID: SPDXRef-item9749293
+FileChecksum: SHA1: 4527f61698231ab439fb9e11270975b203cdfe0e
+FileChecksum: MD5: 2a0b89dbaa0d85369058dd34c013e205
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-distribution/media/design_governance_workflow.png
+SPDXID: SPDXRef-item9749297
+FileChecksum: SHA1: be6e950c9b1dc5373a1f070c345480dba06d5ac3
+FileChecksum: MD5: dacd97241d4c369cc0c1802f1249fa5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-distribution/media/sdc-service-distribute.png
+SPDXID: SPDXRef-item9749298
+FileChecksum: SHA1: c06fa7602f54dcd0dba0ec37917f0ee7cb43c03f
+FileChecksum: MD5: 44a534204d1cecff8394a8d6dd59bc60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-distribution/media/sdc-service-distribution-workflow.png
+SPDXID: SPDXRef-item9749299
+FileChecksum: SHA1: 05dec5ad3c58f2e9d157f583d11471cf0205e4cc
+FileChecksum: MD5: f66dd28ccb3e559fa49abb614142d705
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-distribution/media/sdc-service-distribute-monitor.png
+SPDXID: SPDXRef-item9749300
+FileChecksum: SHA1: db3b928f3a652e966e856b95452b135820899da1
+FileChecksum: MD5: 3a3b9f50264b7db024bb71bc58f38fbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/control-loop/media/DesignModel.png
+SPDXID: SPDXRef-item9749304
+FileChecksum: SHA1: ff4db24469799ed4a6b84277180486bae18adebb
+FileChecksum: MD5: 1921b1127b4ff8c24a370a8efa838556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/Templates/ubuntuCDS-mapping.json
+SPDXID: SPDXRef-item9749310
+FileChecksum: SHA1: c0f6cf463ba173512665bdd553d2ac5d8ec2f271
+FileChecksum: MD5: 0b55991b7d06b33b883a126a732e2465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/Templates/ubuntuCDS-template.vtl
+SPDXID: SPDXRef-item9749311
+FileChecksum: SHA1: 03628ece6f9da45063e0d2c3630117f2d105dfd5
+FileChecksum: MD5: af74930774a2523a11c59494dfa6e1e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/Templates/base_ubuntuCDS-mapping.json
+SPDXID: SPDXRef-item9749312
+FileChecksum: SHA1: ce40c775b61ec2a36ac0b9015a7a9acca32bdae3
+FileChecksum: MD5: c169221fb71dcab3ccfcaeaecf6ca1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/Templates/base_ubuntuCDS-template.vtl
+SPDXID: SPDXRef-item9749313
+FileChecksum: SHA1: dfe4cc0f78f15062ca50b3b526f4025ce8fd8284
+FileChecksum: MD5: 2d8dc7339cfa97a662182fb57a040270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/Definitions/ubuntuCDS.json
+SPDXID: SPDXRef-item9749315
+FileChecksum: SHA1: 7e25a8552b24f248a8babd007cd37c0166a0c0ee
+FileChecksum: MD5: f810c06e5f9eabee53fe1d68df4d0943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item9749317
+FileChecksum: SHA1: 5978809d325f10990761b0d1f3fd41f7d7cdcb67
+FileChecksum: MD5: b8af66aa7a4de0c552b7ad6fd82e770c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/cba-before-enrichment.zip/Templates/ubuntuCDS-mapping.json
+SPDXID: SPDXRef-item9749322
+FileChecksum: SHA1: c0f6cf463ba173512665bdd553d2ac5d8ec2f271
+FileChecksum: MD5: 0b55991b7d06b33b883a126a732e2465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/cba-before-enrichment.zip/Templates/ubuntuCDS-template.vtl
+SPDXID: SPDXRef-item9749323
+FileChecksum: SHA1: 03628ece6f9da45063e0d2c3630117f2d105dfd5
+FileChecksum: MD5: af74930774a2523a11c59494dfa6e1e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/cba-before-enrichment.zip/Templates/base_ubuntuCDS-mapping.json
+SPDXID: SPDXRef-item9749324
+FileChecksum: SHA1: ce40c775b61ec2a36ac0b9015a7a9acca32bdae3
+FileChecksum: MD5: c169221fb71dcab3ccfcaeaecf6ca1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/cba-before-enrichment.zip/Templates/base_ubuntuCDS-template.vtl
+SPDXID: SPDXRef-item9749325
+FileChecksum: SHA1: dfe4cc0f78f15062ca50b3b526f4025ce8fd8284
+FileChecksum: MD5: 2d8dc7339cfa97a662182fb57a040270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/cba-before-enrichment.zip/Definitions/ubuntuCDS.json
+SPDXID: SPDXRef-item9749327
+FileChecksum: SHA1: 7e25a8552b24f248a8babd007cd37c0166a0c0ee
+FileChecksum: MD5: f810c06e5f9eabee53fe1d68df4d0943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-before-enrichment/cba-before-enrichment.zip/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item9749329
+FileChecksum: SHA1: 5978809d325f10990761b0d1f3fd41f7d7cdcb67
+FileChecksum: MD5: b8af66aa7a4de0c552b7ad6fd82e770c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Templates/ubuntuCDS-mapping.json
+SPDXID: SPDXRef-item9749332
+FileChecksum: SHA1: c0f6cf463ba173512665bdd553d2ac5d8ec2f271
+FileChecksum: MD5: 0b55991b7d06b33b883a126a732e2465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Templates/ubuntuCDS-template.vtl
+SPDXID: SPDXRef-item9749333
+FileChecksum: SHA1: 03628ece6f9da45063e0d2c3630117f2d105dfd5
+FileChecksum: MD5: af74930774a2523a11c59494dfa6e1e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Templates/base_ubuntuCDS-mapping.json
+SPDXID: SPDXRef-item9749334
+FileChecksum: SHA1: ce40c775b61ec2a36ac0b9015a7a9acca32bdae3
+FileChecksum: MD5: c169221fb71dcab3ccfcaeaecf6ca1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Templates/base_ubuntuCDS-template.vtl
+SPDXID: SPDXRef-item9749335
+FileChecksum: SHA1: dfe4cc0f78f15062ca50b3b526f4025ce8fd8284
+FileChecksum: MD5: 2d8dc7339cfa97a662182fb57a040270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Templates/ubuntuCDS-mapping.json
+SPDXID: SPDXRef-item9749340
+FileChecksum: SHA1: c0f6cf463ba173512665bdd553d2ac5d8ec2f271
+FileChecksum: MD5: 0b55991b7d06b33b883a126a732e2465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Templates/ubuntuCDS-template.vtl
+SPDXID: SPDXRef-item9749341
+FileChecksum: SHA1: 03628ece6f9da45063e0d2c3630117f2d105dfd5
+FileChecksum: MD5: af74930774a2523a11c59494dfa6e1e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Templates/base_ubuntuCDS-mapping.json
+SPDXID: SPDXRef-item9749342
+FileChecksum: SHA1: ce40c775b61ec2a36ac0b9015a7a9acca32bdae3
+FileChecksum: MD5: c169221fb71dcab3ccfcaeaecf6ca1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Templates/base_ubuntuCDS-template.vtl
+SPDXID: SPDXRef-item9749343
+FileChecksum: SHA1: dfe4cc0f78f15062ca50b3b526f4025ce8fd8284
+FileChecksum: MD5: 2d8dc7339cfa97a662182fb57a040270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Definitions/artifact_types.json
+SPDXID: SPDXRef-item9749345
+FileChecksum: SHA1: e8e4fe448abd675140ea8b42f9b6f563632c2129
+FileChecksum: MD5: 1d3b601d7f192953c16369b03eb75e2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Definitions/resources_definition_types.json
+SPDXID: SPDXRef-item9749346
+FileChecksum: SHA1: 4a98ba0a1cf7fa4e742505dc5cb13f6b36da0179
+FileChecksum: MD5: 6fa76061791a686e080fefbbd4d7157c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Definitions/relationship_types.json
+SPDXID: SPDXRef-item9749347
+FileChecksum: SHA1: c324c887074e7b0a8744ab781d127d44342e516f
+FileChecksum: MD5: f0dd02f93f51b97e6b19355c4ea9a254
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Definitions/policy_types.json
+SPDXID: SPDXRef-item9749348
+FileChecksum: SHA1: 7b903806de3764a5fcd9ccf3560e5ddd8bacdab5
+FileChecksum: MD5: 78b07ecf90ef91118a31a03999cd2687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Definitions/ubuntuCDS.json
+SPDXID: SPDXRef-item9749349
+FileChecksum: SHA1: a7c9486ffdb0959444695927e2768a7e31db3470
+FileChecksum: MD5: a8ce8365ba9caa00dc369121bd5115c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Definitions/data_types.json
+SPDXID: SPDXRef-item9749350
+FileChecksum: SHA1: 0cdd22372dd0f4cee3f09cdcc3b9a0fa9063fdc2
+FileChecksum: MD5: 73087e05091baf1ecf7295b5a52664e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/Definitions/node_types.json
+SPDXID: SPDXRef-item9749351
+FileChecksum: SHA1: c0b4ef847c67c69db0b090f87622b779c9f2949d
+FileChecksum: MD5: accf00779fc25bb135857128e2828cee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/cba-ubuntuCDS-enriched.zip/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item9749353
+FileChecksum: SHA1: 5978809d325f10990761b0d1f3fd41f7d7cdcb67
+FileChecksum: MD5: b8af66aa7a4de0c552b7ad6fd82e770c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Definitions/artifact_types.json
+SPDXID: SPDXRef-item9749355
+FileChecksum: SHA1: e8e4fe448abd675140ea8b42f9b6f563632c2129
+FileChecksum: MD5: 1d3b601d7f192953c16369b03eb75e2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Definitions/resources_definition_types.json
+SPDXID: SPDXRef-item9749356
+FileChecksum: SHA1: 4a98ba0a1cf7fa4e742505dc5cb13f6b36da0179
+FileChecksum: MD5: 6fa76061791a686e080fefbbd4d7157c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Definitions/relationship_types.json
+SPDXID: SPDXRef-item9749357
+FileChecksum: SHA1: c324c887074e7b0a8744ab781d127d44342e516f
+FileChecksum: MD5: f0dd02f93f51b97e6b19355c4ea9a254
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Definitions/policy_types.json
+SPDXID: SPDXRef-item9749358
+FileChecksum: SHA1: 7b903806de3764a5fcd9ccf3560e5ddd8bacdab5
+FileChecksum: MD5: 78b07ecf90ef91118a31a03999cd2687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Definitions/ubuntuCDS.json
+SPDXID: SPDXRef-item9749359
+FileChecksum: SHA1: a7c9486ffdb0959444695927e2768a7e31db3470
+FileChecksum: MD5: a8ce8365ba9caa00dc369121bd5115c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Definitions/data_types.json
+SPDXID: SPDXRef-item9749360
+FileChecksum: SHA1: 0cdd22372dd0f4cee3f09cdcc3b9a0fa9063fdc2
+FileChecksum: MD5: 73087e05091baf1ecf7295b5a52664e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/Definitions/node_types.json
+SPDXID: SPDXRef-item9749361
+FileChecksum: SHA1: c0b4ef847c67c69db0b090f87622b779c9f2949d
+FileChecksum: MD5: accf00779fc25bb135857128e2828cee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/cba-after-enrichment/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item9749363
+FileChecksum: SHA1: 5978809d325f10990761b0d1f3fd41f7d7cdcb67
+FileChecksum: MD5: b8af66aa7a4de0c552b7ad6fd82e770c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/curls_resource_dictionary.txt
+SPDXID: SPDXRef-item9749364
+FileChecksum: SHA1: 62304bafa69e3ed5e7e5cc1c90f3d6a9f6dafe70
+FileChecksum: MD5: 87482e05bd81f3dcfc0ce9b4b8f0ab5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/ubuntuCDS_heat/base_ubuntuCDS.env
+SPDXID: SPDXRef-item9749366
+FileChecksum: SHA1: 6a12ea8fa5c4f3a802760208b3eea2ba259ad02e
+FileChecksum: MD5: ac3ebcc15a046178565b2ab860911d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/ubuntuCDS_heat/base_ubuntuCDS.yaml
+SPDXID: SPDXRef-item9749367
+FileChecksum: SHA1: d8d2b501b71bf29803877c4bc75857e96c7c07bc
+FileChecksum: MD5: d58516e51b45f64939ca65c09cd3be22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/ubuntuCDS_heat/ubuntuCDS_heat.zip/base_ubuntuCDS.env
+SPDXID: SPDXRef-item9749371
+FileChecksum: SHA1: 6a12ea8fa5c4f3a802760208b3eea2ba259ad02e
+FileChecksum: MD5: ac3ebcc15a046178565b2ab860911d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/parameter_resolution/ubuntu_example/ubuntuCDS_heat/ubuntuCDS_heat.zip/base_ubuntuCDS.yaml
+SPDXID: SPDXRef-item9749372
+FileChecksum: SHA1: d8d2b501b71bf29803877c4bc75857e96c7c07bc
+FileChecksum: MD5: d58516e51b45f64939ca65c09cd3be22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/sdc.png
+SPDXID: SPDXRef-item9749374
+FileChecksum: SHA1: d5051fb54cedd22005e1fafedb45dd583709d79b
+FileChecksum: MD5: a656b0e7bcb9159047f8c7a4bd99cd95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/_rels/.rels
+SPDXID: SPDXRef-item9749379
+FileChecksum: SHA1: 2af30b77413a1c603a5289139ca2ceab4e163906
+FileChecksum: MD5: 72b19ea7ea22c10ed566ca1a549047fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout11.xml
+SPDXID: SPDXRef-item9749382
+FileChecksum: SHA1: b05f6c9d79e16a4a0353f0066b1ee1956d12adb0
+FileChecksum: MD5: 89aba390fdbe3319f703ef1224aa3480
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout8.xml
+SPDXID: SPDXRef-item9749383
+FileChecksum: SHA1: e6b8f4bf030c874402a0aa6800d8ee225bce99ec
+FileChecksum: MD5: 9bf186623cf3bc6c6615f638b922aa92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout7.xml
+SPDXID: SPDXRef-item9749384
+FileChecksum: SHA1: 72e1fbf79c07293f60e35c17008b2b5c9ddb483e
+FileChecksum: MD5: dce33af097deacbfc8902d25f6e9a8d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout9.xml
+SPDXID: SPDXRef-item9749385
+FileChecksum: SHA1: 7163432d9c3530cccbaaf7be8e01bf14c61b0dbf
+FileChecksum: MD5: 6908103e35e9acb036f9fec11254a81e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout8.xml.rels
+SPDXID: SPDXRef-item9749387
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout1.xml.rels
+SPDXID: SPDXRef-item9749388
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout10.xml.rels
+SPDXID: SPDXRef-item9749389
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout2.xml.rels
+SPDXID: SPDXRef-item9749390
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout3.xml.rels
+SPDXID: SPDXRef-item9749391
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout7.xml.rels
+SPDXID: SPDXRef-item9749392
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout6.xml.rels
+SPDXID: SPDXRef-item9749393
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout9.xml.rels
+SPDXID: SPDXRef-item9749394
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout5.xml.rels
+SPDXID: SPDXRef-item9749395
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout11.xml.rels
+SPDXID: SPDXRef-item9749396
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/_rels/slideLayout4.xml.rels
+SPDXID: SPDXRef-item9749397
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout6.xml
+SPDXID: SPDXRef-item9749398
+FileChecksum: SHA1: 17d351fd164cf93772b60de9b73b632deb99725f
+FileChecksum: MD5: 0f7e250bd0efda4df49aace342159bf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout1.xml
+SPDXID: SPDXRef-item9749399
+FileChecksum: SHA1: 7b0d66a70fccfd1d53df3e56a077855709202fff
+FileChecksum: MD5: e52a13d9ba952fd7af1821157f580fe9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout3.xml
+SPDXID: SPDXRef-item9749400
+FileChecksum: SHA1: 52c92470c7e24a7d89f320b9934c30e05da3c202
+FileChecksum: MD5: cbcb355136e2cc3c37738c6272a1806b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout5.xml
+SPDXID: SPDXRef-item9749401
+FileChecksum: SHA1: 3aee3b2bef67a795ae074c5074d4ffdb4d36c963
+FileChecksum: MD5: 6aff342345d2812e7a214db435fb21e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout2.xml
+SPDXID: SPDXRef-item9749402
+FileChecksum: SHA1: 8a1a07c163377b655459c60e4250bfe1e5ee7e01
+FileChecksum: MD5: a95a5f3818feb585b1b1d2ee95ffe973
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout10.xml
+SPDXID: SPDXRef-item9749403
+FileChecksum: SHA1: ff8d904188c44ed399885afa36eeb37bcbd459b3
+FileChecksum: MD5: 9ec68edc596178214114fdae3a3a786e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideLayouts/slideLayout4.xml
+SPDXID: SPDXRef-item9749404
+FileChecksum: SHA1: 7db4a75362ce45e64cd7e058974d866387062c2a
+FileChecksum: MD5: 04d2ac1a4eabe0158a1b4694bdf96474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideMasters/slideMaster1.xml
+SPDXID: SPDXRef-item9749406
+FileChecksum: SHA1: 40cf70c5b64ba2ebef69766d378e96848d369d10
+FileChecksum: MD5: beef4dee8856b609d3f02cbdc9fbae41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slideMasters/_rels/slideMaster1.xml.rels
+SPDXID: SPDXRef-item9749408
+FileChecksum: SHA1: ef7f1194a88dd613e7e0c0e35cd73af92ce136a2
+FileChecksum: MD5: ebed568b77aaaf5203f415d2b7e05bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/theme/theme1.xml
+SPDXID: SPDXRef-item9749410
+FileChecksum: SHA1: ef8cae844b9c9880a6599670cd58889e58d4945f
+FileChecksum: MD5: 53ecc1f1eeafd1aef6ab91d48602f6cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/slide5.xml
+SPDXID: SPDXRef-item9749412
+FileChecksum: SHA1: 0947c33be1f929c2b7a307dedf03367a4f4f3f08
+FileChecksum: MD5: 22a4045a440a0a60f4a0522d9d43bef6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/slide3.xml
+SPDXID: SPDXRef-item9749413
+FileChecksum: SHA1: 139d2dcfff98a971c126fc7c4016b4bc7d7270e3
+FileChecksum: MD5: dbfcc7738f8ff9e09be87f0d87898a8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/slide4.xml
+SPDXID: SPDXRef-item9749414
+FileChecksum: SHA1: 97d352a10f9e28cbe359feaed0da5f1d98179d3c
+FileChecksum: MD5: 8e5c572920ba229c3c20e008420802bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/slide6.xml
+SPDXID: SPDXRef-item9749415
+FileChecksum: SHA1: 0db17587895bf0a7149dd24cca137b695c821cb8
+FileChecksum: MD5: 496fda977327aa110efe2aeed1e4d4ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/_rels/slide5.xml.rels
+SPDXID: SPDXRef-item9749417
+FileChecksum: SHA1: b994cf3d66741fbfe5520b01871a8127230707f9
+FileChecksum: MD5: d29a5d5c73e1107b5d7a4e7c07e8e1f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/_rels/slide3.xml.rels
+SPDXID: SPDXRef-item9749418
+FileChecksum: SHA1: b994cf3d66741fbfe5520b01871a8127230707f9
+FileChecksum: MD5: d29a5d5c73e1107b5d7a4e7c07e8e1f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/_rels/slide6.xml.rels
+SPDXID: SPDXRef-item9749419
+FileChecksum: SHA1: b994cf3d66741fbfe5520b01871a8127230707f9
+FileChecksum: MD5: d29a5d5c73e1107b5d7a4e7c07e8e1f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/_rels/slide4.xml.rels
+SPDXID: SPDXRef-item9749420
+FileChecksum: SHA1: b994cf3d66741fbfe5520b01871a8127230707f9
+FileChecksum: MD5: d29a5d5c73e1107b5d7a4e7c07e8e1f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/_rels/slide2.xml.rels
+SPDXID: SPDXRef-item9749421
+FileChecksum: SHA1: f9330d3f8028ec5c00d37b95a06810637c03d505
+FileChecksum: MD5: a95222abac5277828be1bf2c0ae58a94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/_rels/slide1.xml.rels
+SPDXID: SPDXRef-item9749422
+FileChecksum: SHA1: 97774f2c47110b6b09db429f26c582690f0c962e
+FileChecksum: MD5: 192ddd9eae4d37d23243fc39172cb585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/slide2.xml
+SPDXID: SPDXRef-item9749423
+FileChecksum: SHA1: ed11e84e19a51245e2e76c944d601985027443f1
+FileChecksum: MD5: c2137cb626d656d9a2bc8a68d01e1d75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/slides/slide1.xml
+SPDXID: SPDXRef-item9749424
+FileChecksum: SHA1: 2153e6a74b433eb1fa732bfba1568f95e7f20b79
+FileChecksum: MD5: a3f4acc0de1cf683cac49cd260626ca1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/presentation.xml
+SPDXID: SPDXRef-item9749425
+FileChecksum: SHA1: f813fd64fe298bba1fea37ab9d07ad2df0de4a4e
+FileChecksum: MD5: 22f3c0a59c375a51adb05e8e9042b6ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/viewProps.xml
+SPDXID: SPDXRef-item9749426
+FileChecksum: SHA1: bbba3a98a38a5f736e7d63de9606b06294d84d06
+FileChecksum: MD5: c97835ac5cac869c0ef7157856c91e0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/presProps.xml
+SPDXID: SPDXRef-item9749427
+FileChecksum: SHA1: ee6494305d78d375b268657be4e3772ce18c2ec4
+FileChecksum: MD5: c21552d1ba5a2d4d7d4a14d97226fd17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/_rels/presentation.xml.rels
+SPDXID: SPDXRef-item9749429
+FileChecksum: SHA1: 2a26abe2850f866dd21ac28fabe07363785fa2df
+FileChecksum: MD5: 028e51e1cea73fd7b2661287cd704dd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/tableStyles.xml
+SPDXID: SPDXRef-item9749430
+FileChecksum: SHA1: 49bfd13ed02199b004bf0a019a596f127758d926
+FileChecksum: MD5: fd53c8a17d48edcbb6db6de2e2a5d7df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/revisionInfo.xml
+SPDXID: SPDXRef-item9749431
+FileChecksum: SHA1: 213ade96973e736ea24f90016b51fb4fb1a6fbb7
+FileChecksum: MD5: aa60e52fa94033654117863fe7811829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image10.png
+SPDXID: SPDXRef-item9749433
+FileChecksum: SHA1: 34a3944eb4a7ba989c2c258f25dfb44229729411
+FileChecksum: MD5: 1ea76151506f8d2aa6bcc32c74666a83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image22.png
+SPDXID: SPDXRef-item9749434
+FileChecksum: SHA1: a552e57eb546eb5542b2491e2531e40cc96cdc9b
+FileChecksum: MD5: d8ef6802076c8953e83e2a9ed91d63e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image13.png
+SPDXID: SPDXRef-item9749435
+FileChecksum: SHA1: b43d5a86044bb900530ec733bc7a35405db67d60
+FileChecksum: MD5: 1a82e9fc52ec7afe9eac6516ebbdec4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image7.png
+SPDXID: SPDXRef-item9749436
+FileChecksum: SHA1: 9bd12e590c42186a977c663d216f18701cfa1082
+FileChecksum: MD5: 9f81558bf057ddf2165dea93289b5e70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image9.png
+SPDXID: SPDXRef-item9749437
+FileChecksum: SHA1: 8c076340350d42bf0e44034d7538852c1513c69c
+FileChecksum: MD5: 6fda6f7c2af81eb6584ed531e077c026
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image1.png
+SPDXID: SPDXRef-item9749438
+FileChecksum: SHA1: 0742bdc9533a8c1c22590acff13abc4d184c3d27
+FileChecksum: MD5: 56ad74c47b76408a1095986f7e0d64ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image12.png
+SPDXID: SPDXRef-item9749439
+FileChecksum: SHA1: 51c4bc0e3007d354a07035ca2ee1313792be2bf5
+FileChecksum: MD5: 9b85cf2c072babdcbc07701c600d6401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image17.png
+SPDXID: SPDXRef-item9749440
+FileChecksum: SHA1: 9189416c6ea96a217c3906aee783740125ed1f24
+FileChecksum: MD5: cf9f48a4bb3a813d7999e12fe81cb66b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image8.png
+SPDXID: SPDXRef-item9749441
+FileChecksum: SHA1: 0f749656b6d7b4a577916366d6fa9bb92a3b7e6f
+FileChecksum: MD5: 4a5c6f092903d1e0a9d1651419149963
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image23.png
+SPDXID: SPDXRef-item9749442
+FileChecksum: SHA1: 2c04e49a6756c6b904e7eaf7e100f9a9be876f12
+FileChecksum: MD5: 6d2ea5489b6c2c3b0e10bed9d797919e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image15.png
+SPDXID: SPDXRef-item9749443
+FileChecksum: SHA1: 447b323e99f9746828db53a3ed12e89018548ea1
+FileChecksum: MD5: 9b9179664ecf39b31061b8b1d7a8920f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image16.png
+SPDXID: SPDXRef-item9749444
+FileChecksum: SHA1: 1e5e28e48ebe553566e08c839c2cdac7430554cc
+FileChecksum: MD5: 7c3c855efea11e6bfc2b26817444cf46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image14.png
+SPDXID: SPDXRef-item9749445
+FileChecksum: SHA1: ddf9a1e59a2acffc8352b14dd6412d5a149fd344
+FileChecksum: MD5: 1490309bc35796f225273afc0399de87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image6.png
+SPDXID: SPDXRef-item9749446
+FileChecksum: SHA1: 416d0e9f2c809407132e4e80703fcb000b0be813
+FileChecksum: MD5: a8a96454d49fd03c7ea39f2ab45aa308
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image4.png
+SPDXID: SPDXRef-item9749447
+FileChecksum: SHA1: 19e9fd8c70db550fe8a139d434d89fb310469d89
+FileChecksum: MD5: 200e8d4cf3411cb4e94f9549e57169c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image19.png
+SPDXID: SPDXRef-item9749448
+FileChecksum: SHA1: 1e6c3034444d3f09834137f82a1738bdafcaa1c7
+FileChecksum: MD5: 73cb945bb4b7575cbc745cc99b2b2c62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image5.png
+SPDXID: SPDXRef-item9749449
+FileChecksum: SHA1: d97fb4939462b3476a2be3e41011f0e7349b5f57
+FileChecksum: MD5: d01bee203d2248b623494726a6f3fffe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image18.png
+SPDXID: SPDXRef-item9749450
+FileChecksum: SHA1: b90709fec05fabeb3b3ee97544b1582464dbc040
+FileChecksum: MD5: 0bd148375df0a84c660334f4dbc28709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image11.png
+SPDXID: SPDXRef-item9749451
+FileChecksum: SHA1: ec2565965b4757b828418e97cd5892007fa27337
+FileChecksum: MD5: f62cc92ec608a364ae837559c76ca309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image24.png
+SPDXID: SPDXRef-item9749452
+FileChecksum: SHA1: ea3a2c0610faad86ea34314cbd8e6d9c29738dce
+FileChecksum: MD5: a443a949e3cab24d9f5b2683933743fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image3.png
+SPDXID: SPDXRef-item9749453
+FileChecksum: SHA1: 1e74e9ff259ff719b8e786a66f80d4daa21982d1
+FileChecksum: MD5: 8b69b540b9beaf9b3d9edb897cbbaf99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image21.png
+SPDXID: SPDXRef-item9749454
+FileChecksum: SHA1: c9f159f77d684f623a666822eeac099a941ab525
+FileChecksum: MD5: 142b5cd718c9b8f347d0d76fb587864f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image20.png
+SPDXID: SPDXRef-item9749455
+FileChecksum: SHA1: 0899b254c23057058c22aa6810333d9da5b56dc1
+FileChecksum: MD5: ad0984ec27f0989833bf65c52172b132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/media/image2.png
+SPDXID: SPDXRef-item9749456
+FileChecksum: SHA1: 03a19d1f71ab1c0315323576031342d4e264e39d
+FileChecksum: MD5: 87aab9c49aa1fefdb18ba09e1af8ab29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/ppt/changesInfos/changesInfo1.xml
+SPDXID: SPDXRef-item9749458
+FileChecksum: SHA1: 31f66fa7eae2443680bcfeb90bbd6d160c95a584
+FileChecksum: MD5: 9fe4665869a231d911426d2dac85ccdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/docProps/thumbnail.jpeg
+SPDXID: SPDXRef-item9749460
+FileChecksum: SHA1: 961b9ebe7177c9bd5ffc4619b12798c58ed591b0
+FileChecksum: MD5: 9a594f8327d208af0ebaca8b13ebe59b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/docProps/app.xml
+SPDXID: SPDXRef-item9749461
+FileChecksum: SHA1: dec740e23a3226b7c39f935fc6849798f8abcf01
+FileChecksum: MD5: 2d7124bf9f5b77e44f7d7267bb63d3d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/docProps/core.xml
+SPDXID: SPDXRef-item9749462
+FileChecksum: SHA1: 4cda54d9ae3082c1fa7b8ce45b152ca863d050c8
+FileChecksum: MD5: fbde93bc3b2fc54561f12d567387ca7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/docProps/custom.xml
+SPDXID: SPDXRef-item9749463
+FileChecksum: SHA1: e7b930e0d8af5134b477ef66ad09e5390566fea3
+FileChecksum: MD5: 815eb96a2139329bcab83dedf7f6853b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/[Content_Types].xml
+SPDXID: SPDXRef-item9749464
+FileChecksum: SHA1: 926ee786cb39d3087fd86b412f5374f77686c341
+FileChecksum: MD5: 0c71c929a6d66ac94dbb8d2e60c9538a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/itemProps3.xml
+SPDXID: SPDXRef-item9749466
+FileChecksum: SHA1: 9c108a5954a25c5c72d46ffa000325b9af837bac
+FileChecksum: MD5: dee21b86ce63fde7d5152a1bf5ebca86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/itemProps2.xml
+SPDXID: SPDXRef-item9749467
+FileChecksum: SHA1: ffe9203233e594ebe8a019c77eefc1b9b2b00fff
+FileChecksum: MD5: 2703c769daa122e82b7267ff36f1abe6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/item1.xml
+SPDXID: SPDXRef-item9749468
+FileChecksum: SHA1: 44e400cf95664c9cddc3b93e31b5f77ee7ba7531
+FileChecksum: MD5: b27c5442a04ea7d1eb9044f7a535028d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/itemProps1.xml
+SPDXID: SPDXRef-item9749469
+FileChecksum: SHA1: c5226858bac11fdf4089f23e6f316b5907c65567
+FileChecksum: MD5: 4c48c2046105e2bae42fce6e36598394
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/_rels/item2.xml.rels
+SPDXID: SPDXRef-item9749471
+FileChecksum: SHA1: d12cc5a3b1f42132b034889d8f91a6bde9184091
+FileChecksum: MD5: 77a12d30469c03ac92cf25679f52e03a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/_rels/item3.xml.rels
+SPDXID: SPDXRef-item9749472
+FileChecksum: SHA1: 37b6d6cab6eba478a85038e84e86e2d4e771ff37
+FileChecksum: MD5: 95c5d5b6deffa8a25ac45e220c13d556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/_rels/item1.xml.rels
+SPDXID: SPDXRef-item9749473
+FileChecksum: SHA1: b770f3a79423882bdae4240e995c0885770022ef
+FileChecksum: MD5: 7e5e23715ab49ce56f9130d4c6534a30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/item3.xml
+SPDXID: SPDXRef-item9749474
+FileChecksum: SHA1: 6e9948122d2f1fcd917c7e8d4acb7f359cd8f1e2
+FileChecksum: MD5: 5eca9e027b94e6cd1bc64f2a06dcee92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.pptx/customXml/item2.xml
+SPDXID: SPDXRef-item9749475
+FileChecksum: SHA1: 48b24830854550f94d4c1253cdbe6758cdee6ff5
+FileChecksum: MD5: ca6ceb042007976a19afc1567620c181
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/mapping.png
+SPDXID: SPDXRef-item9749476
+FileChecksum: SHA1: 53db4eed5c80487801f42c748abd9b60c188b476
+FileChecksum: MD5: 57f936de38bab3dab5b8f78dbf5c8615
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/Design-Overview.png
+SPDXID: SPDXRef-item9749477
+FileChecksum: SHA1: a00d7c9327ec8282c45aaf6e45d84125ff7ab9d0
+FileChecksum: MD5: b8dfcdf35e9ccee2d43c2b52cf465715
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/cds-blueprint.png
+SPDXID: SPDXRef-item9749478
+FileChecksum: SHA1: 63473c88e349e561ff4601bee6e137971fa410e9
+FileChecksum: MD5: 56ddfd0ffa37e325c1428715537d0a0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/capabilities.png
+SPDXID: SPDXRef-item9749479
+FileChecksum: SHA1: 07e490d786962d3a929269c7528f083ba7152115
+FileChecksum: MD5: 4a64578a70ebdfd2046383f56d92faab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/media/cba.png
+SPDXID: SPDXRef-item9749480
+FileChecksum: SHA1: 3276c8cd471a8d8839dbcdbc7153238976396f18
+FileChecksum: MD5: bf290c44917140a1bab13a09f16b32e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/sdc-vsp-update.png
+SPDXID: SPDXRef-item9749484
+FileChecksum: SHA1: 168d376a416c4a0ca4655e9d910c66d72c46570b
+FileChecksum: MD5: 7c80936971d7a3fb3fb23bde47452736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/image2017-1-27_11-20-13.png
+SPDXID: SPDXRef-item9749485
+FileChecksum: SHA1: 4a161e063f021efe3caf6be97d4907cb2c6ffcb3
+FileChecksum: MD5: 90df7680875793016959ca2163fe2ce3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/sdc_artifact_update.png
+SPDXID: SPDXRef-item9749486
+FileChecksum: SHA1: 0256351450228e6882a885c0d43179702525c54c
+FileChecksum: MD5: 6abfa6fae9d7a4a9e4515687bd0299f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/sdc-vf-general.png
+SPDXID: SPDXRef-item9749487
+FileChecksum: SHA1: 1c320dac0b63514f4f8f5b07684d3e4b5b32fd47
+FileChecksum: MD5: be65d7a58b864dc0898eee06004f3118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/image2017-1-27_11-17-18.png
+SPDXID: SPDXRef-item9749488
+FileChecksum: SHA1: d82975b5502bf100a71ea838d52312ec710a1b4a
+FileChecksum: MD5: 86e6dfdd91c6ac0a890d92aec0453187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/sdc-vf-certify-confirm.png
+SPDXID: SPDXRef-item9749489
+FileChecksum: SHA1: bc3f156ba6d69de3df197f271940808830e7ad56
+FileChecksum: MD5: 1ebdcd10d046deddec4f65ecb6a8a936
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/sdc-Import.png
+SPDXID: SPDXRef-item9749490
+FileChecksum: SHA1: b2f1dc133c6117be7e92a798a0d81c29bcc869c2
+FileChecksum: MD5: 732e7f2ee67bb46ef046cd76524e591c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/sdc-vf-general-certify.png
+SPDXID: SPDXRef-item9749491
+FileChecksum: SHA1: 85fc7913b29c036e2406867897a0400746f86254
+FileChecksum: MD5: fa660eba010ef5b811d1db916c427da2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/sdc-vf-workflow.png
+SPDXID: SPDXRef-item9749492
+FileChecksum: SHA1: 179d0757ad84027d15c284cb76c7e0e982c82018
+FileChecksum: MD5: a888b0e7102234373e1218b2ae509969
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/SDC-Add.png
+SPDXID: SPDXRef-item9749493
+FileChecksum: SHA1: ecd804310c44eb5ba60d225240d63781886d8533
+FileChecksum: MD5: dffc5f4f64313956fbbe6f72645a2b44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/sdc-home.png
+SPDXID: SPDXRef-item9749494
+FileChecksum: SHA1: 5754a50ef1c7b0b6bb3724d5386a1f172429644b
+FileChecksum: MD5: 5dd2b6633f032a5bd6175e5e09d92801
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/image2017-1-27_11-13-30.png
+SPDXID: SPDXRef-item9749495
+FileChecksum: SHA1: 6be74ae9d6875198abf27b41ac71fad59ea5af20
+FileChecksum: MD5: 9fd0706e08db059e8e93e481d7e54137
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/image2017-1-27_11-14-3.png
+SPDXID: SPDXRef-item9749496
+FileChecksum: SHA1: 0f991a5d59e2ecd60126c7b1550968ecdc673cda
+FileChecksum: MD5: 1d6d7f03296bde04d6dde70c35cc2e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/design_vf_updatevspmessage.png
+SPDXID: SPDXRef-item9749497
+FileChecksum: SHA1: 547f0ea353a265a6cb89990d9072d7b8ca391824
+FileChecksum: MD5: 9a497b14440a244c293c77e8cefa3d07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/design_vf_workflow.png
+SPDXID: SPDXRef-item9749498
+FileChecksum: SHA1: d05b8ec74038b76d81be436b0f87dd12e6b74665
+FileChecksum: MD5: 2e9c9c9524ac5e611234e32e41810263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/vfcreation/media/image2017-1-27_11-21-4.png
+SPDXID: SPDXRef-item9749499
+FileChecksum: SHA1: 7ca224775deea76b12af112d5ec768b1a0e01a76
+FileChecksum: MD5: 82844aac37c2107e42d53e6389cd79db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/sdc-service-properties.png
+SPDXID: SPDXRef-item9749503
+FileChecksum: SHA1: 9d31c6070e61fd4bade38f77ced78ead42b093a8
+FileChecksum: MD5: 495ff46bd6051167caa0f75117e23e5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/sdc-service-general.png
+SPDXID: SPDXRef-item9749504
+FileChecksum: SHA1: ef8badebe331a60fc7faff363664851c5cf1b16c
+FileChecksum: MD5: 2ba150048f4fa3a49a04196e1c4bfa3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/design_asdccanvas_connect_elements.png
+SPDXID: SPDXRef-item9749505
+FileChecksum: SHA1: c3d3bbb9e38eaec273879a4433e626d08eed09a4
+FileChecksum: MD5: f3a3424538ef392ae68501416b73d7f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/sdc-service-composition.png
+SPDXID: SPDXRef-item9749506
+FileChecksum: SHA1: 425d704141f34bb398c2e6c8a3defb36f74fa3e1
+FileChecksum: MD5: 1531ef8deb6547bfcf00957347dc5ee5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/sdc-service-workflow.png
+SPDXID: SPDXRef-item9749507
+FileChecksum: SHA1: 394a8bfd671794e9009d9b040685498c3c7d2324
+FileChecksum: MD5: de58fcdec45962a2a69b1842c4500bf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/design_service_workflow.png
+SPDXID: SPDXRef-item9749508
+FileChecksum: SHA1: 6671e81a5666aeecfb379168747126cf7b5956cd
+FileChecksum: MD5: 3aa88073becd86169263d3b79e077bb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/sdc-service-properties-input.png
+SPDXID: SPDXRef-item9749509
+FileChecksum: SHA1: 70c124ce3ff803afbdad19ad1db18e7d0ba753be
+FileChecksum: MD5: d5068a676317679db8b00d024f4ddc95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/design_service_inputs_move.png
+SPDXID: SPDXRef-item9749510
+FileChecksum: SHA1: d399f256d5b4f595a81d37c905d7b4cc90324803
+FileChecksum: MD5: df62f61d10095c7c9f0dc8b56f8f9757
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/sdc-home.png
+SPDXID: SPDXRef-item9749511
+FileChecksum: SHA1: 5754a50ef1c7b0b6bb3724d5386a1f172429644b
+FileChecksum: MD5: 5dd2b6633f032a5bd6175e5e09d92801
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/design_service_adddeploymentartifact.png
+SPDXID: SPDXRef-item9749512
+FileChecksum: SHA1: 2d821f1e7bb5a226ce3adb126699a9ee70c8e646
+FileChecksum: MD5: 62af0067b0a41992f6ae622c1461a821
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/service-design/media/sdc-service-workflow-design.png
+SPDXID: SPDXRef-item9749513
+FileChecksum: SHA1: a6d3da24f3d82a621123f4921785b82ba641e669
+FileChecksum: MD5: 9d6c53aea33660aebf33b2d256c0de23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-new-vsp.png
+SPDXID: SPDXRef-item9749517
+FileChecksum: SHA1: e0eb9e3d76b420bc50df4f12788d0782a4671dfc
+FileChecksum: MD5: 900e3738e901bf4b11c3da32c619542b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-design_asdccanvas_connect_elements.png
+SPDXID: SPDXRef-item9749518
+FileChecksum: SHA1: c3d3bbb9e38eaec273879a4433e626d08eed09a4
+FileChecksum: MD5: f3a3424538ef392ae68501416b73d7f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-license-model-submit.png
+SPDXID: SPDXRef-item9749519
+FileChecksum: SHA1: 95f947ddc1b03064bba6439555cbca2ae2e6381f
+FileChecksum: MD5: 1dcbf5b467094bf7bf716e3a242adcb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-sdc_vsp_save.png
+SPDXID: SPDXRef-item9749520
+FileChecksum: SHA1: 4f7dcb09df8190a0f3fdb7b4d14a19f1d241b041
+FileChecksum: MD5: 3f125d8cb56bbcef6cc83e073ec8ecd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-license-creation.png
+SPDXID: SPDXRef-item9749521
+FileChecksum: SHA1: 17ec51596daf242a948910acdee28fd3685a08d6
+FileChecksum: MD5: ee662d5a202283ee72a0ab31037fec14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-new-vlm-dialog.png
+SPDXID: SPDXRef-item9749522
+FileChecksum: SHA1: 99651fb04f9f5622d83e99f213c8be56c68879d8
+FileChecksum: MD5: ed55a0bb9d8d241318fd83d2d04fc197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-license-keygroup.png
+SPDXID: SPDXRef-item9749523
+FileChecksum: SHA1: 1ad459707e01c5129a35a42877eaf7ab1999a28d
+FileChecksum: MD5: 199cda70b2053a3b72825f662f087f02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-new-vlm.png
+SPDXID: SPDXRef-item9749524
+FileChecksum: SHA1: 4d4ca4cacbce881daa2b83cf7dc908519614ba99
+FileChecksum: MD5: 424a8cbe29fcaeee030214dd288751bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-license-model.png
+SPDXID: SPDXRef-item9749525
+FileChecksum: SHA1: 226c41a673eefeebfffc5c171d9514a35dc8a943
+FileChecksum: MD5: 7efc10c7d230b9b0ea00a1d6cc682cd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-vsp-version.png
+SPDXID: SPDXRef-item9749526
+FileChecksum: SHA1: 0baa4ad144f243384999c58483f4ac03e3e5bf74
+FileChecksum: MD5: 91b82f2e98feebc49294d8bceb81e1e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-new-vsp-overview.png
+SPDXID: SPDXRef-item9749527
+FileChecksum: SHA1: f5f3fbaeb8cc04e9869a552f174f5e03b5e434ee
+FileChecksum: MD5: f0d7d3588286a87681b4a2366788f2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-design_onboardvsp_heaterrors.png
+SPDXID: SPDXRef-item9749528
+FileChecksum: SHA1: 6f3ca75657913650d6df28a515ad3c7956146cec
+FileChecksum: MD5: 9b09b057a42a56a86a892974d93bc1f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-new-vlm-overview.png
+SPDXID: SPDXRef-item9749529
+FileChecksum: SHA1: 27f01f791931a1a7e0adfb68e2badf23a15cd57a
+FileChecksum: MD5: 5185b225da66279871e3e7e078397e13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-new-vsp-general.png
+SPDXID: SPDXRef-item9749530
+FileChecksum: SHA1: 1082b4c0ad5ec3dfc1364e6f312b9a5e120de3aa
+FileChecksum: MD5: 4243daa4523f1a7ed4a8756104989dee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-feature-group.png
+SPDXID: SPDXRef-item9749531
+FileChecksum: SHA1: 0d6b6b457f3aaf11a4e6a9ebcae1ae78d4ae7bc6
+FileChecksum: MD5: 85b6e7cc8823fb49c1325b78df38d60e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-edit-nic.png
+SPDXID: SPDXRef-item9749532
+FileChecksum: SHA1: 4430f239f893169fb887fc6ec01151af3dda3ff5
+FileChecksum: MD5: 5525ebee7e75757f68db6e4945cf6d35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-resource-onboarding-workflow.png
+SPDXID: SPDXRef-item9749533
+FileChecksum: SHA1: 9cec692e2499efa930d8d26cc636dab3e1b6cdeb
+FileChecksum: MD5: 3c60470cdaead91b275d767cc02162c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-license-agreement.png
+SPDXID: SPDXRef-item9749534
+FileChecksum: SHA1: ba4174a8ba53f3b4f812738dd7bb5ded6080c644
+FileChecksum: MD5: d60182c18a583bbd9fcf20c853cae797
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-new-vsp-attachments.png
+SPDXID: SPDXRef-item9749535
+FileChecksum: SHA1: 3fccc9f41d044acd374a7e4f8417a263776ea88d
+FileChecksum: MD5: 8f7108df36529a3a1faaa7899a1740f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-vsp-service-workflow.png
+SPDXID: SPDXRef-item9749536
+FileChecksum: SHA1: f76d5f57762e34ba8eb45f43a81cc35e939ac8d2
+FileChecksum: MD5: 5438ed65a37b7f7216a31dcb0958f3bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-software-product.png
+SPDXID: SPDXRef-item9749537
+FileChecksum: SHA1: d1472c18ba0f3ed0b0b80936f8913cc23103e932
+FileChecksum: MD5: 1bed8cd7564e26edc7bf85194afb8443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-vsp-version-dialog.png
+SPDXID: SPDXRef-item9749538
+FileChecksum: SHA1: 25ae1385c586d82099c3867bdcf9cb1d8f4ad7ab
+FileChecksum: MD5: c4356827b87a1fae7f1abba627f2e873
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/design/resource-onboarding/media/sdro-entitlement-pool.png
+SPDXID: SPDXRef-item9749539
+FileChecksum: SHA1: 5f95ec071a34939f1f25f954908e634fbe9c863a
+FileChecksum: MD5: df62cf875f7efd27b354f7e1f711185e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/1018906_ep_home_editwidget.png
+SPDXID: SPDXRef-item9749543
+FileChecksum: SHA1: c1960d2176fab85c147f472cf9ee6dea2831f97d
+FileChecksum: MD5: c60d9b4a9811e4ddc94e3f8394c2009e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/20086846_image2017-12-5_16-57-24.png
+SPDXID: SPDXRef-item9749544
+FileChecksum: SHA1: 94e0fc7ea066a3e882d8ceaf0ea3aa3c7a07a849
+FileChecksum: MD5: b393dd67286933d5a8f0a54a73e9d673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/20086819_image2017-12-5_14-57-22.png
+SPDXID: SPDXRef-item9749545
+FileChecksum: SHA1: 4bc67f066730c102bec7eeaffddabe69f0222822
+FileChecksum: MD5: fafec23f6bb54b89ac8fa3fd86aea50f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/20086820_image2017-12-5_15-8-37.png
+SPDXID: SPDXRef-item9749546
+FileChecksum: SHA1: d8c9f355ab5a0e274fa1785fbfc0c24fd5f6d0a7
+FileChecksum: MD5: 1f5b895cadcbc1452c31cdae743e1f86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/16004980_image2017-10-31_12-21-53.png
+SPDXID: SPDXRef-item9749547
+FileChecksum: SHA1: f59364ba34066d78c26580acc3b7459e9b1f9b05
+FileChecksum: MD5: 18d5cbcb0266b8143206013d23326fa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/16004343_image2017-10-27_15-56-53.png
+SPDXID: SPDXRef-item9749548
+FileChecksum: SHA1: a0493cb5e77ddac9df296723253a43af638175db
+FileChecksum: MD5: 57b4e485aec2a9f6f2b9ad842f89ed68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/20086839_image2017-12-5_16-52-40.png
+SPDXID: SPDXRef-item9749549
+FileChecksum: SHA1: 6e4ce04b1e1609104dfc6c095b99dee60b0c63be
+FileChecksum: MD5: 2619c8ba1828f02364e091a00a65ea00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/20086818_image2017-12-5_14-53-43.png
+SPDXID: SPDXRef-item9749550
+FileChecksum: SHA1: 6ea254517d3169fbb458f864ababfebb0f57e1fb
+FileChecksum: MD5: 0c7e60fbba23cb10415aea3b94546e68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/20086821_image2017-12-5_15-9-27.png
+SPDXID: SPDXRef-item9749551
+FileChecksum: SHA1: dde9e1256da69ca3092bc794a7d89374d4172a85
+FileChecksum: MD5: 741853fe948da2bbc29236a3dbb7d741
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/attachments/16004284_image2017-10-27_14-14-37.png
+SPDXID: SPDXRef-item9749552
+FileChecksum: SHA1: ecb5f3439b47e87b432c97bd8000b793a622cb75
+FileChecksum: MD5: 369ab1a70dda7f8122dbd93bb20264f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-user/onap-portal-user/onap-portal-user.rst
+SPDXID: SPDXRef-item9749553
+FileChecksum: SHA1: 2e122d7bee566312253c21713d13f8b08aed21aa
+FileChecksum: MD5: 780290375eea1f5072a44f19b5e08169
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/settingup/nodeports.csv
+SPDXID: SPDXRef-item9749571
+FileChecksum: SHA1: 25d59609c39c84d9e401316e75567d86a003f94e
+FileChecksum: MD5: 8046559916ab6a559ef8ee1d4eb119bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004295_image2017-10-27_14-23-38.png
+SPDXID: SPDXRef-item9749574
+FileChecksum: SHA1: 3ae90150270204f07ac2e136f17eb62d795b7062
+FileChecksum: MD5: df634bfb2e2e9d20486da087745e64a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004297_image2017-10-27_14-26-38.png
+SPDXID: SPDXRef-item9749575
+FileChecksum: SHA1: 7f9e799cb2d6949b7ac457c570af396d1bda5e01
+FileChecksum: MD5: 48c9e30c8898a74109b2297dc31b53bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004936_image2017-10-31_11-16-14.png
+SPDXID: SPDXRef-item9749576
+FileChecksum: SHA1: 89e60c95b68323f2453c21ac19fe7ab1e7fa6dae
+FileChecksum: MD5: 2a0a3622a1df7d51a57d217347f36eb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/1018942_ep_editmenu_edit.png
+SPDXID: SPDXRef-item9749577
+FileChecksum: SHA1: 86a98e008c96175abe19dfdf3e85b3bee0165704
+FileChecksum: MD5: 338b5ca322d868c59269aa58b1885b8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/1018906_ep_home_editwidget.png
+SPDXID: SPDXRef-item9749578
+FileChecksum: SHA1: c1960d2176fab85c147f472cf9ee6dea2831f97d
+FileChecksum: MD5: c60d9b4a9811e4ddc94e3f8394c2009e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004944_image2017-10-31_11-23-15.png
+SPDXID: SPDXRef-item9749579
+FileChecksum: SHA1: 0df7519243cc255cd27fcfdf5cc98621448c7c8d
+FileChecksum: MD5: b2b9b371e72284153a372da5e343091c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004321_image2017-10-27_15-21-13.png
+SPDXID: SPDXRef-item9749580
+FileChecksum: SHA1: aa226f42eb6e91fe2fbe28642bd38a5ab059a9bd
+FileChecksum: MD5: 6b458fd55f8947c004b9f031ef5163e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004288_image2017-10-27_14-17-0.png
+SPDXID: SPDXRef-item9749581
+FileChecksum: SHA1: d766ba3374b35e429c359e3362810cd7f9d8a539
+FileChecksum: MD5: 60a5d315d3655754bc50f5d1fadb9c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004309_image2017-10-27_14-41-13.png
+SPDXID: SPDXRef-item9749582
+FileChecksum: SHA1: 47ce74f37b6283b3967fb9ec687a64cf790de31a
+FileChecksum: MD5: 1ee85a0f1a1577aba5baccf7d6c208e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/20086846_image2017-12-5_16-57-24.png
+SPDXID: SPDXRef-item9749583
+FileChecksum: SHA1: 94e0fc7ea066a3e882d8ceaf0ea3aa3c7a07a849
+FileChecksum: MD5: b393dd67286933d5a8f0a54a73e9d673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004329_image2017-10-27_15-28-31.png
+SPDXID: SPDXRef-item9749584
+FileChecksum: SHA1: c753f12bb31340bcf788e73725d814c7c174094a
+FileChecksum: MD5: 8002148ad3d60cecc3f18d88c76946fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004934_image2017-10-31_11-12-22.png
+SPDXID: SPDXRef-item9749585
+FileChecksum: SHA1: 9042e81def39cf34dc196ca5bcd2ca66d8af58f7
+FileChecksum: MD5: e0d9b49cfa471899e29cb9b00e0991ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004303_image2017-10-27_14-30-51.png
+SPDXID: SPDXRef-item9749586
+FileChecksum: SHA1: 35f645fff97853cbeea090aa329426fda510cc8d
+FileChecksum: MD5: eedbf05db65ef9ce0c5cc0050ec1ff0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004306_image2017-10-27_14-35-46.png
+SPDXID: SPDXRef-item9749587
+FileChecksum: SHA1: f3e416fd9729fe448d626603864b8fb1809cdb0f
+FileChecksum: MD5: a238466461eee2b839713bfcd027b52a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/20086819_image2017-12-5_14-57-22.png
+SPDXID: SPDXRef-item9749588
+FileChecksum: SHA1: 4bc67f066730c102bec7eeaffddabe69f0222822
+FileChecksum: MD5: fafec23f6bb54b89ac8fa3fd86aea50f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/20086820_image2017-12-5_15-8-37.png
+SPDXID: SPDXRef-item9749589
+FileChecksum: SHA1: d8c9f355ab5a0e274fa1785fbfc0c24fd5f6d0a7
+FileChecksum: MD5: 1f5b895cadcbc1452c31cdae743e1f86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004980_image2017-10-31_12-21-53.png
+SPDXID: SPDXRef-item9749590
+FileChecksum: SHA1: f59364ba34066d78c26580acc3b7459e9b1f9b05
+FileChecksum: MD5: 18d5cbcb0266b8143206013d23326fa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004343_image2017-10-27_15-56-53.png
+SPDXID: SPDXRef-item9749591
+FileChecksum: SHA1: a0493cb5e77ddac9df296723253a43af638175db
+FileChecksum: MD5: 57b4e485aec2a9f6f2b9ad842f89ed68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004962_image2017-10-31_11-34-8.png
+SPDXID: SPDXRef-item9749592
+FileChecksum: SHA1: 52d5d11692ca9872d04c5675189f6f8ab337a5ff
+FileChecksum: MD5: 4647b71e1262b2e0ba6982a2b25b06c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004301_image2017-10-27_14-30-33.png
+SPDXID: SPDXRef-item9749593
+FileChecksum: SHA1: 35f645fff97853cbeea090aa329426fda510cc8d
+FileChecksum: MD5: eedbf05db65ef9ce0c5cc0050ec1ff0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/1018932_ep_trash_icon.png
+SPDXID: SPDXRef-item9749594
+FileChecksum: SHA1: c4200e13c12efbb1ffd90fa82b592c85af5da5bc
+FileChecksum: MD5: b1ceb922bc35d12f5d855d623891837f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/20086839_image2017-12-5_16-52-40.png
+SPDXID: SPDXRef-item9749595
+FileChecksum: SHA1: 6e4ce04b1e1609104dfc6c095b99dee60b0c63be
+FileChecksum: MD5: 2619c8ba1828f02364e091a00a65ea00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004954_image2017-10-31_11-29-12.png
+SPDXID: SPDXRef-item9749596
+FileChecksum: SHA1: b24bc7621d797e63384e9062c902055c17f3ad0f
+FileChecksum: MD5: da8051468dbc7f9d6c32e853685df169
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/20086818_image2017-12-5_14-53-43.png
+SPDXID: SPDXRef-item9749597
+FileChecksum: SHA1: 6ea254517d3169fbb458f864ababfebb0f57e1fb
+FileChecksum: MD5: 0c7e60fbba23cb10415aea3b94546e68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004327_image2017-10-27_15-27-1.png
+SPDXID: SPDXRef-item9749598
+FileChecksum: SHA1: 9095e9caa24235f662118699561d79170d310e26
+FileChecksum: MD5: 30f826a705c26d8a301ff66e331ea1fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004338_image2017-10-27_15-51-18.png
+SPDXID: SPDXRef-item9749599
+FileChecksum: SHA1: 62b21b72b253e69f307f5bf6a42647d7c4fc59b1
+FileChecksum: MD5: fc5cbeeed6479d83f78484b0739d9c32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004340_image2017-10-27_15-52-28.png
+SPDXID: SPDXRef-item9749600
+FileChecksum: SHA1: 98336a5dc09e2b8454514c49a0f8959fc3f06673
+FileChecksum: MD5: c5c6b13100e05199ff7f51bba15c9105
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004324_image2017-10-27_15-24-5.png
+SPDXID: SPDXRef-item9749601
+FileChecksum: SHA1: d1d966dc6c796c15a45f0624574f918ac7b60dfd
+FileChecksum: MD5: 359a0dc4ef5464b71572c19562805399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004943_image2017-10-31_11-21-2.png
+SPDXID: SPDXRef-item9749602
+FileChecksum: SHA1: c7939bd495e0ab5d6425f5c72d0c0a083076cf11
+FileChecksum: MD5: ac0b4ed66185c827b61243b8545a8f79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/20086821_image2017-12-5_15-9-27.png
+SPDXID: SPDXRef-item9749603
+FileChecksum: SHA1: dde9e1256da69ca3092bc794a7d89374d4172a85
+FileChecksum: MD5: 741853fe948da2bbc29236a3dbb7d741
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004284_image2017-10-27_14-14-37.png
+SPDXID: SPDXRef-item9749604
+FileChecksum: SHA1: ecb5f3439b47e87b432c97bd8000b793a622cb75
+FileChecksum: MD5: 369ab1a70dda7f8122dbd93bb20264f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/attachments/16004915_image2017-10-31_10-49-27.png
+SPDXID: SPDXRef-item9749605
+FileChecksum: SHA1: 41c4b5f3cfd083f3cc2ac97e8b60f06bdf57e9cd
+FileChecksum: MD5: 13ec6a1c33ba3f668dad7a7394880078
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-operator/onap-portal-admin/onap-portal-admin.rst
+SPDXID: SPDXRef-item9749606
+FileChecksum: SHA1: 915cdfe4ea86e1a976abaff1091a3fb1f2dfe17b
+FileChecksum: MD5: 1cca007f7809c8dfaaf48003fa91157f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/git_branches.png
+SPDXID: SPDXRef-item9749616
+FileChecksum: SHA1: 0e1dd23d836e0f8e1df447ae045c1af7bed4a0ba
+FileChecksum: MD5: 0e66d24a2f9d192a48fd4dd3e2d9614a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/how-to-use-docs/git_branches.svg
+SPDXID: SPDXRef-item9749621
+FileChecksum: SHA1: 35259ec0dfbc88e9117449640d6f9d27b1d167af
+FileChecksum: MD5: 29c608ef37fbb9e8ccf9802a77a2b7d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-architecture.png
+SPDXID: SPDXRef-item9749635
+FileChecksum: SHA1: be078071c3cd3e5d77070bb609b8c20939d9e24b
+FileChecksum: MD5: c13773ff81cb5b83afd5dad512d09b63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-fncview.png
+SPDXID: SPDXRef-item9749636
+FileChecksum: SHA1: e78573adf4323c16f9db9c1260be0e7d710cb2f5
+FileChecksum: MD5: 1c27b189115580ba28e1838687855d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-vcpe.png
+SPDXID: SPDXRef-item9749637
+FileChecksum: SHA1: 7c80a7a69a6d7f33c539e81e9073b6aa6633f170
+FileChecksum: MD5: ef2c6cca3b79d09fa75d5bd3743b59a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-5G.png
+SPDXID: SPDXRef-item9749638
+FileChecksum: SHA1: 95c4cf5022dd1576454c3fdd574780dc79a9eca6
+FileChecksum: MD5: 64bbc69fa48d07743782b9768637256d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-closedloop.png
+SPDXID: SPDXRef-item9749639
+FileChecksum: SHA1: e982464519cd9c70bbaf42b6cd289532f7c98792
+FileChecksum: MD5: e72a7c6e5a8efe57752387342450244a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-volte.png
+SPDXID: SPDXRef-item9749640
+FileChecksum: SHA1: 7442340b95beda91e8fb8d21a3d6646e923fef9e
+FileChecksum: MD5: 0e37051056023a38b57b94cae5a8ed56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-ccvpn.png
+SPDXID: SPDXRef-item9749641
+FileChecksum: SHA1: dbc65d881e8c7ad180e5568276adc64c899d4274
+FileChecksum: MD5: 4c3a61deada63840a622e16739fdcd33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-mdons.png
+SPDXID: SPDXRef-item9749642
+FileChecksum: SHA1: 6a9178329c37f25b0556ba85060b515e979db8e9
+FileChecksum: MD5: 3706546b38bb315c5dc239a995380db9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/media/ONAP-bbs.png
+SPDXID: SPDXRef-item9749643
+FileChecksum: SHA1: f7fc14ac6d41a9f43ee223833a73709d89735a3b
+FileChecksum: MD5: a5f24980796bb2d770be8e3f8c110d1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/guides/onap-developer/architecture/blueprint-enr.rst
+SPDXID: SPDXRef-item9749644
+FileChecksum: SHA1: 2ac2797663f13209c1b19bffc077bdd38643e36f
+FileChecksum: MD5: 2b7aee982690b788fcd0d84558057642
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/conf.py
+SPDXID: SPDXRef-item9749649
+FileChecksum: SHA1: b2756bc993e1e7c6a1ec2f90f572d505b392ac97
+FileChecksum: MD5: ccefa563025ab3b9827eda911ca57f43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/validwords.txt
+SPDXID: SPDXRef-item9749653
+FileChecksum: SHA1: 4a31f1e9b0eafe2574f203cb7a593e57f3c01c6c
+FileChecksum: MD5: 5aece2901637ef2747e5858e2b302fb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/_templates/layout.html
+SPDXID: SPDXRef-item9749673
+FileChecksum: SHA1: 75e86bc4b6d1b1b133acf44455aa40c92d6ef7a0
+FileChecksum: MD5: a6c03625dceab4b3f96250d31a3de7af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/tox.ini
+SPDXID: SPDXRef-item9749674
+FileChecksum: SHA1: d07096deeedfa0dbdf1d07b1d328fe3e91a37fab
+FileChecksum: MD5: 2effc80da2620e1f4c585445bfcd05ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item9749678
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item9749679
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/docs/_static/favicon.ico
+SPDXID: SPDXRef-item9749680
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc/.gitmodules
+SPDXID: SPDXRef-item9749684
+FileChecksum: SHA1: d24ea825f340532c53fcc7b25bbc9095a03822dd
+FileChecksum: MD5: 387c190acbd90b296f3233e1fa0d1114
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
