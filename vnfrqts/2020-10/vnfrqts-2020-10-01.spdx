@@ -1,0 +1,2146 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_vnfrqts-2020-10-01.zip_1601914449.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-10-05T16:14:09Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: vnfrqts-2020-10-01.zip
+PackageFileName: vnfrqts-2020-10-01.zip
+SPDXID: SPDXRef-upload2930
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 6ef251995194c8f4f9c39eed3418a979867ad525
+PackageChecksum: SHA1: 81af8c6bebe538da9e3cb6aef1824d9ffa1774a2
+PackageChecksum: MD5: 89fd7138ca3dc32c4ecc6d8efe60d649
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2930
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter7/VNF-On-boarding-and-package-management.rst
+SPDXID: SPDXRef-item11356560
+FileChecksum: SHA1: f49cc788286787b7beb22b30112ad0764890e3a7
+FileChecksum: MD5: ec43c7d247fcfd3c1d91c5aecf1b509b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter7/PNF-Plug-and-Play.rst
+SPDXID: SPDXRef-item11356562
+FileChecksum: SHA1: 79210e2bef583fece0d808b46247c874682c9291
+FileChecksum: MD5: 1a72c18463207b3fd79488c4f8c94baf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter7/Monitoring-And-Management.rst
+SPDXID: SPDXRef-item11356561
+FileChecksum: SHA1: 850b67073e1a3773054d68dd1713616d2a111b39
+FileChecksum: MD5: b2ea4845735c5bb93660e2a3d6594829
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property
+Copyright © 2020 Nokia Solutions and Networks </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/ONAP VNF or PNF CSAR Package.rst
+SPDXID: SPDXRef-item11356651
+FileChecksum: SHA1: 47541047a80b156e70c795d476813268f3a635bc
+FileChecksum: MD5: c3b7ba54f4b48b0b098d43094f7798ab
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/ves_5_4_1/VESEventListener.rst
+SPDXID: SPDXRef-item11356625
+FileChecksum: SHA1: 47e14922bf5a201141e35e98e9c626f8707c5bf2
+FileChecksum: MD5: 6784bf9f556b18a36a56ebab77bc8b28
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd.
+Copyright 2020 AT&T Intellectual Property, All rights reserved </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/VES_Registration_3_2.rst
+SPDXID: SPDXRef-item11356620
+FileChecksum: SHA1: e77b566b31f524bf032ec6c4cfe43fa6e10caea0
+FileChecksum: MD5: 811e8fd389fa015fbdd3279b11fc07be
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd.
+Copyright 2017-2020 AT&T Intellectual Property, All rights reserved </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/ves7_1spec.rst
+SPDXID: SPDXRef-item11356628
+FileChecksum: SHA1: f37550c9432a4b244d62579a6893c894539039a3
+FileChecksum: MD5: 6e4d3924f89435c9490a23bc4cd23dfc
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd.
+Copyright 2017 AT&T Intellectual Property, All rights reserved </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/ves_7_2/ves_event_listener_7_2.rst
+SPDXID: SPDXRef-item11356630
+FileChecksum: SHA1: 0c6329e153858cb86722c6c7700067a52f6e7982
+FileChecksum: MD5: d8aeec3c016400eb9152198afa4ceb78
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd.
+Copyright 2017 AT&T Intellectual Property, All rights reserved
+Copyright 2020 Nokia Solutions and Networks </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/gen_requirement_changes.py
+SPDXID: SPDXRef-item11356529
+FileChecksum: SHA1: 5e5899ca9044fbd088a8f86f5973d40077554e1c
+FileChecksum: MD5: d0e175874a431628c3bcba7b5579ff63
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/make_ids.py
+SPDXID: SPDXRef-item11356530
+FileChecksum: SHA1: ebff811c851e1e7769ba1178062a5ab1e428ffe3
+FileChecksum: MD5: d7fa07842793de8330c1309781e014d0
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/check.py
+SPDXID: SPDXRef-item11356528
+FileChecksum: SHA1: ea0b75e2f548da4f8fa356b718bed2505f6dc2df
+FileChecksum: MD5: 3e47213577bd8addeb63a3a4532a6437
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/LICENSE.txt
+SPDXID: SPDXRef-item11356747
+FileChecksum: SHA1: 57fccbc6a41db232d7ed1ab18cf886226270f647
+FileChecksum: MD5: 400566978a54760b99bd372975423adb
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/LICENSE.txt
+SPDXID: SPDXRef-item11356534
+FileChecksum: SHA1: 57fccbc6a41db232d7ed1ab18cf886226270f647
+FileChecksum: MD5: 400566978a54760b99bd372975423adb
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/LICENSE.txt
+SPDXID: SPDXRef-item11356690
+FileChecksum: SHA1: 57fccbc6a41db232d7ed1ab18cf886226270f647
+FileChecksum: MD5: 400566978a54760b99bd372975423adb
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/tox.ini
+SPDXID: SPDXRef-item11356750
+FileChecksum: SHA1: 35c70ee7e31e46e87258219b473fd0cdeeacd262
+FileChecksum: MD5: 741d90e4b56aee20154e57e682d367e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-testcases/tox.ini
+SPDXID: SPDXRef-item11356721
+FileChecksum: SHA1: 35c70ee7e31e46e87258219b473fd0cdeeacd262
+FileChecksum: MD5: 741d90e4b56aee20154e57e682d367e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-usecases/tox.ini
+SPDXID: SPDXRef-item11356693
+FileChecksum: SHA1: 35c70ee7e31e46e87258219b473fd0cdeeacd262
+FileChecksum: MD5: 741d90e4b56aee20154e57e682d367e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/etc/requirements.txt
+SPDXID: SPDXRef-item11356749
+FileChecksum: SHA1: 79e56810367eb73a9679c9eb3d6fe1a096e2f1c6
+FileChecksum: MD5: 8e221a3bc9394dae51b90df62569c7d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-usecases/etc/requirements.txt
+SPDXID: SPDXRef-item11356692
+FileChecksum: SHA1: 79e56810367eb73a9679c9eb3d6fe1a096e2f1c6
+FileChecksum: MD5: 8e221a3bc9394dae51b90df62569c7d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-testcases/etc/requirements.txt
+SPDXID: SPDXRef-item11356720
+FileChecksum: SHA1: ed972842784120c08fd0cb784f52a00cc40cc217
+FileChecksum: MD5: 2f76ce8382bc50d878e506ab8f57338f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-fail-single_module.zip/single_module/templates/base.yaml
+SPDXID: SPDXRef-item11356599
+FileChecksum: SHA1: 20c6ee2d89436623e33342e3d2dbfad327b3218d
+FileChecksum: MD5: c60a3694b7f80995d2a73dc5763f37a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-pass-single_module.zip/single_module/templates/base.yaml
+SPDXID: SPDXRef-item11356612
+FileChecksum: SHA1: 4713d7a645a096f8933283e3a21def9227375d56
+FileChecksum: MD5: dd711c018700ae069c6f9ded1ca008cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/etc/requirements.txt
+SPDXID: SPDXRef-item11356538
+FileChecksum: SHA1: 8a241c91642c887dc25aa785407a4a88d262aaee
+FileChecksum: MD5: c33bec0478cfacefb43a4b46e33720c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/tox.ini
+SPDXID: SPDXRef-item11356539
+FileChecksum: SHA1: f539630df930d682eeabe3de0f4a50a07877eb01
+FileChecksum: MD5: 03ea7a3c97c3f890f6f2b0f9f9f4ff44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/index.rst
+SPDXID: SPDXRef-item11356698
+FileChecksum: SHA1: 599947876424c328d00de170f3b60d496fbbd499
+FileChecksum: MD5: b29179402ee0f8dcfe723718a7b8e7d1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/manual_use_case.rst
+SPDXID: SPDXRef-item11356712
+FileChecksum: SHA1: 4f88d92970b8a36993f556a0174c5ef5e40871de
+FileChecksum: MD5: 078a17ac829a9c6b92abd9995178a324
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/release-notes.rst
+SPDXID: SPDXRef-item11356700
+FileChecksum: SHA1: e5ffc7ad51f8f40eb96d2978fa421a8d4d944321
+FileChecksum: MD5: 630ee85e6d9ab1ba95736e62c5932432
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/index.rst
+SPDXID: SPDXRef-item11356754
+FileChecksum: SHA1: 0a2c186b10ee69ee821e3c043af001e800b06285
+FileChecksum: MD5: 1daf0fa7fdd363b4e82ec61ea71f80dd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/vnf_guidelines.rst
+SPDXID: SPDXRef-item11356758
+FileChecksum: SHA1: 02daa91e3358326f9aa01b0581bab83aecafb913
+FileChecksum: MD5: 8286cee9b8238065318c99c00b6c92e1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter1/index.rst
+SPDXID: SPDXRef-item11356639
+FileChecksum: SHA1: 00517f6d4f3635c1feb51f819287040e4fbf278c
+FileChecksum: MD5: aa0a68caf804fa3e5d15fb19d8c4dc7d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter2/index.rst
+SPDXID: SPDXRef-item11356683
+FileChecksum: SHA1: 7ca4a7e4018f8f12bc4acb0b12f1649eafe1b686
+FileChecksum: MD5: d8e0e6a6c783fbb63c6b9930d08a4cb0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter3/index.rst
+SPDXID: SPDXRef-item11356583
+FileChecksum: SHA1: bfb2ecee27aa189d35e7d49597f7dca9c3f5eb7e
+FileChecksum: MD5: ac722c05641831f38513ee67d6d76db6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter4/Design.rst
+SPDXID: SPDXRef-item11356579
+FileChecksum: SHA1: 091843565b589c0644abb98918f35781ba5208cd
+FileChecksum: MD5: e63c4ed1754496e377519a3730d051c0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter4/Develop-Steps.rst
+SPDXID: SPDXRef-item11356574
+FileChecksum: SHA1: 6d6d86305bf605f9e475c0ceab7ab7b391fc020c
+FileChecksum: MD5: be5800d3274947b74673c269a41a1ec5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter4/Devops.rst
+SPDXID: SPDXRef-item11356575
+FileChecksum: SHA1: 973b3ef86558f24cdab7aef71c77122e16b4d540
+FileChecksum: MD5: 25b2bd5616bb044e4d0b8f675b4a1bdf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter4/index.rst
+SPDXID: SPDXRef-item11356573
+FileChecksum: SHA1: bc6b7044aeb8dd473d5dc1d02302eddbf5f9245f
+FileChecksum: MD5: 257288f7f49a91d2b492307e112edef3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter4/Modularity.rst
+SPDXID: SPDXRef-item11356576
+FileChecksum: SHA1: 8f2106165c0de5e95a60a519cb15e539e748ccd6
+FileChecksum: MD5: 0f70a6f2e3a12e3e0da4b373a53c2d6e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter4/Resiliency.rst
+SPDXID: SPDXRef-item11356578
+FileChecksum: SHA1: dff398486b8e97bc665d231a9fba8d37cefb6ed1
+FileChecksum: MD5: 130969ef32208f27b114bf83462900ce
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter4/Security.rst
+SPDXID: SPDXRef-item11356577
+FileChecksum: SHA1: c3c7a5ea6ef9550a9f86c0bbbc077bc78c6c5938
+FileChecksum: MD5: 8a722540b1b74f45a7ec4d2505b286ac
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/Contrail Resource Parameters.rst
+SPDXID: SPDXRef-item11356677
+FileChecksum: SHA1: 39712e5c7a4b3934fde68a644fa4f8b6e2c4e761
+FileChecksum: MD5: 02484ea8dc61ddfb5bc515a87a28ca72
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/index.rst
+SPDXID: SPDXRef-item11356669
+FileChecksum: SHA1: c3a0e3c4b9e5d043833b466a38c6643bcc72886b
+FileChecksum: MD5: 44de48775be38f0c86ba1f00b5d2f128
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/{network-role}.rst
+SPDXID: SPDXRef-item11356670
+FileChecksum: SHA1: 724257aeed224bb512db8fb33887afc67cc37ec6
+FileChecksum: MD5: 28c35df720b12720126ddcd18c38e689
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/Neutron Parameters.rst
+SPDXID: SPDXRef-item11356679
+FileChecksum: SHA1: ab582fcee5233dee7bd65596d51ce544360bc998
+FileChecksum: MD5: 9fa380e151d8734289af7a8457c079ba
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/Nova Metadata Parameters.rst
+SPDXID: SPDXRef-item11356674
+FileChecksum: SHA1: e4285a38e57411f7aa42831e22c532d2d3fac0ae
+FileChecksum: MD5: 7e8b1333cb5052a269e847a6163d5bd7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/Nova Parameters.rst
+SPDXID: SPDXRef-item11356672
+FileChecksum: SHA1: 8c2895baf504ceffd9a809b4eddbf03efae94a64
+FileChecksum: MD5: 4399049e74e08460a9a017c5525d6d7a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/ONAP Output Parameter Names.rst
+SPDXID: SPDXRef-item11356675
+FileChecksum: SHA1: 68d9f3747f6b540af5ec133dcc29d1c6b50dcd70
+FileChecksum: MD5: d441202efaf40aa0a567d8eabc683c13
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/Resource IDs.rst
+SPDXID: SPDXRef-item11356676
+FileChecksum: SHA1: 4f109ed26e4b6bfa36425b93e092ee8783c48115
+FileChecksum: MD5: 9bf78ae24f38348e08460114c1dc2b5d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/Resource Property.rst
+SPDXID: SPDXRef-item11356671
+FileChecksum: SHA1: 6cc719fa205621239e46094e4ca976b67df36378
+FileChecksum: MD5: 2576334ebed9670b5dcaf5a3f5b47322
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/Suggested Naming Convention for Common Parameters.rst
+SPDXID: SPDXRef-item11356673
+FileChecksum: SHA1: 153597ada4896a11f539e2da5ade8637ad2f9d32
+FileChecksum: MD5: 1590ec3134da6bf2fb98530e97c653fa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Resource ID and Parameter Naming Convention/{vm-type}.rst
+SPDXID: SPDXRef-item11356678
+FileChecksum: SHA1: 6e94f2ab879b56ddd73acf970589205f7214095a
+FileChecksum: MD5: dd6f691cfcede1f82ed18d2247a21022
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/General Guidelines for Heat.rst
+SPDXID: SPDXRef-item11356661
+FileChecksum: SHA1: 44529a4f5439115276182e6c20e3b826216662e1
+FileChecksum: MD5: ad5c528da825f5628921f3cdc1f90f23
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/index.rst
+SPDXID: SPDXRef-item11356659
+FileChecksum: SHA1: a5dad94a13a765afac47cb50e0458ed814e2cd7f
+FileChecksum: MD5: 74d9f65b2457878b5d95a019fab8e309
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Cinder Volumes.rst
+SPDXID: SPDXRef-item11356662
+FileChecksum: SHA1: bc4ad7015aba44d287b71fd001785c42f6139910
+FileChecksum: MD5: d11e1cc65836ea68e275bafddc7c4b17
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat High Availability.rst
+SPDXID: SPDXRef-item11356664
+FileChecksum: SHA1: 7acc401090a65d81e8bad2268e39ff3d88314dba
+FileChecksum: MD5: 000b183223522edb764375e5dc839b7c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Networking.rst
+SPDXID: SPDXRef-item11356663
+FileChecksum: SHA1: c3b7ad529c96382eff7e29f1f4389cbbc308f77c
+FileChecksum: MD5: 81ce341430eb3ac71aea43fdd421b9a1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Orchestration Template Format.rst
+SPDXID: SPDXRef-item11356660
+FileChecksum: SHA1: 213427d5fe1b6bc835e47f014563bae3a4f5d339
+FileChecksum: MD5: 8ca5470a1d6d5560dc28c991fabdf4c3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Orchestration Templates Overview.rst
+SPDXID: SPDXRef-item11356666
+FileChecksum: SHA1: 7c74d2ac1c8afb98921a3c386657d81ddda69a79
+FileChecksum: MD5: d22c5761511ab235eb022ff75ebd7eae
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Post Orchestration & VNF Configuration.rst
+SPDXID: SPDXRef-item11356665
+FileChecksum: SHA1: 91aa37a5bcb0a1f7c35256a663d0d3e97995d666
+FileChecksum: MD5: 826a804009edf99737e8b7da0917ce44
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Support of Environment Files.rst
+SPDXID: SPDXRef-item11356658
+FileChecksum: SHA1: 5b0e858ac23582c8b8ac720e457c2e0b33951a44
+FileChecksum: MD5: 8ee78946c92514e7c9c899461766d9f1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat Template Constructs.rst
+SPDXID: SPDXRef-item11356680
+FileChecksum: SHA1: 06fdaa3ba87c7cf1e4f36bcc65fdd2176c81c195
+FileChecksum: MD5: fbbebf75dcbb20a6bace33a70dd6126b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Heat/ONAP Heat VNF Modularity.rst
+SPDXID: SPDXRef-item11356667
+FileChecksum: SHA1: 0b6f8270371da2b061d0361c9d92e7b83e29557b
+FileChecksum: MD5: df008103b07cf209ddd40900dec8bb14
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/index.rst
+SPDXID: SPDXRef-item11356645
+FileChecksum: SHA1: cac2c56006d09d35d724544c9eb8d115bca3a0a0
+FileChecksum: MD5: 9605738fd9102870b087020fb46e575c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/ONAP HPA Requirements.rst
+SPDXID: SPDXRef-item11356653
+FileChecksum: SHA1: 9aad4fce8cfe3a2de459c38b930863c345cee4e2
+FileChecksum: MD5: 65eca573a2f17204697d2aef44d42918
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/ONAP NFV Tosca.rst
+SPDXID: SPDXRef-item11356654
+FileChecksum: SHA1: b5a34cbf99ecc9457c0c152e6f1bbd4bc7992f71
+FileChecksum: MD5: 4340219f99bf26a67f7bf8981bfe6b0a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/ONAP Tosca Overview.rst
+SPDXID: SPDXRef-item11356646
+FileChecksum: SHA1: e3be2a55f6859d9dee13dcc49e5ab4118509d24e
+FileChecksum: MD5: f87c983d20bdf2ab4789cbb1013e47c9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/ONAP Tosca PNF Descriptor.rst
+SPDXID: SPDXRef-item11356649
+FileChecksum: SHA1: 920487508ee4c5e403d5b61fbebcb2b98dcd6379
+FileChecksum: MD5: 742e65a2d6a04c89c132af2f37bda866
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/ONAP Tosca VNF Descriptor.rst
+SPDXID: SPDXRef-item11356655
+FileChecksum: SHA1: 553d4108e984c3a4863c1efe695ad2645c82e86d
+FileChecksum: MD5: bcf11b7b9a1f118841e35ae82cf61775
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Creating-Vendor-Specific-VNFM-Adaptor-Microservices.rst
+SPDXID: SPDXRef-item11356656
+FileChecksum: SHA1: 31c836cafc9151e94b6857531389c7dbb48926d4
+FileChecksum: MD5: 939d42d6f2a13e3cd6aac31621b73fdf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/index.rst
+SPDXID: SPDXRef-item11356641
+FileChecksum: SHA1: d2f37efc25608242328b996bbbd2f97e733947e7
+FileChecksum: MD5: 7388cd6de30c54b22944ccde416f4220
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/VNFM-Driver-Development-Steps.rst
+SPDXID: SPDXRef-item11356642
+FileChecksum: SHA1: 152eda4be09d1868ce87aadccf242e136aa293f2
+FileChecksum: MD5: 19585f7103fe745027469087b2226a19
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter6/index.rst
+SPDXID: SPDXRef-item11356549
+FileChecksum: SHA1: 9948d1c7b280d2fd9e3e5c0f916e7888653d614c
+FileChecksum: MD5: 016e9be595b1caff73f1167cef90e9d1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter7/Configuration-Management.rst
+SPDXID: SPDXRef-item11356558
+FileChecksum: SHA1: 931c5533df28cd8a2ee8208eee1c2a1ae11c2552
+FileChecksum: MD5: 88f1b22d12597b5d7970648e5d0fa5a3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter7/index.rst
+SPDXID: SPDXRef-item11356557
+FileChecksum: SHA1: 7041a1818e3481d7480f224b538f91b3e79c6200
+FileChecksum: MD5: e56be3101c6e6be77dfbb3bd4191855c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter7/Service-Design.rst
+SPDXID: SPDXRef-item11356559
+FileChecksum: SHA1: ec851d244f207a003bb74d9ee7eb355c367242a9
+FileChecksum: MD5: ca9cbc1c82e823dbc070fb87267b8ab3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/ves_7_2/CommonEventFormat_30.2_ONAP.json
+SPDXID: SPDXRef-item11356633
+FileChecksum: SHA1: ef057ad53ce254a04411eeb5d254079909968831
+FileChecksum: MD5: 38daa10b20223b44453d9823bb7e4764
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020, AT&T Intellectual Property. All rights reserved </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/Ansible-JSON-Key-Value-Description.rst
+SPDXID: SPDXRef-item11356635
+FileChecksum: SHA1: baddb7f2a358dd936bbb044c4cac0b5b682e1b39
+FileChecksum: MD5: 94478ff7697443456b164abbf7456b2f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/Ansible-Playbook-Examples.rst
+SPDXID: SPDXRef-item11356637
+FileChecksum: SHA1: 60f33b0ee99b1b4f7caae6212ca4ec8b9924eff8
+FileChecksum: MD5: 66ec32e2c6596a2705f26d193a631cf6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/Chef-JSON-Key-Value-Description.rst
+SPDXID: SPDXRef-item11356634
+FileChecksum: SHA1: 2c5f365cc29c0dd146ac3c6c6c41c9a1233397d7
+FileChecksum: MD5: c65f2eebd2dc06e2150cd0b6be723922
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/CommonEventFormat_30.1.1_ONAP.json
+SPDXID: SPDXRef-item11356617
+FileChecksum: SHA1: 7af1feabb10c8a94a77059afd030d5197a5eafb7
+FileChecksum: MD5: 0882afa5fa40b30a932412d514d6609d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020, AT&T Intellectual Property. All rights reserved </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/CommonEventFormat_30.1_ONAP.json
+SPDXID: SPDXRef-item11356619
+FileChecksum: SHA1: d65f5491a3325b94d4b927f134395d84763cdc9a
+FileChecksum: MD5: 96419d5a0bafd2a2b9d1338bb0f21be8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018, AT&T Intellectual Property. All rights reserved </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/index.rst
+SPDXID: SPDXRef-item11356593
+FileChecksum: SHA1: 29aeb238fcac8fab75b431b74e95c55d126155e2
+FileChecksum: MD5: 89881c529145161b401075a4463d3cdc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/OPNFV-Verified-Badging.rst
+SPDXID: SPDXRef-item11356590
+FileChecksum: SHA1: 09b5ba7d365e86818a324dfc7655953bb220a725
+FileChecksum: MD5: d5793b9835e2cf9ef57a38eef56dce47
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/TOSCA-model.rst
+SPDXID: SPDXRef-item11356618
+FileChecksum: SHA1: 40ea0dfcdb357da7abf960b5a9eec4d8e8e516f0
+FileChecksum: MD5: 3f817f3e48d2cddf70f244063c5af73a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/VNF-License-Information-Guidelines.rst
+SPDXID: SPDXRef-item11356627
+FileChecksum: SHA1: 20cc0a5c6dd7fb1a87b8b98ef3f48dcfca14fa1d
+FileChecksum: MD5: b40e33e9e45c838db16bbfbe840d8262
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter9/index.rst
+SPDXID: SPDXRef-item11356553
+FileChecksum: SHA1: 440aab17c3b34c5f6765c9a771a67cbb8418fea6
+FileChecksum: MD5: e257fa8159baf8843a114f2bcec500cf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/changes-by-section-casablanca.rst
+SPDXID: SPDXRef-item11356684
+FileChecksum: SHA1: 0cd5e41971bd56e8b1096406161b9e4fdda66bad
+FileChecksum: MD5: bd893be0b312133768e1488b387f2eb1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/changes-by-section-dublin.rst
+SPDXID: SPDXRef-item11356554
+FileChecksum: SHA1: cfa27994737adbaf98e640e44e14b9eb142f98fc
+FileChecksum: MD5: ef332ee793936a18a9faaee4189543f0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/changes-by-section-el-alto.rst
+SPDXID: SPDXRef-item11356570
+FileChecksum: SHA1: 87dece817a3b9cc7ec2d69bd38bce95008f4ee6e
+FileChecksum: MD5: bde177492359e59d54fed7978dbe7e7f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/changes-by-section-frankfurt.rst
+SPDXID: SPDXRef-item11356550
+FileChecksum: SHA1: 710981254b03aee656aeb5ae13f19944f8536dab
+FileChecksum: MD5: 307f1351be2fbaba0a8927ff5eeefab8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/index.rst
+SPDXID: SPDXRef-item11356555
+FileChecksum: SHA1: b397ceead1b8853fd91be4b8fc1dfcf329e9f7dc
+FileChecksum: MD5: 23ffd8724589c6909b79d9d8fce68956
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/release-notes.rst
+SPDXID: SPDXRef-item11356567
+FileChecksum: SHA1: 460c2daea4527a14d781db751d37d8096f4b59fb
+FileChecksum: MD5: f89901ac25595ee317426e130b9a90c4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/release-requirement-changes.rst.jinja2
+SPDXID: SPDXRef-item11356532
+FileChecksum: SHA1: 3c9f347dfc31cd17a022f009f2f61292b1414973
+FileChecksum: MD5: 05cc549be2a80b6d30d47b6ee1b7146d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/Appendix.rst
+SPDXID: SPDXRef-item11356725
+FileChecksum: SHA1: 122abce740bc88815c88721eda108dbc1338710f
+FileChecksum: MD5: 3ed0aa3545daae5c0356cbee239f570e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/index.rst
+SPDXID: SPDXRef-item11356726
+FileChecksum: SHA1: 67720a5a24e1ca81498d911f6bebf82b650c4258
+FileChecksum: MD5: 28696571a80a57d3587b53b125db4b6a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/OnboardInstantiateTests.rst
+SPDXID: SPDXRef-item11356736
+FileChecksum: SHA1: c9c01f42d65d05a0d008b5861ccfc7d2011945e5
+FileChecksum: MD5: 9fbae773da20d2a4f9765fafc56e7c52
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2019 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/PackageTests.rst
+SPDXID: SPDXRef-item11356731
+FileChecksum: SHA1: 15c1f5adbd217f7323d33b3bfb2da10ad6804dc1
+FileChecksum: MD5: 27a68a6a0e5dbf5c6d3ceeffeabad212
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/release-notes.rst
+SPDXID: SPDXRef-item11356728
+FileChecksum: SHA1: 42c20f7ad86183ad538b943752900f9442c1e6ac
+FileChecksum: MD5: da52153770ca5fe66311e60a7c2a9bf3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: vnfrqts-requirements/INFO.yaml
+SPDXID: SPDXRef-item11356531
+FileChecksum: SHA1: bde0937cff45e902fedf77ff2f875296e52e8623
+FileChecksum: MD5: e7a468c2f4c4729cd5bc352e40a03de0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/.gitreview
+SPDXID: SPDXRef-item11356533
+FileChecksum: SHA1: ed33c244232c49ed7a06e61145ed5698350329cb
+FileChecksum: MD5: 7c489e4c8640f35bf945ce07405d9afe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/_templates/layout.html
+SPDXID: SPDXRef-item11356536
+FileChecksum: SHA1: 75e86bc4b6d1b1b133acf44455aa40c92d6ef7a0
+FileChecksum: MD5: a6c03625dceab4b3f96250d31a3de7af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/_static/css/ribbon.css
+SPDXID: SPDXRef-item11356542
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item11356543
+FileChecksum: SHA1: f363d4140dc8557246dd552f0d0519f2fff1a888
+FileChecksum: MD5: fb606858a6c024e5221f97a3425b64c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/_static/favicon.ico
+SPDXID: SPDXRef-item11356544
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/.readthedocs.yaml
+SPDXID: SPDXRef-item11356545
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/.gitignore
+SPDXID: SPDXRef-item11356546
+FileChecksum: SHA1: c0dd7c93ac0d8a0306d3ec52485bbb7b3872a207
+FileChecksum: MD5: a03706afcc60f0afba361ce6e65cf337
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/VES_JSON_Driven_Model.png
+SPDXID: SPDXRef-item11356551
+FileChecksum: SHA1: c0bddd1929281d3beeb15ef923e20422c7ba124a
+FileChecksum: MD5: 3b7e74645525a926059ab7b4336aec04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/heat_picture3.png
+SPDXID: SPDXRef-item11356563
+FileChecksum: SHA1: 751ecb73fe6c518fb23a56d7a531955eaab8d44c
+FileChecksum: MD5: 5a47fae810d93a0a8ae8e31ceabd0efe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Bulk_Data_Transfer_Mechv1.png
+SPDXID: SPDXRef-item11356564
+FileChecksum: SHA1: fc9d97179d935ded70130514e5ab8f353de3e318
+FileChecksum: MD5: 3acf9e2bf9be08f41a583f44a108a5ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Data_Model_For_Event_Records.png
+SPDXID: SPDXRef-item11356565
+FileChecksum: SHA1: 0bb9a26da8ff23004fdd4f74aa31cc279378462e
+FileChecksum: MD5: 5cb83d83399563fcaaa509a0ebda64ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/requirements-docs.txt
+SPDXID: SPDXRef-item11356566
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/conf.yaml
+SPDXID: SPDXRef-item11356568
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/conf.py
+SPDXID: SPDXRef-item11356569
+FileChecksum: SHA1: a5ea0ea326a029d688478438255a76aa9b555a3d
+FileChecksum: MD5: c16fac87eb86ec9f2bd50827e4f1b48f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/YANG_Driven_Model.png
+SPDXID: SPDXRef-item11356571
+FileChecksum: SHA1: 24864baa1e64d4c1ce067eacd96d6a2cb52632f7
+FileChecksum: MD5: d7ff7ab3a9c77c32d6976050014d31dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Protocol_Buffers_Driven_Model.png
+SPDXID: SPDXRef-item11356580
+FileChecksum: SHA1: c50caed6bb7e424ac991c6edb81c5c19ad1870ba
+FileChecksum: MD5: 51b3f1bb8669517ca19c6ad00d541cc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/tox.ini
+SPDXID: SPDXRef-item11356581
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item11356586
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item11356587
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/_static/favicon.ico
+SPDXID: SPDXRef-item11356588
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/tosca_vnf_test_environment.png
+SPDXID: SPDXRef-item11356591
+FileChecksum: SHA1: d03ecbda071c59d3e34df40cbbf6395e62275610
+FileChecksum: MD5: 024ee7f39526a660ef3ed760c6483aa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/tosca_vnf_test_flow.png
+SPDXID: SPDXRef-item11356592
+FileChecksum: SHA1: 8fa9a5584c36e41e4344817876a62195a92e0fec
+FileChecksum: MD5: 63c858e24c92a5d02b1346c404abfdf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-fail-single_module.zip/single_module/templates/base.env
+SPDXID: SPDXRef-item11356600
+FileChecksum: SHA1: 928964dab60bc09a77b16f0debdfeabfe04e005c
+FileChecksum: MD5: 982e9d89ad3dcbaf17ee8d4df5f39092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-fail-single_module.zip/single_module/preloads/base_preload.json
+SPDXID: SPDXRef-item11356602
+FileChecksum: SHA1: 3e6b4585bc3657528db41625e0490705c9f03475
+FileChecksum: MD5: b6630194fc97e1b7a900955b2b05b064
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-fail-single_module.zip/single_module/vnf-details.json
+SPDXID: SPDXRef-item11356603
+FileChecksum: SHA1: 2841cea21c2904ce1df1631473d420046bcb5204
+FileChecksum: MD5: b81992f00474f4ee49c901d3197ba2d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-pass-single_module.zip/__MACOSX/single_module/._vnf-details.json
+SPDXID: SPDXRef-item11356609
+FileChecksum: SHA1: 19d7da92b3c33ae943f910c3c40287b0418cb933
+FileChecksum: MD5: 17966a416955967fb53f7e7c762dfa9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-pass-single_module.zip/single_module/templates/base.env
+SPDXID: SPDXRef-item11356613
+FileChecksum: SHA1: 928964dab60bc09a77b16f0debdfeabfe04e005c
+FileChecksum: MD5: 982e9d89ad3dcbaf17ee8d4df5f39092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-pass-single_module.zip/single_module/preloads/base_preload.json
+SPDXID: SPDXRef-item11356615
+FileChecksum: SHA1: 399596cc848b9f7cf0888f2bf797f9dc9a55d37f
+FileChecksum: MD5: c28e16b2a616adab74c4897648961142
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/input-VNF-API-pass-single_module.zip/single_module/vnf-details.json
+SPDXID: SPDXRef-item11356616
+FileChecksum: SHA1: e2c9e79f884629e3ee4c3a1d261d79c85e466266
+FileChecksum: MD5: 26b2db596fe945da847b472cd8ce23d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/Use-Case-2.png
+SPDXID: SPDXRef-item11356621
+FileChecksum: SHA1: b621425b48d62c66151b8ceec0d36de3680aaa01
+FileChecksum: MD5: c14c62dadb2ab5b58b7927012e53788d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/Use-Case-1.png
+SPDXID: SPDXRef-item11356622
+FileChecksum: SHA1: 60b638292246609f6abaf18184e0eccdb5430a13
+FileChecksum: MD5: abe40269ffd99f4136eec22d9d584489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/ves_5_4_1/ves-publisheventbatch.png
+SPDXID: SPDXRef-item11356624
+FileChecksum: SHA1: b955c52bcdb5cf189551fda1ea2030d5ccfc417f
+FileChecksum: MD5: 9b93724c6ca6bd931f6eccaad57fb857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/ves_5_4_1/ves-publishanyevent.png
+SPDXID: SPDXRef-item11356626
+FileChecksum: SHA1: 2d3abaef35e370752e4f0853f6dcb3b494e3c7d6
+FileChecksum: MD5: c7d045c3c17a856f365c16f81e0b8804
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/ves_7_2/Use-Case-2.png
+SPDXID: SPDXRef-item11356631
+FileChecksum: SHA1: b621425b48d62c66151b8ceec0d36de3680aaa01
+FileChecksum: MD5: c14c62dadb2ab5b58b7927012e53788d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/ves_7_2/Use-Case-1.png
+SPDXID: SPDXRef-item11356632
+FileChecksum: SHA1: 60b638292246609f6abaf18184e0eccdb5430a13
+FileChecksum: MD5: abe40269ffd99f4136eec22d9d584489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter8/Ansible JSON File Key Value Description.csv
+SPDXID: SPDXRef-item11356636
+FileChecksum: SHA1: b45cbd873ab0d0adb78cc654cb5e5842e4854f78
+FileChecksum: MD5: 7a032dc0ac33652b6c45b854cf5de4a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/NFV_data_type.csv
+SPDXID: SPDXRef-item11356644
+FileChecksum: SHA1: 503700a7fc78f244884537dfbd8e32894554d674
+FileChecksum: MD5: 15e1635027230f1d3ff96a781c37b37b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/LCM_config.csv
+SPDXID: SPDXRef-item11356647
+FileChecksum: SHA1: 630fbdaf682b1ae5f7573e65f98b964e0fc7aed5
+FileChecksum: MD5: c86a5cef314ff3fd92a71d725eb69d34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/Image1.png
+SPDXID: SPDXRef-item11356648
+FileChecksum: SHA1: da5b164eccd2a10ad91db2d901f4208dc8bffc91
+FileChecksum: MD5: 45df11a40e52fd8c0307ad4c7fd3442d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/Image2.png
+SPDXID: SPDXRef-item11356650
+FileChecksum: SHA1: a1a5fbd238ef4a54b017957b87cc799a9f8c45ef
+FileChecksum: MD5: 197ca72e2b9eb2f70192afc4eee8e826
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/Chapter5/Tosca/TOSCA_descriptor.csv
+SPDXID: SPDXRef-item11356652
+FileChecksum: SHA1: 1b31b768adae4e1bad63cce0bb04fc88fdc5ce59
+FileChecksum: MD5: 8d1309ed63dfebfe8d7a8e883b27ca4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/.gitignore
+SPDXID: SPDXRef-item11356681
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-requirements/docs/data/needs.json
+SPDXID: SPDXRef-item11356686
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/INFO.yaml
+SPDXID: SPDXRef-item11356688
+FileChecksum: SHA1: aacbecfe1e0d993acbb8349d8e6b1577d37ca38e
+FileChecksum: MD5: 7aa43f3876fe25c8f7dd5d185ea3115e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/.gitreview
+SPDXID: SPDXRef-item11356689
+FileChecksum: SHA1: f5f956063c679953e809e39abd5a94007c801cbe
+FileChecksum: MD5: dec5219dba2ca51c4e03ff17c13af9b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/.readthedocs.yaml
+SPDXID: SPDXRef-item11356694
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/.gitignore
+SPDXID: SPDXRef-item11356695
+FileChecksum: SHA1: 108dd07e8022fc67df963f993c6f6f43f0677a24
+FileChecksum: MD5: 1367f9d04e99d989c378fcbf3eea67c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/manual_scale_out_run_time.png
+SPDXID: SPDXRef-item11356697
+FileChecksum: SHA1: 7d5cd3779701301945ab787308e5d96dda063170
+FileChecksum: MD5: 9fce33fb8ed6a89a9a9bc3533d42c33b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/requirements-docs.txt
+SPDXID: SPDXRef-item11356699
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/conf.yaml
+SPDXID: SPDXRef-item11356701
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/conf.py
+SPDXID: SPDXRef-item11356702
+FileChecksum: SHA1: 6ab10e99848cc391caf749626a84c51cd9974117
+FileChecksum: MD5: 1893ad5dc9e7fea503f50a4094e09ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/manual_scale_out_design_time.png
+SPDXID: SPDXRef-item11356703
+FileChecksum: SHA1: bdb2633e31b596a81cf5ac53523133a22cd514c9
+FileChecksum: MD5: 2cd0bca6ce375706d3a120b639ae7833
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/_templates/layout.html
+SPDXID: SPDXRef-item11356705
+FileChecksum: SHA1: 75e86bc4b6d1b1b133acf44455aa40c92d6ef7a0
+FileChecksum: MD5: a6c03625dceab4b3f96250d31a3de7af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/tox.ini
+SPDXID: SPDXRef-item11356706
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item11356709
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item11356710
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/_static/favicon.ico
+SPDXID: SPDXRef-item11356711
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-usecases/docs/.gitignore
+SPDXID: SPDXRef-item11356713
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-epics/INFO.yaml
+SPDXID: SPDXRef-item11356715
+FileChecksum: SHA1: 36722934059f297a629c07fc819293bbc0b2d162
+FileChecksum: MD5: 5b9f916ed51f75e11d5a9e5dfd18d1e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/INFO.yaml
+SPDXID: SPDXRef-item11356717
+FileChecksum: SHA1: 86105dbd9243c494d0617c85f7ffaa7cd48a04f9
+FileChecksum: MD5: 4c2645a26cadb98d15a2a32816d0e989
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/.gitreview
+SPDXID: SPDXRef-item11356718
+FileChecksum: SHA1: 415c743490f23073ad22e220878cc58ec521197c
+FileChecksum: MD5: 79eadede7db43648d8ab0f9ed6a10c2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/.readthedocs.yaml
+SPDXID: SPDXRef-item11356722
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/.gitignore
+SPDXID: SPDXRef-item11356723
+FileChecksum: SHA1: 3a3606d796b25fed4e4b599bbca692a5e093e0a2
+FileChecksum: MD5: 95ecb0052349be69b71aca13b0d18bfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/requirements-docs.txt
+SPDXID: SPDXRef-item11356727
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/conf.yaml
+SPDXID: SPDXRef-item11356729
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/conf.py
+SPDXID: SPDXRef-item11356730
+FileChecksum: SHA1: 6ab10e99848cc391caf749626a84c51cd9974117
+FileChecksum: MD5: 1893ad5dc9e7fea503f50a4094e09ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/rst.csv
+SPDXID: SPDXRef-item11356732
+FileChecksum: SHA1: 4fe430fa121cb29c8a5b22f97b969553a0d2a0f4
+FileChecksum: MD5: 784106093d97033ed8f325487b4a898b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/_templates/layout.html
+SPDXID: SPDXRef-item11356734
+FileChecksum: SHA1: 4024ada7ef1d3c09a70c4a42e652c19935436acd
+FileChecksum: MD5: b84d16736fba6b2d7912f58361797a5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/tox.ini
+SPDXID: SPDXRef-item11356735
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item11356739
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item11356740
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/_static/favicon.ico
+SPDXID: SPDXRef-item11356741
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/.gitignore
+SPDXID: SPDXRef-item11356742
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-testcases/docs/traceability.csv
+SPDXID: SPDXRef-item11356743
+FileChecksum: SHA1: f946cb815f3a3377417d03a91dca47c4cdb0462b
+FileChecksum: MD5: afc3575ebdc281dfab56d8cc9589be79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/INFO.yaml
+SPDXID: SPDXRef-item11356745
+FileChecksum: SHA1: 36245ca0be3e1cf726915384c765fe8df126b3b7
+FileChecksum: MD5: 12ba8e40a43cb1886c8e6ad2f080812b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/.gitreview
+SPDXID: SPDXRef-item11356746
+FileChecksum: SHA1: c9869b93c183c888b9d8a83f39cf573b958818c4
+FileChecksum: MD5: c3349b7cb8d2ba8a4a36300039e01824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/.readthedocs.yaml
+SPDXID: SPDXRef-item11356751
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/.gitignore
+SPDXID: SPDXRef-item11356752
+FileChecksum: SHA1: c51c070add66f8d343c45ca43681a7ebab1685bb
+FileChecksum: MD5: bde6ac43b52b3c9a8e9f055e523d00b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/requirements-docs.txt
+SPDXID: SPDXRef-item11356755
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/conf.yaml
+SPDXID: SPDXRef-item11356756
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/conf.py
+SPDXID: SPDXRef-item11356757
+FileChecksum: SHA1: 6ab10e99848cc391caf749626a84c51cd9974117
+FileChecksum: MD5: 1893ad5dc9e7fea503f50a4094e09ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/_templates/layout.html
+SPDXID: SPDXRef-item11356760
+FileChecksum: SHA1: 75e86bc4b6d1b1b133acf44455aa40c92d6ef7a0
+FileChecksum: MD5: a6c03625dceab4b3f96250d31a3de7af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/tox.ini
+SPDXID: SPDXRef-item11356761
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/VNF_Lifecycle.jpg
+SPDXID: SPDXRef-item11356762
+FileChecksum: SHA1: 3b5009568cec8ccc2933a9cdeb385fb2651dbaff
+FileChecksum: MD5: 0b3201decb6ac2052a48ea56ecdd7887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item11356765
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item11356766
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/_static/favicon.ico
+SPDXID: SPDXRef-item11356767
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/ONAP_VNF_Control_Loop.jpg
+SPDXID: SPDXRef-item11356768
+FileChecksum: SHA1: 3a9ee0c16aceb283681a7e191228343a897038e1
+FileChecksum: MD5: 06caad2838eff967e8ebea15823cacf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/.gitignore
+SPDXID: SPDXRef-item11356769
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: vnfrqts-guidelines/docs/VNF_VNFC_Relation.jpg
+SPDXID: SPDXRef-item11356770
+FileChecksum: SHA1: b5bc726fafa6591f3848cb3b3de4c6f2af242647
+FileChecksum: MD5: 14d7da1a937ad648ffb090ae6fc63d1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
