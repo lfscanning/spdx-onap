@@ -1,0 +1,5826 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_music-2021-04-06.zip_1617730168.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-04-06T17:29:29Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: music-2021-04-06.zip
+PackageFileName: music-2021-04-06.zip
+SPDXID: SPDXRef-upload3503
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 5a4461774e710ab9684b4c12edc86f62f5f24b54
+PackageChecksum: SHA1: a2baf3268b8ed57c08adf1d539da2b001afca259
+PackageChecksum: MD5: ffaf19afe8014f117c336cc8af595fab
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3503
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: music/docs/consumedapis.rst
+SPDXID: SPDXRef-item13727071
+FileChecksum: SHA1: 798016ca19896efa96ecc6358a7821874a3225c2
+FileChecksum: MD5: fb9d27075e4614d7cfb4d55b5baae684
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/logging.rst
+SPDXID: SPDXRef-item13727075
+FileChecksum: SHA1: d623539ded01045e1665777b2685a38e5fa55a37
+FileChecksum: MD5: 8524d3ccde116acd3342fa41182c2c13
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/commandsamples.rst
+SPDXID: SPDXRef-item13727138
+FileChecksum: SHA1: 419fffacef61176c2f14cb8850fe2360b525e73c
+FileChecksum: MD5: f6794f56c054a49acc08b7bfceeeb38a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/installation.rst
+SPDXID: SPDXRef-item13727150
+FileChecksum: SHA1: 5101a09acdcd0ce1e63fa542620a67ef60e03ae4
+FileChecksum: MD5: 56840a01720fddaaa1ea8b4be4aa3f26
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/configuration.rst
+SPDXID: SPDXRef-item13727061
+FileChecksum: SHA1: f6c0f487725170f23798418d991eddfb8653beb4
+FileChecksum: MD5: c5a36516d24499c594d958d13d2a75c2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/installation.rst
+SPDXID: SPDXRef-item13727076
+FileChecksum: SHA1: 6ee2bd622fe1269fa7bacc8b1267c3a9d706f6c3
+FileChecksum: MD5: 5271441643c2181c64a46cdcbbf85c6e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/delivery.rst
+SPDXID: SPDXRef-item13727078
+FileChecksum: SHA1: 1a9779511e0c34e2805a6b489f501430daabb401
+FileChecksum: MD5: 25483781fa67ff0b99afe2617176da2c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/architecture.rst
+SPDXID: SPDXRef-item13727055
+FileChecksum: SHA1: acaa4cb59cd30498c23e3a10a9bd8f7c15ace8eb
+FileChecksum: MD5: e50ceb6b02d592fd7256b03760765648
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/offeredapis.rst
+SPDXID: SPDXRef-item13727060
+FileChecksum: SHA1: 290281df1ff8b8f235715675969d201b4890c566
+FileChecksum: MD5: 065f132796d0df284bb4b6958cca9a5a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/index.rst
+SPDXID: SPDXRef-item13727136
+FileChecksum: SHA1: cc8d00bb80d69e202ec2a080ca0fbffcfa0a62b8
+FileChecksum: MD5: c18701df62e95430d6c2ec3efca8a1cf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/index.rst
+SPDXID: SPDXRef-item13727056
+FileChecksum: SHA1: 4bbf4d179d8b2a06c94c62f165b2a6edcac26e9a
+FileChecksum: MD5: bd59e4205cb218f85df70d0876719b83
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/offeredapis.rst
+SPDXID: SPDXRef-item13727140
+FileChecksum: SHA1: 3c95d75f0aadfd307661ca517c042521313245b2
+FileChecksum: MD5: e738ec0e42d1e0a5f8e67b7569118f52
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/resources/logback.xml
+SPDXID: SPDXRef-item13727205
+FileChecksum: SHA1: b748c7f63ad022fbdd1ae066bc71eb0121d62260
+FileChecksum: MD5: 7a75f819798768fb951489d21a0414f3
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JSONObjectTest.java
+SPDXID: SPDXRef-item13726951
+FileChecksum: SHA1: 53062227b6fc9a5ce6eae54ee77201dc81ea0d2e
+FileChecksum: MD5: b44348f1a9895f014809fa5fdbfe5b97
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 IBM Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/RowIdentifierTest.java
+SPDXID: SPDXRef-item13726958
+FileChecksum: SHA1: e6dad6b3e1b4097f7953a4bd5a7bdfaefa10d45f
+FileChecksum: MD5: 05f3b6aad5116ac9ee8ec8791bf320e8
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 IBM Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/plans/music-distributed-kv-store-test-plan/teardown.sh
+SPDXID: SPDXRef-item13727125
+FileChecksum: SHA1: e3f0c66199aa931b1867f841d8c3e8218b3f8d30
+FileChecksum: MD5: 90b9d99836da80e195a7c60429d0ba0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: music-mdbc/LICENSE
+SPDXID: SPDXRef-item13727312
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+FileChecksum: MD5: e3fc50a88d0a364313df4b21ef20c29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/AAFResponseTest.java
+SPDXID: SPDXRef-item13726796
+FileChecksum: SHA1: 8f1c20fe4f1ab7ee9b3c965c4a3bb2bd735e4361
+FileChecksum: MD5: 888cd466242b1941b7720755a65ea079
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/JsonTableTest.java
+SPDXID: SPDXRef-item13726801
+FileChecksum: SHA1: efc18b7b42b55012c3398db5e02e175edc2a8bcf
+FileChecksum: MD5: b5f1ba4decd4f2955c37f05d768f33e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/JsonInsertTest.java
+SPDXID: SPDXRef-item13726802
+FileChecksum: SHA1: 89e9a2f03aca21a6c7f0c66172f727d43d1fb69c
+FileChecksum: MD5: 6461745eca51130dec7bdad859ae4257
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/CassandraCQL.java
+SPDXID: SPDXRef-item13726807
+FileChecksum: SHA1: f54e774a738db255796e1601382886d6db3f7e82
+FileChecksum: MD5: a2c49040d7e15b532f4c3485653f642c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/ReturnTypeTest.java
+SPDXID: SPDXRef-item13726806
+FileChecksum: SHA1: bc5b38abf6b7abe9aafdf8f4f15b1abe2e0fac56
+FileChecksum: MD5: 01417bf5edec96576d805b637da0b4cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/MusicUtilTest.java
+SPDXID: SPDXRef-item13726808
+FileChecksum: SHA1: 0ba9efdc6f212737c12ad0dcc099a0a803ad3884
+FileChecksum: MD5: 37b5655f005b9ad41624a6bdf297c7dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/ResultTypeTest.java
+SPDXID: SPDXRef-item13726810
+FileChecksum: SHA1: 72ce4f761b0e3f932a677cf95d3df6e8e0208957
+FileChecksum: MD5: 5866699113de996fcc445713a1f07c85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/LICENSE.txt
+SPDXID: SPDXRef-item13726885
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/resources/LICENSE.txt
+SPDXID: SPDXRef-item13726817
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/LICENSE.txt
+SPDXID: SPDXRef-item13726812
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/LICENSE.txt
+SPDXID: SPDXRef-item13727049
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/resources/LICENSE.txt
+SPDXID: SPDXRef-item13726990
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/LICENSE.txt
+SPDXID: SPDXRef-item13726985
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/resources/LICENSE.txt
+SPDXID: SPDXRef-item13726928
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/LICENSE.txt
+SPDXID: SPDXRef-item13726766
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/LICENSE.txt
+SPDXID: SPDXRef-item13726722
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/LICENSE.txt
+SPDXID: SPDXRef-item13726904
+FileChecksum: SHA1: e2cb01e1c45d5987e3e2575147ace06eb85fa14b
+FileChecksum: MD5: 560bc98a30a0746d6610a34eb0c95668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/JsonResponseTest.java
+SPDXID: SPDXRef-item13726809
+FileChecksum: SHA1: 2287c6fed93797b641ae0046eb49babb1edf1c68
+FileChecksum: MD5: ebbcd9326e337c491f366d9ee9bf8788
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/exceptions/MusicServiceException.java
+SPDXID: SPDXRef-item13726853
+FileChecksum: SHA1: e9c1206be0007e78e01e19e5fcfe2bdb02ea5471
+FileChecksum: MD5: 3493653c0d9f28899c7bd3793db7b868
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/resources/Resources.properties
+SPDXID: SPDXRef-item13726816
+FileChecksum: SHA1: 3df7769d27465394736cb77e8ded9f082ff147a5
+FileChecksum: MD5: 4f46bd52c73c1f7fa0b6e42d323ec2db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/resources/Resources.properties
+SPDXID: SPDXRef-item13726989
+FileChecksum: SHA1: 3df7769d27465394736cb77e8ded9f082ff147a5
+FileChecksum: MD5: 4f46bd52c73c1f7fa0b6e42d323ec2db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/resources/Resources.properties
+SPDXID: SPDXRef-item13726927
+FileChecksum: SHA1: 3df7769d27465394736cb77e8ded9f082ff147a5
+FileChecksum: MD5: 4f46bd52c73c1f7fa0b6e42d323ec2db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/main.go
+SPDXID: SPDXRef-item13727096
+FileChecksum: SHA1: ec6bc2fff9a34a8dba6e49f6af69bc23a20d371e
+FileChecksum: MD5: 1e4d332a8d8960935ac8e094f240ac31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendfakes.go
+SPDXID: SPDXRef-item13727098
+FileChecksum: SHA1: 1c19933bf6e92d68ec7e3d4b5ee97b01a66ce3c3
+FileChecksum: MD5: ab727985461845ee4a3687f454096ac4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendDatastoreConnection.go
+SPDXID: SPDXRef-item13727099
+FileChecksum: SHA1: e1faec53a7c7af2e6dd3e0e3c02171ce24826199
+FileChecksum: MD5: 8a72485dffd15b3fb757f06bd1ed66a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendCassandraDatastore.go
+SPDXID: SPDXRef-item13727101
+FileChecksum: SHA1: 0d6293bcb357d1f4b0b435dd554786d93c03a8a5
+FileChecksum: MD5: 13dfbd697fb9b1a950a3243807fdaf0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/queryDatastoreHandlers_test.go
+SPDXID: SPDXRef-item13727100
+FileChecksum: SHA1: 28b62800f9f29391607305cb4883e51ae607fcb5
+FileChecksum: MD5: 2132cb7754dc380c9215f11c7f029ef4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/queryDatastoreHandlers.go
+SPDXID: SPDXRef-item13727102
+FileChecksum: SHA1: 39f73c73bfe72716a99cbc72fbee5bf0058d7cec
+FileChecksum: MD5: 1d5f9fbe9d83865ad6ee477b3f86756a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/registrationHandlers.go
+SPDXID: SPDXRef-item13727104
+FileChecksum: SHA1: 4ae1145cb7dbb84a95b8e317737591b46fa9a76d
+FileChecksum: MD5: 532d725b564fbca7d1fc7bea54817938
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendPropertiesConnection.go
+SPDXID: SPDXRef-item13727103
+FileChecksum: SHA1: 2c925007ba1ab53eb5b2f9629f2c6ce5286ce7a9
+FileChecksum: MD5: ea061b53980bd1f086c2f0f01d64e387
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/initialise_test.go
+SPDXID: SPDXRef-item13727105
+FileChecksum: SHA1: b8cbb9b35a40835983c48ef83c50c97081df572f
+FileChecksum: MD5: ef830bdf5b4b5f252aa8fb8e957522a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendConsulDatastore.go
+SPDXID: SPDXRef-item13727107
+FileChecksum: SHA1: 25ae51908975985c20fd1e90fbaa3421a8b0b0d5
+FileChecksum: MD5: 2ae77edf7cca747fd413c510915c59bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/configHandlers.go
+SPDXID: SPDXRef-item13727106
+FileChecksum: SHA1: 31c7f6b4d5057a0b6fc8af212a0c7f14f7f841c2
+FileChecksum: MD5: c3b3cdce48a8346d617d4d26389f56a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendFilesystemConnection.go
+SPDXID: SPDXRef-item13727109
+FileChecksum: SHA1: db48e6cd7fdaad27694ecdd15f88ade1727e52d9
+FileChecksum: MD5: 723dd40df7da56996535271f63c92925
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/initialise.go
+SPDXID: SPDXRef-item13727108
+FileChecksum: SHA1: 3a823a2d760289bdc5a0b7d6c42ae0d9290066bf
+FileChecksum: MD5: 75f9720cd6404558e9a3a15817b5971b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/utils_test.go
+SPDXID: SPDXRef-item13727110
+FileChecksum: SHA1: 181b0c6c8561ffa40398f7290bd599ca999a2d25
+FileChecksum: MD5: 57ba08beb666556ef0c5a7890b93cf88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/configHandlers_test.go
+SPDXID: SPDXRef-item13727111
+FileChecksum: SHA1: 7c452829d7bfe1a6ee98da299d22988267a1a2d0
+FileChecksum: MD5: 0b1797bc131a43504f6067470e0b3a44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/utils.go
+SPDXID: SPDXRef-item13727112
+FileChecksum: SHA1: 55d692a36c022be982435f30c9d697924143061e
+FileChecksum: MD5: b7b7ca3c173d50e4a5d345518e4d338f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/registrationHandlers_test.go
+SPDXID: SPDXRef-item13727113
+FileChecksum: SHA1: b333e1c653e295f5f4b8eceabf5802e77538e8e5
+FileChecksum: MD5: db18678834d11753bdfef2421441b6a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/main_test.go
+SPDXID: SPDXRef-item13727115
+FileChecksum: SHA1: b282355deaf0c43f2f3b45c51540487246ef5464
+FileChecksum: MD5: 0fe599a125a8b721fa2625b95897efc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/musicinterface/JsonKeySpace.java
+SPDXID: SPDXRef-item13727396
+FileChecksum: SHA1: aa3784c5c8125ede150a2d0baa2bfceb67c3c475
+FileChecksum: MD5: 41be6e10d6fdb455775bdb6c9be7d4cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/musicinterface/JsonInsert.java
+SPDXID: SPDXRef-item13727398
+FileChecksum: SHA1: ce01698cd94db8c0c70d0af9ad009738ca643471
+FileChecksum: MD5: 2fcab3cc760b2b94419e1f7937c368c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/musicinterface/JsonTable.java
+SPDXID: SPDXRef-item13727400
+FileChecksum: SHA1: 48415d184d3096cd62abb03d1a8715810802a692
+FileChecksum: MD5: 920cbadc1301ccb217b4bdddbbd61804
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/musicinterface/JsonDelete.java
+SPDXID: SPDXRef-item13727397
+FileChecksum: SHA1: b394a4b81c60be9c86da6d9cdcab96f92af04a31
+FileChecksum: MD5: 95d567e40de18e1c16ea97374e57bb62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/main/ConfigReader.java
+SPDXID: SPDXRef-item13727405
+FileChecksum: SHA1: 3ee8a48496bf4f21598f1705d1e6aa20b54330f0
+FileChecksum: MD5: 19b8ac7e027c06bb24022c7511405831
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/eelf/logging/EELFLoggerDelegate.java
+SPDXID: SPDXRef-item13727403
+FileChecksum: SHA1: 1c6c685c272975379cf0945a2729f6a0b758945e
+FileChecksum: MD5: 9dbf24da32716342acd8a064fa1950df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/LICENSE.txt
+SPDXID: SPDXRef-item13727409
+FileChecksum: SHA1: ab610d273c01d938a26fa21eddfdf5848c60eddc
+FileChecksum: MD5: eaa8f506fe62efdf0c3785cce2d8d67e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/main/PromUtil.java
+SPDXID: SPDXRef-item13727406
+FileChecksum: SHA1: ca4238aa71b8e07d0aea33252ddccc298382f2c2
+FileChecksum: MD5: 8db92c637e4d66a486d3b2171a11ee7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/sampleApp/promoverride.py
+SPDXID: SPDXRef-item13727423
+FileChecksum: SHA1: 068904a5f2009389eaff9bebe82c1bfdbdc84462
+FileChecksum: MD5: 2124ace2d3b999e651edcd610d08ca04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/unittests/jsonobjects/JSONObjectTest.java
+SPDXID: SPDXRef-item13726945
+FileChecksum: SHA1: 7ea7de6d677be74a1c0559a25f7ac66d9544306f
+FileChecksum: MD5: d379b863348ef9e41605faf75f44f614
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 IBM. </text>
+ 
+
+##File
+
+FileName: music-prom/src/test/java/org/onap/music/prom/musicinterface/MusicHandleTest.java
+SPDXID: SPDXRef-item13727384
+FileChecksum: SHA1: efb6c43a5052c5270df4b83a13bb595446433560
+FileChecksum: MD5: 03826d9cb4a929766a2b9a0fc2dc64d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/test/TestCommon.java
+SPDXID: SPDXRef-item13727183
+FileChecksum: SHA1: 10960f42cf7274d6ddcb865e0450523de23d747a
+FileChecksum: MD5: fa28e572c8a7cd9ec16ccc57e818c34d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/test/ALLTESTS.java
+SPDXID: SPDXRef-item13727187
+FileChecksum: SHA1: a4a1f2e8b8ed1990aa9269a56d0264825e606583
+FileChecksum: MD5: eeb4e3c3c48875ed491abeb5a4f34c1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/exceptions/MusicServiceException.java
+SPDXID: SPDXRef-item13727024
+FileChecksum: SHA1: 14f2240915a08adb60d32055dd0e04778b1e11d8
+FileChecksum: MD5: f2884c2f2ec18209dd5d72fe89e4391a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2018 IBM. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/test/BasicTest.java
+SPDXID: SPDXRef-item13727186
+FileChecksum: SHA1: c142ba06105443f49fa7966a637b67455774666d
+FileChecksum: MD5: a3042a344cc404438a523e84d6ab43e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/package-info.java
+SPDXID: SPDXRef-item13727238
+FileChecksum: SHA1: 0c83115f7d9a9857e901dd303056902851323002
+FileChecksum: MD5: 8f2ceee755bd6824dc25915bd8bf3655
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/TxCommitProgress.java
+SPDXID: SPDXRef-item13727244
+FileChecksum: SHA1: 630d5b4cf2a3c8ef8d0ab8baef68580b8e2747ea
+FileChecksum: MD5: 9f741d5a2343cd7c6f13e37961d71a2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/ArchiveProcess.java
+SPDXID: SPDXRef-item13727218
+FileChecksum: SHA1: 42908c022fb82693c236376879471d9cb8ef9845
+FileChecksum: MD5: 4d588d127bafabfb28c6ca9e52ef2654
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/MusicConnector.java
+SPDXID: SPDXRef-item13727233
+FileChecksum: SHA1: 8aae129f8a17c3dd69ae92296e72c69fc8ce0abe
+FileChecksum: MD5: e562c7d0b8afa9eda17b403f162a394b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/TableInfo.java
+SPDXID: SPDXRef-item13727258
+FileChecksum: SHA1: 1395988bdf35f72e07c72a10d76476df700db0d9
+FileChecksum: MD5: 2163d3ce5f24efa25d94a3db94484bb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/MdbcCallableStatement.java
+SPDXID: SPDXRef-item13727259
+FileChecksum: SHA1: fd4d79ba1504982f680b9f0f3443e0512db708fd
+FileChecksum: MD5: a7d7f2c72e23c85dec4d915fb6750ca6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/RedoRow.java
+SPDXID: SPDXRef-item13727272
+FileChecksum: SHA1: c7dc2d768fa2237a3394fb59089732f8f79be804
+FileChecksum: MD5: 30fe8a9539278633ebc366e8c56b89a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tests/Test_Transactions.java
+SPDXID: SPDXRef-item13727285
+FileChecksum: SHA1: 83625e6847352b27cf5e9373b4a9f09c81c04dfe
+FileChecksum: MD5: 8811dcdc83e7aa65dfac61fb1ec293c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tests/Test_Insert.java
+SPDXID: SPDXRef-item13727284
+FileChecksum: SHA1: d786d8334fc73a5fece739655153afe9e07ba057
+FileChecksum: MD5: af81cdfce226abba988dc8eacbd98593
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tests/MAIN.java
+SPDXID: SPDXRef-item13727287
+FileChecksum: SHA1: 661ebd04b7a46e2382a6ad806fece62584edd44c
+FileChecksum: MD5: 24907268ea81bcdf99fdb8a665afcadd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/package-info.java
+SPDXID: SPDXRef-item13727291
+FileChecksum: SHA1: 300f166dd19dc5a7989ca0fe3595802084db841e
+FileChecksum: MD5: 53826f609a80f47dc6793d91f06158cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tests/Test.java
+SPDXID: SPDXRef-item13727286
+FileChecksum: SHA1: 3905364e051daad6556426a6d4d302c318b668c8
+FileChecksum: MD5: 0a1a7aac34f4445625b0e21756244fc4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tests/Test_Delete.java
+SPDXID: SPDXRef-item13727290
+FileChecksum: SHA1: c8084a654696634094d4f88b90e0687db3603a2e
+FileChecksum: MD5: 3b6846c8de629c03d8f6509424eafe71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tests/ConnectionTest.java
+SPDXID: SPDXRef-item13727289
+FileChecksum: SHA1: 44862910ca2145b792df5c0874f677a03d9223e4
+FileChecksum: MD5: 2f96a63c6feb6a19d56641e1aad6d0c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tests/package-info.java
+SPDXID: SPDXRef-item13727288
+FileChecksum: SHA1: 975ffac24b2fef25d062c8ed352da232e43ba85f
+FileChecksum: MD5: 9a31ceacb584a93dc9fba753cc70fac6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/LockId.java
+SPDXID: SPDXRef-item13727293
+FileChecksum: SHA1: ea4d6005ec0de6ed21819e3c9bdb8193842892f7
+FileChecksum: MD5: d1973a26aee95ae3683c3dd9d13b23c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/logging/format/ErrorTypes.java
+SPDXID: SPDXRef-item13727300
+FileChecksum: SHA1: df4aaeae8468bf84ee621bfcd01c87161a0a64c1
+FileChecksum: MD5: 09aa48bcec1b947b26dde60d1c135eec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/exceptions/QueryException.java
+SPDXID: SPDXRef-item13727296
+FileChecksum: SHA1: baeff0b69d05d0d3d189cf71266c4696d987e680
+FileChecksum: MD5: 19db348ab42d19fadeb1810852a092ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/logging/format/ErrorSeverity.java
+SPDXID: SPDXRef-item13727301
+FileChecksum: SHA1: 06bc21e9f848f637371b253452abb6aaf6157ee7
+FileChecksum: MD5: a91a8b7680732c1dc51d0aed070f0270
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/logging/format/AppMessages.java
+SPDXID: SPDXRef-item13727302
+FileChecksum: SHA1: 67f139fb10b3390dd2f66442d2fb00b75e5a1ff6
+FileChecksum: MD5: b6b1267bc2a1ebf57ffc66fcdea1b0bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/exceptions/MDBCServiceException.java
+SPDXID: SPDXRef-item13727297
+FileChecksum: SHA1: d6ec07a291b348c250f60d829e29ce24c1d21519
+FileChecksum: MD5: e3839c3c91e60b3c24ad15864f418dbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/JsonKeySpaceTest.java
+SPDXID: SPDXRef-item13726794
+FileChecksum: SHA1: 14d32bde6d697b81bf10474f8f92ab2cdaa6f189
+FileChecksum: MD5: 1ace0be6be0937ddcda055e475415037
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/JsonLeasedLockTest.java
+SPDXID: SPDXRef-item13726795
+FileChecksum: SHA1: a6ccb1edfb44148fe5e5248a05dbf13ec2403a2c
+FileChecksum: MD5: 6c80375c4d635ca37a3180c2e84543c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/JsonOnboardTest.java
+SPDXID: SPDXRef-item13726798
+FileChecksum: SHA1: 4f184c0bff1435f79884f5125ca1a9dae2280e2f
+FileChecksum: MD5: 80cc5600470a8c85878b02e5808a37d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/JsonDeleteTest.java
+SPDXID: SPDXRef-item13726800
+FileChecksum: SHA1: ce0203cbb955cdd246d49474c1726a140e565114
+FileChecksum: MD5: ef512fbc0d45d11cf504f01eb5d7a775
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/exceptions/MusicLockingExceptionTest.java
+SPDXID: SPDXRef-item13726964
+FileChecksum: SHA1: 32d42c49dac067f83d5f2f0d502466adcefa53da
+FileChecksum: MD5: 0f38b8c3f1709b342babbbeaccf8ee41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/exceptions/MusicQueryExceptionTest.java
+SPDXID: SPDXRef-item13726965
+FileChecksum: SHA1: cb5ca42d8cffec8d4ef575ab1d30aff152f9d87d
+FileChecksum: MD5: c3b733ac74ed20193d77abd3793e8f50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/eelf/logging/format/AppMessagesTest.java
+SPDXID: SPDXRef-item13726973
+FileChecksum: SHA1: b21107966dbeef8c36357b4814b7ff9995279f50
+FileChecksum: MD5: 01ba3ff21befec8d7e0ef39a63327139
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/exceptions/MusicExceptionMapperTest.java
+SPDXID: SPDXRef-item13726708
+FileChecksum: SHA1: d88e132281033140152a8b5d4ff985b44e28a49c
+FileChecksum: MD5: a12599ecfedbc1b19aa3e503f69582d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/exceptions/MusicPolicyVoilationExceptionTest.java
+SPDXID: SPDXRef-item13726966
+FileChecksum: SHA1: 86d96e530568fd58d364a66413536a44d1c00fdc
+FileChecksum: MD5: 923347b72ca8e44c14e13c0bb506ac33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/rest/RestMusicVersionAPI.java
+SPDXID: SPDXRef-item13726827
+FileChecksum: SHA1: 719d008556a1836cb295d4e915c7a119d6fcd5af
+FileChecksum: MD5: 828c4c029dd251368ca2d480f23ed0d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/exceptions/MusicServiceExceptionTest.java
+SPDXID: SPDXRef-item13726967
+FileChecksum: SHA1: 0d0235ba9aac47159a9b38b47e78f6d27a468bb5
+FileChecksum: MD5: 984bffd3cf9a238612474f7aa6a118ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/rest/Application.java
+SPDXID: SPDXRef-item13726738
+FileChecksum: SHA1: 0101c676c91ac114ca54d32f4bb918a200816a17
+FileChecksum: MD5: d9595f0bf9c41f6c946dde06fb7ada85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JsonLeasedLock.java
+SPDXID: SPDXRef-item13726835
+FileChecksum: SHA1: b11107f8dbc9e00ae7a9f14cfc02f8a00e783d6d
+FileChecksum: MD5: 99fa9593125f6da8a0847fd69cb9a1cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JsonDelete.java
+SPDXID: SPDXRef-item13726837
+FileChecksum: SHA1: faab7d9393af364063881f3534c84dc8d9f1f2c0
+FileChecksum: MD5: 2bd2b1235858261620fcdc2046ca30d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JsonKeySpace.java
+SPDXID: SPDXRef-item13726836
+FileChecksum: SHA1: 38bcc980aa7c32da6320a11fa933b0e950151a95
+FileChecksum: MD5: 600c7d6e3190a63f9cf9cabb490b82eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JSONObject.java
+SPDXID: SPDXRef-item13726845
+FileChecksum: SHA1: 793f90a05a715f8ebd2df8cf1c0be771b092e384
+FileChecksum: MD5: c753d37769e8ab7539f1870c918277e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/NameSpace.java
+SPDXID: SPDXRef-item13726843
+FileChecksum: SHA1: 0c9491a0df0a97c32e76bd08e2d6c59cf6eaa228
+FileChecksum: MD5: 658c637fd4b8ab3f91f186d80a44e29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/exceptions/MusicPolicyVoilationException.java
+SPDXID: SPDXRef-item13727021
+FileChecksum: SHA1: 30a2748377070038c93d8cf5096cc20e5322be8e
+FileChecksum: MD5: 8188c137e6b0de6b7a4c55166b5ec6c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2018 IBM </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/exceptions/MusicQueryException.java
+SPDXID: SPDXRef-item13726849
+FileChecksum: SHA1: 33cda2df4772ae9709a7151561e859428adfeb15
+FileChecksum: MD5: 669be8543131fb116ddfa89de4198b8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/exceptions/MusicQueryException.java
+SPDXID: SPDXRef-item13727020
+FileChecksum: SHA1: 33cda2df4772ae9709a7151561e859428adfeb15
+FileChecksum: MD5: 669be8543131fb116ddfa89de4198b8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/exceptions/MusicExceptionMapper.java
+SPDXID: SPDXRef-item13726851
+FileChecksum: SHA1: d8077abc30b20b341ca15780c9942407d1e5cfa4
+FileChecksum: MD5: b11aa73b12703d8af18bb3fbe55e1bfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/eelf/logging/format/ErrorTypes.java
+SPDXID: SPDXRef-item13727029
+FileChecksum: SHA1: 60b8c54b04311a59e3a4a73cd62c55a5a03ca186
+FileChecksum: MD5: 360ef9dc39d94088fcb08caaafd4bff2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/eelf/logging/format/ErrorSeverity.java
+SPDXID: SPDXRef-item13726859
+FileChecksum: SHA1: 7bcb989021f53751e81d9d5234abe6c462737edb
+FileChecksum: MD5: bca11a7f5c4396604233f09392bf3933
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/eelf/logging/format/ErrorSeverity.java
+SPDXID: SPDXRef-item13727030
+FileChecksum: SHA1: 7bcb989021f53751e81d9d5234abe6c462737edb
+FileChecksum: MD5: bca11a7f5c4396604233f09392bf3933
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/exceptions/MusicLockingException.java
+SPDXID: SPDXRef-item13726852
+FileChecksum: SHA1: 8edf50d483dc4bd61f90c91c4806821b78c6d864
+FileChecksum: MD5: 2f09276c93671bc41d93ef89f12e6c1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/exceptions/MusicLockingException.java
+SPDXID: SPDXRef-item13727023
+FileChecksum: SHA1: 8edf50d483dc4bd61f90c91c4806821b78c6d864
+FileChecksum: MD5: 2f09276c93671bc41d93ef89f12e6c1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/eelf/logging/format/ErrorCodes.java
+SPDXID: SPDXRef-item13726857
+FileChecksum: SHA1: b74f15b84d2373ed13e6d59554893be9bc3684fb
+FileChecksum: MD5: a9b0b49b663f8da9dc4fbab51f8947ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/ResultType.java
+SPDXID: SPDXRef-item13726876
+FileChecksum: SHA1: e451ec8afb221f38e88f74b9671b5a654a52bbac
+FileChecksum: MD5: 7477f8634996b81baffac51bace72432
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/main/ResultType.java
+SPDXID: SPDXRef-item13727043
+FileChecksum: SHA1: e451ec8afb221f38e88f74b9671b5a654a52bbac
+FileChecksum: MD5: 7477f8634996b81baffac51bace72432
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/main/ReturnType.java
+SPDXID: SPDXRef-item13727045
+FileChecksum: SHA1: 4192bedcd6e80e800ffdc8a12918a660f941dd41
+FileChecksum: MD5: cdff93fd603d7610e72ff3f195fa6332
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/MusicDigest.java
+SPDXID: SPDXRef-item13726880
+FileChecksum: SHA1: ac08b9736d4327a01a668d0a2568a18612723d5e
+FileChecksum: MD5: 552b2f31ba2f0746150820334da413ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/conductor/conditionals/JsonConditional.java
+SPDXID: SPDXRef-item13726762
+FileChecksum: SHA1: 80418eedc6194b80ed475fbf507ac78486adac84
+FileChecksum: MD5: 379347aee7648e8dd510b2b61fbd7b25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/JsonSelectTest.java
+SPDXID: SPDXRef-item13726799
+FileChecksum: SHA1: a661752f1a51f512e405e9439438bbb57bb3b579
+FileChecksum: MD5: 27bd1b15414e10c538d3189949a7eea6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/TestMusicCore.java
+SPDXID: SPDXRef-item13726792
+FileChecksum: SHA1: 428ad68e875b5b5e14334694ebc0b784d7f673ba
+FileChecksum: MD5: 535d7f1bd62312af2b14f81e72b9e4e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/TestRestMusicData.java
+SPDXID: SPDXRef-item13726803
+FileChecksum: SHA1: 5685080d301d4934fde5de5f3d1139fbd93321dc
+FileChecksum: MD5: 549e13301e4ab2c5b95607c2a12cb6e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/TestLockStore.java
+SPDXID: SPDXRef-item13726805
+FileChecksum: SHA1: 753f77cfb4169c7be3f16871dee56dd5193d5201
+FileChecksum: MD5: 7f46bb5ec7ec5e4e0eb7b353307a7ac8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/jsonobjects/JsonUpdateTest.java
+SPDXID: SPDXRef-item13726797
+FileChecksum: SHA1: 5b5b652ed1b9382642fedb013bd8e5b6055b9e08
+FileChecksum: MD5: 4c4bbb73798e2b820e2fe710c3b93ae1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/MusicDataStoreTest.java
+SPDXID: SPDXRef-item13726804
+FileChecksum: SHA1: cee3c390eda0d9bce48d78e516145579f7462f91
+FileChecksum: MD5: 9198af0e4cfa53155b6fc99b62e9f2c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/test/java/org/onap/music/unittests/TestMusicCoreIntegration.java
+SPDXID: SPDXRef-item13726811
+FileChecksum: SHA1: b91dc020ba3a4f1d6284152c4f788ddbf25fcd25
+FileChecksum: MD5: 8390586dcfaf346f5cc1fbc4857a03ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/rest/RestMusicHealthCheckAPI.java
+SPDXID: SPDXRef-item13726825
+FileChecksum: SHA1: 432f6668dc5d2e685cd6f6fe85b9fe96a645d6e1
+FileChecksum: MD5: b43d47f42b0cf414d10374e3af0306e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/resources/logback.xml
+SPDXID: SPDXRef-item13726819
+FileChecksum: SHA1: 087eb6ec367933279f6c6b4f0c90cbc138ae49f2
+FileChecksum: MD5: d164e0fa4950a28f609d67dc48bd6f5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/rest/RestMusicLocksAPI.java
+SPDXID: SPDXRef-item13726830
+FileChecksum: SHA1: 71a96d31a4534d2ad814394ec0801d6383da852f
+FileChecksum: MD5: ef82cfa5d6415d0ae27937b1b8b01633
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/rest/RestMusicQAPI.java
+SPDXID: SPDXRef-item13726828
+FileChecksum: SHA1: 6c9978df16f7dfcea6d081e0dfe21cec1b8f92c0
+FileChecksum: MD5: 93e3aa7abce72ccbae3297b3cf585c9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/rest/RestMusicBmAPI.java
+SPDXID: SPDXRef-item13726831
+FileChecksum: SHA1: 9c6a9a8963f8bfdc98af8b11e4e271e74181c596
+FileChecksum: MD5: 270c62d300631be8be1a80b6751baba0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/rest/RestMusicTestAPI.java
+SPDXID: SPDXRef-item13726829
+FileChecksum: SHA1: 60351b3185bb53cd83d759528d7adcd01863e05d
+FileChecksum: MD5: da43b043d41dbb8cc04476303b3e0a9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JsonInsert.java
+SPDXID: SPDXRef-item13726838
+FileChecksum: SHA1: 48033266bb030c0706e4f8857f5b9bfe7c870b25
+FileChecksum: MD5: abbb255ddde4b41c18c92d57dd84a186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/AAFResponse.java
+SPDXID: SPDXRef-item13726839
+FileChecksum: SHA1: bd13a8fd119c327336066714970a6e7217b52f16
+FileChecksum: MD5: 1dfd5cbd86bbed29c518609d1b4e28b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/rest/RestMusicAdminAPI.java
+SPDXID: SPDXRef-item13726832
+FileChecksum: SHA1: 7897f70e7527c1fdc7ffe62aa01593e4310cca7f
+FileChecksum: MD5: cbf1c922f6070d74b184b1497e065969
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JsonOnboard.java
+SPDXID: SPDXRef-item13726840
+FileChecksum: SHA1: e6b167019763a2f6210c284822467790febe5030
+FileChecksum: MD5: dc6ed91d3fb91b7935757cc65cff49e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JsonUpdate.java
+SPDXID: SPDXRef-item13726841
+FileChecksum: SHA1: b35ddd2a3e0afa3d7396349505e99eaf68d9d511
+FileChecksum: MD5: d4437b973e5cdd71fb2e77a0cb4444a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JsonTable.java
+SPDXID: SPDXRef-item13726842
+FileChecksum: SHA1: 30c160c7bfafad896040d0a528c1c2b22861467a
+FileChecksum: MD5: c91d7cfd2305d785c9d24ce069ffb28b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/exceptions/MusicPolicyVoilationException.java
+SPDXID: SPDXRef-item13726850
+FileChecksum: SHA1: e66f51a87d3c4422ad7fbef67084085148cb642a
+FileChecksum: MD5: 744904faf4a43a3a5b189b6cc95ca7c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/PreparedQueryObject.java
+SPDXID: SPDXRef-item13726847
+FileChecksum: SHA1: dec5297c4fa0909f40367169327f4124a8ff9268
+FileChecksum: MD5: 47bd86657d9d79580791b0795fa2ec33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/jsonobjects/JsonSelect.java
+SPDXID: SPDXRef-item13726844
+FileChecksum: SHA1: b9fcb2e72e96e78210b5dcb6d64d945589f36c94
+FileChecksum: MD5: dbf33de9a44dbcec73e59d27b671b30f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/eelf/logging/format/ErrorTypes.java
+SPDXID: SPDXRef-item13726858
+FileChecksum: SHA1: 27c48b02a548f5978431ab487ef4086a0d210971
+FileChecksum: MD5: 87dd52344a2927f1e334e7cee8c3ee06
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/lockingservice/ProtocolSupport.java
+SPDXID: SPDXRef-item13726866
+FileChecksum: SHA1: 38c955a56093200cb363e3d1b557c5fb5285952a
+FileChecksum: MD5: 0f6aa34b1fa04b301b15c4c40a79b474
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/eelf/logging/EELFLoggerDelegate.java
+SPDXID: SPDXRef-item13726861
+FileChecksum: SHA1: 51f56e5782b807742082d01df0127774209c13f5
+FileChecksum: MD5: 5c869a3f80fe2485ad1bd0c58c7f1c32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/lockingservice/LockListener.java
+SPDXID: SPDXRef-item13726865
+FileChecksum: SHA1: dd5760de9d0a7c562bf7fbdc33e5c48980c73f08
+FileChecksum: MD5: 68fcf68ea4990ee5de46d066807bf2d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/eelf/healthcheck/MusicHealthCheck.java
+SPDXID: SPDXRef-item13726863
+FileChecksum: SHA1: ab4292e2a49c9e901ecb2faa8b1057a9ed2e5828
+FileChecksum: MD5: a586dfe10b9619005db34e849cb0e41d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/lockingservice/ZkStatelessLockService.java
+SPDXID: SPDXRef-item13726869
+FileChecksum: SHA1: 4627e3b634aeee3f0cec55d808770516bb6a647f
+FileChecksum: MD5: 710e71ea4c6de38b3c5be0b6f41d02a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/eelf/logging/format/AppMessages.java
+SPDXID: SPDXRef-item13726860
+FileChecksum: SHA1: 2cc9efc2a6e09ea8b9e45fe5e02290793ffee9a3
+FileChecksum: MD5: 327589c90443aaae113c212a9c851b5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/lockingservice/ZooKeeperOperation.java
+SPDXID: SPDXRef-item13726867
+FileChecksum: SHA1: 0b43db4e30c27e0ceaaa607a254a161e1d8d2a50
+FileChecksum: MD5: 9214fd5f5865cac739f3102b2dc848b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/lockingservice/ZNodeName.java
+SPDXID: SPDXRef-item13726871
+FileChecksum: SHA1: 4781641cb1cd73189ba04582ad96e9f14c5dbf9e
+FileChecksum: MD5: 3698a63e3204c9d6d5f5bd7e2831fc1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/lockingservice/MusicLockState.java
+SPDXID: SPDXRef-item13726868
+FileChecksum: SHA1: 6878979c15aaa123ba120c7b20943f063a5bf659
+FileChecksum: MD5: f9e47a39059a3459c0ae3f1a9ae31301
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/CronJobManager.java
+SPDXID: SPDXRef-item13726874
+FileChecksum: SHA1: 4ea0e4a47b4c06931386a5b0ebf19af4b505dd7c
+FileChecksum: MD5: a959679ea6c55f291506958c3d7a7470
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/lockingservice/MusicLockingService.java
+SPDXID: SPDXRef-item13726870
+FileChecksum: SHA1: 3ff0482aa2e3ee483844bb89ecb580223b4f4933
+FileChecksum: MD5: b945f7c29b4299f1534dc70fa458dae2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/ReturnType.java
+SPDXID: SPDXRef-item13726877
+FileChecksum: SHA1: ef142cc80b4f49df0ec707c64ac69001b86fc7c2
+FileChecksum: MD5: 57b808ac21ad96bd7f157d331b1ba16d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/CipherUtil.java
+SPDXID: SPDXRef-item13726881
+FileChecksum: SHA1: 937900c259a81306abe5f3f4679a3e0e264c21bc
+FileChecksum: MD5: 2ba9feaf870e76dd24eafb25c9459580
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/MusicCore.java
+SPDXID: SPDXRef-item13726879
+FileChecksum: SHA1: 5b092b47d058c9c725b2681b817d06a64198a3f5
+FileChecksum: MD5: 56d9e811c3bfb2b986066a281add1ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/response/jsonobjects/JsonResponse.java
+SPDXID: SPDXRef-item13726884
+FileChecksum: SHA1: 7bb2240673620b00c9fc79514a9caf384f77cd74
+FileChecksum: MD5: a9b97e231cefd5428becf8df164df95a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/RangeDependency.java
+SPDXID: SPDXRef-item13727248
+FileChecksum: SHA1: 1fa6fe117c5ee290943cab0f6ae9f11d1890be77
+FileChecksum: MD5: 60cb85bb083e3da6987ac97dffea6d62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tools/CreateNodeConfigurations.java
+SPDXID: SPDXRef-item13727253
+FileChecksum: SHA1: 91203afdfebee070e256ba2d09b61c7766675705
+FileChecksum: MD5: 76a0bf879fac79b2a1b1601484bc639c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/MdbcConnectionTest.java
+SPDXID: SPDXRef-item13727191
+FileChecksum: SHA1: 33f6f20f6d4f77b74fe41aa32fb7cfadff00cf6c
+FileChecksum: MD5: a92c0faf19ddc65fd2bef52a1332ff13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/one-site/volumes/mariadb/docker-entrypoint-initdb.d/01-create-test-database.sh
+SPDXID: SPDXRef-item13727351
+FileChecksum: SHA1: 4c62aaf2e857d60e2e667e2addd1442016e9d1fe
+FileChecksum: MD5: 8d509ac85eceea95afda91eb7b303e8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/volumes/mariadb/docker-entrypoint-initdb.d/01-create-test-database.sh
+SPDXID: SPDXRef-item13727331
+FileChecksum: SHA1: 4c62aaf2e857d60e2e667e2addd1442016e9d1fe
+FileChecksum: MD5: 8d509ac85eceea95afda91eb7b303e8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/examples/MdbcEventualTestClient.java
+SPDXID: SPDXRef-item13727266
+FileChecksum: SHA1: e6534b178d578cab1f7cc0d1cb8be85d8ccace4c
+FileChecksum: MD5: 30b56bab6e434a57a37f6dc75f4696d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-prom/src/test/java/org/onap/music/prom/main/PromDaemonTest.java
+SPDXID: SPDXRef-item13727386
+FileChecksum: SHA1: 094317865e0a6813b14c1aed9140e9bfd6f9b336
+FileChecksum: MD5: e46e2432bf79a865705c2f92f0dc71cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/main/PromDaemon.java
+SPDXID: SPDXRef-item13727407
+FileChecksum: SHA1: a829d135e2951eac3a68be2f7241138305991fd9
+FileChecksum: MD5: a4a85cbe476c8880e609c516c3e4cc4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-prom/src/main/java/org/onap/music/prom/musicinterface/MusicHandle.java
+SPDXID: SPDXRef-item13727399
+FileChecksum: SHA1: 7fbed8f9d8776e7705d0bb0933b8342d2ced3096
+FileChecksum: MD5: d9d3303f6e9e36985165975cca42775d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/unittests/jsonobjects/MusicHealthCheckTest.java
+SPDXID: SPDXRef-item13726947
+FileChecksum: SHA1: 5a91a9e08c7ec1e2bcc71b0ec0afb053fa44ca7d
+FileChecksum: MD5: 2136e56c42a2509adc06eacec98e284c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/resources/logback.xml
+SPDXID: SPDXRef-item13726933
+FileChecksum: SHA1: 672812748ed4ccb5db8db0a662d14551aa147c83
+FileChecksum: MD5: 432d9dafd3bf948d8a5a236ad38505fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/resources/logback.xml
+SPDXID: SPDXRef-item13726685
+FileChecksum: SHA1: 672812748ed4ccb5db8db0a662d14551aa147c83
+FileChecksum: MD5: 432d9dafd3bf948d8a5a236ad38505fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/eelf/logging/format/AppMessages.java
+SPDXID: SPDXRef-item13727031
+FileChecksum: SHA1: 3fc0201a8bc628169c2f42bed576d418e89a33dd
+FileChecksum: MD5: 881d3e630cb329e067ed0517dd155873
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/MriRowComparator.java
+SPDXID: SPDXRef-item13727251
+FileChecksum: SHA1: 4b65e699b4bb7522f7a38a2c228405a2628936dc
+FileChecksum: MD5: f474670e09e2ce25cc03bc4f937cf29f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/proto/ProtoDigest/Digest.java
+SPDXID: SPDXRef-item13727217
+FileChecksum: SHA1: 39c28f6c8682914030314866b44b230ac321f6f9
+FileChecksum: MD5: 09f398bee2b829d307c322a6c6582708
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tools/ClusterSetup.java
+SPDXID: SPDXRef-item13727255
+FileChecksum: SHA1: 3a327ffec44acfc54df55ccf75d49b6edc66a463
+FileChecksum: MD5: 4f96519e2919cd2bfb86adcd0691bab5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/Music2Mixin.java
+SPDXID: SPDXRef-item13727228
+FileChecksum: SHA1: 5fff2ddb9e709e6cc63fc115b3851c12caad5b8b
+FileChecksum: MD5: e18064839ed8be0e0be19569fba0539f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/MusicTxDigestTest.java
+SPDXID: SPDXRef-item13727180
+FileChecksum: SHA1: c12d0cdfee9c8df6a0d20139f1ad9733e0000a0a
+FileChecksum: MD5: f7fd385886c285ea74377471b8f5db1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/configurations/ClusterConfiguration.java
+SPDXID: SPDXRef-item13727277
+FileChecksum: SHA1: c218ae319817bde669c7c5d9606546a4d53ba356
+FileChecksum: MD5: 4579bca26ce694ba649120fa59ed8e2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/query/SQLOperationType.java
+SPDXID: SPDXRef-item13727270
+FileChecksum: SHA1: 1ac8a1c0a9db7874877c3ce498c6e5c4b8eedfbf
+FileChecksum: MD5: b93d862acd7214d12fa58d98f5b8bd49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/examples/MdbcTestClientNew.java
+SPDXID: SPDXRef-item13727263
+FileChecksum: SHA1: 8854e6ffefb8ee94a3bc5a5fa9e07d8e4fbb7cff
+FileChecksum: MD5: 7046199c19a3c9f2fa8163e20fb36045
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/authentication/AuthUtilTest.java
+SPDXID: SPDXRef-item13726697
+FileChecksum: SHA1: 834aeecaa05684643db9d385d4572ffc78963779
+FileChecksum: MD5: b9c039b0f1c894e1a0ddb9cde577ba9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/query/SQLOperation.java
+SPDXID: SPDXRef-item13727271
+FileChecksum: SHA1: 6a3e78735990fe1b272268b3dd34c77417bfd0e1
+FileChecksum: MD5: 82accba674a03a16abcc578380c0bfed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/MusicDataStoreTest.java
+SPDXID: SPDXRef-item13726701
+FileChecksum: SHA1: 92ca0542932bd0c451cccc4be7ccb82f491b93fc
+FileChecksum: MD5: 61f27ed450ddaa6730fb06ff74ef1bed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/TstRestMusicConditionalAPI.java
+SPDXID: SPDXRef-item13726705
+FileChecksum: SHA1: d2f821edac18547128f2fb80e282b9775b234e9c
+FileChecksum: MD5: c12b03151440778378da3d889f4be3da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/distribution/cassandra_job/runcql.sh
+SPDXID: SPDXRef-item13726780
+FileChecksum: SHA1: b9101236f6706383e8bc95f76137d854e12f9ffb
+FileChecksum: MD5: 7449c1d9529c2328f633934491e97036
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/authentication/AuthorizationError.java
+SPDXID: SPDXRef-item13726732
+FileChecksum: SHA1: bb22bf37b0ca8ba728ecab8c21d49e2b1b923f49
+FileChecksum: MD5: 97d3439027e2f1d9ae7d43e8cfe3cc8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/exceptions/MusicExceptionMapper.java
+SPDXID: SPDXRef-item13726748
+FileChecksum: SHA1: 187bff2685e2c595294a47c36218808df9897652
+FileChecksum: MD5: 042d9d962cb80891c1d894c9aa6d3837
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/resources/logback.xml
+SPDXID: SPDXRef-item13726991
+FileChecksum: SHA1: d3f7dfa9809ef0c8efe2c4d131b14e0fd183bd0c
+FileChecksum: MD5: 5134bd5bff36789324da359187ef9d37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/eelf/logging/format/ErrorCodes.java
+SPDXID: SPDXRef-item13727028
+FileChecksum: SHA1: 21aaed409d7939c27e1d253162a8c01e813afd67
+FileChecksum: MD5: 98dec065bbe65b5d3a1c4d97fcb887db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/WebContent/WEB-INF/web.xml
+SPDXID: SPDXRef-item13726916
+FileChecksum: SHA1: 8c80e1fc6a36b1b30a3e17ae9a0bd02d9b9e7ac5
+FileChecksum: MD5: d174b4760cfd3f9e422ae87ebba866ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/MDBCUtilsTest.java
+SPDXID: SPDXRef-item13727188
+FileChecksum: SHA1: dfac657165a62c1ed89fc42b29f00229ac34ad03
+FileChecksum: MD5: b4b86b6f9f47b4618c0ced87c2e41f8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/MdbcStatement.java
+SPDXID: SPDXRef-item13727225
+FileChecksum: SHA1: 623ffe6d80633480a03ab38ebdf9395570384d34
+FileChecksum: MD5: a7df01607d253e831af4d228e96d3b9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/distribution/cassandra_job/Dockerfile
+SPDXID: SPDXRef-item13726781
+FileChecksum: SHA1: 8ced99412cd963529bcfb37d9475e07cea707607
+FileChecksum: MD5: 3fdd3bb97595fa8cd4325ec1aae39aa0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/AsyncUpdateHandler.java
+SPDXID: SPDXRef-item13727230
+FileChecksum: SHA1: 9e693710bb18669f995090b1e4b795de6355b87b
+FileChecksum: MD5: 9c31861c331e7b0a211fc6f6d66f0185
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/Utils.java
+SPDXID: SPDXRef-item13727232
+FileChecksum: SHA1: 8c393d82fb3167d1567ea58a288035edf8c077aa
+FileChecksum: MD5: 5ceffed92275edbfbceb587d116e202d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/MixinFactory.java
+SPDXID: SPDXRef-item13727229
+FileChecksum: SHA1: 219019bb5834ccf851ff08576082dd5b4089f804
+FileChecksum: MD5: a2fb1a482265d84e98acecd7fe49b77c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/LockRequest.java
+SPDXID: SPDXRef-item13727234
+FileChecksum: SHA1: 6423f068ac909e33593394e69732360c7c80916a
+FileChecksum: MD5: e687b4714eaecc41fb61a4a272272c86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/Operation.java
+SPDXID: SPDXRef-item13727249
+FileChecksum: SHA1: aa159aa4ab59a6fd182316d57d86f60f42e9441b
+FileChecksum: MD5: 81c8e33af3bbcc8b211a0addcc25e3a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/MdbcPreparedStatement.java
+SPDXID: SPDXRef-item13727260
+FileChecksum: SHA1: e8c69012cce210ac906174a25695a297bf326c58
+FileChecksum: MD5: fffc3be57e5351f9749c6523209c2441
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tools/CreatePartition.java
+SPDXID: SPDXRef-item13727256
+FileChecksum: SHA1: b11c7a8a3de5abe0b15e8fce7758cbff6a9dc527
+FileChecksum: MD5: 196c3329ac7d83660c92010fa343128a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/authentication/AuthorizationErrorTest.java
+SPDXID: SPDXRef-item13726696
+FileChecksum: SHA1: 726f194ba583ade8950cfd68b8ef3993adf9908c
+FileChecksum: MD5: 1083c0c9ce3bb958f9be711b3abc6851
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/logging/EELFLoggerDelegate.java
+SPDXID: SPDXRef-item13727303
+FileChecksum: SHA1: 2fb3f2b51d5a77658b97bbc09185bb8b424a8f9a
+FileChecksum: MD5: 353f019f813dfec4263c8ec5891be580
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/unittests/jsonobjects/JsonLeasedLockTest.java
+SPDXID: SPDXRef-item13726946
+FileChecksum: SHA1: 5a50de3fda61df1cf789735f9980442c117a7363
+FileChecksum: MD5: 8aefc0361ca887accb9d734c8f0739a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/JsonResponseTest.java
+SPDXID: SPDXRef-item13726706
+FileChecksum: SHA1: cc86e723487e06742c1e24cd48b93c23e8f71ff0
+FileChecksum: MD5: dfef8802e7708033fcdc07cf594546b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2018-2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/TestsUsingCassandra.java
+SPDXID: SPDXRef-item13726699
+FileChecksum: SHA1: 7dc1deaf58ab3baf9bb1cf8202b6e9186802a3ec
+FileChecksum: MD5: 7016159a27d44d8ebd4e71f5f5eadb15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/TestRestMusicQAPI.java
+SPDXID: SPDXRef-item13726703
+FileChecksum: SHA1: 10be1c0d4b3f4035a5f1a67c676cd41fe2b35ba9
+FileChecksum: MD5: 513f595ebbced206ec881ca2c4ddddf9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/authentication/CadiAuthFilter.java
+SPDXID: SPDXRef-item13726733
+FileChecksum: SHA1: 4c42d3b318a79e1f4c598e292f0af7bb5f9d743f
+FileChecksum: MD5: 294df4ae851c128b84261087944945da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/JerseyConfig.java
+SPDXID: SPDXRef-item13726736
+FileChecksum: SHA1: 5e4c4aa4dbeb9ccb24d7ab152914b1c1db0eee0c
+FileChecksum: MD5: 09597bd1dae94ce113286c4f0f78ae23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonLock.java
+SPDXID: SPDXRef-item13727008
+FileChecksum: SHA1: 36081a7ef31ed76655fb9b4e31a2df68a409d18b
+FileChecksum: MD5: c676c60ec8ad8e4a386c7be1be4effbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonLeasedLock.java
+SPDXID: SPDXRef-item13727005
+FileChecksum: SHA1: 8c62481e3afd0f477298014f7d4976748104bbc6
+FileChecksum: MD5: 9b202cf56050369ec478b738f668fb68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/rest/RestMusicTestAPI.java
+SPDXID: SPDXRef-item13726743
+FileChecksum: SHA1: 2bcd4a23978bce2963927d9bfc1d6a4f74eca730
+FileChecksum: MD5: 1a26bb0a9c2d3dc467753dd075f1988d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/authentication/MusicAuthorizationFilter.java
+SPDXID: SPDXRef-item13726735
+FileChecksum: SHA1: d598f67aec3ef0a1072ed24b27016b97d5f0bd43
+FileChecksum: MD5: 623be16f77d59c17a12a6ad3dca9156d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/exceptions/MusicAuthenticationException.java
+SPDXID: SPDXRef-item13726747
+FileChecksum: SHA1: 61a6c6c41d2dada565f5a686c6d65c365d44b6d2
+FileChecksum: MD5: 144620b7f223f0726ae3023bcca0c5ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/eelf/logging/MusicContainerFilter.java
+SPDXID: SPDXRef-item13726751
+FileChecksum: SHA1: 9ce79d6e0b9b5d521c20415d26f5e17f90324270
+FileChecksum: MD5: d9650bdcac7652a00dcb53e8a69fe4d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/eelf/logging/EELFLoggerDelegate.java
+SPDXID: SPDXRef-item13727032
+FileChecksum: SHA1: c48935f73154e7048aa0bfea7d24e5d49e4c66f8
+FileChecksum: MD5: ae04819b75158a947ca5778224b30a71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/datastore/MusicDataStore.java
+SPDXID: SPDXRef-item13726846
+FileChecksum: SHA1: 2ecd4af3022b428ae9f66a8f837460335f7f7109
+FileChecksum: MD5: dd7fcbc11d0f9ed25f482ae3346bf75d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/rest/RestMusicDataAPI.java
+SPDXID: SPDXRef-item13726826
+FileChecksum: SHA1: 6545f784197ed6edc0003811c181ff03ce8d33a2
+FileChecksum: MD5: 87cb2f140ecce63eaef7aef71c3ad285
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/CachingUtil.java
+SPDXID: SPDXRef-item13726873
+FileChecksum: SHA1: cbd3220ff466718b5842234fd27888ee79b08f87
+FileChecksum: MD5: 83d949fc769e9f3ddff24892e61e0245
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/MusicUtil.java
+SPDXID: SPDXRef-item13726878
+FileChecksum: SHA1: 91b407c67b86460dc1ee63a8bdddf3fe8ca54e26
+FileChecksum: MD5: 0045e081a1efc29bd745ec29080182cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/jar/src/main/java/org/onap/music/main/PropertiesListener.java
+SPDXID: SPDXRef-item13726875
+FileChecksum: SHA1: 339f60632d2a9acc46cbb0b17c90b54315c49c92
+FileChecksum: MD5: d38fabafb251ba7faff0c727b6618c17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/MdbcServerLogic.java
+SPDXID: SPDXRef-item13727267
+FileChecksum: SHA1: 17560c3737f8c0ae3755667054afdcf6b3c02654
+FileChecksum: MD5: c9b43b75dd9be49ab63876eff5f535d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/rest/ApplicationTest.java
+SPDXID: SPDXRef-item13726693
+FileChecksum: SHA1: 62b669a3ae9216416209653f1df4cbbbe8e8a081
+FileChecksum: MD5: 10b95b017c3cc8549102ecfa0e030866
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property
+Copyright (C) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/rest/RestMusicHealthCheckAPI.java
+SPDXID: SPDXRef-item13726739
+FileChecksum: SHA1: 6b9005652700224523889641cb1e61a6c8051a2a
+FileChecksum: MD5: 154f61fd8a6c1e62fc369f587c20324a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2018 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/authentication/AuthUtil.java
+SPDXID: SPDXRef-item13726734
+FileChecksum: SHA1: aa948bdb32edc5b2d829d7b4cd842ab0eb49ff41
+FileChecksum: MD5: 70c001d53b1bd2f261ef7a267b4cbe3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/rest/RestMusicDataAPI.java
+SPDXID: SPDXRef-item13726740
+FileChecksum: SHA1: b58ccf65072f7373aa6130bb5cc32f3b0ee6630a
+FileChecksum: MD5: e0899aecd68b73e1fd17b71c14482842
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/rest/RestMusicVersionAPI.java
+SPDXID: SPDXRef-item13726741
+FileChecksum: SHA1: 50d04de12ae243a956d909429406bb3b6ab5e847
+FileChecksum: MD5: 16eaceabdc4c8add6e7a156016cedf49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonKeySpace.java
+SPDXID: SPDXRef-item13727006
+FileChecksum: SHA1: 35bbaa49f87410a0fe0b8dfde426aea596818171
+FileChecksum: MD5: 6feeee500588d23152a77cf60c52d810
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonSelect.java
+SPDXID: SPDXRef-item13727013
+FileChecksum: SHA1: e8d8906c218861fe18e76145954e76f13b5dc84c
+FileChecksum: MD5: 7557ff0c03bf1affbd2cbaa29a475a2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonIndex.java
+SPDXID: SPDXRef-item13727012
+FileChecksum: SHA1: 81f424549427ef6dfa68bc61d9a5c246ae29e65e
+FileChecksum: MD5: d9f70ced11a2f0b20165d93daae3310f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/response/jsonobjects/JsonResponse.java
+SPDXID: SPDXRef-item13726759
+FileChecksum: SHA1: 6283a968c9556a315837f52021e129e5d31805da
+FileChecksum: MD5: f299ef28201fa7c11835f6e87b119843
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/eelf/healthcheck/MusicHealthCheck.java
+SPDXID: SPDXRef-item13727034
+FileChecksum: SHA1: 0ed4cf787de004237a058a42e001ca84430f2af1
+FileChecksum: MD5: dcc791a93cdc04acc05d0158685d2cb0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/conductor/conditionals/UpdateDataObject.java
+SPDXID: SPDXRef-item13726764
+FileChecksum: SHA1: 2cfa31d3b1b31d58495c83a6e836fb1675febbcd
+FileChecksum: MD5: fbc3b3d1b428b824a23190eb7ee18302
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Samsung Electronics Co., Ltd. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/StateManagerTest.java
+SPDXID: SPDXRef-item13727175
+FileChecksum: SHA1: ce5ca1999662c57aa6b308a1e1d6d606c6047c61
+FileChecksum: MD5: f6ddc2239110daa32f4f52644f8bc320
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/conductor/conditionals/RestMusicConditionalAPI.java
+SPDXID: SPDXRef-item13726765
+FileChecksum: SHA1: 5708f4021e07760732d5bebd6e4e4879d1583f54
+FileChecksum: MD5: 55035e49cddafdd15962d7c61db9d502
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2018 IBM </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/Range.java
+SPDXID: SPDXRef-item13727213
+FileChecksum: SHA1: 054a32f4010b01c8938aa7e2d8b579bc91512c5c
+FileChecksum: MD5: c43615360e1a764f2dbbfb5123f60d0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/LockResult.java
+SPDXID: SPDXRef-item13727235
+FileChecksum: SHA1: d425981c9e0afbdff768d27b7ad985e8b199e12d
+FileChecksum: MD5: f1344bfa69c54c0c5a3ca5b719ea9dee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/MusicTxDigestDaemon.java
+SPDXID: SPDXRef-item13727247
+FileChecksum: SHA1: 5663f847a8f64200840482dc5bd7bed7aeaf0bba
+FileChecksum: MD5: 00d2287745a44e94aaeea30848a57aa6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/StagingTable.java
+SPDXID: SPDXRef-item13727246
+FileChecksum: SHA1: 456539080c19d57d6ce8338fa90014850f790367
+FileChecksum: MD5: c44382499944a6334e4b46049674f07a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tools/TxDigestDecompression.java
+SPDXID: SPDXRef-item13727257
+FileChecksum: SHA1: b564d22022633d037ee43f8a5d48bb50971920c7
+FileChecksum: MD5: 6abc27baff0e243694f5c2496fadd512
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/examples/MdbcTestClient.java
+SPDXID: SPDXRef-item13727265
+FileChecksum: SHA1: fc71b74632425e2af5d85f75c760a4b74b4c590a
+FileChecksum: MD5: e3a4d3a638f18cc0522eb05782508798
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/examples/MdbcTestMultiClient.java
+SPDXID: SPDXRef-item13727264
+FileChecksum: SHA1: 3789f86954f4a093c37b418dbb118f74b7492293
+FileChecksum: MD5: 442fbda20856b9aba479e80416485568
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/configurations/Eventual.java
+SPDXID: SPDXRef-item13727276
+FileChecksum: SHA1: c2bcbef85759f3f1976ce579cc4e1b487275d742
+FileChecksum: MD5: 175d25129852dabf2c0acfac7dcce125
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/configurations/NodeConfiguration.java
+SPDXID: SPDXRef-item13727280
+FileChecksum: SHA1: d225e69ec12bd05721e9f6c37db4c078489dcb80
+FileChecksum: MD5: 95854afbdec2daa40e1bdeab9fd3393d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/configurations/TablesConfiguration.java
+SPDXID: SPDXRef-item13727281
+FileChecksum: SHA1: b4feb6dd6b1c62f1be308e5ce8d7d0d81f0ffe64
+FileChecksum: MD5: 4122fa04405db135d56118caa7468957
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonDelete.java
+SPDXID: SPDXRef-item13727007
+FileChecksum: SHA1: 809052416d7944ff8056fc04b3a684b0761b08f4
+FileChecksum: MD5: a6dcacc66fe629c3c4d24944cb9f0cef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/MdbcServer.java
+SPDXID: SPDXRef-item13727292
+FileChecksum: SHA1: be525ad3a9a5c92549dbe2b83f5654ffcd9ccb0e
+FileChecksum: MD5: 038eaaa76c0e3ab583d1b454d7ca3d35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/MDBCUtils.java
+SPDXID: SPDXRef-item13727219
+FileChecksum: SHA1: ddcd1c19a35ec29d19eaa2ecfeaf8abd9001b961
+FileChecksum: MD5: 650ee476eb87e07fdac41a1afc9cbde4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/Configuration.java
+SPDXID: SPDXRef-item13727241
+FileChecksum: SHA1: e4fd564d3764742336c05672955e2099f2f5ead1
+FileChecksum: MD5: 9583bff6be8feaed36bc3bdee1aee32e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/TstRestMusicLockAPI.java
+SPDXID: SPDXRef-item13726700
+FileChecksum: SHA1: e146a05942bc9db7a3bbd5dad8a756a7691cdef3
+FileChecksum: MD5: 4f644a36bedffa2ac842b1f5ce2277e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/rest/RestMusicLocksAPI.java
+SPDXID: SPDXRef-item13726744
+FileChecksum: SHA1: 2bef12fd924830de9acffa33718c3ad1d98e8ef2
+FileChecksum: MD5: 5dd76cd0771c3c37d12ba69aafa49ef8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/jar/pom.xml
+SPDXID: SPDXRef-item13726887
+FileChecksum: SHA1: 6ef28bf814bcf13e7a818de73b28e384592470f8
+FileChecksum: MD5: 88a005d3512491bb8e30963ceda3c5ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/CassandraCQL.java
+SPDXID: SPDXRef-item13726702
+FileChecksum: SHA1: dc101162e395bf5c94c9aa70c05471b7eea1c1a5
+FileChecksum: MD5: 4c0f87708827d87f97b8d1bbade2bc12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/distribution/music/Dockerfile
+SPDXID: SPDXRef-item13726775
+FileChecksum: SHA1: f7228d7bb0e1cef3f4e1a0615becd9695919b84d
+FileChecksum: MD5: c4c700d843edbc38f41e897349cec36f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/lockingservice/cassandra/LockType.java
+SPDXID: SPDXRef-item13727038
+FileChecksum: SHA1: 5d9b4f6a0d8980d99cddfb0108387a59ad5248fd
+FileChecksum: MD5: a42cc536c93cb19cbad88e675ce22bd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/PreparedQueryObject.java
+SPDXID: SPDXRef-item13727018
+FileChecksum: SHA1: 62fb728f015ed618fef59a5eeb2526cc99be7e57
+FileChecksum: MD5: f8e2e9470d611808d3e08ff854c1ab32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017-2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/ownership/DagTest.java
+SPDXID: SPDXRef-item13727173
+FileChecksum: SHA1: e7d8ea1a45a1ed20f08c14c03eb633b3e821c5bd
+FileChecksum: MD5: 755500a445302bdf6224445ea6f45b6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/test/TransactionTest.java
+SPDXID: SPDXRef-item13727185
+FileChecksum: SHA1: 928262023ddf656014bf9ae84bef3bbc45c34033
+FileChecksum: MD5: 218721d37184af94e77ebfa5e717ac30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/test/CrossSiteTest.java
+SPDXID: SPDXRef-item13727184
+FileChecksum: SHA1: f7f077082af92ada9415999c09c907949c073840
+FileChecksum: MD5: 0ca4cd2d4139e545728532c10087e9b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/ownership/Dag.java
+SPDXID: SPDXRef-item13727222
+FileChecksum: SHA1: b66db3466f47bbaf0778eaa021a3fd4e1515a229
+FileChecksum: MD5: ddabe838239bdb8dc934228a5b0e0e69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/pom.xml
+SPDXID: SPDXRef-item13727310
+FileChecksum: SHA1: ef0a793a119598183ff4367e0a7674adc3041549
+FileChecksum: MD5: e3bb7673f5128d59f6d0dd427041608b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/pom.xml
+SPDXID: SPDXRef-item13727370
+FileChecksum: SHA1: b5b5773e1e2c0ec99846302891386eba285c3629
+FileChecksum: MD5: 40315b105cae4af22936865e6be8f658
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/MusicRangeInformationRow.java
+SPDXID: SPDXRef-item13727250
+FileChecksum: SHA1: 2f94896e662db0a5658869e5b1d1f1b3a7ae7fa8
+FileChecksum: MD5: 391492d652ce71de6c50f95d603d8900
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/ownership/DagNode.java
+SPDXID: SPDXRef-item13727223
+FileChecksum: SHA1: e1084044a60c8757f3aec45f878a84e3a1960545
+FileChecksum: MD5: ba1eded5019e171d827e0b60a6d767ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/Utils.java
+SPDXID: SPDXRef-item13727261
+FileChecksum: SHA1: 9d72609d7a46187d6fad5c234f6a8d3a87abaff3
+FileChecksum: MD5: 0cb29c10205d4ae5cb713f0a2efbfe7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/main/MusicCore.java
+SPDXID: SPDXRef-item13727047
+FileChecksum: SHA1: c867be3d0ce272111e5189c09ec0cca947bbd9e0
+FileChecksum: MD5: ce31c66ea2b3f61941b4007af7fb385a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/query/QueryProcessor.java
+SPDXID: SPDXRef-item13727269
+FileChecksum: SHA1: b5b66091cedb7ba941f99f21eb02b7e4587fa338
+FileChecksum: MD5: d5b0961a856c08e07cf2ddd72865702b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/query/QueryProcessorTest.java
+SPDXID: SPDXRef-item13727190
+FileChecksum: SHA1: 52113a07ec1895de2e1489b7ff0350e4cc707e57
+FileChecksum: MD5: 7d18cae7f61093362e7eb6cd312d0124
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/exceptions/MusicDeadlockException.java
+SPDXID: SPDXRef-item13727022
+FileChecksum: SHA1: d068059a6b4bc61347f7772b66de28da6a225017
+FileChecksum: MD5: f03daab3510ba17fb6412f21a5f826a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/DatabasePartition.java
+SPDXID: SPDXRef-item13727226
+FileChecksum: SHA1: 2f48db47d32dea87125086d2958f280135ca7d38
+FileChecksum: MD5: 745a3d270a9aa11363df6f164916d2e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/mixins/MusicMixinTest.java
+SPDXID: SPDXRef-item13727179
+FileChecksum: SHA1: 8ab6421c28c5c4005bcb097d16c64f2a4c197fdb
+FileChecksum: MD5: 7ea0336215008ca03e560198c65d3363
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/main/CipherUtilTest.java
+SPDXID: SPDXRef-item13726980
+FileChecksum: SHA1: ea6cd0b78e87c05fe83fff151fd8becf0bb086b4
+FileChecksum: MD5: d9fcb3fc75501c63a9858a8f194aa43b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/eelf/logging/format/ErrorSeverityTest.java
+SPDXID: SPDXRef-item13726972
+FileChecksum: SHA1: a2514232caf83bec06be32510517c22b2ca76f70
+FileChecksum: MD5: 1947e8a6d78559181716fd157fb9d31f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/TestUtils.java
+SPDXID: SPDXRef-item13727282
+FileChecksum: SHA1: 20858f9d3af1bcaa403fd2e90a6f6314bb82cca9
+FileChecksum: MD5: 8444ad57b8bb4f1f4e4b221dd0945236
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/main/DeadlockDetectionUtilTest.java
+SPDXID: SPDXRef-item13726983
+FileChecksum: SHA1: eec8d7e4c650dca8cd0e0f00f9805d1179228ab0
+FileChecksum: MD5: 708cf6a04770ee73d4662876f24cd5e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/exceptions/MusicDeadlockExceptionTest.java
+SPDXID: SPDXRef-item13726968
+FileChecksum: SHA1: 5aa9a84e8a272e67c69a351e3abcf458e8337fca
+FileChecksum: MD5: 5401c0cccac8d39b5edd8365d48dcf83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/ownership/OwnershipAndCheckpointTest.java
+SPDXID: SPDXRef-item13727174
+FileChecksum: SHA1: 8aaa1951028f646138333fbb67607423798fc955
+FileChecksum: MD5: d8768e08957a4a2dfc2d2424e2ba0c09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/mixins/PostgresMixinTest.java
+SPDXID: SPDXRef-item13727177
+FileChecksum: SHA1: 62ab5db56cc8eefd4606c573fef4655165f58c02
+FileChecksum: MD5: dd91690502c1d5036a0259f25f3e7f1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/mixins/MySQLMixinTest.java
+SPDXID: SPDXRef-item13727178
+FileChecksum: SHA1: f32b1da7cefb15f85d2538360e50231924b583b1
+FileChecksum: MD5: b0fc27fbc4012a29b554284f8e160e88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/MySQLMixin.java
+SPDXID: SPDXRef-item13727237
+FileChecksum: SHA1: c9a24341629c57602d063bbc2435f0d014bd0834
+FileChecksum: MD5: dc54efa9ad72b1d04832197d0c5644e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/java/org/onap/music/mdbc/MdbcTestUtils.java
+SPDXID: SPDXRef-item13727181
+FileChecksum: SHA1: 7b62925e5ce439edecd091113e230a4e61cf66c1
+FileChecksum: MD5: 01f32bf220dd8daf9a6ff16aac04e41f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/StateManager.java
+SPDXID: SPDXRef-item13727220
+FileChecksum: SHA1: f49af6f05ec2f32fc37d6226ace4419444949b5c
+FileChecksum: MD5: 39980f6c9a45e0784698f8112575d381
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/MusicInterface.java
+SPDXID: SPDXRef-item13727236
+FileChecksum: SHA1: f92abaef6673883c521912311bcf5891f2aa4eba
+FileChecksum: MD5: 0268f61b5fbb3c11f1b2d13cbcec4e61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/DBInterface.java
+SPDXID: SPDXRef-item13727231
+FileChecksum: SHA1: 6b47e16b4563ce74ab0407e9275b069216197045
+FileChecksum: MD5: 48aca1ed92d5c495bfd7ae3e2f8b66f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/MusicMixin.java
+SPDXID: SPDXRef-item13727239
+FileChecksum: SHA1: 26330779771c392ba1d7a74e313871238a5ec361
+FileChecksum: MD5: 5a3fe7444d69780d29e677c87ef0a283
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/mixins/PostgresMixin.java
+SPDXID: SPDXRef-item13727240
+FileChecksum: SHA1: 7d5c8ca2d300a0b1cd79de79c3d9b998cf0edce8
+FileChecksum: MD5: 29de8df4839ec02f778df308fa5b1b56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/MriReference.java
+SPDXID: SPDXRef-item13727245
+FileChecksum: SHA1: d1c7c56843c4c3f5950691f5ddd9b0a514fc0b64
+FileChecksum: MD5: 362eefbd6da6a4f34c1e59633e40f9b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tables/MusicTxDigestId.java
+SPDXID: SPDXRef-item13727243
+FileChecksum: SHA1: bcaa83e3d2cfda87d1372646d83c6062cdc8212b
+FileChecksum: MD5: 1f5ae420a2cc1a921c1d6f3e42040846
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/authentication/CadiAuthFilterTest.java
+SPDXID: SPDXRef-item13726698
+FileChecksum: SHA1: 5cab401905a5f461175f6f14e2283e12b541c50e
+FileChecksum: MD5: 57640d56ce365f1393404ccb1ee6d7d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/MdbcConnection.java
+SPDXID: SPDXRef-item13727294
+FileChecksum: SHA1: be2cbcfe754233c821f8944ec6b79990d112c163
+FileChecksum: MD5: 3cdf505c5808a4a583bea92ff1c829f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/cassandra/MusicUtilTest.java
+SPDXID: SPDXRef-item13726939
+FileChecksum: SHA1: 6e35c279e590520bb94a36042a6625e9caedcc2d
+FileChecksum: MD5: 912daaae7a2f0a43d17c2ed7ea98482f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JsonKeySpaceTest.java
+SPDXID: SPDXRef-item13726952
+FileChecksum: SHA1: 92febebe0b863f303cf1150055bcaff4afa7bc4f
+FileChecksum: MD5: 36590b70a86138f519dbbd8a1c68d132
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JsonIndexTest.java
+SPDXID: SPDXRef-item13726954
+FileChecksum: SHA1: 25ab3abd6000ca570baed69e7b79bc7963dddab2
+FileChecksum: MD5: 9583e29ec8dfe74be7b852c11e4294aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JsonUpdateTest.java
+SPDXID: SPDXRef-item13726953
+FileChecksum: SHA1: b388e8cabee6a90949ec2d712d5581190aea9708
+FileChecksum: MD5: 7a511f178d185a729831f02a91dcb84c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property
+Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JsonTableTest.java
+SPDXID: SPDXRef-item13726959
+FileChecksum: SHA1: 2289874ad88cf715ba2d79a25e46d47ac68da669
+FileChecksum: MD5: 0489351fe7a244361688d4be1fb5dcb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/lockingservice/cassandra/CassaLockStoreTest.java
+SPDXID: SPDXRef-item13726977
+FileChecksum: SHA1: 255a170ffacba75a5fa2388bb0c41d5ec5923c5d
+FileChecksum: MD5: c4ad2419dc4560c6181bcd91551b9629
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/eelf/logging/format/ErrorTypesTest.java
+SPDXID: SPDXRef-item13726974
+FileChecksum: SHA1: 5480cec06cf0f823df276639a6c536bce7e07823
+FileChecksum: MD5: a32cacf39108098dd03a203700218559
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/main/ResultTypeTest.java
+SPDXID: SPDXRef-item13726984
+FileChecksum: SHA1: 2a60dbd18b10c7dae129d7dcdd96d19b885c4b48
+FileChecksum: MD5: f92a75fb88c97e3bc32d42a84529b30b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JsonInsertTest.java
+SPDXID: SPDXRef-item13726960
+FileChecksum: SHA1: 0925d5feebd5deae8cb6279cec8e5f348c568bbd
+FileChecksum: MD5: c195828a5ad48656d6c5d39570d7fd7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/main/ReturnTypeTest.java
+SPDXID: SPDXRef-item13726981
+FileChecksum: SHA1: e8f9ce166909e000d3bb4696daafbf08a9d4e23c
+FileChecksum: MD5: 75d48e16b310b58e5a59a280002d3ed5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/unittests/TstRestMusicDataAPI.java
+SPDXID: SPDXRef-item13726704
+FileChecksum: SHA1: 4665f2ad541ffb081848bff4847d6755ce61d730
+FileChecksum: MD5: 9aed7cf6da0ddd31a919a8400fc9c945
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/conductor/conditionals/JsonConditionalTest.java
+SPDXID: SPDXRef-item13726721
+FileChecksum: SHA1: 873170735796e8485e8cc933a3555f7b0b256a63
+FileChecksum: MD5: 74e5a6065754270cde607235083387fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonInsert.java
+SPDXID: SPDXRef-item13727009
+FileChecksum: SHA1: 6aa0df410ba716b787c716538fa4c45d4c2bee62
+FileChecksum: MD5: 65a286e2f3a29c7308384ddfb5b08ac7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/MusicApplication.java
+SPDXID: SPDXRef-item13726745
+FileChecksum: SHA1: 4a1f70cea408447b6f70640cd3259b1f2795008a
+FileChecksum: MD5: c920e2d80dd8ca53ebde01b2bf0e75cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/conductor/conditionals/UpdateDataObjectTest.java
+SPDXID: SPDXRef-item13726720
+FileChecksum: SHA1: 56ace015048087ffdd65b09bc6af745551694df8
+FileChecksum: MD5: 8c67b054c2405d3c39863e408441d498
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/conductor/conditionals/MusicConditional.java
+SPDXID: SPDXRef-item13726763
+FileChecksum: SHA1: 33923573183f7c351f369da825cb27064326dc7b
+FileChecksum: MD5: 6c69b89793f13a0c04fa1942530ab006
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM.
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/ConditionTest.java
+SPDXID: SPDXRef-item13726962
+FileChecksum: SHA1: de4def267641cb225b18c914c37df0cc9a3aea45
+FileChecksum: MD5: da8cb0da1ebf6134e7fa43ea75e242cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JsonLockTest.java
+SPDXID: SPDXRef-item13726956
+FileChecksum: SHA1: 02d0c2c0af2c4d8da831dda2170c242503a36163
+FileChecksum: MD5: 5e17f571279b45ea2aba631995e37ba2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/lockingservice/cassandra/MusicLockStateTest.java
+SPDXID: SPDXRef-item13726978
+FileChecksum: SHA1: b4ec19a47d05961acfe33d3be652929a9399a6a8
+FileChecksum: MD5: 1d4ef5bcb37273d94918d890a740f2d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/main/MusicCoreTest.java
+SPDXID: SPDXRef-item13726982
+FileChecksum: SHA1: 813f64a4adbd06b070957263182cc7225ddda531
+FileChecksum: MD5: 94174102737bce38fdce58ba61794af1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/service/impl/MusicCassaCoreTest.java
+SPDXID: SPDXRef-item13726942
+FileChecksum: SHA1: bb2fc20bd4906ba9ed44d3761afdf334d8f6ff98
+FileChecksum: MD5: 9c7d3598e756ac2e154541618bc2d218
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/service/MusicCoreService.java
+SPDXID: SPDXRef-item13727000
+FileChecksum: SHA1: 60c1f257ba311eae097196db7cba9e8b4bb64b38
+FileChecksum: MD5: d3ad7369b49ca5a89cc2fa82e621199a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/MusicDataStoreHandle.java
+SPDXID: SPDXRef-item13727015
+FileChecksum: SHA1: 0bd757760de5049d7aa0390606e6462e24644923
+FileChecksum: MD5: d468aa1793b2a45d6b1211b87ecf3f3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM.
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/Condition.java
+SPDXID: SPDXRef-item13727016
+FileChecksum: SHA1: d5a413e60875efcdacf643d7f2c9dfd65397eb47
+FileChecksum: MD5: 213b45801b2762e36a4498304bd13e25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/ownership/OwnershipAndCheckpoint.java
+SPDXID: SPDXRef-item13727224
+FileChecksum: SHA1: 62df7b014198bb9bca520b431dc73ce7b4ec9006
+FileChecksum: MD5: 1d29632ad6c2d4dc6bdf8550c9363b7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/tools/RangeFinder.java
+SPDXID: SPDXRef-item13727254
+FileChecksum: SHA1: 2e9b9c7c942a744ee57d4a15e77c3818c01b386a
+FileChecksum: MD5: 7dceb64e27de5c3a5b8d4649eefe9d3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/rest/RestMusicVersionAPITest.java
+SPDXID: SPDXRef-item13726691
+FileChecksum: SHA1: e89cb977a322a05b2bbe5fdbf674dd9f50fa4d98
+FileChecksum: MD5: bc4d9cedf5ab6b81f6073bcb1c0850c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/rest/RestMusicTestAPITest.java
+SPDXID: SPDXRef-item13726692
+FileChecksum: SHA1: ce4624ae0fabf60cb784dfaca6f8e03899fd9e4e
+FileChecksum: MD5: 0c53fe58b8f76c9f06942ca3f8057055
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/eelf/logging/MusicLoggingServletFilterTest.java
+SPDXID: SPDXRef-item13726711
+FileChecksum: SHA1: 4759b5ea6e39b2be0a183443467a53a8d0d24706
+FileChecksum: MD5: 88b4dd775221c7981d8d94bb5b817a73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/eelf/healthcheck/MusicHealthCheckTest.java
+SPDXID: SPDXRef-item13726714
+FileChecksum: SHA1: 5aaaa8ff21ca61b094460732aac1d5a76bf1ee28
+FileChecksum: MD5: aa82f52563342a9686068b5c18aac604
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/distribution/music/startup.sh
+SPDXID: SPDXRef-item13726774
+FileChecksum: SHA1: 24aea3e1b603811d7cb742d8be0c5f4ae5b7abca
+FileChecksum: MD5: 0ab9095a5d8fb2153ffbdb93569aec04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/main/PropertiesLoaderTest.java
+SPDXID: SPDXRef-item13726716
+FileChecksum: SHA1: bbb298992ce2362f73aabe13a24be3704580fcc4
+FileChecksum: MD5: fc9c59e4400dd47fbd209eb49099d88e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/JerseyConfigTest.java
+SPDXID: SPDXRef-item13726717
+FileChecksum: SHA1: 9bb299897fafcab9d579fbd6e67b923613530156
+FileChecksum: MD5: 858408df371d9b2af0d49d6cf3eb79fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/eelf/logging/MusicLoggingServletFilter.java
+SPDXID: SPDXRef-item13726752
+FileChecksum: SHA1: 8796ad6dde5382488b85f46374173461f4c4860e
+FileChecksum: MD5: 8ec00c3f462d34d34961254579abb505
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/eelf/healthcheck/MusicHealthCheck.java
+SPDXID: SPDXRef-item13726754
+FileChecksum: SHA1: e1541a498b6508681f7397c1f6d525f2f03e134d
+FileChecksum: MD5: 54ce5136d77a9a3e18d865cdbba90d4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/rest/RestMusicQAPI.java
+SPDXID: SPDXRef-item13726742
+FileChecksum: SHA1: e61d6351c83f6b7ed5487a974716dffeee8c6615
+FileChecksum: MD5: 08980dcb854e72895e7fa785353c32f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM.
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonTable.java
+SPDXID: SPDXRef-item13727011
+FileChecksum: SHA1: afd2413ea2d3808e82d1792101a43f533699525f
+FileChecksum: MD5: 5a5eb85a4f30f0840fa8805a9f9a8987
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/main/CorePropertiesLoader.java
+SPDXID: SPDXRef-item13727044
+FileChecksum: SHA1: ef19c67599b28514ced250dba640abd1e0760be8
+FileChecksum: MD5: cd8b447e77776be919d6131402553ddb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/main/java/org/onap/music/main/PropertiesLoader.java
+SPDXID: SPDXRef-item13726756
+FileChecksum: SHA1: b0c3834a577ec5da6e82eaacd5021bc81e5f799e
+FileChecksum: MD5: 366b53297204ca48899dd27d77250618
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-rest/pom.xml
+SPDXID: SPDXRef-item13726782
+FileChecksum: SHA1: 0fda7dbecb6e0fd3e59716c9736c7324178fcbd8
+FileChecksum: MD5: 8bb888d66eccdab49878c96c8f3818cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/pom.xml
+SPDXID: SPDXRef-item13727050
+FileChecksum: SHA1: e156f20d016a0e937ed3d8934c9bf8e5c755c23d
+FileChecksum: MD5: b33ce9afccc44785a637eb86987d7348
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/pom.xml
+SPDXID: SPDXRef-item13727079
+FileChecksum: SHA1: 2d39ac542acdf95d319aeb7b62980fc0b9861357
+FileChecksum: MD5: 8904a941728c6f05372a25070290e561
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JsonDeleteTest.java
+SPDXID: SPDXRef-item13726957
+FileChecksum: SHA1: 1105c5186d7458b4341acbe896234f48bf66881d
+FileChecksum: MD5: 5486a9c2786ef6c328cc098a3cbb122e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/MusicDataStore.java
+SPDXID: SPDXRef-item13727017
+FileChecksum: SHA1: d22dc11aa105c2c44a3126f8578486eb2799cf63
+FileChecksum: MD5: c81c24cd12d9e752bcba59bae167bbd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2018-2019 IBM
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/music-rest/src/test/java/org/onap/music/eelf/logging/MusicContainerFilterTest.java
+SPDXID: SPDXRef-item13726712
+FileChecksum: SHA1: 7f9dbe5adcb584207121184ecea22ec1fb18ecf3
+FileChecksum: MD5: 36d01c03e4b649be20f4107fc5863df6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property
+Copyright (C) 2020 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/jsonobjects/JsonSelectTest.java
+SPDXID: SPDXRef-item13726955
+FileChecksum: SHA1: 30bd1030f057c3085a5787610d1109a52f8d1c0e
+FileChecksum: MD5: 7c0aa1af666bae6fc76077c6e2582bca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2018-2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/service/impl/MusicCassaCore.java
+SPDXID: SPDXRef-item13727002
+FileChecksum: SHA1: 833b8bd868358d8627339bd488d51607a202a4b4
+FileChecksum: MD5: 6ed8bc34598bc4b7eb363c459da1e1a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2018 IBM.
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JsonUpdate.java
+SPDXID: SPDXRef-item13727010
+FileChecksum: SHA1: 2db2c0e48299df81db7981054375f446b073b1e5
+FileChecksum: MD5: 388a84d844656cd791edb30c81321b98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/MusicDataStoreTest.java
+SPDXID: SPDXRef-item13726961
+FileChecksum: SHA1: 7fbaeb59e428ba84246678e0fb0c680945c7f497
+FileChecksum: MD5: ac0ca47ba90baf31f2ce4233eef635b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/lockingservice/cassandra/LockCleanUpDaemon.java
+SPDXID: SPDXRef-item13727039
+FileChecksum: SHA1: b555dfccfdf01c9aa820f10f434ea1ca729d8b65
+FileChecksum: MD5: 271b512c2e6689c340b2b7bd9b81c47e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/lockingservice/cassandra/CassaLockStore.java
+SPDXID: SPDXRef-item13727037
+FileChecksum: SHA1: 8a21133e7daede66f94aa5944584e1bfa632a791
+FileChecksum: MD5: a7e4cd020ef0851bbb4964920b8c17bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (C) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/main/DeadlockDetectionUtil.java
+SPDXID: SPDXRef-item13727042
+FileChecksum: SHA1: 2790fd2721747f921b20d1cdd2ef84ad9c84e903
+FileChecksum: MD5: 4cc236851f9eb72adcacdbe17278ff7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/lockingservice/cassandra/MusicLockState.java
+SPDXID: SPDXRef-item13727040
+FileChecksum: SHA1: 253366b6a12973a54a461689003e1929b041a67b
+FileChecksum: MD5: 094f7fc6c517d1c00032eb5b976afdc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 Samsung </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/plans/music-distributed-kv-store-test-plan/setup.sh
+SPDXID: SPDXRef-item13727124
+FileChecksum: SHA1: 69a088c7c9480d88d99d05d99ac92d87373a34bc
+FileChecksum: MD5: 507603bfc9f427b433b7e696a801e909
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Samsung Electronics etc. etc. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/main/MusicUtil.java
+SPDXID: SPDXRef-item13727046
+FileChecksum: SHA1: 40d6ec7636fef0164b399204344daf90d0f1a1ac
+FileChecksum: MD5: 09efb624910815ded28e53cb3ef66dd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM.
+Copyright (c) 2019 Samsung. </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/run-csit.sh
+SPDXID: SPDXRef-item13727126
+FileChecksum: SHA1: 340965d687a8bf023b10197694890aa5da803054
+FileChecksum: MD5: c9d04d357e8bfeba9b7053947cd5f4ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 Huawei Technologies Co., Ltd.
+Copyright 2019 © Samsung Electronics Co., Ltd. </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/run-project-csit.sh
+SPDXID: SPDXRef-item13727132
+FileChecksum: SHA1: 4cefd36d2ff1b8066b13c6abc5f6eb823d777980
+FileChecksum: MD5: eb7b24b63369ce685a33335ca2318cfd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 © Samsung Electronics Co., Ltd. </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/main/CipherUtil.java
+SPDXID: SPDXRef-item13727048
+FileChecksum: SHA1: 7797fc62bde0f2b928424195d03dd4d0bd1848d0
+FileChecksum: MD5: b9ca7ed0880acf5138978fea3c3d3b56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property
+Copyright (c) 2019 IBM </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/swagger.json
+SPDXID: SPDXRef-item13727148
+FileChecksum: SHA1: e5e59668a57d5014a3e7e4b2c689f9aeda2b28d3
+FileChecksum: MD5: 3ddf4777462d6d3e8ba3fd5a5d098998
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/swagger.yaml
+SPDXID: SPDXRef-item13727118
+FileChecksum: SHA1: 271be1449d84a0e9d7854e976b0661e5e575a9a8
+FileChecksum: MD5: 24914d31b6a085884ff5248f59fbed7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/release-notes.rst
+SPDXID: SPDXRef-item13727058
+FileChecksum: SHA1: bd4b3ea8ddf99dcda57807bf9647199f127f1ea0
+FileChecksum: MD5: edc0b9905ea42944bcf1883d9b919ac3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/examples/VotingApp/src/main/java/main/JsonDelete.java
+SPDXID: SPDXRef-item13726896
+FileChecksum: SHA1: b1bf863e049f953908625d53b6878164ffb2bb19
+FileChecksum: MD5: 7357b26f58bca8224cf7b01b05910ed0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/examples/VotingApp/src/main/java/main/JsonInsert.java
+SPDXID: SPDXRef-item13726897
+FileChecksum: SHA1: 6742caa8eb093c0f689b280930c543d429b6a424
+FileChecksum: MD5: 2ee89722a562f79b583906cbe8922931
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/examples/VotingApp/src/main/java/main/JsonKeySpace.java
+SPDXID: SPDXRef-item13726895
+FileChecksum: SHA1: 7275b8bbee471317d13c999a4fdd6a154c6b181d
+FileChecksum: MD5: 0153092eecfe1e1e62c62dad11055046
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/examples/VotingApp/src/main/java/main/JsonTable.java
+SPDXID: SPDXRef-item13726900
+FileChecksum: SHA1: 1ab65bbe9a815a81f2af185b297c44eb62059efe
+FileChecksum: MD5: 5f3eaba07b6ec7da2c6f1d86476afb8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/examples/VotingApp/src/main/java/main/MusicConnector.java
+SPDXID: SPDXRef-item13726899
+FileChecksum: SHA1: 32bcd6551204c4bd981c6712bff45d85cd465898
+FileChecksum: MD5: 80e190b7c6073458942b8d3058a34e92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/examples/VotingApp/src/main/java/main/VotingApp.java
+SPDXID: SPDXRef-item13726898
+FileChecksum: SHA1: bc9c17adb4212cc5a2a1b29fb87a32c09a3d73c8
+FileChecksum: MD5: 344efe310fa1cad3ab1307711bef63d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/examples/VotingApp/pom.xml
+SPDXID: SPDXRef-item13726903
+FileChecksum: SHA1: 5c0f116cc50146f05876900cdc86a02918feecec
+FileChecksum: MD5: e8ae1d94f817fe0b1f3a62faf7af7e7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/main/java/org/onap/music/datastore/jsonobjects/JSONObject.java
+SPDXID: SPDXRef-item13727014
+FileChecksum: SHA1: 5b803069de99f497f7e3d61aa193b9085b0379d5
+FileChecksum: MD5: b20368be67d5c77ecc74eb84ff7c78e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music/music-core/src/test/java/org/onap/music/datastore/PreparedQueryObjectTest.java
+SPDXID: SPDXRef-item13726949
+FileChecksum: SHA1: 1adf0976f2153a472caf16d27fcef420221f91e3
+FileChecksum: MD5: ed117f0db6a1f4f10e7534ffd6fdff53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 IBM. </text>
+ 
+
+##File
+
+FileName: music-prom/pom.xml
+SPDXID: SPDXRef-item13727412
+FileChecksum: SHA1: b57e0b4437ab7c98a597350f39d4fe435fbbf7d8
+FileChecksum: MD5: d9939551c10d8b0dcf2111a154f770b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/src/main/docker/docker-files/scripts/wait-for.sh
+SPDXID: SPDXRef-item13727322
+FileChecksum: SHA1: 57951451a59ce8c55c543a6b61d1a2dfdca18bff
+FileChecksum: MD5: 7404a945a577d00ffabff305058184ed
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/apache/calcite/avatica/util/AbstractCursor.java
+SPDXID: SPDXRef-item13727309
+FileChecksum: SHA1: 80533e94fc68f699c1b96500d0d39fa058ab3d3b
+FileChecksum: MD5: 58a1ba13744975d414b8eaec619094db
+LicenseConcluded: Apache-2.0 AND LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/apache/calcite/avatica/AvaticaSite.java
+SPDXID: SPDXRef-item13727307
+FileChecksum: SHA1: 9144c4caa02551a23d7426e499ae688bc5b27841
+FileChecksum: MD5: 40ca09053f5fa41aca8adca2337eb1d2
+LicenseConcluded: Apache-2.0 AND LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/version.properties
+SPDXID: SPDXRef-item13726676
+FileChecksum: SHA1: ba0e058c18dea555d9dd76a4d1f83bd5cfb66bca
+FileChecksum: MD5: 452d0784e4018fd58a5a018537902082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/.maven-dockerignore
+SPDXID: SPDXRef-item13726677
+FileChecksum: SHA1: 92a5093626c759f8978a5acd5faf8d781f406e22
+FileChecksum: MD5: e6e5e7dc9ee3e52892c409983c7d20d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/README.md
+SPDXID: SPDXRef-item13726678
+FileChecksum: SHA1: 151d4f902a8b0c85e7c76ecf851c9058328a1629
+FileChecksum: MD5: 0aae754d2cd20a1e77f63ad3f6bbfc8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/INFO.yaml
+SPDXID: SPDXRef-item13726679
+FileChecksum: SHA1: f734e05847fb70053df7708b432e807872ea02a8
+FileChecksum: MD5: 5ecc2ae6f489bfcfbaa4c90dd0ba9498
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/.gitreview
+SPDXID: SPDXRef-item13726680
+FileChecksum: SHA1: 32e8187528452a174bb245c02169f2ef78c70808
+FileChecksum: MD5: 888ada56e7928684d0606844786070ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/src/main/resources/application.properties
+SPDXID: SPDXRef-item13726725
+FileChecksum: SHA1: adb601264cc5cf6047c42fc7a6dcb8147806bfd1
+FileChecksum: MD5: 46d7b1996eb1b200144e1f40ec3d0499
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/src/main/resources/key.properties
+SPDXID: SPDXRef-item13726726
+FileChecksum: SHA1: 115656dece734dd06bbc03770cf52f6687e2febb
+FileChecksum: MD5: d4a4bbbc7b43f3f928aed27e2c3c6a74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/distribution/cassandra/cassandra.yaml
+SPDXID: SPDXRef-item13726769
+FileChecksum: SHA1: 427444ba4c3844e41f855b0bc8a69fef7320b873
+FileChecksum: MD5: 04556784ed636f3187113f9bbc13b369
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/distribution/cassandra/docker-entrypoint.sh
+SPDXID: SPDXRef-item13726770
+FileChecksum: SHA1: 7abff8caeb9ed74efbf596d2549371c0fe982a12
+FileChecksum: MD5: aa58dbb5f49af1b9aa1636d0f2f7c3ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/distribution/cassandra/Dockerfile
+SPDXID: SPDXRef-item13726771
+FileChecksum: SHA1: 6854c5222730bdefaf610e09058df4230523a5bb
+FileChecksum: MD5: e031e35c04a3f0c0959abadf3bcfe3af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/distribution/README.md
+SPDXID: SPDXRef-item13726772
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/distribution/cassandra_job/test.cql
+SPDXID: SPDXRef-item13726777
+FileChecksum: SHA1: 8d1d0c2d412e26e665f6dcd6a72024fd4514664e
+FileChecksum: MD5: 8bf56635e9ea669bea570a577f1a7a21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/distribution/cassandra_job/admin_pw.cql
+SPDXID: SPDXRef-item13726778
+FileChecksum: SHA1: 12ae0136087ba5a7ae0fba46e76cf62537a629fc
+FileChecksum: MD5: d4e6f5a7034c01f857321f10918511e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-rest/distribution/cassandra_job/admin.cql
+SPDXID: SPDXRef-item13726779
+FileChecksum: SHA1: d85df5ad8d7c1b3bf7e205c9fb69cab7008b4bbc
+FileChecksum: MD5: ef5b30b4b3d205d4bfeff6fe8d23933e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/jar/version.properties
+SPDXID: SPDXRef-item13726784
+FileChecksum: SHA1: 79960140a3d4731438307ac5522ec7adc8641b43
+FileChecksum: MD5: 308d91052b5ae9e3ad5e5fe5e54c9cab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/jar/src/main/resources/project.properties
+SPDXID: SPDXRef-item13726815
+FileChecksum: SHA1: b5b4e0d500908c1de596cf7fed51f006688fb465
+FileChecksum: MD5: 96563e48ab877b30471abd7db8d51072
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/jar/src/main/resources/cache.ccf
+SPDXID: SPDXRef-item13726818
+FileChecksum: SHA1: 2439e29b6dffc7b438dd5311dca2af30603a9a4c
+FileChecksum: MD5: 3022b25af90ad3b78a8918095ac6ccbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/jar/DO_NOT_EDIT_ANYTHING_IN_THIS_FOLDER.md
+SPDXID: SPDXRef-item13726886
+FileChecksum: SHA1: a08bdcba54f389a4aeafecb9db7198b2d2a9f83e
+FileChecksum: MD5: 214fd9df99d134a43d1be9e4eacd6b15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/examples/VotingApp/README.md
+SPDXID: SPDXRef-item13726890
+FileChecksum: SHA1: 9e66ae60ec8dc0e3a05b5fa964ed9456d8608ad0
+FileChecksum: MD5: bf1cdde74119a9f0a878153fd9a1ffd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/examples/VotingApp/src/main/java/main/Util.java
+SPDXID: SPDXRef-item13726901
+FileChecksum: SHA1: 18bb12424a5566865fc3bea5ffd84f95b3fc0153
+FileChecksum: MD5: 5139b5f4ce12d6e800bca948b2e7c81c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/examples/VotingApp/dependency-reduced-pom.xml
+SPDXID: SPDXRef-item13726902
+FileChecksum: SHA1: f04c05b36068edd0b56956e2cb01a4de2c5528f6
+FileChecksum: MD5: 992d921c57e060837c15144abe85e415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/releases/3.2.39-container.yaml
+SPDXID: SPDXRef-item13726906
+FileChecksum: SHA1: cbb1ed1bb8861c65dcc1b0c318dfdcb6f9f05297
+FileChecksum: MD5: f935ba11a4bc768a27a01a9909fb601a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/releases/3.2.38.yaml
+SPDXID: SPDXRef-item13726907
+FileChecksum: SHA1: c8b91c5e041c29c0d5efe2f5b3952798331c35bb
+FileChecksum: MD5: 265558ac40240fbf5e292935eb8b4dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/releases/3.2.40.yaml
+SPDXID: SPDXRef-item13726908
+FileChecksum: SHA1: b4566108e665272b76652ef328c9c2ff9d41057c
+FileChecksum: MD5: bf6b8d4ce5233f153d2d39479f058dcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/releases/3.2.38-container.yaml
+SPDXID: SPDXRef-item13726909
+FileChecksum: SHA1: 08b56f0866893011d416fdbdc1caf357454280a9
+FileChecksum: MD5: df136f8077fddfff3b75ef5bc8b40a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/releases/3.2.35.yaml
+SPDXID: SPDXRef-item13726910
+FileChecksum: SHA1: 0b76eb99a9c3531dc024c05d3ad3a436c7036439
+FileChecksum: MD5: c1a96575b4b6b5abc0c516145337fff4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/releases/3.2.40-container.yaml
+SPDXID: SPDXRef-item13726911
+FileChecksum: SHA1: fc2675a24c4ab3d2036a008054033ebbf8ce5262
+FileChecksum: MD5: 70d9c1d26e42cf2d5aa4ddfc1897508a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/releases/3.2.39.yaml
+SPDXID: SPDXRef-item13726912
+FileChecksum: SHA1: ba28b2fe0f00539a0eb89f3adc555eab9216bdd3
+FileChecksum: MD5: 5b7e341946eeafd72e42d8ce90d4d1e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/releases/3.2.34.yaml
+SPDXID: SPDXRef-item13726913
+FileChecksum: SHA1: 2ae02768bafe11ca8582219cc3f1e96bb5b4ce3b
+FileChecksum: MD5: 97e774bbc92d58fb74b38230ed3e1f81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/WebContent/WEB-INF/music.properties.sample
+SPDXID: SPDXRef-item13726917
+FileChecksum: SHA1: 27c38feb83d2e7de64c951dbcb83da7625543b37
+FileChecksum: MD5: 9294c716cc4ad3a0cd20c3d19c64fd2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/WebContent/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item13726919
+FileChecksum: SHA1: 14f6e5aedc400d47fda71c2fdc8ac3c1ac37ec0b
+FileChecksum: MD5: d0e895251c05b9ea895dda3a15b060db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/.readthedocs.yaml
+SPDXID: SPDXRef-item13726920
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-core/src/test/resources/application.properties
+SPDXID: SPDXRef-item13726925
+FileChecksum: SHA1: f94eb99afdaf5b8662d048a6ac526149c256339b
+FileChecksum: MD5: 7ece3c44f1f257bc8d5e5d132e328db0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-core/src/test/resources/project.properties
+SPDXID: SPDXRef-item13726926
+FileChecksum: SHA1: bfcca388b604ccb6354ec3cdcaf01c0a8cf1c971
+FileChecksum: MD5: 04ff108e501fc8318711f7d011331454
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-core/src/test/resources/cache.ccf
+SPDXID: SPDXRef-item13726929
+FileChecksum: SHA1: 184a51c08cfee5f2baa09c4175f78fb9e84ffdad
+FileChecksum: MD5: 22b2c779e6b120a9b3b249d565bef549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-core/src/test/resources/mockito-extensions/org.mockito.plugins.StackTraceCleanerProvider
+SPDXID: SPDXRef-item13726931
+FileChecksum: SHA1: d94db7c1cd10b84eb8a3a4f73bf8d61d222be4f0
+FileChecksum: MD5: 1ba2dfc732c3e17c309ca4337fb69414
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-core/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+SPDXID: SPDXRef-item13726932
+FileChecksum: SHA1: 8cde12feaad3ec5aa7db30defa5ef275dcc67eb8
+FileChecksum: MD5: d421c84f47a3334b11f177c046ce22c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-core/src/main/resources/project.properties
+SPDXID: SPDXRef-item13726988
+FileChecksum: SHA1: 8f1013d9e3e59f2f95e14a273d7bc4916abcb1b8
+FileChecksum: MD5: 97ae148acbfbacb3d08c1c88850364a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/music-core/src/main/webapp/WEB-INF/.gitignore
+SPDXID: SPDXRef-item13726994
+FileChecksum: SHA1: cfdefd630065efe17211f910e9095d3504fcdab4
+FileChecksum: MD5: 22c198cb5125a797e5939da1fa531ffb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/.gitattributes
+SPDXID: SPDXRef-item13727051
+FileChecksum: SHA1: 44a6d47a745f140f2636b0679b3785b657c7e337
+FileChecksum: MD5: 629a0f60a8c6fb9a155915467b62de75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/.gitignore
+SPDXID: SPDXRef-item13727052
+FileChecksum: SHA1: ca2a24bcf661f1c5ed4ad7243115f7deaf331a01
+FileChecksum: MD5: d08f65dbd07c019cc87f2a377ca4b4cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/MUSIC_USAGE.jpg
+SPDXID: SPDXRef-item13727054
+FileChecksum: SHA1: 315022565e2f4139cfa3250541024b1acb85f67c
+FileChecksum: MD5: 7cfbdcc97f2c600e4623286ab74551d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/requirements-docs.txt
+SPDXID: SPDXRef-item13727057
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/conf.yaml
+SPDXID: SPDXRef-item13727059
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/conf.py
+SPDXID: SPDXRef-item13727062
+FileChecksum: SHA1: 563cbbe801ae2ce6edcd38c86c1f85e57dea72bc
+FileChecksum: MD5: d337e95d5645f61c16f48086749eb632
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/multi.rst
+SPDXID: SPDXRef-item13727063
+FileChecksum: SHA1: 18d8de21c9a1dc124b26d711bdaed4e326bb60e5
+FileChecksum: MD5: 8b0164fb07464bb229ba744a214a3014
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/tox.ini
+SPDXID: SPDXRef-item13727064
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/authentication.rst
+SPDXID: SPDXRef-item13727065
+FileChecksum: SHA1: ccba78aec7cd708707972cb5c3c17ab7b62e60c4
+FileChecksum: MD5: 1d98e80b73a8c3aa05e8b4dd59e3255a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item13727068
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item13727069
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/_static/favicon.ico
+SPDXID: SPDXRef-item13727070
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/swagger.json
+SPDXID: SPDXRef-item13727072
+FileChecksum: SHA1: dad5d5fb340851412609bf112db5d8774126fdd9
+FileChecksum: MD5: a83f0bea7a2b8275fde1724f8bf73384
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/.gitignore
+SPDXID: SPDXRef-item13727073
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/setup.rst
+SPDXID: SPDXRef-item13727074
+FileChecksum: SHA1: 98eb851f9503523fede9ff2c7c74f7b7e441622c
+FileChecksum: MD5: 06a77d5885bce43de4422d1653397071
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/docs/single.rst
+SPDXID: SPDXRef-item13727077
+FileChecksum: SHA1: 58df557e14bb658fa2cf41bc66e4ab4dee1a1167
+FileChecksum: MD5: 6d102971b7ff18b8478624a30c89cf3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/postman/MusicLocal.postman_collection.json
+SPDXID: SPDXRef-item13727081
+FileChecksum: SHA1: 4b8d41c9b6b9f6823a8fe41d59cbad39ce16a08e
+FileChecksum: MD5: 05ffc2f5dd27b50ebc4b8fc8586036f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music/.gitmodules
+SPDXID: SPDXRef-item13727082
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/Dockerfile_ubuntu
+SPDXID: SPDXRef-item13727085
+FileChecksum: SHA1: 175fa6564235023e592ad7d4eed06ce053890f28
+FileChecksum: MD5: 2390585053ee81a28d51298010876ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/docker-build.sh
+SPDXID: SPDXRef-item13727086
+FileChecksum: SHA1: e105d778dc741c238a77b986170934d9f3380a58
+FileChecksum: MD5: 6daf068a0a6e1a2ca11bb69fc4bd3557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/docker-entrypoint.sh
+SPDXID: SPDXRef-item13727087
+FileChecksum: SHA1: 28502c63d2b0f3c8a7188e34a848425bb3e7acc3
+FileChecksum: MD5: 42e08a2242d3d1e1f56d1f54273b1970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/run.sh
+SPDXID: SPDXRef-item13727088
+FileChecksum: SHA1: c66992ee963925bec192970b6a6e430b3a6b3786
+FileChecksum: MD5: bf4d6c5fb5855e2d2d4594b150287704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/tag-docker-staging.sh
+SPDXID: SPDXRef-item13727089
+FileChecksum: SHA1: efff716b92a6c4e864f47052a014b94e1df5d254
+FileChecksum: MD5: e221481963f92c0837eb153559250ba9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/Dockerfile
+SPDXID: SPDXRef-item13727090
+FileChecksum: SHA1: db2a2df8c3affc23ca33eccecaeac6fde81be2fb
+FileChecksum: MD5: 5f4e4799d12bf5a2fb4c2c8d1f8b5e5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/INFO.yaml
+SPDXID: SPDXRef-item13727091
+FileChecksum: SHA1: 78377e8be7f47edb8597e1f0911de80171337e53
+FileChecksum: MD5: e04ce83ec7111da09c095c4cf991e166
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/Makefile
+SPDXID: SPDXRef-item13727094
+FileChecksum: SHA1: f1c9c584898fbd8eab108fa4161cd0fa12e4c73d
+FileChecksum: MD5: abbcae3bc640dee2e9644d26908a909d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/Gopkg.lock
+SPDXID: SPDXRef-item13727095
+FileChecksum: SHA1: b2242ca6c79ef158daaa107d30a22ded5acef09b
+FileChecksum: MD5: 40c9c9a28fcb6011c118adbd840dc57c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/Gopkg.toml
+SPDXID: SPDXRef-item13727114
+FileChecksum: SHA1: 685de5c3c49ba49bb39d5abd87d6022dcf6bfdcd
+FileChecksum: MD5: 5483cb56d300ce797ce3682ab7e400d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/.gitreview
+SPDXID: SPDXRef-item13727116
+FileChecksum: SHA1: ea9bd3f4cfd5dd22811b4b438ba3cb9f876c7507
+FileChecksum: MD5: 494647a392e6be25d5bdac67a617c65d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/.rstcheck.cfg
+SPDXID: SPDXRef-item13727117
+FileChecksum: SHA1: 323ad85621f92b267a83ffe60a1a8e6fbdb7ad24
+FileChecksum: MD5: d662462237a8127e4fd14add10fc3742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/tox.ini
+SPDXID: SPDXRef-item13727119
+FileChecksum: SHA1: 06038de48cc2bac7bf2e4993e3219b77d5bf328a
+FileChecksum: MD5: fc6b5af6612ac770abbf2c06e3b7eb90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/plans/music-distributed-kv-store-test-plan/testplan.txt
+SPDXID: SPDXRef-item13727123
+FileChecksum: SHA1: 094d2c41109c54da797e96836c2a7a2faf723f92
+FileChecksum: MD5: b0e04c5b486bf91982229ca3299fc70f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/tests/music-distributed-kv-store-suite/music-distributed-kv-store-test.robot
+SPDXID: SPDXRef-item13727129
+FileChecksum: SHA1: 14e99d14cc04b305392752cba0cd9b846e68fc31
+FileChecksum: MD5: c89db70448c28b16a7cb87a50ccf5c8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/tests/music-distributed-kv-store-suite/__init__.robot
+SPDXID: SPDXRef-item13727130
+FileChecksum: SHA1: d492ec70cd433ee1df0607f5a7fcafe8d134fe38
+FileChecksum: MD5: e57370ab67252847512b1e68399fdd59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/.gitignore
+SPDXID: SPDXRef-item13727131
+FileChecksum: SHA1: 00be5e98b6bdabd7fc0c365e63dbcb3c9d785fe4
+FileChecksum: MD5: 548a0bd56e9d29acfcb2c73569917fd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/.readthedocs.yaml
+SPDXID: SPDXRef-item13727133
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/.gitignore
+SPDXID: SPDXRef-item13727134
+FileChecksum: SHA1: 709264da02dad5ce3d7fc49c0a8dda87441733eb
+FileChecksum: MD5: 0fb0b2dc8adb93ddedb74283e9ec3eab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/requirements-docs.txt
+SPDXID: SPDXRef-item13727137
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/conf.yaml
+SPDXID: SPDXRef-item13727139
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/conf.py
+SPDXID: SPDXRef-item13727141
+FileChecksum: SHA1: 7b39494fe6613d65095aa6a00a178d05f29a72d5
+FileChecksum: MD5: 088edcf4b23c3477897b43f5c8e75e47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/tox.ini
+SPDXID: SPDXRef-item13727142
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item13727145
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item13727146
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/_static/favicon.ico
+SPDXID: SPDXRef-item13727147
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/.gitignore
+SPDXID: SPDXRef-item13727149
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/mountpath/default/sampleAPPCConfig.properties
+SPDXID: SPDXRef-item13727153
+FileChecksum: SHA1: 4cf647a319a34145051359e4e0cb00f84a5865c0
+FileChecksum: MD5: 66c7914115f323669554eaa0e8074f6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/mountpath/default/sampleAAIConfig.properties
+SPDXID: SPDXRef-item13727154
+FileChecksum: SHA1: bc7b0481057ab738a923efe12f70efbc9588c3ce
+FileChecksum: MD5: fb7b30af6615ba07641eba8f8945b7c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/version.properties
+SPDXID: SPDXRef-item13727156
+FileChecksum: SHA1: e0c2fa180092b45d5efd920e9e8ee33a077ff9a4
+FileChecksum: MD5: 51d6295b399c250a817d779003beb86f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/README.md
+SPDXID: SPDXRef-item13727157
+FileChecksum: SHA1: b9d5ad3365be1a1f1b7713fcaa85ba4c4bd7c3a7
+FileChecksum: MD5: eac18e9e624382a596737b58635e2a56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/INFO.yaml
+SPDXID: SPDXRef-item13727158
+FileChecksum: SHA1: b9b8e885390e24e3c24f17549697e371cf062227
+FileChecksum: MD5: 6e3098f6da1a09f316fdaa68fdf57590
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/resources/simplelogger.properties
+SPDXID: SPDXRef-item13727163
+FileChecksum: SHA1: 595bc797dad20fd2e0a7ee88e119c2f2114823e5
+FileChecksum: MD5: e0e837cbf31d0d5a804dc822faf785b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/resources/dblib.properties
+SPDXID: SPDXRef-item13727164
+FileChecksum: SHA1: 0368464b6189cbf82a8b60fcf068177412ffb738
+FileChecksum: MD5: 329ecba1780e2f2efebeae67ddae6fd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+SPDXID: SPDXRef-item13727166
+FileChecksum: SHA1: 8cde12feaad3ec5aa7db30defa5ef275dcc67eb8
+FileChecksum: MD5: d421c84f47a3334b11f177c046ce22c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/javadoc/overview.html
+SPDXID: SPDXRef-item13727194
+FileChecksum: SHA1: 1fd0f980f7cdfa0ec914be1f3e15ba77a462f80a
+FileChecksum: MD5: 8e3a819581bddd91dc4102aab1ac2cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/shell/run_h2_server
+SPDXID: SPDXRef-item13727196
+FileChecksum: SHA1: e1cf96eb2ff8f872652762a8f379afaed15f9b28
+FileChecksum: MD5: 183aefca88edd76918fc693242a73ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/shell/mk_jboss_module
+SPDXID: SPDXRef-item13727197
+FileChecksum: SHA1: 2c0224e5f32f4ce0671f0f7ff8bd0af2fd097639
+FileChecksum: MD5: d23c7c59845729a3c6526d03a77d0b6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/resources/tests.json
+SPDXID: SPDXRef-item13727199
+FileChecksum: SHA1: 3ca948802c37bb9095b949119d988b91b65a3500
+FileChecksum: MD5: 6233cd753b1574f1a5f3e548fe4d6db2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/resources/mdbc.properties
+SPDXID: SPDXRef-item13727200
+FileChecksum: SHA1: e4b5c8e02efd84b9a8e02d9809ffa0e488899442
+FileChecksum: MD5: 6ffb70aede9e3b957c23baa4d3903631
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/resources/log4j.properties
+SPDXID: SPDXRef-item13727201
+FileChecksum: SHA1: 8f341cfa7bb0c0c720a73964cc82ee66b918a5d9
+FileChecksum: MD5: 9179f9b0008ae3c359e030bd305d264e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/resources/META-INF/services/java.sql.Driver
+SPDXID: SPDXRef-item13727204
+FileChecksum: SHA1: 292426a16a6d416c6b8f0fec1ee0802a8fb2e787
+FileChecksum: MD5: 7167df3119a063eeaf42f5c1d3cc37f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/resources/music.properties
+SPDXID: SPDXRef-item13727206
+FileChecksum: SHA1: 15029caf9ec97f7c6c9408cd0c35b1a5c517486b
+FileChecksum: MD5: ca6400ee3bf59351690a4dd4e654b32d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/resources/key.properties
+SPDXID: SPDXRef-item13727207
+FileChecksum: SHA1: f94ea2e4eb5299412f04a788a073744085a402ee
+FileChecksum: MD5: da192a913f7480d0354b5234ae19bb0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/proto/digest.proto
+SPDXID: SPDXRef-item13727215
+FileChecksum: SHA1: f307f56359d6383c9084255f2ad186473621354e
+FileChecksum: MD5: 2c052774b86512f74ebc6f935499b242
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/configurations/tableConfiguration.json
+SPDXID: SPDXRef-item13727274
+FileChecksum: SHA1: 8f3b5428fae69295c899dcbb7c686132cabe702d
+FileChecksum: MD5: 52aa6e53f3c5bc6a2593f69616b94473
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/configurations/config-0.json
+SPDXID: SPDXRef-item13727275
+FileChecksum: SHA1: ecff96697bc6750d2fd8fcc2a174b4b64c0a095b
+FileChecksum: MD5: bf7afe6831d7d2254f15c6c2b73cfe00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/configurations/ranges.json
+SPDXID: SPDXRef-item13727278
+FileChecksum: SHA1: 663b60062b11f5aec8cc7077a6fc7a439a8ea632
+FileChecksum: MD5: d136efccad062f964a1c2732b33e7e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-server/src/main/java/org/onap/music/mdbc/configurations/clusterConfiguration.json
+SPDXID: SPDXRef-item13727279
+FileChecksum: SHA1: 1cefe7644544f31fab661f3cac99751ffe57cbc9
+FileChecksum: MD5: a958de3fb7a6c54d1de56e492c7fcf3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/.gitreview
+SPDXID: SPDXRef-item13727311
+FileChecksum: SHA1: b94d86ca570c7322f397739660f0a56370da532d
+FileChecksum: MD5: 6bb9c02fb73e4d8b1f7bbdbc0e925fe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/src/main/docker/docker-files/Dockerfile.mdbc-cassandra
+SPDXID: SPDXRef-item13727319
+FileChecksum: SHA1: f00409f39d02515ac47c0face47fb0c41b82e241
+FileChecksum: MD5: 0b6dfc86824985a3d0ed6c0dc7945f48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/src/main/docker/docker-files/Dockerfile.mdbc-server
+SPDXID: SPDXRef-item13727320
+FileChecksum: SHA1: 8a44da892c73b724d695c312fafe9aefd13b8c90
+FileChecksum: MD5: 9f14dea77627243f72166633427fe34f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/src/main/docker/docker-files/scripts/start-mdbc-server.sh
+SPDXID: SPDXRef-item13727323
+FileChecksum: SHA1: 929cc6778f9cb71084d390debe49092ffdac0f32
+FileChecksum: MD5: 030e4f5c3534b13ef6e4a2defb84ce27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/src/main/docker/docker-files/scripts/start-cassandra.sh
+SPDXID: SPDXRef-item13727324
+FileChecksum: SHA1: 6ae63aee86b9a0ae5d1a607a22e23eb109d39596
+FileChecksum: MD5: e3acdebfba081e41780378f2f9de6a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/pom.xml
+SPDXID: SPDXRef-item13727325
+FileChecksum: SHA1: 989ee584fb4fbfabe8b370d593ccbc55e498a3fd
+FileChecksum: MD5: 5099b4a39b122dee7f4523d8a63767e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/volumes/mariadb/conf.d/mariadb1.cnf
+SPDXID: SPDXRef-item13727333
+FileChecksum: SHA1: 28948e69911c504fdf6447a24ba3cf223d35104e
+FileChecksum: MD5: 646f08b2fb4e60fd639c450c98b2aa14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/volumes/cassandra/docker-entrypoint-initdb.d/01-create-music-internal-keyspace.cql
+SPDXID: SPDXRef-item13727336
+FileChecksum: SHA1: 7b28d1c710696e977562739b1a9d0f95e6e1e1cc
+FileChecksum: MD5: ccbcee8ef8a5af1c4a77475136980ca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/volumes/mdbc-server-2/config/tableConfiguration.json
+SPDXID: SPDXRef-item13727339
+FileChecksum: SHA1: 6a2375a9835f055bab4b88444c17e41586629b37
+FileChecksum: MD5: d8d65c687d2b7d0db70e0b6f722bdece
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/volumes/mdbc-server-2/config/music.properties
+SPDXID: SPDXRef-item13727340
+FileChecksum: SHA1: 49ed6b2c657262441550e081fbe2c3673a2156d5
+FileChecksum: MD5: e7868039afd740c6cfe8ab938c3aef52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/volumes/mdbc-server-1/config/tableConfiguration.json
+SPDXID: SPDXRef-item13727343
+FileChecksum: SHA1: 6dfe00022c74fb59c4011a0d2fbcae5a3d34d877
+FileChecksum: MD5: 733ba00fd6135a1fda05b914d50dec5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/volumes/mdbc-server-1/config/music.properties
+SPDXID: SPDXRef-item13727344
+FileChecksum: SHA1: 49ed6b2c657262441550e081fbe2c3673a2156d5
+FileChecksum: MD5: e7868039afd740c6cfe8ab938c3aef52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/.env
+SPDXID: SPDXRef-item13727345
+FileChecksum: SHA1: 4475579cc0ce88540fba68e630fb73cd1d36d999
+FileChecksum: MD5: 0b85c3874c9e45ed36f81b4236f16e2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/two-sites/docker-compose.yml
+SPDXID: SPDXRef-item13727346
+FileChecksum: SHA1: 8b551aa2c2b1ee606e06d6f7252f12c491d55574
+FileChecksum: MD5: df207e6bfbdcd900e78ea6912b47bcb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/one-site/volumes/mariadb/conf.d/mariadb1.cnf
+SPDXID: SPDXRef-item13727353
+FileChecksum: SHA1: 28948e69911c504fdf6447a24ba3cf223d35104e
+FileChecksum: MD5: 646f08b2fb4e60fd639c450c98b2aa14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/one-site/volumes/cassandra/docker-entrypoint-initdb.d/01-create-music-internal-keyspace.cql
+SPDXID: SPDXRef-item13727356
+FileChecksum: SHA1: 7b28d1c710696e977562739b1a9d0f95e6e1e1cc
+FileChecksum: MD5: ccbcee8ef8a5af1c4a77475136980ca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/one-site/volumes/mdbc-server-1/config/tableConfiguration.json
+SPDXID: SPDXRef-item13727359
+FileChecksum: SHA1: 6dfe00022c74fb59c4011a0d2fbcae5a3d34d877
+FileChecksum: MD5: 733ba00fd6135a1fda05b914d50dec5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/one-site/volumes/mdbc-server-1/config/music.properties
+SPDXID: SPDXRef-item13727360
+FileChecksum: SHA1: 49ed6b2c657262441550e081fbe2c3673a2156d5
+FileChecksum: MD5: e7868039afd740c6cfe8ab938c3aef52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/one-site/.env
+SPDXID: SPDXRef-item13727361
+FileChecksum: SHA1: 4475579cc0ce88540fba68e630fb73cd1d36d999
+FileChecksum: MD5: 0b85c3874c9e45ed36f81b4236f16e2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/mdbc-docker/compose/one-site/docker-compose.yml
+SPDXID: SPDXRef-item13727362
+FileChecksum: SHA1: 47d21577c2e6267840909a906f8f726ae3ee0627
+FileChecksum: MD5: d3fc399b11317560f6a3ec0f7cbf43bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/mdbc-packages/pom.xml
+SPDXID: SPDXRef-item13727363
+FileChecksum: SHA1: af67f77ca9a5b31902a06ae6971a6699718122d9
+FileChecksum: MD5: 9e30b7b581c12ce74841841413531d75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/.gitignore
+SPDXID: SPDXRef-item13727364
+FileChecksum: SHA1: b06ce4ecfb4c5bc47d821607a2bd8dcb15ccc1a3
+FileChecksum: MD5: 5d8b0fd081d16700ce3160591e7a7aab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/docs/redo_arch.svg
+SPDXID: SPDXRef-item13727366
+FileChecksum: SHA1: 5bf86c9a4528c373d8221d88b5b8c9c78c35fe91
+FileChecksum: MD5: 00f2ea2289c5fb4ae411b3a0899205de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/docs/specs.md
+SPDXID: SPDXRef-item13727367
+FileChecksum: SHA1: 8cef78b14233529b4353f9367693429aedc4e735
+FileChecksum: MD5: e0906286dbe2db53f3770cf593c88932
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/docs/histo_graph.svg
+SPDXID: SPDXRef-item13727368
+FileChecksum: SHA1: 57ca6374d02488e6a5a9de3ac81a031557183a67
+FileChecksum: MD5: 1e17193223a06c610b794b30309aaea5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-mdbc/docs/uml.svg
+SPDXID: SPDXRef-item13727369
+FileChecksum: SHA1: dadb872b7c2f4c603a1885c02af1b736806deaa5
+FileChecksum: MD5: bf0ad91d8b59d895a874e4f5f6c83253
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/version.properties
+SPDXID: SPDXRef-item13727372
+FileChecksum: SHA1: b6e161e598e6ae1b2120443537db5c980a207553
+FileChecksum: MD5: 184813ec4316b8cba7514924704acc20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/.maven-dockerignore
+SPDXID: SPDXRef-item13727373
+FileChecksum: SHA1: 92a5093626c759f8978a5acd5faf8d781f406e22
+FileChecksum: MD5: e6e5e7dc9ee3e52892c409983c7d20d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/README.md
+SPDXID: SPDXRef-item13727374
+FileChecksum: SHA1: ed95d01a1165072e4917be069c8a5b0c21eed00a
+FileChecksum: MD5: b7b737114a2ef90a00a723449dd36b16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/INFO.yaml
+SPDXID: SPDXRef-item13727375
+FileChecksum: SHA1: 7d4d8bc01caa0188c8d2b78bec09e01659cb0d04
+FileChecksum: MD5: 88a93d298996ab0f8a85d1f9da99a383
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/src/main/resources/project.properties
+SPDXID: SPDXRef-item13727389
+FileChecksum: SHA1: ae9f064d4a89540555bb7be92c1bad7fffbe7afb
+FileChecksum: MD5: 1897d9e79c8ab9f6288daf06fa16b540
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/.gitreview
+SPDXID: SPDXRef-item13727408
+FileChecksum: SHA1: ef0a07ba390a93a70b24396d418259619e22ba83
+FileChecksum: MD5: c7c9d041e5f2ff80daee608798bd7b2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/distribution/prom_container.sh
+SPDXID: SPDXRef-item13727411
+FileChecksum: SHA1: f22b38556ef7e1ee7eab5fdabbb8f1547e868356
+FileChecksum: MD5: a9f6b19647f08b8df6490ab0cc753297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/Dockerfile
+SPDXID: SPDXRef-item13727413
+FileChecksum: SHA1: 204e2e01af0a36c99163ef825a75a483bb178700
+FileChecksum: MD5: 1ab5f40a3df8316151bbd0e479d89a98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/sdnc.failover
+SPDXID: SPDXRef-item13727415
+FileChecksum: SHA1: 0ace1d04200e0dcdb1e5d2ac57793bf5a5cf3927
+FileChecksum: MD5: fa2242ba6905bc38de7018af6e3dcb0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/sdnc.monitor
+SPDXID: SPDXRef-item13727416
+FileChecksum: SHA1: 12ee4b277169410c0a8f820237b969c8eef296ce
+FileChecksum: MD5: 846c0fb2e330e38f3d7fdafa220b7372
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/sdnc.monitor.failure
+SPDXID: SPDXRef-item13727417
+FileChecksum: SHA1: fc752eed95e9dae67f15c70881b0e860f6d5c344
+FileChecksum: MD5: 276840c2910b35e98dce6fab13029ebe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/sdnc.failover.failure
+SPDXID: SPDXRef-item13727418
+FileChecksum: SHA1: ffbd9eca9348a92d5bc59f0d46af4233ab06f7af
+FileChecksum: MD5: f653ffdef09114a77065a1842accf369
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/startPromDaemon.sh
+SPDXID: SPDXRef-item13727419
+FileChecksum: SHA1: ab63380c6963333faf9c1b8aaa47b7ab504a7d5e
+FileChecksum: MD5: 23078d432b72e9ec2b08512d083d44cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/config.json
+SPDXID: SPDXRef-item13727420
+FileChecksum: SHA1: cc1ddeeed2812ffb1108a79cd7c04107b9844417
+FileChecksum: MD5: e3283bf74eab537d8fa656b4ae4935f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/ensureSdncStandby.sh
+SPDXID: SPDXRef-item13727421
+FileChecksum: SHA1: ee3559b99b039e8e4f0d0c506c7d7d594b21b868
+FileChecksum: MD5: f1047f99ac46c6906cae85abdde2f73f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/ensureSdncActive.sh
+SPDXID: SPDXRef-item13727422
+FileChecksum: SHA1: 673a6c79ef03f4b5a788cdadfd9851927672aa07
+FileChecksum: MD5: ee708240b70eb3384e7d018783e849f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/sdnc.cluster.standby
+SPDXID: SPDXRef-item13727424
+FileChecksum: SHA1: b5d27efdb1a1a20f2ef2e50307fce039f94a406b
+FileChecksum: MD5: cac0ef30b723dfc7ae8378eb5b2e8066
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-prom/sampleApp/sdnc.cluster
+SPDXID: SPDXRef-item13727425
+FileChecksum: SHA1: 398a2fdc15dbacef3719cb5ab088a166a880422e
+FileChecksum: MD5: b3df804b9892ffed3fbbf4ec2a6fd9cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Apache-2.0-ASF-Header-1
+LicenseName: Apache-2.0 (ASF Header)
+ExtractedText: <text> Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements. See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership. The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the
+specific language governing permissions and limitations
+under the License. </text>
+
