@@ -1,0 +1,3604 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_cps-2021-06-03.zip_1622749296.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-06-03T19:41:37Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: cps-2021-06-03.zip
+PackageFileName: cps-2021-06-03.zip
+SPDXID: SPDXRef-upload3761
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 528826fe3babfc3d5858ec820f3b33855ff67ee3
+PackageChecksum: SHA1: 8ac72dec941d9420859e7404e0a0b99f1daa810e
+PackageChecksum: MD5: c72dd4581dbd72b200df6d003fbde1c6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3761
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: cps-cps-temporal/docs/api/swagger/openapi.yml
+SPDXID: SPDXRef-item14571305
+FileChecksum: SHA1: f40ee1a944cbca04087591c815cfca8279dc974c
+FileChecksum: MD5: a433cbcbac888dc4d05531981dd5a429
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/ietf/ietf-yang-types@2013-07-15.yang
+SPDXID: SPDXRef-item14570867
+FileChecksum: SHA1: a5dddb337b2e712c9521533cac68d80cc308f03c
+FileChecksum: MD5: 0b888fed449f5a648859c2a2c4d9b567
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/ietf/ietf-network-topology-state@2018-02-26.yang
+SPDXID: SPDXRef-item14570868
+FileChecksum: SHA1: bcf5ae40b38444f893c9f9f0d09caa068d83fb86
+FileChecksum: MD5: 1786e147672f3884e9e76726fcc2e404
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/ietf/ietf-network-topology@2018-02-26.yang
+SPDXID: SPDXRef-item14570869
+FileChecksum: SHA1: f5d898a33b817a6fd0c63250a1158c6080fc443d
+FileChecksum: MD5: c2ac84a02f7cc8f50db3df7195dfe52a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/ietf/ietf-network-state@2018-02-26.yang
+SPDXID: SPDXRef-item14570865
+FileChecksum: SHA1: 46c41b929b47abad1a27a1bfc2fcec2cb6bf6a5c
+FileChecksum: MD5: 988c57320ad51ef64a44f737b1af5b70
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/ietf/ietf-network@2018-02-26.yang
+SPDXID: SPDXRef-item14570864
+FileChecksum: SHA1: cb9b029e1c987dd93bbe96a585bbc8270ee63ccb
+FileChecksum: MD5: db298a1d60b33631c486d5d320fa7a64
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/ietf/ietf-inet-types@2013-07-15.yang
+SPDXID: SPDXRef-item14570866
+FileChecksum: SHA1: bc7da32642357b219b8e15b5dcb976e072d31112
+FileChecksum: MD5: 52bbffc87aec9807a2f6d07fa9c24d57
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources-ietf-yang-types-rollback.sql
+SPDXID: SPDXRef-item14571175
+FileChecksum: SHA1: 6226ac107cf67fffce838632b5efb34d79ae3de2
+FileChecksum: MD5: e080641d6cf74965eb7102de547bce6e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources-ietf-inet-types-rollback.sql
+SPDXID: SPDXRef-item14571179
+FileChecksum: SHA1: 9837d8d7f494bef0d356f35cee039ed19f1be54f
+FileChecksum: MD5: d58b3c96ff32fe942066735c76794bf6
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/data/yang_resource.csv
+SPDXID: SPDXRef-item14571188
+FileChecksum: SHA1: f9a3bed2f21ce73db873c803ab0a9ae1c37df308
+FileChecksum: MD5: d3d83e6c338b3b18839728132e07e575
+LicenseConcluded: Apache-2.0 AND BSD-3-Clause
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright 2020-2021 IBM.
+Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources-ietf-inet-types-forward.sql
+SPDXID: SPDXRef-item14571168
+FileChecksum: SHA1: 587d34ce2d2e1ba8015150bada93d24b11b84cff
+FileChecksum: MD5: 2c482d7964fa1dc06406a7e320fbbe95
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources-ietf-yang-types-forward.sql
+SPDXID: SPDXRef-item14571172
+FileChecksum: SHA1: 68961d7572b33b525c6443631855fb8d12863ff1
+FileChecksum: MD5: 56cd810d74ab98c4e6b0638708678c5a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/yang/YangTextSchemaSourceSet.java
+SPDXID: SPDXRef-item14570906
+FileChecksum: SHA1: ad644387e50b9cf14e5db305f16b926d91f28063
+FileChecksum: MD5: e7b7cedb806678cec4f240d3d7ca89b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/e2e/basic/ran-network2020-08-06.yang
+SPDXID: SPDXRef-item14570858
+FileChecksum: SHA1: f3c0069397c753eaf9b7768d3fdcb4a9f9a30f39
+FileChecksum: MD5: 4dd7ec98068c92777080167be4379a54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/model/Anchor.java
+SPDXID: SPDXRef-item14570935
+FileChecksum: SHA1: cb53f92110719cea3cfbb7485b666b175c51065c
+FileChecksum: MD5: 4e209c0df2736f2d6fe8bb892cde91c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/CpsAdminException.java
+SPDXID: SPDXRef-item14570929
+FileChecksum: SHA1: 826003185158155934c053160a46c4aa183ce791
+FileChecksum: MD5: 034588637307a96c0497c5cf108feec5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/CpsException.java
+SPDXID: SPDXRef-item14570930
+FileChecksum: SHA1: 504642d7f7b400b5906e2b5dd1cae917e987a841
+FileChecksum: MD5: 93219773f3fccb2b232917657818948a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-application/src/main/java/org/onap/cps/Application.java
+SPDXID: SPDXRef-item14571029
+FileChecksum: SHA1: 54d6f5d8bb6fd7314bedf3a84a148d70045f3a7e
+FileChecksum: MD5: c876ca6902fc83e1d77a3496f94cc7e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/test/java/org/onap/cps/TestApplication.java
+SPDXID: SPDXRef-item14570807
+FileChecksum: SHA1: dc218a8b261d96afd1977897b9f5d9e084dac39a
+FileChecksum: MD5: 38e130caabfae3259b1aff529571a34a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/java/org/onap/cps/TestApplication.java
+SPDXID: SPDXRef-item14571070
+FileChecksum: SHA1: dc218a8b261d96afd1977897b9f5d9e084dac39a
+FileChecksum: MD5: 38e130caabfae3259b1aff529571a34a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/CpsModulePersistenceService.java
+SPDXID: SPDXRef-item14570915
+FileChecksum: SHA1: a18d8aa246136cb733cce956bb0e54d8da984604
+FileChecksum: MD5: fe9623c1bdb21c36e51567874ad2599d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/config/CacheConfig.java
+SPDXID: SPDXRef-item14570911
+FileChecksum: SHA1: 981d3078a125e2c44535b50b0e953b18b0fba6fa
+FileChecksum: MD5: 4e90c1ceee0082ec2c87bef8c2f4da0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/NotFoundInDataspaceException.java
+SPDXID: SPDXRef-item14570920
+FileChecksum: SHA1: ae5acb6e476fdf421850f6592349cdd7dedadb7d
+FileChecksum: MD5: 6d882813098c685dcfcd072c3bccdcae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/AnchorNotFoundException.java
+SPDXID: SPDXRef-item14570922
+FileChecksum: SHA1: a1684e1d5a86f09caab30ecbf7abaa9a1f90c207
+FileChecksum: MD5: cd853a21f9a326a3ac9200fa35ed2ffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/SchemaSetInUseException.java
+SPDXID: SPDXRef-item14570923
+FileChecksum: SHA1: ff856715e15ed3a3b4d267100dc2f540a1279640
+FileChecksum: MD5: c084814e89ca59cfbc9de1ddd792f8d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/SchemaSetNotFoundException.java
+SPDXID: SPDXRef-item14570924
+FileChecksum: SHA1: 6d58fd67d6fadc57602139717a14bad4035373b2
+FileChecksum: MD5: 1cdef502ee587719970c7571d34e9a6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/DataValidationException.java
+SPDXID: SPDXRef-item14570925
+FileChecksum: SHA1: d433b178f27eb8e711a7c0df9c7280ec691e39e6
+FileChecksum: MD5: 6bcf0488078099c577652ffa78c00a26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/DataInUseException.java
+SPDXID: SPDXRef-item14570927
+FileChecksum: SHA1: 2cd78902b8bff414fb3e53cfea0ebce8c171acfb
+FileChecksum: MD5: 754b4babea8982bba2f8dcd858aca981
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/DataspaceNotFoundException.java
+SPDXID: SPDXRef-item14570928
+FileChecksum: SHA1: 0d8e9210d5fd33a3f18b7df3b6f026de0ed9a26e
+FileChecksum: MD5: c5ab006b1044635cc77555623b730fe1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/model/ModuleReference.java
+SPDXID: SPDXRef-item14570936
+FileChecksum: SHA1: 380a7c480ae5efe8357cdd5402b4dca9f0ca0e18
+FileChecksum: MD5: 8a78aea12f543895e8332d70226a7676
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/CascadeDeleteAllowed.java
+SPDXID: SPDXRef-item14570931
+FileChecksum: SHA1: 776da1fa473db8112b19c17735505c300f165c5e
+FileChecksum: MD5: f03a25662412e2bc6d284c295ee97c07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/model/DataNode.java
+SPDXID: SPDXRef-item14570933
+FileChecksum: SHA1: 36ea3fa590cbcde7c22eebbb875e6ba4de26657e
+FileChecksum: MD5: 40514874658cb8f372f23d3bc9c1d4ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved.
+Copyright (C) 2021 Bell Canada. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/model/SchemaSet.java
+SPDXID: SPDXRef-item14570937
+FileChecksum: SHA1: 1dc3a8be4a1097ed485a7bbb5a36809c94b7fbd1
+FileChecksum: MD5: 101a15b034cfcc9f30b23098b1206cac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/ModelValidationException.java
+SPDXID: SPDXRef-item14570926
+FileChecksum: SHA1: 5770412ec59ec6e0e70ebc94ee1bba2d7397c82b
+FileChecksum: MD5: 227d52de147f8b63c255717d6f1e3a82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/checkstyle/src/main/resources/cps-java-style.xml
+SPDXID: SPDXRef-item14571001
+FileChecksum: SHA1: 5f8024a884a5aa43bf4741fb1d1d6331582a7b4c
+FileChecksum: MD5: 1b1cbd485261feaaa8abb67169d65978
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/CpsModuleService.java
+SPDXID: SPDXRef-item14570948
+FileChecksum: SHA1: 93674dd73caa67c9bad53c2535f0d5141b5e3887
+FileChecksum: MD5: 56d50ab76f62b4c3fe174a7c07b5b243
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/impl/YangTextSchemaSourceSetCache.java
+SPDXID: SPDXRef-item14570940
+FileChecksum: SHA1: df029069ac00f065086ea5de7a64c622538e1a81
+FileChecksum: MD5: fec5f7a8c2327d21563c49da2350c8e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/groovy/org/onap/cps/config/CpsConfigSpec.groovy
+SPDXID: SPDXRef-item14571086
+FileChecksum: SHA1: c63466d2de387b8a948e6c6eb92f6ce45c604848
+FileChecksum: MD5: 46f057cccc92adb2828780fc9f266196
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/entities/DataspaceEntity.java
+SPDXID: SPDXRef-item14571199
+FileChecksum: SHA1: b10ef8d9461cb0f2b7b6630d46bb80388bb32931
+FileChecksum: MD5: 28b675afc57340a4e1947fc5f5db5cda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/entities/YangResourceEntity.java
+SPDXID: SPDXRef-item14571200
+FileChecksum: SHA1: 6040ad9f0dc580939120ffce09aab0e8e7676ee2
+FileChecksum: MD5: 3f37e51492347b329756bcbf2e72237a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/entities/SchemaSetEntity.java
+SPDXID: SPDXRef-item14571196
+FileChecksum: SHA1: 500fba496ab63eb52ccfd32d562075d4e4295e14
+FileChecksum: MD5: ea97df091272ad9973fa1db453eb2a99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/entities/AnchorEntity.java
+SPDXID: SPDXRef-item14571198
+FileChecksum: SHA1: 468d3b154b570d7bfe8f88636631f29f8f5097d9
+FileChecksum: MD5: 90dddd38d2139962f8e2d8e00da1dc6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/repository/YangResourceRepository.java
+SPDXID: SPDXRef-item14571206
+FileChecksum: SHA1: 0a9bb9fbbbca53d25c9b733f3ec8556ec1d880b6
+FileChecksum: MD5: 26423377abd3230435cc70ba400fadb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/repository/SchemaSetRepository.java
+SPDXID: SPDXRef-item14571210
+FileChecksum: SHA1: c07092b44366d611fcaac3a75b9e8e9dcead7b75
+FileChecksum: MD5: 629c51b0033276db9a6cb18339c46d42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/repository/DataspaceRepository.java
+SPDXID: SPDXRef-item14571209
+FileChecksum: SHA1: 1fe7a605431331bbbf505c6a2f5200f9e2022e86
+FileChecksum: MD5: 30c84057bf17c8d9a7cd916a8688a8e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/repository/AnchorRepository.java
+SPDXID: SPDXRef-item14571208
+FileChecksum: SHA1: e33fc167cc7b45a2163d5aa4f9b5e1890961e489
+FileChecksum: MD5: f1a8d072b9ba3997ccb4b28fd066fc34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/utils/DataMapUtilsSpec.groovy
+SPDXID: SPDXRef-item14570884
+FileChecksum: SHA1: e2d8cfcfb843c63265f08b353114845ac4592ddb
+FileChecksum: MD5: 8d3f91079f12f29f68ef0375883b5aa1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/e2e/basic/cps-ran-inventory@2021-01-28.yang
+SPDXID: SPDXRef-item14570852
+FileChecksum: SHA1: 455b8b0f8fee505d38300eea422d482c67df9ece
+FileChecksum: MD5: 21214c2ca099d08f14f7d2951903a36c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020-2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/java/org/onap/cps/TestUtils.java
+SPDXID: SPDXRef-item14570876
+FileChecksum: SHA1: d18f1a2a26507ea6324193d17a6a9a01295ef46e
+FileChecksum: MD5: 490d24b7e457837902496049ce04ed55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/FetchDescendantsOption.java
+SPDXID: SPDXRef-item14570916
+FileChecksum: SHA1: dc5c42a115131e40c820b8a72e4fe6c5f528173d
+FileChecksum: MD5: f3311080108855b183c82496de23ecab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/impl/CpsQueryServiceImpl.java
+SPDXID: SPDXRef-item14570944
+FileChecksum: SHA1: 04e609d57b4ef2a362141fc775ce50826c1b7ab7
+FileChecksum: MD5: 2c1955128b630257750f20ce78c4573c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/e2e/basic/cps-cavsta-onap-internal2021-01-28.yang
+SPDXID: SPDXRef-item14570857
+FileChecksum: SHA1: bb2663af47bac973edabf765607de4a8d0f3f8b0
+FileChecksum: MD5: 649693af7d74a0521deb5a6d9edf640b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020-2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/CpsQueryService.java
+SPDXID: SPDXRef-item14570945
+FileChecksum: SHA1: 511cb989e8c59841c33cc9003bf9687f8f50c5a9
+FileChecksum: MD5: 8c82938e4b0039e0cf84321a2dbd7b95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/e2e/basic/cps-ran-schema-model@2021-01-28.yang
+SPDXID: SPDXRef-item14570856
+FileChecksum: SHA1: cfa85802248d14776074f09287bec9a4d99fd1ea
+FileChecksum: MD5: ec4df90a4582bd017cd523865dcb878c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020-2021 IBM. </text>
+ 
+
+##File
+
+FileName: cps/csit/data/yang-resources.zip/cps-ran-schema-model@2021-01-28.yang
+SPDXID: SPDXRef-item14570989
+FileChecksum: SHA1: cfa85802248d14776074f09287bec9a4d99fd1ea
+FileChecksum: MD5: ec4df90a4582bd017cd523865dcb878c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020-2021 IBM. </text>
+ 
+
+##File
+
+FileName: cps/csit/prepare-csit.sh
+SPDXID: SPDXRef-item14570965
+FileChecksum: SHA1: 6695fcbfd0b463b4f13367a38fc24c51cbd83f63
+FileChecksum: MD5: d25d8317c0bb50e5b8b1527b939dff07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019-2021 © Samsung Electronics Co., Ltd.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/csit/plans/default/teardown.sh
+SPDXID: SPDXRef-item14570970
+FileChecksum: SHA1: 0d2074c01e7745dbf9437a29b004f6fb958941ce
+FileChecksum: MD5: 0bf86850f6f8c28f748c100fc4f89bf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 Huawei Technologies Co., Ltd.
+copyright (c) 2017 AT&T Intellectual Property
+copyright (c) 2020 Samsung Electronics Co., Ltd.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/csit/run-csit.sh
+SPDXID: SPDXRef-item14570972
+FileChecksum: SHA1: f85ab9fe63cf42f33aa430f80bacf157dd4f4af0
+FileChecksum: MD5: f027c551d6829c9095bb70163573a05a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 Huawei Technologies Co., Ltd.
+Copyright 2019-2021 © Samsung Electronics Co., Ltd. </text>
+ 
+
+##File
+
+FileName: cps/csit/plans/default/setup.sh
+SPDXID: SPDXRef-item14570969
+FileChecksum: SHA1: 8f06c07cf5e179df01d1d32b4479f59dd3f0360c
+FileChecksum: MD5: 8f3239c9efd8f7602cacf55bec622dbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 Huawei Technologies Co., Ltd.
+copyright (c) 2017 AT&T Intellectual Property
+copyright (c) 2020-2021 Samsung Electronics Co., Ltd.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/csit/run-project-csit.sh
+SPDXID: SPDXRef-item14570981
+FileChecksum: SHA1: 5539010a3aa607cf43c3f92b63b86bf698a06d51
+FileChecksum: MD5: 15cb224e44399431df5496a2eceded30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020-2021 © Samsung Electronics Co., Ltd.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/main/java/org/onap/cps/rest/controller/QueryRestController.java
+SPDXID: SPDXRef-item14571096
+FileChecksum: SHA1: 6b75a725f1dfdcabac5562921e2eef73db9611c5
+FileChecksum: MD5: 8f6eda4e1ece6229232fb18fdc7fea9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/main/java/org/onap/cps/config/CpsConfig.java
+SPDXID: SPDXRef-item14571103
+FileChecksum: SHA1: 773c0569544fc600d5ad71ff16d3ecedb393b6a7
+FileChecksum: MD5: 3a8ffefc42422adb4a0bf4fbe4704b9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/test/groovy/org/onap/cps/temporal/controller/QueryControllerSpec.groovy
+SPDXID: SPDXRef-item14571265
+FileChecksum: SHA1: 5a4869a6eab88fafc25e8fb10d8b9fe3a89a0165
+FileChecksum: MD5: bd78a98553188cf35a980c197d298cbf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/java/org/onap/cps/temporal/controller/QueryController.java
+SPDXID: SPDXRef-item14571288
+FileChecksum: SHA1: f4f44fe7de92d0d878bd77d4997526271c47cfa5
+FileChecksum: MD5: 5df605541be063c9765ee3387be2916e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/java/org/onap/cps/temporal/Application.java
+SPDXID: SPDXRef-item14571292
+FileChecksum: SHA1: a392eef1fb033193a3d7c73f71b3dd7625dd5c95
+FileChecksum: MD5: 300089cc4c356ff56a6bae83c8b7ee1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-bom/pom.xml
+SPDXID: SPDXRef-item14571309
+FileChecksum: SHA1: 01a3eb8092589432c0a43e94b2a81d0754e0c8f0
+FileChecksum: MD5: 4514f72f098a1aaf0eb8ff63fa9df8c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Pantheon.tech. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-application/pom.xml
+SPDXID: SPDXRef-item14571321
+FileChecksum: SHA1: 5af93ddb33f8f6f37bab735d395a69cbfbabce6d
+FileChecksum: MD5: 16bb1810553153ab12eb4d634c452b45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Pantheon.tech. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-application/src/main/java/org/onap/cps/tbdmt/Application.java
+SPDXID: SPDXRef-item14571320
+FileChecksum: SHA1: 37baf1674c5d869f895caf5a52a2a2f8720f96db
+FileChecksum: MD5: 6fc80c638d5227b0b91e6f3119088fe0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/docker-compose/application.yml
+SPDXID: SPDXRef-item14571325
+FileChecksum: SHA1: 66f5709e028b8da0e20b39bd27d89a7f2c173f67
+FileChecksum: MD5: 6896012f99feeda3ce7bf5bee9612c2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-rest/src/test/java/org/onap/cps/tbdmt/rest/ExecutionControllerTest.java
+SPDXID: SPDXRef-item14571336
+FileChecksum: SHA1: 17efb11ed3b27ee5c68f58e70074ae8c7e0dc343
+FileChecksum: MD5: 1272284f17561f999f1a3f8a9b40326d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-rest/src/test/java/org/onap/cps/tbdmt/TestApplication.java
+SPDXID: SPDXRef-item14571338
+FileChecksum: SHA1: 73aa709ab4d9afa864f25018e36f52c281d688cf
+FileChecksum: MD5: 52cbce4198a46c8564c2e283d256aa36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/docker-compose/docker-compose.yml
+SPDXID: SPDXRef-item14571326
+FileChecksum: SHA1: 006d5dde58fd0c60b935c5796bcec35d82a1dc8d
+FileChecksum: MD5: f816c99f3c4e1afccf6aff5165962325
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-rest/pom.xml
+SPDXID: SPDXRef-item14571354
+FileChecksum: SHA1: 48e3f8bddfc385ef003bd40c01325b9c36a1c960
+FileChecksum: MD5: f0b68f7ee0dc5c8908ed97418ba0cabe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Pantheon.tech. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-rest/src/main/java/org/onap/cps/tbdmt/rest/ExecutionController.java
+SPDXID: SPDXRef-item14571346
+FileChecksum: SHA1: b2397bfa2ca814e478032d5a5cd86733fa4c3050
+FileChecksum: MD5: cada33638c8f74b556cf747610531ebb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/pom.xml
+SPDXID: SPDXRef-item14571356
+FileChecksum: SHA1: 41aba68a19d0b711909b3943590d2bf78f0dcfff
+FileChecksum: MD5: 8d96b71e43d4e3c693093c8148c5a02d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Pantheon.tech. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-rest/src/main/java/org/onap/cps/tbdmt/exception/TemplateExceptionHandler.java
+SPDXID: SPDXRef-item14571349
+FileChecksum: SHA1: ce345b261a8c44e133e1bc3922f8e72638800f64
+FileChecksum: MD5: 44fcbad59a2d9bd664d2d53367f2cc95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-rest/src/main/java/org/onap/cps/tbdmt/rest/TemplateController.java
+SPDXID: SPDXRef-item14571347
+FileChecksum: SHA1: 7eacea6c5fff2d6c0a58992693530f0de3bfc112
+FileChecksum: MD5: e33085efbec5090bcb4aee9cbba79830
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/exception/ExecuteException.java
+SPDXID: SPDXRef-item14571389
+FileChecksum: SHA1: 0dbcabee6ee1322b41cd269ca552e38a651e7faf
+FileChecksum: MD5: db4949ba2bee21fd2b660bd562b6f8ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/exception/CpsClientException.java
+SPDXID: SPDXRef-item14571390
+FileChecksum: SHA1: 9f2dc9e94e8a581aafe6c7f623773d863107cbed
+FileChecksum: MD5: 8a8f94cc0ca147ce3c99c95b48ac8172
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/exception/TemplateNotFoundException.java
+SPDXID: SPDXRef-item14571391
+FileChecksum: SHA1: 39e24da77b7d7507f228b243efdc6265d4c45654
+FileChecksum: MD5: 5e42149e1d3702d33ea751ade124349c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/test/java/org/onap/cps/tbdmt/model/ModelTest.java
+SPDXID: SPDXRef-item14571376
+FileChecksum: SHA1: 5bd2569f9c11e70a3b4cc4de32a9745ae7417736
+FileChecksum: MD5: 791f82ef7298eee1b05188ddabbdfb9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/db/TemplateRepository.java
+SPDXID: SPDXRef-item14571393
+FileChecksum: SHA1: de56d9d89c7eb3465b1a09bac19651b837095da7
+FileChecksum: MD5: 643e412a78d88213300ed6ef01089ef3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/pom.xml
+SPDXID: SPDXRef-item14571401
+FileChecksum: SHA1: d877caf218e24008cd7387e70b597741ee3ad462
+FileChecksum: MD5: 68d20c5d4b03bbaeefce1d2d32d5ab44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech.
+Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/model/AppConfiguration.java
+SPDXID: SPDXRef-item14571395
+FileChecksum: SHA1: 9c27f3f6c4d072085a26af3524a1d6c93eb75374
+FileChecksum: MD5: 6fce7d576fdd5e7ae60bf708d036f573
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/model/TemplateKey.java
+SPDXID: SPDXRef-item14571397
+FileChecksum: SHA1: 877bfa64952cf9461027b598930abe9668df7691
+FileChecksum: MD5: 49710abc8c6197fe9276e77b7dc98d2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/model/ExecutionRequest.java
+SPDXID: SPDXRef-item14571399
+FileChecksum: SHA1: 67bd8a8109eb253990c05494485c9fe8f60444a6
+FileChecksum: MD5: 8670a34b463cec09ceb829c806c0638a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps/cps-application/src/test/groovy/org/onap/cps/rest/controller/ControllerSecuritySpec.groovy
+SPDXID: SPDXRef-item14571021
+FileChecksum: SHA1: a0b30aabb0f57f880206bbe45f632de08329297c
+FileChecksum: MD5: 29c6bfd45ba3eaf3f264f2e773e573a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/model/ErrorResponse.java
+SPDXID: SPDXRef-item14571396
+FileChecksum: SHA1: 65010c1455dd310c3f414d092536616056eb01c1
+FileChecksum: MD5: 9c441d249fc75bae323bccafb27091d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/entities/FragmentEntity.java
+SPDXID: SPDXRef-item14571197
+FileChecksum: SHA1: cccd90fabfa60e6bef73f3f040cc82d9a4454ffa
+FileChecksum: MD5: 01a8792760f2b4f36cb8346ef78e2906
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-application/src/test/java/org/onap/cps/rest/controller/TestController.java
+SPDXID: SPDXRef-item14571014
+FileChecksum: SHA1: 132e08a349812f764a323f1186c7e00ff58fcb05
+FileChecksum: MD5: 174843d1309472d853dc83c3352880e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/06-delete-not-required-fragment-index.yaml
+SPDXID: SPDXRef-item14571180
+FileChecksum: SHA1: e3fc4a4184667a60e9a3fdd8fe7378e71b103359
+FileChecksum: MD5: 9bde2229bc02ea1f8e96f42842ad3640
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/test/groovy/org/onap/cps/ncmp/config/NetworkCmProxyConfigSpec.groovy
+SPDXID: SPDXRef-item14570819
+FileChecksum: SHA1: 663e97d9a0514721839564ff6a5a13d322d12406
+FileChecksum: MD5: ee823652c1b2bc7cc0bdf2dd6619e494
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 highstreet technologies GmbH
+Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/test/groovy/org/onap/cps/ncmp/rest/exceptions/NetworkCmProxyRestExceptionHandlerSpec.groovy
+SPDXID: SPDXRef-item14570817
+FileChecksum: SHA1: 35c2cff9b901749b6c78ff21e49cf39e57b9b580
+FileChecksum: MD5: 86054485f00acbe20a22726bd434db32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 highstreet technologies GmbH
+Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/pom.xml
+SPDXID: SPDXRef-item14570840
+FileChecksum: SHA1: 3a4a7d0bdd4a3e725044ce1fbf3e280541560a60
+FileChecksum: MD5: 31e57ea8aa9c3082f0591c58a4fd1e94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/test/resources/application.yml
+SPDXID: SPDXRef-item14570802
+FileChecksum: SHA1: 2fe0ac1ddcf7b128e37bac209263ce5a72c9362f
+FileChecksum: MD5: e9bb51a1928418f73392f59915390bd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/api/impl/E2ENetworkSliceSpec.groovy
+SPDXID: SPDXRef-item14570890
+FileChecksum: SHA1: 1a838cbda4df73c43fc30fb5e4e770800ee10156
+FileChecksum: MD5: 06d75571532b41c4d88e7d97ec732054
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/main/java/org/onap/cps/ncmp/config/NetworkCmProxyConfig.java
+SPDXID: SPDXRef-item14570834
+FileChecksum: SHA1: 13436388b3331bd6775bc668a4310fd318142808
+FileChecksum: MD5: 642697d1de3b6ec004972b3dbb130c97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/utils/YangUtilsSpec.groovy
+SPDXID: SPDXRef-item14570883
+FileChecksum: SHA1: b0d025f8651bd0e83870188911cedb31989da2e6
+FileChecksum: MD5: 1568875ec3b8398d0aab616d5336e024
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/api/impl/CpsAdminServiceImplSpec.groovy
+SPDXID: SPDXRef-item14570892
+FileChecksum: SHA1: 607fcf6c5b9edb3a25f7a96c2e88581dce842d12
+FileChecksum: MD5: eba43fc212b2e5f6e446ee35c37a2609
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/api/impl/CpsQueryServiceImplSpec.groovy
+SPDXID: SPDXRef-item14570894
+FileChecksum: SHA1: d6d985063ef982961a2972a1e5e571c6aa809277
+FileChecksum: MD5: 763efcfa1c39bf4db13d7960b83a0d82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/main/java/org/onap/cps/ncmp/rest/exceptions/NetworkCmProxyRestExceptionHandler.java
+SPDXID: SPDXRef-item14570832
+FileChecksum: SHA1: ac51ae886108107b56f998bc30955c519ec27609
+FileChecksum: MD5: 477e635d0b72dabd9bb637da261776b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/model/DataNodeBuilderSpec.groovy
+SPDXID: SPDXRef-item14570896
+FileChecksum: SHA1: ba60a706949421859b71bbe220199c46c1306a5d
+FileChecksum: MD5: 2f40a7176151db4943bc4a9ea823cf54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/utils/YangUtils.java
+SPDXID: SPDXRef-item14570908
+FileChecksum: SHA1: 712bd6526d1439e73d7187515e56f80549d13e88
+FileChecksum: MD5: 6a0809c22eb2b28a32160f3499228e15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020-2021 Nordix Foundation
+Copyright (C) 2021 Bell Canada. All rights reserved.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/CpsAdminPersistenceService.java
+SPDXID: SPDXRef-item14570913
+FileChecksum: SHA1: d41565464149b0ece7f3c730a55bb11a2647d7af
+FileChecksum: MD5: 3a8a5c15690140df0fabe1a8f2ae9426
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. All rights reserved.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/utils/DataMapUtils.java
+SPDXID: SPDXRef-item14570909
+FileChecksum: SHA1: 6147081bbc208a04ef9c3e1e029dcc134e91f9b1
+FileChecksum: MD5: 74f7a1ef4bb78d20065962b06792b88e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-bom/pom.xml
+SPDXID: SPDXRef-item14570952
+FileChecksum: SHA1: 761b3bc8f465fcef4ff10a2d162649732a930170
+FileChecksum: MD5: a6aa036a693c24895b9c1b45aa7b1759
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/impl/CpsAdminServiceImpl.java
+SPDXID: SPDXRef-item14570941
+FileChecksum: SHA1: de22e3bfb76a631274f0ac9545c8021800d90d58
+FileChecksum: MD5: 7ec07b7669b44911c405e48372a13a0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/impl/CpsModuleServiceImpl.java
+SPDXID: SPDXRef-item14570942
+FileChecksum: SHA1: fdfae66727e232b79bde2d0e05d597955f64aa65
+FileChecksum: MD5: 84a5440647c3ca8a8907cdd98054124f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/CpsAdminService.java
+SPDXID: SPDXRef-item14570946
+FileChecksum: SHA1: ff97729a535e6e8528bcff2d38a368bc1db3a29d
+FileChecksum: MD5: eb81157172d197a28da4dddd4d5e8332
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/DataNodeNotFoundException.java
+SPDXID: SPDXRef-item14570921
+FileChecksum: SHA1: bae34a796a16b53dc9f305a039031a082064f9f7
+FileChecksum: MD5: 9a4e458f479e2e7567f4fbcaed112d4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/model/DataNodeBuilder.java
+SPDXID: SPDXRef-item14570934
+FileChecksum: SHA1: eb477d544c62e0a81fc543d66336cf9bc597e8d2
+FileChecksum: MD5: 1122b4528b701fd72e8859fefdcbff81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada. All rights reserved.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/groovy/org/onap/cps/rest/controller/QueryRestControllerSpec.groovy
+SPDXID: SPDXRef-item14571077
+FileChecksum: SHA1: f47aafede28f5fd7ca05df576a4ed32bad1195cd
+FileChecksum: MD5: 51cf99d70e2ce3625cce9658b4e39aa3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/groovy/org/onap/cps/rest/controller/AdminRestControllerSpec.groovy
+SPDXID: SPDXRef-item14571078
+FileChecksum: SHA1: a67a97fc8d98c5fc7ecd0650cf39c84251c66f32
+FileChecksum: MD5: 68a5d6d586872de3eec5c1d1780d2b7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020, 2021 Bell Canada. All rights reserved.
+Copyright (C) 2020-2021 Pantheon.tech
+Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/groovy/org/onap/cps/rest/utils/ZipFileSizeValidatorSpec.groovy
+SPDXID: SPDXRef-item14571081
+FileChecksum: SHA1: b5f8422554ca61ef0659154e650edce04a38f7ed
+FileChecksum: MD5: 6957099336112f663c5b53956b03ccba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/groovy/org/onap/cps/rest/utils/MultipartFileUtilSpec.groovy
+SPDXID: SPDXRef-item14571082
+FileChecksum: SHA1: 93070ae6114aac1c1cacd966ae2318fb21abc74e
+FileChecksum: MD5: 97217bf4f618384c72a1b4a91ec3b7a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-application/src/main/resources/application.yml
+SPDXID: SPDXRef-item14571024
+FileChecksum: SHA1: 84dfade68e9db0d86f9ae2ee73f06042c533aac8
+FileChecksum: MD5: afffd73c81bfef066ac383e7bd758329
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-application/src/main/java/org/onap/cps/config/WebSecurityConfig.java
+SPDXID: SPDXRef-item14571031
+FileChecksum: SHA1: 3ed8a840c1bc73226d27f81485b81db634fa7fc3
+FileChecksum: MD5: 0a1d50796e4d42034b022e1047c84865
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-service/pom.xml
+SPDXID: SPDXRef-item14571132
+FileChecksum: SHA1: bc8533233ce35b0b93ebdc8c776c469f8b7cdfd4
+FileChecksum: MD5: 02f3a1ea3dcb4fe126913eff5c25714a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/main/java/org/onap/cps/rest/utils/MultipartFileUtil.java
+SPDXID: SPDXRef-item14571098
+FileChecksum: SHA1: 7acffd219ebed872ac5faf9aaf48499a4aea5c32
+FileChecksum: MD5: f4e1f149c24f92967b08711ab6d71cdb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech
+Copyright (C) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/main/java/org/onap/cps/rest/utils/ZipFileSizeValidator.java
+SPDXID: SPDXRef-item14571099
+FileChecksum: SHA1: 86f55c5ec6213339f676d8be9182bea1231353b2
+FileChecksum: MD5: b103f1d7310422b09b3e022bf58b3a05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/main/java/org/onap/cps/rest/controller/AdminRestController.java
+SPDXID: SPDXRef-item14571094
+FileChecksum: SHA1: e2217d99f342bcbec798d81fd6c6315063f0ee7b
+FileChecksum: MD5: 49700f5682fa249d60cd9cadc22f2fc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/groovy/org/onap/cps/spi/impl/CpsAdminPersistenceServiceSpec.groovy
+SPDXID: SPDXRef-item14571157
+FileChecksum: SHA1: b1b4fcaf9427fa6260143e68fe2ee08a56b6ba8c
+FileChecksum: MD5: ced5363bf91acc450bbddd95c616dfa4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/groovy/org/onap/cps/spi/impl/CpsModulePersistenceServiceSpec.groovy
+SPDXID: SPDXRef-item14571161
+FileChecksum: SHA1: e2e9a125e866ba1447a83c5adb7aee5947d603df
+FileChecksum: MD5: 5c3521b55a3c6d1696659ad5e4a25167
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/java/org/onap/cps/DatabaseTestContainer.java
+SPDXID: SPDXRef-item14571149
+FileChecksum: SHA1: 7795d11cde54cb04e2d299ccaafef84cbbe09cbc
+FileChecksum: MD5: 784ef1ca7e22f817fcb952fdbb007970
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/impl/CpsModulePersistenceServiceImpl.java
+SPDXID: SPDXRef-item14571204
+FileChecksum: SHA1: c51f748443dd2947aff14411bdc9ad5433aa321e
+FileChecksum: MD5: 44ab8189f70ecd29c8a363a8af81aa25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/impl/CpsAdminPersistenceServiceImpl.java
+SPDXID: SPDXRef-item14571202
+FileChecksum: SHA1: 6026f8cfdc49afd4851403cb19940a74acc85e08
+FileChecksum: MD5: 958e58bc0ae714ac863af9eaa06320e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. All rights reserved.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/repository/FragmentRepository.java
+SPDXID: SPDXRef-item14571207
+FileChecksum: SHA1: 7cc046bb7f04f594eb72c0d6d1dc5332d1c55189
+FileChecksum: MD5: 52c6fada9b863d440ff7a2c2a067f523
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020-201 Nordix Foundation. All rights reserved.
+Copyright (C) 2020-2021 Bell Canada. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/resources/db/changelog/schema/01-init-schema.xml
+SPDXID: SPDXRef-item14571278
+FileChecksum: SHA1: 2771d1ff34caeaf5a7f8f5fe60c558e38f35bd8c
+FileChecksum: MD5: 03007acd5ff994e898696a81693b5ff4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/resources/db/changelog/data/02-init-data.xml
+SPDXID: SPDXRef-item14571280
+FileChecksum: SHA1: a13c0bbe867d64b7c01668f67770051d5a689317
+FileChecksum: MD5: 556e3b56c6a4e29adf9f6b8701d8d2ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-dependencies/pom.xml
+SPDXID: SPDXRef-item14571358
+FileChecksum: SHA1: 379b6deeadbe168b9c15802256a7b1760a7b6fff
+FileChecksum: MD5: d94183fa48abffafdb80caf8bc2055c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Pantheon.tech. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-rest/src/test/java/org/onap/cps/tbdmt/rest/TemplateControllerTest.java
+SPDXID: SPDXRef-item14571337
+FileChecksum: SHA1: 427458ee10c93135eafc9a1dc2594f643dac790f
+FileChecksum: MD5: 8330d9ad243e97e76ab7ed8e7f8f90f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/test/java/org/onap/cps/tbdmt/client/CpsRestClientTest.java
+SPDXID: SPDXRef-item14571371
+FileChecksum: SHA1: afa83a3233c313b9fcf4cc5908efd0b50f947c1e
+FileChecksum: MD5: d7cd88baef0bf818e2a43dc60337210d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/test/java/org/onap/cps/tbdmt/service/TemplateBusinessLogicTest.java
+SPDXID: SPDXRef-item14571373
+FileChecksum: SHA1: 042a00eb6931687146c941658b36ded244d4a306
+FileChecksum: MD5: 3a7e4bff26b8472c92ac60d6601e2c08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/test/java/org/onap/cps/tbdmt/service/ExecutionBusinessLogicTest.java
+SPDXID: SPDXRef-item14571374
+FileChecksum: SHA1: 7f81a142510d7b884c1d1e6de6a1bf42876610ed
+FileChecksum: MD5: bb7551af860f31ad10ac99628ca2755d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/client/CpsRestClient.java
+SPDXID: SPDXRef-item14571384
+FileChecksum: SHA1: 275ed533f88c77933e774fe7f38f626924bd4482
+FileChecksum: MD5: 15d0dbac24be4869d1cb7b510c6fbe70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/model/TemplateRequest.java
+SPDXID: SPDXRef-item14571398
+FileChecksum: SHA1: f71b6ff0e0eaa44fed8d1306bc3bc64341881c9f
+FileChecksum: MD5: 6d9dea5dcb839a7db6730ed22f37fdb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps/cps-path-parser/src/test/groovy/org/onap/cps/cpspath/parser/CpsPathQuerySpec.groovy
+SPDXID: SPDXRef-item14570776
+FileChecksum: SHA1: 639b6a6fabac3dbda95e537be7f18af3f5b61078
+FileChecksum: MD5: 7c2632b387b869bff3985fd3fd57bb47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/service/ExecutionBusinessLogic.java
+SPDXID: SPDXRef-item14571387
+FileChecksum: SHA1: 1f2922352b86a9cd2b4ce54217ba5ba692f02bee
+FileChecksum: MD5: cc987c7860e86082fa32d6f19db8f4b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/service/TemplateBusinessLogic.java
+SPDXID: SPDXRef-item14571386
+FileChecksum: SHA1: dff175538e7493788cb16cd8ea62561ed5eccb25
+FileChecksum: MD5: 5d9ea846eafb046c6f2e7ee7f1a6decd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/main/java/org/onap/cps/tbdmt/model/Template.java
+SPDXID: SPDXRef-item14571400
+FileChecksum: SHA1: 04ad717e20577038c609aab377ff277d37411b23
+FileChecksum: MD5: df65a958986a93da28713106b3961634
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wipro Limited. </text>
+ 
+
+##File
+
+FileName: cps/cps-path-parser/pom.xml
+SPDXID: SPDXRef-item14570795
+FileChecksum: SHA1: 0f6b9fbb54389715640df348fd1c1be46eadf3ee
+FileChecksum: MD5: 69bbe2d75bd73f068e0736c08a1c8250
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Linux Foundation. </text>
+ 
+
+##File
+
+FileName: cps/cps-path-parser/src/main/java/org/onap/cps/cpspath/parser/CpsPathQuery.java
+SPDXID: SPDXRef-item14570785
+FileChecksum: SHA1: 4bf16637f2b939c8eeb6a46249771c4d5a75d2da
+FileChecksum: MD5: 9a6984546cf6659bece0d16a8bbd1a3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-path-parser/src/main/java/org/onap/cps/cpspath/parser/CpsPathQueryType.java
+SPDXID: SPDXRef-item14570786
+FileChecksum: SHA1: a8984e679e44d80ce3b316f5416d017c52837d72
+FileChecksum: MD5: 3da8d2d8f39b946d9c354b899031708d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020-2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/test/groovy/org/onap/cps/ncmp/rest/controller/NetworkCmProxyControllerSpec.groovy
+SPDXID: SPDXRef-item14570815
+FileChecksum: SHA1: fbfffc9fb75e5607ab94e322b07d109bb94872ae
+FileChecksum: MD5: 42d6a7c4a1a646e0d511c31ec9b6386f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 highstreet technologies GmbH
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-path-parser/src/main/java/org/onap/cps/cpspath/parser/CpsPathBuilder.java
+SPDXID: SPDXRef-item14570784
+FileChecksum: SHA1: 7abfe052a6e82bf01c52878f71fc24f670bfd527
+FileChecksum: MD5: 14f35f3cb50f16d176f236898cd635e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-path-parser/src/main/antlr4/org/onap/cps/cpspath/parser/antlr4/CpsPath.g4
+SPDXID: SPDXRef-item14570794
+FileChecksum: SHA1: 1d3a23d7908c6a6bdfdab8c3db02b50a482ffabd
+FileChecksum: MD5: adb461640edd3d9fb7e27fb53a7d8312
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/utils/YangTextSchemaSourceSetSpec.groovy
+SPDXID: SPDXRef-item14570882
+FileChecksum: SHA1: e01efe69263b99cd574b4bbb11aa774bbfed7925
+FileChecksum: MD5: d654de18e5525357167f4eebdb75c81d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/spi/exceptions/CpsExceptionsSpec.groovy
+SPDXID: SPDXRef-item14570887
+FileChecksum: SHA1: c740d7989a0dc61aee197237275f62719e817ec2
+FileChecksum: MD5: 36829c7bb9b6578901275224419123a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/docs/openapi/components.yaml
+SPDXID: SPDXRef-item14570837
+FileChecksum: SHA1: 1a9eee5cb156603c430ab82b3f53dee6983125b5
+FileChecksum: MD5: 1e5404703b7ff0796252f2c8d8406e4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/api/impl/CpsModuleServiceImplSpec.groovy
+SPDXID: SPDXRef-item14570891
+FileChecksum: SHA1: 9b0058ae613aae45e2637a827c9b24dcf6cba2ad
+FileChecksum: MD5: dd3a98b5dbb76e02fadaa4a7d720243d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/docs/openapi/ncmproxy.yml
+SPDXID: SPDXRef-item14570838
+FileChecksum: SHA1: 26e9dd61f25c7e24d21efb2b171b6bb6264a8f41
+FileChecksum: MD5: 6a6e30aa88778e46301299be2b7609e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation
+(C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/groovy/org/onap/cps/api/impl/CpsDataServiceImplSpec.groovy
+SPDXID: SPDXRef-item14570893
+FileChecksum: SHA1: 5b67766bac7532e4f0455c1bd71c2852273e4973
+FileChecksum: MD5: 69959b50862c0b44a78d689e7bb94e40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/main/java/org/onap/cps/ncmp/rest/controller/NetworkCmProxyController.java
+SPDXID: SPDXRef-item14570830
+FileChecksum: SHA1: 14578e3573b249012e3160dfed504c45b2647292
+FileChecksum: MD5: 73e083a982cc9f277d0beb95df58002d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation
+Copyright (C) 2021 highstreet technologies GmbH
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/docs/openapi/openapi.yml
+SPDXID: SPDXRef-item14570839
+FileChecksum: SHA1: 5a1f79c7a24d95b3d95e3c491231796cb2bdacb7
+FileChecksum: MD5: 20cad8573880119a268c80ca8941fab2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/yang/YangTextSchemaSourceSetBuilder.java
+SPDXID: SPDXRef-item14570905
+FileChecksum: SHA1: 5a7256dbff4bd843f2f4d2110d3073d6c91cb2b2
+FileChecksum: MD5: 0c21d561bd12dde3870f6ec197192398
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/CpsPathException.java
+SPDXID: SPDXRef-item14570918
+FileChecksum: SHA1: 1ab3c19526848f2cf36ed4b0f007926446475a3f
+FileChecksum: MD5: f1c9937fa1e02b472d896b8779793b2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-dependencies/pom.xml
+SPDXID: SPDXRef-item14570954
+FileChecksum: SHA1: 105352df050cfd1955019f2f20a5024d3330eeb1
+FileChecksum: MD5: d32e419ab02975481f6b54e87c5774d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Linux Foundation. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/CpsDataPersistenceService.java
+SPDXID: SPDXRef-item14570914
+FileChecksum: SHA1: c557d40a70d2cf5728da1c305b4b549fa9badad4
+FileChecksum: MD5: 764203f699fc040f6e76797a1d757341
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/spi/exceptions/AlreadyDefinedException.java
+SPDXID: SPDXRef-item14570919
+FileChecksum: SHA1: 51260e8c9b267bfd51f382f5f648a6fbce6ba83a
+FileChecksum: MD5: 2f03096ba9c45705501719bb3dbbf7f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/impl/CpsDataServiceImpl.java
+SPDXID: SPDXRef-item14570943
+FileChecksum: SHA1: fb2e3b8e727ef9205984d21a40e2abef9285298c
+FileChecksum: MD5: dad62fde12c5766cb3a9a96dd4479c5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/docker-compose/docker-compose.yml
+SPDXID: SPDXRef-item14570963
+FileChecksum: SHA1: cadd74cbe61a07dbcb05bb51b839743b22072f0a
+FileChecksum: MD5: 6005bba216f63273e90385dffa679ca0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation
+Copyright (c) 2020 Pantheon.tech.
+Copyright (C) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/java/org/onap/cps/api/CpsDataService.java
+SPDXID: SPDXRef-item14570947
+FileChecksum: SHA1: 671ca3ba2da7e987309867b881ce9a7a2f6d1bbe
+FileChecksum: MD5: f569e48226acee669e840f5e488e5566
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-application/pom.xml
+SPDXID: SPDXRef-item14571032
+FileChecksum: SHA1: b012d9716fbace95da177a8882c525e15f9561d9
+FileChecksum: MD5: d9775db6156311a97cf120ec5e0015da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation
+Copyright (c) 2021 Pantheon.tech. </text>
+ 
+
+##File
+
+FileName: cps/cps-parent/pom.xml
+SPDXID: SPDXRef-item14571035
+FileChecksum: SHA1: f7a4433505bfff46a8cd38a8c45d96731b6ff743
+FileChecksum: MD5: a1f5dc41ca4e758170a4afe25ac16a62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation.
+Copyright (c) 2021 Pantheon.tech. </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/groovy/org/onap/cps/rest/controller/DataRestControllerSpec.groovy
+SPDXID: SPDXRef-item14571079
+FileChecksum: SHA1: 0302267f4ff2a168cb12a9596ff486823c6e552c
+FileChecksum: MD5: acc1b98455c1b686f9a6e0ed300892ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/groovy/org/onap/cps/rest/exceptions/CpsRestExceptionHandlerSpec.groovy
+SPDXID: SPDXRef-item14571084
+FileChecksum: SHA1: b851de431e7474f6b1ea2fac5564e3671bff2dcb
+FileChecksum: MD5: b272f5cc2bb43cce85c8f936e4ac8a7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech
+Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/main/java/org/onap/cps/rest/controller/DataRestController.java
+SPDXID: SPDXRef-item14571095
+FileChecksum: SHA1: 87d8260adaf8118795566251e34ca235aba0de54
+FileChecksum: MD5: deca8b7d5368466e20e852019be64310
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) 2021 Nordix Foundation
+Copyright (C) 2020 Bell Canada. All rights reserved.
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-service/src/test/groovy/org/onap/cps/api/impl/NetworkCmProxyDataServiceImplSpec.groovy
+SPDXID: SPDXRef-item14571121
+FileChecksum: SHA1: d03cb001fd90ebcda3e1c0422ba7afb897a92332
+FileChecksum: MD5: bcbcc396c82652058dea2db63103451e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/main/java/org/onap/cps/rest/exceptions/CpsRestExceptionHandler.java
+SPDXID: SPDXRef-item14571101
+FileChecksum: SHA1: 3dab03dc5fab951e910c4bae01a3daa007713f6d
+FileChecksum: MD5: ad87749515155709bc048c14cbd3b459
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech
+Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-service/src/main/java/org/onap/cps/ncmp/api/impl/NetworkCmProxyDataServiceImpl.java
+SPDXID: SPDXRef-item14571130
+FileChecksum: SHA1: 18ae287baa893e664317cc46b8ebccaed68fac06
+FileChecksum: MD5: 42e49f60865b0e04807d4b983322ac12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 highstreet technologies GmbH
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/pom.xml
+SPDXID: SPDXRef-item14571111
+FileChecksum: SHA1: 56c47a42b057b48506320fb3d037e025c178bd9c
+FileChecksum: MD5: 4252dbf862988e415e31c723901d41aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Linux Foundation.
+Copyright (C) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-ncmp-service/src/main/java/org/onap/cps/ncmp/api/NetworkCmProxyDataService.java
+SPDXID: SPDXRef-item14571131
+FileChecksum: SHA1: b8e6b23c2433672c535faf51afc7eba91e34d725
+FileChecksum: MD5: 5add1a82b95d89f77afff54eda24ce08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 highstreet technologies GmbH
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/groovy/org/onap/cps/spi/impl/CpsPersistenceSpecBase.groovy
+SPDXID: SPDXRef-item14571158
+FileChecksum: SHA1: b1941f62e7325ff31e4b54f2c191aff737631045
+FileChecksum: MD5: cf52aaf44703398eee56fe12ba6853be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/java/org/onap/cps/TestApplication.java
+SPDXID: SPDXRef-item14571150
+FileChecksum: SHA1: 55bacfc792c17f57608ba81a6ed1495127f9501c
+FileChecksum: MD5: 200deb26061a7019379321860c56d568
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Pantheon.tech
+Copyright (C) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/groovy/org/onap/cps/spi/impl/CpsDataPersistenceQueryDataNodeSpec.groovy
+SPDXID: SPDXRef-item14571159
+FileChecksum: SHA1: 2c56b088c2013ca9657141e5a1145805f603f7ad
+FileChecksum: MD5: 55ed2cf3cc2336590cd0eea16e92e767
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/groovy/org/onap/cps/spi/impl/CpsDataPersistenceServiceSpec.groovy
+SPDXID: SPDXRef-item14571160
+FileChecksum: SHA1: f3565d553915ca3c170a239616bf7b03e2bade63
+FileChecksum: MD5: 37d4dbbfac42464c3eb8f27ebd233405
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources-cps-ran-model-rollback.sql
+SPDXID: SPDXRef-item14571177
+FileChecksum: SHA1: af002b203535c9f6cd5afd3c99ad84b47437d07b
+FileChecksum: MD5: 573c17d59824c67f7d6ec7aa66fee504
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020-2021 IBM. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources-cps-ran-model-forward.sql
+SPDXID: SPDXRef-item14571170
+FileChecksum: SHA1: 31452cebe2a2120085354ef394db926685e6141f
+FileChecksum: MD5: 9b82dbedef609162fa8958c286ab3566
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020-2021 IBM. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources.yaml
+SPDXID: SPDXRef-item14571181
+FileChecksum: SHA1: 452c173cf4b281425113a3acf43111d18a56209e
+FileChecksum: MD5: d4f6d4a3abfb91a4c3b999905c1c8963
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/changelog-master.yaml
+SPDXID: SPDXRef-item14571189
+FileChecksum: SHA1: a53d9087cb323d6a093bb22004db2216775ce56a
+FileChecksum: MD5: f1ead87f85d82817c1159fade933613f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/java/org/onap/cps/spi/impl/CpsDataPersistenceServiceImpl.java
+SPDXID: SPDXRef-item14571203
+FileChecksum: SHA1: 3f9f0635e2b3727c71bb3eba7697791eaf98338c
+FileChecksum: MD5: 22bcc87a8e43c5f96f39d5265d231ad0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020-2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation
+Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/pom.xml
+SPDXID: SPDXRef-item14571235
+FileChecksum: SHA1: b3d965be584e297e811821cf94db301407ee9a43
+FileChecksum: MD5: 99eda10441da5b24854b145879ed85b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Linux Foundation.
+Copyright (C) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/test/groovy/org/onap/cps/temporal/service/NetworkDataServiceImplSpec.groovy
+SPDXID: SPDXRef-item14571267
+FileChecksum: SHA1: 3a43996c6c152c9fa4b53739082b6c1d730bc29a
+FileChecksum: MD5: cff68908603ec50c6fb32611905101fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/test/resources/application.yml
+SPDXID: SPDXRef-item14571247
+FileChecksum: SHA1: d988d34972b87308ae4d4e7e7a6cf21f755ec209
+FileChecksum: MD5: 3c8a96d19d6cf75640790306f7baa947
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/test/java/org/onap/cps/temporal/architecture/DependencyArchitectureTest.java
+SPDXID: SPDXRef-item14571255
+FileChecksum: SHA1: 76fca90afc09c6421fc9c6bae7f3f39c2210d45a
+FileChecksum: MD5: 278422bb811e1db95dbd8e64030e33aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/test/java/org/onap/cps/temporal/architecture/LayeredArchitectureTest.java
+SPDXID: SPDXRef-item14571254
+FileChecksum: SHA1: f98be9f8d68696a82f0e6f7f8990b9b07340a22c
+FileChecksum: MD5: a00605092367bd96e27644fc82b416d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/test/groovy/org/onap/cps/temporal/repository/NetworkDataRepositorySpec.groovy
+SPDXID: SPDXRef-item14571269
+FileChecksum: SHA1: c3dcb815123e6c86a0fae9a4283834209f860105
+FileChecksum: MD5: 52ee2d91f4f53618563013cdf49bd7d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/resources/db/changelog/changelog-master.xml
+SPDXID: SPDXRef-item14571275
+FileChecksum: SHA1: 7f7100b12ff44158f74daa34af12f8f3d0ee552b
+FileChecksum: MD5: 072094a184058a1275e908990a22aced
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/resources/db/changelog/schema/03-rename-network-data-timestamp-fields.xml
+SPDXID: SPDXRef-item14571277
+FileChecksum: SHA1: 8feae4bccd77a5e75ec53535295d85bb861f1d52
+FileChecksum: MD5: af344020614dad43860af6de37b60c8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/test/java/org/onap/cps/temporal/repository/containers/TimescaleContainer.java
+SPDXID: SPDXRef-item14571258
+FileChecksum: SHA1: 985292630380901d5a6910df417810d01dc8c680
+FileChecksum: MD5: e2dc1eac3af27fb9fc58f9026dde8e87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/java/org/onap/cps/temporal/service/NetworkDataService.java
+SPDXID: SPDXRef-item14571290
+FileChecksum: SHA1: 2a3586542df4a8ebe480d7b04f3bdfb37000a796
+FileChecksum: MD5: 50ca9a0385e90a96f6a73ee0aed9908a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/java/org/onap/cps/temporal/service/NetworkDataServiceImpl.java
+SPDXID: SPDXRef-item14571291
+FileChecksum: SHA1: 85cb711dce711d7dcef73c12fe3236840846eda5
+FileChecksum: MD5: a5f06da69f54a22519c136fedc2fa3f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/java/org/onap/cps/temporal/domain/NetworkDataId.java
+SPDXID: SPDXRef-item14571295
+FileChecksum: SHA1: e6d232f66c615f14375e3d7927eef26108404761
+FileChecksum: MD5: 89e6822e18e75d74067fa2ffa8751412
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/java/org/onap/cps/temporal/repository/NetworkDataRepository.java
+SPDXID: SPDXRef-item14571297
+FileChecksum: SHA1: 17702d36ba9f9bbc61ba25c2cebbdd922f556a0e
+FileChecksum: MD5: f6a35d61455daadfaa9841b046167931
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/resources/application.yml
+SPDXID: SPDXRef-item14571272
+FileChecksum: SHA1: 227184e014c7847244a126ed5f224c3659ba8f6e
+FileChecksum: MD5: 362b047de2a1841a5c8b831c77f1cb99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/java/org/onap/cps/temporal/domain/NetworkData.java
+SPDXID: SPDXRef-item14571294
+FileChecksum: SHA1: 7f440f12f367aa9069222a3e1d68452103eb5c4c
+FileChecksum: MD5: a2f427ebea8046ec1d07681897f67afd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/pom.xml
+SPDXID: SPDXRef-item14571306
+FileChecksum: SHA1: 66b00149676d1e7cc2c948d779b301b3b03d8259
+FileChecksum: MD5: bd74ae8dae033aa1a0f84b204e65ea02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2021 Bell Canada.
+Copyright (C) 2021 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: cps-cps-temporal/docker-compose.yml
+SPDXID: SPDXRef-item14571301
+FileChecksum: SHA1: 51e22cccd4669cd7fd767a1672375edf3e54abc2
+FileChecksum: MD5: 9ee5f496d0d1d1bee6b97e5b876c8ec7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/docs/openapi/openapi.yml
+SPDXID: SPDXRef-item14571110
+FileChecksum: SHA1: b9226ae00d2242fe8846a5d9ac18295af02eba81
+FileChecksum: MD5: 8886213b0ace218441f387db2fa61a92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ncmp-rest/src/main/resources/openapi-configuration.json
+SPDXID: SPDXRef-item14570822
+FileChecksum: SHA1: b04edc5f703edf06696285ea1a34c332050441f0
+FileChecksum: MD5: 003a6202172d84e66f8b92fdfac64b05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/architecture.rst
+SPDXID: SPDXRef-item14571214
+FileChecksum: SHA1: 598aea6de977bde4389f04fbd8fbf90d32bef5b6
+FileChecksum: MD5: e966d168782cb5649c3249295e7c1e28
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021 Nordix Foundation, Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/docs/overview.rst
+SPDXID: SPDXRef-item14571221
+FileChecksum: SHA1: 5e67e1fa246cbe8f66cdd686d936677e6f519099
+FileChecksum: MD5: 9fef91539c131cb097495ef5f0cd3211
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech </text>
+ 
+
+##File
+
+FileName: cps/docs/design.rst
+SPDXID: SPDXRef-item14571220
+FileChecksum: SHA1: a3fb2b67616b36f517f2cf6dcb06a582de4f554f
+FileChecksum: MD5: daf8191e808244413e211ff25aed9c3e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/index.rst
+SPDXID: SPDXRef-item14571215
+FileChecksum: SHA1: f804a006539371f55c9df6a93abd5f65af36eb37
+FileChecksum: MD5: 2d12e28cd1bf532295996353c5389621
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/release-notes.rst
+SPDXID: SPDXRef-item14571217
+FileChecksum: SHA1: 52398cfbc21e730d3a634da261e454f4f6490be6
+FileChecksum: MD5: 9f8e22c23160e5f3cc5ee979f3a5d8b3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/modeling.rst
+SPDXID: SPDXRef-item14571230
+FileChecksum: SHA1: 7a0b88a0f370a83d9578066b82e67c2514f2332c
+FileChecksum: MD5: 9a881a4063d0421efcf0ba8c2a92c048
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021 Pantheon.tech modeling: </text>
+ 
+
+##File
+
+FileName: cps/docs/cps-path.rst
+SPDXID: SPDXRef-item14571231
+FileChecksum: SHA1: ce895471c6ff91b99a9b388bf8076849d540dbb4
+FileChecksum: MD5: 81d402a981b1e0ba058d3811dc3b952b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/data/yang-resources.zip/ietf-inet-types.yang
+SPDXID: SPDXRef-item14570988
+FileChecksum: SHA1: 4cccce120f0911de041ffd425b42c882278d169d
+FileChecksum: MD5: fd06e465f26f1e7d0253bbf77e7e55e1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/csit/data/yang-resources.zip/ietf-yang-types.yang
+SPDXID: SPDXRef-item14570987
+FileChecksum: SHA1: e32b645b07074a76ba7b56516b165ed1430e48e6
+FileChecksum: MD5: 57d603ee9ab0c49355ad0695c0709c93
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: cps/docs/api/swagger/openapi.yml
+SPDXID: SPDXRef-item14571234
+FileChecksum: SHA1: 4da561f7610e23f50a881529fe601c91514601b9
+FileChecksum: MD5: 92cf0f1000166f05f05d60f5f760ef05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-rest/docs/api/swagger/openapi.yaml
+SPDXID: SPDXRef-item14571353
+FileChecksum: SHA1: a448aafd7234a36fd9913cb437a64c215027eac0
+FileChecksum: MD5: 36f72d43fd6f86ae7867e2687b8c8e82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-temporal/LICENSE.txt
+SPDXID: SPDXRef-item14571299
+FileChecksum: SHA1: 612ad650a328990087959416a7e2fd160b1daea9
+FileChecksum: MD5: 34f8c1142fd6208a8be89399cb521df9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/LICENSE.txt
+SPDXID: SPDXRef-item14570955
+FileChecksum: SHA1: 612ad650a328990087959416a7e2fd160b1daea9
+FileChecksum: MD5: 34f8c1142fd6208a8be89399cb521df9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/version.properties
+SPDXID: SPDXRef-item14570765
+FileChecksum: SHA1: 4c37ca5c935deca42411cb7f6d979b42aa753fe4
+FileChecksum: MD5: af6de1dbe34bca8e172bb88452966407
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-path-parser/lombok.config
+SPDXID: SPDXRef-item14570767
+FileChecksum: SHA1: 578ed32f2b79b9cbee2fee4bfc610c4256db1e5c
+FileChecksum: MD5: 42d7aaa59e62ed4db5941e840414eef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/README.md
+SPDXID: SPDXRef-item14570796
+FileChecksum: SHA1: f33c562836b9a89dc6b18b9031bf9e7072448e31
+FileChecksum: MD5: 5a8a64d785b38f68beb306647bb70eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/INFO.yaml
+SPDXID: SPDXRef-item14570797
+FileChecksum: SHA1: 53116fa7d643ed162e4b520f64984d2170d52c51
+FileChecksum: MD5: cd56d94f3db369d7c2876994a4f39f18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/lombok.config
+SPDXID: SPDXRef-item14570842
+FileChecksum: SHA1: 578ed32f2b79b9cbee2fee4bfc610c4256db1e5c
+FileChecksum: MD5: 42d7aaa59e62ed4db5941e840414eef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/test-tree.yang
+SPDXID: SPDXRef-item14570846
+FileChecksum: SHA1: 6db64307f605f6642a7a61e7a3d93b81b7b2f58c
+FileChecksum: MD5: d1a036ef7699e7c17d29a495b2107073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/invalid-missing-import.yang
+SPDXID: SPDXRef-item14570847
+FileChecksum: SHA1: 6664c99d0ec1c9002999545153b3253878d7361a
+FileChecksum: MD5: 9f4adb5ce64a474963f573b58a4c5b48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/invalid-empty.yang
+SPDXID: SPDXRef-item14570848
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/bookstore.yang
+SPDXID: SPDXRef-item14570849
+FileChecksum: SHA1: ebc5f0bcf6ec6fcedb1ae78ac82dae26944d70df
+FileChecksum: MD5: 1fb5c2469c1edb848fabe6c8c26ec064
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/e2e/basic/cps-ran-schema-model-data-v4.json
+SPDXID: SPDXRef-item14570853
+FileChecksum: SHA1: 2afcfe9687eba05fb35310582ffac28ca00bfa5c
+FileChecksum: MD5: 6eef4c77ed86f14afebcebe8d61e421b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/e2e/basic/cps-ran-inventory-data.json
+SPDXID: SPDXRef-item14570854
+FileChecksum: SHA1: f6412afc0eefa548cfa7e08140803237dc8938e1
+FileChecksum: MD5: c0b8c69f7a28fe85c4644c2ec93a501d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/e2e/basic/cps-Cavsta-Data.txt
+SPDXID: SPDXRef-item14570855
+FileChecksum: SHA1: b93254a99e4da001a4f2be11d46d8844e351923d
+FileChecksum: MD5: c27c68ce9b443efbe0f54fc31a721c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/invalid.yang
+SPDXID: SPDXRef-item14570859
+FileChecksum: SHA1: aa26909321a374048b69cce4d3af032316b61f10
+FileChecksum: MD5: 27c74177276b664a6feffa2a9b64c4c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/test-tree.json
+SPDXID: SPDXRef-item14570860
+FileChecksum: SHA1: 6a0aa1aa6106f7ec3159b1760bb7e145ce0be003
+FileChecksum: MD5: 21d2695ec8eeef9c56bb7745392e6756
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/bookstore.json
+SPDXID: SPDXRef-item14570861
+FileChecksum: SHA1: 316a8639663d5250ca8c5269f46d32c03ea8dda2
+FileChecksum: MD5: 31fa44546c11d7f81f3e8e2127e3cdc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/someOtherFile.txt
+SPDXID: SPDXRef-item14570862
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/test/resources/ietf/data/ietf-network-topology-sample-rfc8345.json
+SPDXID: SPDXRef-item14570871
+FileChecksum: SHA1: b0978ec0d47bccce01e15a1b4a464acaee75102f
+FileChecksum: MD5: 67a11998f8e9b254764dacf77c903838
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/src/main/resources/logback-spring.xml
+SPDXID: SPDXRef-item14570899
+FileChecksum: SHA1: 4f77e6f966e36dfe0305d5f08cbcdf875a9c11c9
+FileChecksum: MD5: 0a3a6e6d27e4ed4d6b08e4e3464f73c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-service/pom.xml
+SPDXID: SPDXRef-item14570949
+FileChecksum: SHA1: 5f0b030ca97c0aa1aa00f8dc0e16657a79ea55a4
+FileChecksum: MD5: ac2324e972d8268b7cfea6bf812f11b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/.gitreview
+SPDXID: SPDXRef-item14570950
+FileChecksum: SHA1: 985b5a01bf9a38154269f771f2264eba90e5c1b9
+FileChecksum: MD5: 7a3590f5cc5834b45d240eec1445aca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/releases/0.0.1.yaml
+SPDXID: SPDXRef-item14570957
+FileChecksum: SHA1: 46a0ce1876d62c28807db0b65cc608023644ee49
+FileChecksum: MD5: 158a03c259849eab4708a763b1dfe57c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/releases/1.0.0-container.yaml
+SPDXID: SPDXRef-item14570958
+FileChecksum: SHA1: 05a2ecac64f91b5d152c9a19326b2262cda49edd
+FileChecksum: MD5: d10603897215fca212ecdc7a9d2a33d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/releases/0.0.1-container.yaml
+SPDXID: SPDXRef-item14570959
+FileChecksum: SHA1: c357599229f2a22a64dd7452223f4f481e0ea677
+FileChecksum: MD5: 809a1ab96dbfef045c12fa456d7b3ef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/releases/1.0.0.yaml
+SPDXID: SPDXRef-item14570960
+FileChecksum: SHA1: 1bf8cda91296b6a88194cf71190e8a73e2ac31df
+FileChecksum: MD5: 47d7e27de1082746343df428963cbb0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docker-compose/README.md
+SPDXID: SPDXRef-item14570962
+FileChecksum: SHA1: b901ecef56ad6eb322025bca32310b793dd5bf75
+FileChecksum: MD5: 64c11b029ffb21f7aba26a90f3f6e373
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/plans/default/testplan.txt
+SPDXID: SPDXRef-item14570968
+FileChecksum: SHA1: f4416e5fc6f3b7a58116feb7be8bf06403c882ea
+FileChecksum: MD5: ce55ed48ac3eec4b01d90341ea8e2949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/README.md
+SPDXID: SPDXRef-item14570971
+FileChecksum: SHA1: e1e7deb1a21114b7da770421049eb378fda911ef
+FileChecksum: MD5: 0d03058cff5627091d1cd2bf806f4867
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/tests/cps-admin/cps-admin.robot
+SPDXID: SPDXRef-item14570975
+FileChecksum: SHA1: 5e998682060181b9f30e300a41d43a26ce769a21
+FileChecksum: MD5: 823cbccac48ebf819d701173d46c731f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/tests/actuator/actuator.robot
+SPDXID: SPDXRef-item14570977
+FileChecksum: SHA1: 9841ce177c52f5160617fb16843e0d5c949ce211
+FileChecksum: MD5: cfb6e6042d561f0f4cbd8646c73de926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/tests/cps-data/cps-data.robot
+SPDXID: SPDXRef-item14570979
+FileChecksum: SHA1: 38c98104e4666f49f24ba2e0172eb36ccb7b1afb
+FileChecksum: MD5: e8f3dc8792f4458e024dd51062ac7557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/.gitignore
+SPDXID: SPDXRef-item14570980
+FileChecksum: SHA1: 71c11907ef927ea092adab5c1a58503894c401c7
+FileChecksum: MD5: ca3fa5840ba4b05ca3f7527bc317822c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/data/test-tree.yang
+SPDXID: SPDXRef-item14570983
+FileChecksum: SHA1: 6db64307f605f6642a7a61e7a3d93b81b7b2f58c
+FileChecksum: MD5: d1a036ef7699e7c17d29a495b2107073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/csit/data/test-tree.json
+SPDXID: SPDXRef-item14570990
+FileChecksum: SHA1: 6a0aa1aa6106f7ec3159b1760bb7e145ce0be003
+FileChecksum: MD5: 21d2695ec8eeef9c56bb7745392e6756
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/spotbugs/src/main/resources/spotbugs-exclude.xml
+SPDXID: SPDXRef-item14570995
+FileChecksum: SHA1: 940e557cdf85688c9f8cf64596497e004396a284
+FileChecksum: MD5: e80c4800b8a1a895b68e65a7634bcb3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/spotbugs/pom.xml
+SPDXID: SPDXRef-item14570996
+FileChecksum: SHA1: c755c254216db104e4d97498ec71f08d50ccaa40
+FileChecksum: MD5: f2279a4e5d173edc25da9ad5f4248b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/checkstyle/pom.xml
+SPDXID: SPDXRef-item14571002
+FileChecksum: SHA1: 38f6788292cd7e927d6b338c6e958ee1c5a0ef07
+FileChecksum: MD5: 28b4032773ead8c323e617a23c4e92ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-application/src/test/resources/application.yml
+SPDXID: SPDXRef-item14571007
+FileChecksum: SHA1: ec81f9fea373519e02b588f174a0add92faf9345
+FileChecksum: MD5: 1758c114fe561d2a4cddd37c4dfa0145
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/.readthedocs.yaml
+SPDXID: SPDXRef-item14571033
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-multiple-sets.zip/yang-files-set-2/component.yang
+SPDXID: SPDXRef-item14571044
+FileChecksum: SHA1: 99ddaecfc4af8be2a0d0b14751c0dd1dbbecea1b
+FileChecksum: MD5: ba6d53423ca245a62c9e4111947acf72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-multiple-sets.zip/yang-files-set-2/assembly.yang
+SPDXID: SPDXRef-item14571045
+FileChecksum: SHA1: 0ac7cc0257feb9ed0f6c6dd1b8a603fc9d4afc45
+FileChecksum: MD5: b59ee169786672fce573796201f76384
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-multiple-sets.zip/yang-files-set-2/assembly.json
+SPDXID: SPDXRef-item14571046
+FileChecksum: SHA1: a2ed6bbd4d0ec8073302be7302f64fb02edecf5f
+FileChecksum: MD5: d144301cc8173238d2d3da80fc39ab41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-multiple-sets.zip/yang-files-set/component.yang
+SPDXID: SPDXRef-item14571048
+FileChecksum: SHA1: 3cc47cf2ae5f1557c6d61ba604372cdd8950ef23
+FileChecksum: MD5: 61137faa2d96399ff545e7633f2754f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-multiple-sets.zip/yang-files-set/assembly.yang
+SPDXID: SPDXRef-item14571049
+FileChecksum: SHA1: 05fadc82836c1d06b2c634a975928d29cd042728
+FileChecksum: MD5: 7e4caeb4a2c8f172a3288cbd8116a3d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-multiple-sets.zip/yang-files-set/assembly.json
+SPDXID: SPDXRef-item14571050
+FileChecksum: SHA1: a2ed6bbd4d0ec8073302be7302f64fb02edecf5f
+FileChecksum: MD5: d144301cc8173238d2d3da80fc39ab41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-set.zip/yang-files-set/component.yang
+SPDXID: SPDXRef-item14571055
+FileChecksum: SHA1: 3cc47cf2ae5f1557c6d61ba604372cdd8950ef23
+FileChecksum: MD5: 61137faa2d96399ff545e7633f2754f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-set.zip/yang-files-set/assembly.yang
+SPDXID: SPDXRef-item14571056
+FileChecksum: SHA1: 05fadc82836c1d06b2c634a975928d29cd042728
+FileChecksum: MD5: 7e4caeb4a2c8f172a3288cbd8116a3d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/yang-files-set.zip/yang-files-set/assembly.json
+SPDXID: SPDXRef-item14571057
+FileChecksum: SHA1: a2ed6bbd4d0ec8073302be7302f64fb02edecf5f
+FileChecksum: MD5: d144301cc8173238d2d3da80fc39ab41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/model-over-1mb.yang
+SPDXID: SPDXRef-item14571058
+FileChecksum: SHA1: 17ebd6fe4476ce0fcbb66f11d94ff97c5d51e91c
+FileChecksum: MD5: 90a9df8cdb887d839114ca56de27a882
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2016 Nokia. All rights reserved. Reproduction of this document </text>
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/application.yml
+SPDXID: SPDXRef-item14571059
+FileChecksum: SHA1: 3274a4733c446ab5379792edefe13871e3522d1e
+FileChecksum: MD5: 205680926a2be9358a30a783350e4252
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/no-yang-files.zip/no-yang-files/test2.test
+SPDXID: SPDXRef-item14571064
+FileChecksum: SHA1: 1d9c4c76672b6015c72b42983a7234cc5f1b7290
+FileChecksum: MD5: 2bbfeb5489ba94f45b8eff50e5d49033
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/src/test/resources/no-yang-files.zip/no-yang-files/test1.text
+SPDXID: SPDXRef-item14571065
+FileChecksum: SHA1: d80aa6cf8ad3bbd5ed3158e04950c37a34f5b80e
+FileChecksum: MD5: 266ad8bfaeba603a7959848e42918fcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/docs/openapi/components.yml
+SPDXID: SPDXRef-item14571106
+FileChecksum: SHA1: 7c5ec840b01bc7d0ed5be92951fb069260891f90
+FileChecksum: MD5: e3abfbc8cdc964d0b6241f13722a0885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/docs/openapi/cpsQuery.yml
+SPDXID: SPDXRef-item14571107
+FileChecksum: SHA1: b7431c6b5ba5a77291aa8b00db97fff728451749
+FileChecksum: MD5: a089fa9f6b586824003e1b91f57b068e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/docs/openapi/cpsAdmin.yml
+SPDXID: SPDXRef-item14571108
+FileChecksum: SHA1: a89d86c40c949e684833b3696ad50b181b92d6e6
+FileChecksum: MD5: 39a9331ebba6bb0a65b353224342a3dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-rest/docs/openapi/cpsData.yml
+SPDXID: SPDXRef-item14571109
+FileChecksum: SHA1: 52d12dd2ffa1e9dde51ca84c60de31999ea12f57
+FileChecksum: MD5: a281170eb0b01a6c27aab10d76e2f1af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/lombok.config
+SPDXID: SPDXRef-item14571134
+FileChecksum: SHA1: 578ed32f2b79b9cbee2fee4bfc610c4256db1e5c
+FileChecksum: MD5: 42d7aaa59e62ed4db5941e840414eef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/resources/application.yml
+SPDXID: SPDXRef-item14571138
+FileChecksum: SHA1: 8a1d4573445ebac8e1d1f9d61d88678f779aca34
+FileChecksum: MD5: 4e26521884bd127709404103b008d2d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/resources/data/fragment.sql
+SPDXID: SPDXRef-item14571140
+FileChecksum: SHA1: 99137cc366da739225d147888654549bd2a0435d
+FileChecksum: MD5: 5df504639edd0fea66438eb6a2ae64de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/resources/data/anchor.sql
+SPDXID: SPDXRef-item14571141
+FileChecksum: SHA1: 5fd69b414b0ee0c40b94a72f01355f6d1facd016
+FileChecksum: MD5: 9ebcb1ceb768476d658ce2c2c6ec21bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/resources/data/clear-all.sql
+SPDXID: SPDXRef-item14571142
+FileChecksum: SHA1: 6525c6421346655f16e3e1d07a1a4a17c85a672a
+FileChecksum: MD5: 0f5f5afd8825f2d5e466dc920b82f3ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/resources/data/schemaset.sql
+SPDXID: SPDXRef-item14571143
+FileChecksum: SHA1: e1d661f62ac315825437c1f7ce2f69368c1ce555
+FileChecksum: MD5: fc0c52fb7fe6de079eb2c4170da3f197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/test/resources/data/cps-path-query.sql
+SPDXID: SPDXRef-item14571144
+FileChecksum: SHA1: 810fb5a87e5fb4374fa0ad49b580df9a7ce1f8a4
+FileChecksum: MD5: 9e8ba6032ac697ea55f8d7bf398837e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/hibernate.properties
+SPDXID: SPDXRef-item14571164
+FileChecksum: SHA1: 1b1ccdcbda06c20fe85b89ae8c608ada4bddb28b
+FileChecksum: MD5: f8a74c7763085e00da57fb2381407d99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/04-loadData-anchor.yaml
+SPDXID: SPDXRef-item14571169
+FileChecksum: SHA1: 92a1f53d0eb57bed442a0cf22da3a6b063d3b151
+FileChecksum: MD5: 48e565dd0cc056c2e5218af69ab28383
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/02-loadData-dataspace.yaml
+SPDXID: SPDXRef-item14571171
+FileChecksum: SHA1: b2bf3c57954d637bc7c5b25b3073e46814688f1c
+FileChecksum: MD5: f679445e3d0bf0002f9289052a898ec6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/03-loadData-schema-set.yaml
+SPDXID: SPDXRef-item14571173
+FileChecksum: SHA1: c3b3818ac9760ddf4b9e83f23d96ce7624fe58fb
+FileChecksum: MD5: 47dd5c7dc3692717d985ebbbe7deceff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/01-createCPSTables.yaml
+SPDXID: SPDXRef-item14571174
+FileChecksum: SHA1: 26a41a60f03b1ad680eb47ebbcffe9dce20ba914
+FileChecksum: MD5: a5b04622a6289ce0e95833fe71f97343
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/05-loadData-fragment.yaml
+SPDXID: SPDXRef-item14571176
+FileChecksum: SHA1: ad7be99e9e6fbbf6a93f1fc132ff407f4704102b
+FileChecksum: MD5: 115738808199075ffff8ebb965c2fef5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/07-update-yang-resource-checksums.yaml
+SPDXID: SPDXRef-item14571178
+FileChecksum: SHA1: 51c82297af5744d78508354d117e2cd3bc859734
+FileChecksum: MD5: 106a8f5af5b297ef40aef86f2abdac01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/data/dataspace.csv
+SPDXID: SPDXRef-item14571183
+FileChecksum: SHA1: 87a7dd64e43b367419e68d1b1b345479309a46a3
+FileChecksum: MD5: 106e7aed6eec6b1920a962d5558930e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/data/schema_set.csv
+SPDXID: SPDXRef-item14571184
+FileChecksum: SHA1: 5541f1304a5cca3a5bac5b0aa0b7f66b28180c3d
+FileChecksum: MD5: ed49ddebe79157cb23deda67e15ae215
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/data/schema_set_yang_resources.csv
+SPDXID: SPDXRef-item14571185
+FileChecksum: SHA1: 0cbd45560b01090a737b50359b7ad624eaf94ce0
+FileChecksum: MD5: c2d9ad67e5e354c6687096efd432a020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/data/fragment.csv
+SPDXID: SPDXRef-item14571186
+FileChecksum: SHA1: 9a1b2241261b72003f6eec549f2db6cabe235d9a
+FileChecksum: MD5: 77129eea5aeb8f315e4505935e5dacab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/src/main/resources/changelog/db/changes/data/anchor.csv
+SPDXID: SPDXRef-item14571187
+FileChecksum: SHA1: b677fb6e78aee4617b6246e89667437c9fa5e2f5
+FileChecksum: MD5: 304328c4e077124a946810e61192e6f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/cps-ri/pom.xml
+SPDXID: SPDXRef-item14571211
+FileChecksum: SHA1: 733118771886fafaf6b9d8ba8f41efdbfdb48d89
+FileChecksum: MD5: 9bf3e0704d56df5fcf3a97bfdcf167a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/.gitignore
+SPDXID: SPDXRef-item14571212
+FileChecksum: SHA1: e68f9872edbd2bfd2432bde70e8e179c5cd31e1e
+FileChecksum: MD5: 3ea7e1045c965a05b25ecf6a70ea9b61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/requirements-docs.txt
+SPDXID: SPDXRef-item14571216
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/conf.yaml
+SPDXID: SPDXRef-item14571218
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/conf.py
+SPDXID: SPDXRef-item14571219
+FileChecksum: SHA1: 20841686c6a2c3c612507963cc34d533c0319a84
+FileChecksum: MD5: 8abcdae48ceccb8d0ab7cf49de86860f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/tox.ini
+SPDXID: SPDXRef-item14571222
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/_static/cps-modeling-concepts.png
+SPDXID: SPDXRef-item14571224
+FileChecksum: SHA1: 30ff694193610427f2f9af64e2bc9799ccb67ef1
+FileChecksum: MD5: fb06885feac103f01019765c4fb2d7f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item14571226
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item14571227
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/_static/favicon.ico
+SPDXID: SPDXRef-item14571228
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps/docs/_static/cps-r8-arch-diagram.png
+SPDXID: SPDXRef-item14571229
+FileChecksum: SHA1: 3d0ff13eb764b0190897d0794767620d6b876105
+FileChecksum: MD5: 64027a6f7bc53ec7c8946dea94cce6b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-ncmp-dmi-plugin/INFO.yaml
+SPDXID: SPDXRef-item14571237
+FileChecksum: SHA1: 538fda669f7cad04a8f5cd88e577cdb8b367b5cf
+FileChecksum: MD5: 4e8459bacd6cefd80eb6ae025457fb64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-ncmp-dmi-plugin/.gitreview
+SPDXID: SPDXRef-item14571238
+FileChecksum: SHA1: 0c621062cb07cc2ae71c6627a6f6e880855d2742
+FileChecksum: MD5: d41e1894fa279862c6a69e8f78250877
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-temporal/version.properties
+SPDXID: SPDXRef-item14571240
+FileChecksum: SHA1: 17c76cdb8a7e6e54de631398000163165fa857cc
+FileChecksum: MD5: 62dcad41095761de845ab5e59eb02969
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-temporal/lombok.config
+SPDXID: SPDXRef-item14571241
+FileChecksum: SHA1: 578ed32f2b79b9cbee2fee4bfc610c4256db1e5c
+FileChecksum: MD5: 42d7aaa59e62ed4db5941e840414eef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-temporal/README.md
+SPDXID: SPDXRef-item14571242
+FileChecksum: SHA1: 98b4c047a2998ea3c4c046beb06b44c0e2c9ffa0
+FileChecksum: MD5: 0e66c6f8662b34b0f8d45e173b6dec27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-temporal/INFO.yaml
+SPDXID: SPDXRef-item14571243
+FileChecksum: SHA1: 1c364260b60da116a4abdbf65d167ff6bb6aaf50
+FileChecksum: MD5: 137e1f7d8e2b2fd5e6f1566d860c3d1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-temporal/src/main/resources/db/changelog/data/02-init-data.dat
+SPDXID: SPDXRef-item14571281
+FileChecksum: SHA1: 2cb6393ada7128eb25d20f9eb4a7215451662815
+FileChecksum: MD5: 7724b2f1cd6b8450fd2249af5b24fce4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-temporal/.gitreview
+SPDXID: SPDXRef-item14571298
+FileChecksum: SHA1: 163217df04494b11aaa8bc82c7ed3696f1d2eb69
+FileChecksum: MD5: fd2b95c31ac1fd602e9558de435272a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-temporal/.gitignore
+SPDXID: SPDXRef-item14571300
+FileChecksum: SHA1: 4fd4e51a2eed4262897831c945316a5e39b2fdac
+FileChecksum: MD5: 821a93de5ca994147890ce86ff85f74e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/INFO.yaml
+SPDXID: SPDXRef-item14571310
+FileChecksum: SHA1: 9e1d35c5b50fbd93568f17f849226ded24de4afa
+FileChecksum: MD5: ac73ced79a0dd3fe4d16ff14cbdbb288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/.gitreview
+SPDXID: SPDXRef-item14571311
+FileChecksum: SHA1: 017f24ea19c29da0952bcf84de493677140ffbe0
+FileChecksum: MD5: 0f6b78c43ea9e80a1f9f7f2d9076716c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-parent/pom.xml
+SPDXID: SPDXRef-item14571323
+FileChecksum: SHA1: f72938c332450172b37484f6ae239a89c8f13a07
+FileChecksum: MD5: 7c6d7aa1b3503268e865bacd161b46af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/.gitignore
+SPDXID: SPDXRef-item14571355
+FileChecksum: SHA1: e3035030fe71a2883174c35f10e3172120cb24e4
+FileChecksum: MD5: 3c3385c1f38c7647142aff2b3171f2d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/lombok.config
+SPDXID: SPDXRef-item14571360
+FileChecksum: SHA1: 578ed32f2b79b9cbee2fee4bfc610c4256db1e5c
+FileChecksum: MD5: 42d7aaa59e62ed4db5941e840414eef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cps-cps-tbdmt/cps-tbdmt-service/src/test/resources/application-test.properties
+SPDXID: SPDXRef-item14571364
+FileChecksum: SHA1: 53e0e5c342e117fb660c5f761e134543d0943214
+FileChecksum: MD5: 8383853e9e59a93ee376f9c1d8a1b8be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
