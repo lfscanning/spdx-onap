@@ -1,0 +1,691 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_music-2021-09-22.zip_1632771481.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-09-27T19:38:02Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: music-2021-09-22.zip
+PackageFileName: music-2021-09-22.zip
+SPDXID: SPDXRef-upload4037
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 46e09058413d8e4c78f49289a6083087da4669ea
+PackageChecksum: SHA1: dc578d0d242e1e28227b0307cf5cf70be370ee75
+PackageChecksum: MD5: 3aed1a7d304230066042a60fb8ed1dcb
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload4037
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: music-distributed-kv-store/docs/commandsamples.rst
+SPDXID: SPDXRef-item15617762
+FileChecksum: SHA1: 419fffacef61176c2f14cb8850fe2360b525e73c
+FileChecksum: MD5: f6794f56c054a49acc08b7bfceeeb38a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/installation.rst
+SPDXID: SPDXRef-item15617774
+FileChecksum: SHA1: 5101a09acdcd0ce1e63fa542620a67ef60e03ae4
+FileChecksum: MD5: 56840a01720fddaaa1ea8b4be4aa3f26
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/offeredapis.rst
+SPDXID: SPDXRef-item15617764
+FileChecksum: SHA1: 3c95d75f0aadfd307661ca517c042521313245b2
+FileChecksum: MD5: e738ec0e42d1e0a5f8e67b7569118f52
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/index.rst
+SPDXID: SPDXRef-item15617760
+FileChecksum: SHA1: cc8d00bb80d69e202ec2a080ca0fbffcfa0a62b8
+FileChecksum: MD5: c18701df62e95430d6c2ec3efca8a1cf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/plans/music-distributed-kv-store-test-plan/teardown.sh
+SPDXID: SPDXRef-item15617749
+FileChecksum: SHA1: e3f0c66199aa931b1867f841d8c3e8218b3f8d30
+FileChecksum: MD5: 90b9d99836da80e195a7c60429d0ba0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendfakes.go
+SPDXID: SPDXRef-item15617722
+FileChecksum: SHA1: 1c19933bf6e92d68ec7e3d4b5ee97b01a66ce3c3
+FileChecksum: MD5: ab727985461845ee4a3687f454096ac4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/main.go
+SPDXID: SPDXRef-item15617720
+FileChecksum: SHA1: ec6bc2fff9a34a8dba6e49f6af69bc23a20d371e
+FileChecksum: MD5: 1e4d332a8d8960935ac8e094f240ac31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendDatastoreConnection.go
+SPDXID: SPDXRef-item15617723
+FileChecksum: SHA1: e1faec53a7c7af2e6dd3e0e3c02171ce24826199
+FileChecksum: MD5: 8a72485dffd15b3fb757f06bd1ed66a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/queryDatastoreHandlers_test.go
+SPDXID: SPDXRef-item15617724
+FileChecksum: SHA1: 28b62800f9f29391607305cb4883e51ae607fcb5
+FileChecksum: MD5: 2132cb7754dc380c9215f11c7f029ef4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/registrationHandlers.go
+SPDXID: SPDXRef-item15617728
+FileChecksum: SHA1: 4ae1145cb7dbb84a95b8e317737591b46fa9a76d
+FileChecksum: MD5: 532d725b564fbca7d1fc7bea54817938
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendPropertiesConnection.go
+SPDXID: SPDXRef-item15617727
+FileChecksum: SHA1: 2c925007ba1ab53eb5b2f9629f2c6ce5286ce7a9
+FileChecksum: MD5: ea061b53980bd1f086c2f0f01d64e387
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/initialise_test.go
+SPDXID: SPDXRef-item15617729
+FileChecksum: SHA1: b8cbb9b35a40835983c48ef83c50c97081df572f
+FileChecksum: MD5: ef830bdf5b4b5f252aa8fb8e957522a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendCassandraDatastore.go
+SPDXID: SPDXRef-item15617725
+FileChecksum: SHA1: 0d6293bcb357d1f4b0b435dd554786d93c03a8a5
+FileChecksum: MD5: 13dfbd697fb9b1a950a3243807fdaf0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/queryDatastoreHandlers.go
+SPDXID: SPDXRef-item15617726
+FileChecksum: SHA1: 39f73c73bfe72716a99cbc72fbee5bf0058d7cec
+FileChecksum: MD5: 1d5f9fbe9d83865ad6ee477b3f86756a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/initialise.go
+SPDXID: SPDXRef-item15617732
+FileChecksum: SHA1: 3a823a2d760289bdc5a0b7d6c42ae0d9290066bf
+FileChecksum: MD5: 75f9720cd6404558e9a3a15817b5971b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/utils_test.go
+SPDXID: SPDXRef-item15617734
+FileChecksum: SHA1: 181b0c6c8561ffa40398f7290bd599ca999a2d25
+FileChecksum: MD5: 57ba08beb666556ef0c5a7890b93cf88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendConsulDatastore.go
+SPDXID: SPDXRef-item15617731
+FileChecksum: SHA1: 25ae51908975985c20fd1e90fbaa3421a8b0b0d5
+FileChecksum: MD5: 2ae77edf7cca747fd413c510915c59bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/backendFilesystemConnection.go
+SPDXID: SPDXRef-item15617733
+FileChecksum: SHA1: db48e6cd7fdaad27694ecdd15f88ade1727e52d9
+FileChecksum: MD5: 723dd40df7da56996535271f63c92925
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/configHandlers.go
+SPDXID: SPDXRef-item15617730
+FileChecksum: SHA1: 31c7f6b4d5057a0b6fc8af212a0c7f14f7f841c2
+FileChecksum: MD5: c3b3cdce48a8346d617d4d26389f56a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/utils.go
+SPDXID: SPDXRef-item15617736
+FileChecksum: SHA1: 55d692a36c022be982435f30c9d697924143061e
+FileChecksum: MD5: b7b7ca3c173d50e4a5d345518e4d338f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/main_test.go
+SPDXID: SPDXRef-item15617739
+FileChecksum: SHA1: b282355deaf0c43f2f3b45c51540487246ef5464
+FileChecksum: MD5: 0fe599a125a8b721fa2625b95897efc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/configHandlers_test.go
+SPDXID: SPDXRef-item15617735
+FileChecksum: SHA1: 7c452829d7bfe1a6ee98da299d22988267a1a2d0
+FileChecksum: MD5: 0b1797bc131a43504f6067470e0b3a44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/api/registrationHandlers_test.go
+SPDXID: SPDXRef-item15617737
+FileChecksum: SHA1: b333e1c653e295f5f4b8eceabf5802e77538e8e5
+FileChecksum: MD5: db18678834d11753bdfef2421441b6a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation, Inc </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/plans/music-distributed-kv-store-test-plan/setup.sh
+SPDXID: SPDXRef-item15617748
+FileChecksum: SHA1: 69a088c7c9480d88d99d05d99ac92d87373a34bc
+FileChecksum: MD5: 507603bfc9f427b433b7e696a801e909
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Samsung Electronics etc. etc. </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/run-csit.sh
+SPDXID: SPDXRef-item15617750
+FileChecksum: SHA1: 340965d687a8bf023b10197694890aa5da803054
+FileChecksum: MD5: c9d04d357e8bfeba9b7053947cd5f4ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 Huawei Technologies Co., Ltd.
+Copyright 2019 © Samsung Electronics Co., Ltd. </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/run-project-csit.sh
+SPDXID: SPDXRef-item15617756
+FileChecksum: SHA1: 4cefd36d2ff1b8066b13c6abc5f6eb823d777980
+FileChecksum: MD5: eb7b24b63369ce685a33335ca2318cfd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 © Samsung Electronics Co., Ltd. </text>
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/swagger.json
+SPDXID: SPDXRef-item15617772
+FileChecksum: SHA1: e5e59668a57d5014a3e7e4b2c689f9aeda2b28d3
+FileChecksum: MD5: 3ddf4777462d6d3e8ba3fd5a5d098998
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/swagger.yaml
+SPDXID: SPDXRef-item15617742
+FileChecksum: SHA1: 271be1449d84a0e9d7854e976b0661e5e575a9a8
+FileChecksum: MD5: 24914d31b6a085884ff5248f59fbed7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/Dockerfile_ubuntu
+SPDXID: SPDXRef-item15617709
+FileChecksum: SHA1: 175fa6564235023e592ad7d4eed06ce053890f28
+FileChecksum: MD5: 2390585053ee81a28d51298010876ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/docker-build.sh
+SPDXID: SPDXRef-item15617710
+FileChecksum: SHA1: e105d778dc741c238a77b986170934d9f3380a58
+FileChecksum: MD5: 6daf068a0a6e1a2ca11bb69fc4bd3557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/docker-entrypoint.sh
+SPDXID: SPDXRef-item15617711
+FileChecksum: SHA1: 28502c63d2b0f3c8a7188e34a848425bb3e7acc3
+FileChecksum: MD5: 42e08a2242d3d1e1f56d1f54273b1970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/run.sh
+SPDXID: SPDXRef-item15617712
+FileChecksum: SHA1: c66992ee963925bec192970b6a6e430b3a6b3786
+FileChecksum: MD5: bf4d6c5fb5855e2d2d4594b150287704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/tag-docker-staging.sh
+SPDXID: SPDXRef-item15617713
+FileChecksum: SHA1: efff716b92a6c4e864f47052a014b94e1df5d254
+FileChecksum: MD5: e221481963f92c0837eb153559250ba9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/deployment/Dockerfile
+SPDXID: SPDXRef-item15617714
+FileChecksum: SHA1: db2a2df8c3affc23ca33eccecaeac6fde81be2fb
+FileChecksum: MD5: 5f4e4799d12bf5a2fb4c2c8d1f8b5e5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/INFO.yaml
+SPDXID: SPDXRef-item15617715
+FileChecksum: SHA1: 078b00f5d3c57dd25827c10d9d9e44d582246655
+FileChecksum: MD5: 0a523f7bbcdc864d3f47060c62765d7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/Makefile
+SPDXID: SPDXRef-item15617718
+FileChecksum: SHA1: f1c9c584898fbd8eab108fa4161cd0fa12e4c73d
+FileChecksum: MD5: abbcae3bc640dee2e9644d26908a909d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/Gopkg.lock
+SPDXID: SPDXRef-item15617719
+FileChecksum: SHA1: b2242ca6c79ef158daaa107d30a22ded5acef09b
+FileChecksum: MD5: 40c9c9a28fcb6011c118adbd840dc57c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/src/dkv/Gopkg.toml
+SPDXID: SPDXRef-item15617738
+FileChecksum: SHA1: 685de5c3c49ba49bb39d5abd87d6022dcf6bfdcd
+FileChecksum: MD5: 5483cb56d300ce797ce3682ab7e400d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/.gitreview
+SPDXID: SPDXRef-item15617740
+FileChecksum: SHA1: ea9bd3f4cfd5dd22811b4b438ba3cb9f876c7507
+FileChecksum: MD5: 494647a392e6be25d5bdac67a617c65d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/.rstcheck.cfg
+SPDXID: SPDXRef-item15617741
+FileChecksum: SHA1: 323ad85621f92b267a83ffe60a1a8e6fbdb7ad24
+FileChecksum: MD5: d662462237a8127e4fd14add10fc3742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/tox.ini
+SPDXID: SPDXRef-item15617743
+FileChecksum: SHA1: 06038de48cc2bac7bf2e4993e3219b77d5bf328a
+FileChecksum: MD5: fc6b5af6612ac770abbf2c06e3b7eb90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/plans/music-distributed-kv-store-test-plan/testplan.txt
+SPDXID: SPDXRef-item15617747
+FileChecksum: SHA1: 094d2c41109c54da797e96836c2a7a2faf723f92
+FileChecksum: MD5: b0e04c5b486bf91982229ca3299fc70f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/tests/music-distributed-kv-store-suite/music-distributed-kv-store-test.robot
+SPDXID: SPDXRef-item15617753
+FileChecksum: SHA1: 14e99d14cc04b305392752cba0cd9b846e68fc31
+FileChecksum: MD5: c89db70448c28b16a7cb87a50ccf5c8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/tests/music-distributed-kv-store-suite/__init__.robot
+SPDXID: SPDXRef-item15617754
+FileChecksum: SHA1: d492ec70cd433ee1df0607f5a7fcafe8d134fe38
+FileChecksum: MD5: e57370ab67252847512b1e68399fdd59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/csit/.gitignore
+SPDXID: SPDXRef-item15617755
+FileChecksum: SHA1: 00be5e98b6bdabd7fc0c365e63dbcb3c9d785fe4
+FileChecksum: MD5: 548a0bd56e9d29acfcb2c73569917fd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/.readthedocs.yaml
+SPDXID: SPDXRef-item15617757
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/.gitignore
+SPDXID: SPDXRef-item15617758
+FileChecksum: SHA1: 709264da02dad5ce3d7fc49c0a8dda87441733eb
+FileChecksum: MD5: 0fb0b2dc8adb93ddedb74283e9ec3eab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/requirements-docs.txt
+SPDXID: SPDXRef-item15617761
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/conf.yaml
+SPDXID: SPDXRef-item15617763
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/conf.py
+SPDXID: SPDXRef-item15617765
+FileChecksum: SHA1: 7b39494fe6613d65095aa6a00a178d05f29a72d5
+FileChecksum: MD5: 088edcf4b23c3477897b43f5c8e75e47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/tox.ini
+SPDXID: SPDXRef-item15617766
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item15617769
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item15617770
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/_static/favicon.ico
+SPDXID: SPDXRef-item15617771
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/docs/.gitignore
+SPDXID: SPDXRef-item15617773
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/mountpath/default/sampleAPPCConfig.properties
+SPDXID: SPDXRef-item15617777
+FileChecksum: SHA1: 4cf647a319a34145051359e4e0cb00f84a5865c0
+FileChecksum: MD5: 66c7914115f323669554eaa0e8074f6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: music-distributed-kv-store/mountpath/default/sampleAAIConfig.properties
+SPDXID: SPDXRef-item15617778
+FileChecksum: SHA1: bc7b0481057ab738a923efe12f70efbc9588c3ce
+FileChecksum: MD5: fb7b30af6615ba07641eba8f8945b7c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
