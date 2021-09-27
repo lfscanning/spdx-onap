@@ -1,0 +1,2940 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_logging-analytics-2021-09-22.zip_1632771446.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-09-27T19:37:27Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: logging-analytics-2021-09-22.zip
+PackageFileName: logging-analytics-2021-09-22.zip
+SPDXID: SPDXRef-upload4033
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ed4968bb0a2ed02969b154c4d64aafba24bbbd5b
+PackageChecksum: SHA1: b8f2bf8ee09c201e8016b2209ce9a82b34f8f5e1
+PackageChecksum: MD5: 9a66420ab51a8b87f0afba84ad4645c9
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload4033
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: logging-analytics/docs/Logging_Enhancements_Project/logging_enhancements_project.rst
+SPDXID: SPDXRef-item15610892
+FileChecksum: SHA1: 6d8b4385ce5f41ba798e5de72b64fecfae544767
+FileChecksum: MD5: 692da12e65bc7597df05fdd699edf0b9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/docs/Logging_User_Guide/logging_user_guide.rst
+SPDXID: SPDXRef-item15610896
+FileChecksum: SHA1: 2719ce17c934293532fe8e38002b118a7e3f3b6f
+FileChecksum: MD5: 6855e542057283c557aaa16fa647c45d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/docs/release-notes.rst
+SPDXID: SPDXRef-item15610887
+FileChecksum: SHA1: eb008767f619e0d2b32c7172de6e9a91bebb3ccd
+FileChecksum: MD5: 0dc957e98b2f02c107b4a1afc2050667
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 Bell Canada & Amdocs Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/docs/index.rst
+SPDXID: SPDXRef-item15610885
+FileChecksum: SHA1: 7a44af66cfc9e3b61dc3e1819d162b623faf2341
+FileChecksum: MD5: 9376d2742c1a968237272e79e98a49aa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/analysis/LogEntryTest.java
+SPDXID: SPDXRef-item15610541
+FileChecksum: SHA1: c0ad88f8e2a20f53eb197e2a0c0387f80254ddd6
+FileChecksum: MD5: bf29a10d283351573f2f20e11abd4755
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/analysis/LogEntry.java
+SPDXID: SPDXRef-item15610543
+FileChecksum: SHA1: 87b00073fc288377cc18f4b3f985080b59d87602
+FileChecksum: MD5: bd45ca157d4f8249963316356b6c81cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/demo/SLF4JRefApplicationTest.java
+SPDXID: SPDXRef-item15610546
+FileChecksum: SHA1: f1317290dfba9e930beb8a82155ea97aa0d0cffd
+FileChecksum: MD5: 540dfd6331044f462a8c33a9846c210a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/analysis/CallGraphReportWriter.java
+SPDXID: SPDXRef-item15610542
+FileChecksum: SHA1: 6af69f5b590f4b7e233db986099faca1481dcf58
+FileChecksum: MD5: 92620a872f5a4783f0fb23c5c196a0eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/demo/bean/ResponseTest.java
+SPDXID: SPDXRef-item15610549
+FileChecksum: SHA1: 740988fe75d1619408a64fcd03e57f7304f61556
+FileChecksum: MD5: b45475d6cc3eb7a8749d1e1200610ae6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/analysis/CallGraphAnalyzer.java
+SPDXID: SPDXRef-item15610544
+FileChecksum: SHA1: a4ee415cf3eb662dfb8d75ef463d024f71d679ae
+FileChecksum: MD5: 65104462dbb259f9dde970799a62f755
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/demo/component/AbstractComponentTest.java
+SPDXID: SPDXRef-item15610551
+FileChecksum: SHA1: 22bf67fdf40ddd3d0088911fd00b5bf99c3ee7ec
+FileChecksum: MD5: 0786791b0f5cccc2c61485a3bec68c24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/demo/bean/RequestTest.java
+SPDXID: SPDXRef-item15610548
+FileChecksum: SHA1: f4e65727107390eff371dffae1a663ae27e9df44
+FileChecksum: MD5: 575d9373ceb883977a193fdc7713297b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/demo/component/beta/ComponentBetaTest.java
+SPDXID: SPDXRef-item15610553
+FileChecksum: SHA1: d6af052d670812207e239573633ce918f18edc45
+FileChecksum: MD5: 998a0ab0acc052d91156fad9f314f949
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/demo/component/gamma/ComponentGammaTest.java
+SPDXID: SPDXRef-item15610555
+FileChecksum: SHA1: adaaf6c96a016761f87ed1ff27e3661a555ed2ee
+FileChecksum: MD5: 5d5734659aef8bb216e459671ce9247c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/demo/component/delta/ComponentDeltaTest.java
+SPDXID: SPDXRef-item15610557
+FileChecksum: SHA1: ffb3fa0827b09a251112bb1c13822f11504bad1b
+FileChecksum: MD5: 11c21e43625413f322a5c98edd6062fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/SLF4JRefApplication.java
+SPDXID: SPDXRef-item15610573
+FileChecksum: SHA1: 4e65e19d7f61b655cc542cc8ea948d1f290b4279
+FileChecksum: MD5: 5248753ff56e2d597a927e562b829534
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/demo/component/alpha/ComponentAlphaTest.java
+SPDXID: SPDXRef-item15610559
+FileChecksum: SHA1: e0203cea6aa521435316ce83f2ba54c1e28082a0
+FileChecksum: MD5: 4a2dbcb6a8afd6b720e1e0d4a9784ffb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/org/onap/logging/ref/slf4j/CallGraphTest.java
+SPDXID: SPDXRef-item15610560
+FileChecksum: SHA1: f24bd3ce945f1b93ac5ec38c04062568a0cffe78
+FileChecksum: MD5: 3c1dc2627e0374071fb006d2a6313f6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/bean/Response.java
+SPDXID: SPDXRef-item15610575
+FileChecksum: SHA1: a67fb54b02d155398e767fea40e8443baa45da5e
+FileChecksum: MD5: db3395cde7bec53b02df2c9f820f52d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/bean/package-info.java
+SPDXID: SPDXRef-item15610577
+FileChecksum: SHA1: d37a58966b5a43fee75981cc696eb46b9d5eacaa
+FileChecksum: MD5: 962b5c80e2ff2e6b235e9a3cfb17954e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/bean/AbstractBean.java
+SPDXID: SPDXRef-item15610578
+FileChecksum: SHA1: 44c3c5fad79f972848e1c38b1a6d528bb7455d05
+FileChecksum: MD5: c137ee3618af1144ae17bc0d4c123899
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/bean/Request.java
+SPDXID: SPDXRef-item15610576
+FileChecksum: SHA1: 4b281f64532cf3fe1dfe7b30824bcf6ea5d69d35
+FileChecksum: MD5: bf1f49288c21b215355567215adf0ae0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/beta/package-info.java
+SPDXID: SPDXRef-item15610583
+FileChecksum: SHA1: 0e339d27c32cb875baa4c4fd4cbcfee518911ec4
+FileChecksum: MD5: c482dc19fa7af21e0cc4c32ca9aa96bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/package-info.java
+SPDXID: SPDXRef-item15610579
+FileChecksum: SHA1: 6e36c6b616d77d422282f72cb7057ccb4c2f4d48
+FileChecksum: MD5: cb29e15f35d9be5c16e43fbf44876e34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/gamma/ComponentGamma.java
+SPDXID: SPDXRef-item15610586
+FileChecksum: SHA1: 8329643284817c7469cb05da6f002059abeb0806
+FileChecksum: MD5: 27b23706287bdc892cbf0b7fdb43b3fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/gamma/package-info.java
+SPDXID: SPDXRef-item15610587
+FileChecksum: SHA1: 48373b3a2445546dfb327bfc15299701c5fb043f
+FileChecksum: MD5: 0dcece8dc692a0f5b11374ca7abd4ffd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/AbstractComponent.java
+SPDXID: SPDXRef-item15610584
+FileChecksum: SHA1: 374ac2236fcbd7938e18b047ef0b76b88f7a0007
+FileChecksum: MD5: d45ad462adea85180f0967d00ae0e75e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/delta/package-info.java
+SPDXID: SPDXRef-item15610590
+FileChecksum: SHA1: dad175885641d0bdf66bcf38dfb43f6fcd0e7b6b
+FileChecksum: MD5: 59ae540bf21eff908a2a9e4c84dd3270
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/alpha/ComponentAlpha.java
+SPDXID: SPDXRef-item15610592
+FileChecksum: SHA1: b542721a8ee5cf26622944b08f335b10f0becbc1
+FileChecksum: MD5: 9402405d0d829727a1be26c4e261fdff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/delta/ComponentDelta.java
+SPDXID: SPDXRef-item15610589
+FileChecksum: SHA1: 337bfc44158ffe15063e9da34f1e91d4fe9cc7df
+FileChecksum: MD5: 37493b347f0954e4defc2e24e8b6a4e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/beta/ComponentBeta.java
+SPDXID: SPDXRef-item15610582
+FileChecksum: SHA1: b8d1647fc29cf2f98a5895faab5a869f1d7226f1
+FileChecksum: MD5: a5749f8af05e4622f0342b83fc0ea8c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/alpha/package-info.java
+SPDXID: SPDXRef-item15610593
+FileChecksum: SHA1: 346cf8fe679f58d3c6c98119ec09f7be6690ca21
+FileChecksum: MD5: 3283214b53193dff8e2e9e5e51e19595
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/java/org/onap/logging/ref/slf4j/demo/component/package-info.java
+SPDXID: SPDXRef-item15610594
+FileChecksum: SHA1: 2fcd0d55014bbe520db7dc6f6d77a73211708c43
+FileChecksum: MD5: e3a8b6d732e1f09e94e089c401349880
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/java/org/onap/demo/logging/test/JoinPointMock.java
+SPDXID: SPDXRef-item15610723
+FileChecksum: SHA1: f023f8c2b53d0bb61b7184b4eef56fa66cca9b11
+FileChecksum: MD5: afab76de9986a1e5d7cc4fa419c980e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/java/org/onap/demo/logging/ApplicationService.java
+SPDXID: SPDXRef-item15610724
+FileChecksum: SHA1: eb0c5c7748467e1a50b08dd6c5e7f85553a1aba3
+FileChecksum: MD5: 62057bcef01b502220f75f1d71233564
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/java/org/onap/demo/logging/RestApplication.java
+SPDXID: SPDXRef-item15610726
+FileChecksum: SHA1: f20d404059a356c425e5289ed94bfa1729fcc776
+FileChecksum: MD5: 92a544991e3e9f367b26a95d90349330
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/java/org/onap/demo/logging/ApplicationServiceLocal.java
+SPDXID: SPDXRef-item15610727
+FileChecksum: SHA1: 5d9ea88837318baebc69395384ce6aac13e8a364
+FileChecksum: MD5: 708b594b91cb5121dd5555f1ce28bfb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/java/org/onap/demo/logging/RestServiceImpl.java
+SPDXID: SPDXRef-item15610725
+FileChecksum: SHA1: 97909866f24d816f1cbc90c526f64404d4717049
+FileChecksum: MD5: 3623aa2ac0e0776baa313fd9144afb63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/java/org/onap/demo/logging/RestHealthServiceImpl.java
+SPDXID: SPDXRef-item15610728
+FileChecksum: SHA1: 65d010acff901c53827198ea0da845c0bcb1a1f7
+FileChecksum: MD5: b2dbc0025453cbbdcacd3fac2d541a53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-docker-root/logging-docker-demo/build.sh
+SPDXID: SPDXRef-item15610739
+FileChecksum: SHA1: d1dd6ff35da5ba0e6d762cf2be1f4bdc48b265a5
+FileChecksum: MD5: 255050dfaf4f9dff7cad80a47237f526
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-docker-root/logging-docker-demo-service/build.sh
+SPDXID: SPDXRef-item15610742
+FileChecksum: SHA1: 133b9dce80a1e7c0c6a618119c6a7947dc99a5fe
+FileChecksum: MD5: e9b0c0be206e302e7b6d6d9073045a31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/src/main/java/org/onap/logging/ref/slf4j/package-info.java
+SPDXID: SPDXRef-item15610768
+FileChecksum: SHA1: 6c24aeb2ce39221a23227e5ae0da1ddfe0499a71
+FileChecksum: MD5: 3b6a9b6ee45c9b2dc0bf8552a2f3a8b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-library/src/main/java/org/onap/logging/library/LoggingReference.java
+SPDXID: SPDXRef-item15610789
+FileChecksum: SHA1: a4d24d2d0207af8a9f08dd844b79b68039dae5bb
+FileChecksum: MD5: d1df193f11d33274fb6a183869347b4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-mock-service/src/main/java/org/onap/logging/LoggingReference.java
+SPDXID: SPDXRef-item15610778
+FileChecksum: SHA1: e338c4d2b5f155e2f8d6ad80c6f5139d2ccab7b1
+FileChecksum: MD5: fa2192b553cec59ec90a7ccea0708d6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/src/main/java/org/onap/logging/ref/slf4j/ONAPLogAdapter.java
+SPDXID: SPDXRef-item15610769
+FileChecksum: SHA1: 14c9c43b41758f1d4b69a78f5d8a8d3950c6285f
+FileChecksum: MD5: 940939cc93cb20668b32b5ce67b53bdd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/LICENSE.txt
+SPDXID: SPDXRef-item15610831
+FileChecksum: SHA1: c9104e081335adb586ede11aeac8074f2702707c
+FileChecksum: MD5: 26e8ff3e8f0c67d5f65c5a6a4951ecc0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 VMware, Inc. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/assembly.xml
+SPDXID: SPDXRef-item15610869
+FileChecksum: SHA1: 9eed274c4dbbe3c007ff2150fcaa3427f5f71298
+FileChecksum: MD5: ff81658385cd19dcc6efb14af4044616
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017-2018 VMware, Inc. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/Makefile
+SPDXID: SPDXRef-item15610501
+FileChecksum: SHA1: 0efb3e6f45cf1c64094006146cc2fff7b994e1b1
+FileChecksum: MD5: 7aac0df48b8588e1f5382d5a1887161e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/charts/logdemonode/requirements.yaml
+SPDXID: SPDXRef-item15610508
+FileChecksum: SHA1: 22c9aa5d7b988c20e81e60a6fb02787e5effe33f
+FileChecksum: MD5: 1c08747e9703d6de3a050f569b210b66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/requirements.yaml
+SPDXID: SPDXRef-item15610504
+FileChecksum: SHA1: 22c9aa5d7b988c20e81e60a6fb02787e5effe33f
+FileChecksum: MD5: 1c08747e9703d6de3a050f569b210b66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/charts/logdemonode/Chart.yaml
+SPDXID: SPDXRef-item15610520
+FileChecksum: SHA1: 79624fa754d587011f8b4c2f8cb6d990ab211a3b
+FileChecksum: MD5: aa5339f7831dc7cbf8eccb840faaacef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/Chart.yaml
+SPDXID: SPDXRef-item15610526
+FileChecksum: SHA1: 79624fa754d587011f8b4c2f8cb6d990ab211a3b
+FileChecksum: MD5: aa5339f7831dc7cbf8eccb840faaacef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/charts/logdemonode/templates/deployment.yaml
+SPDXID: SPDXRef-item15610517
+FileChecksum: SHA1: a42f5023ef3340d4248cb34d5352f6e6df272e1a
+FileChecksum: MD5: 72b71b811ee5f0287dcad79a5a74523a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/charts/logdemonode/templates/configmap.yaml
+SPDXID: SPDXRef-item15610518
+FileChecksum: SHA1: e252463b7cd08fafc3264cd8f8e87f815ff2d67c
+FileChecksum: MD5: 78fc5c14563e7359f621bd73dbb7f719
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/src/test/java/org/onap/logging/ref/slf4j/ONAPLogAdapterOutputTest.java
+SPDXID: SPDXRef-item15610757
+FileChecksum: SHA1: e71a359905919dfa522eab1ae4eec305444eacc8
+FileChecksum: MD5: 5115d2d3f1d4ecd81605872ede03f026
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/test/java/org/onap/logging/demo/ApplicationServiceTest.java
+SPDXID: SPDXRef-item15610705
+FileChecksum: SHA1: adc11cea9dd7145276c4a523747b61b27c81ecd9
+FileChecksum: MD5: b6e2a2be176a26f8c2b7fbddd21a64f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-library/src/main/java/org/onap/logging/library/LoggingAspect.java
+SPDXID: SPDXRef-item15610790
+FileChecksum: SHA1: 87ed0ae0d38a7b10d6ba562a0dd35b34650d9077
+FileChecksum: MD5: 8d962def27aded7c6215eb0f1a9530aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/__init__.py
+SPDXID: SPDXRef-item15610853
+FileChecksum: SHA1: bfb9e151c61421fd45bdabbf7ba0d7db6338e7c8
+FileChecksum: MD5: 1a2c40d31611e980eff445bc8658e24d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/charts/logdemonode/templates/service.yaml
+SPDXID: SPDXRef-item15610519
+FileChecksum: SHA1: aae713ef3adfd5bbb96a1e5acc17be7dae9d37eb
+FileChecksum: MD5: a4398e640cbed0a3d3f733fa14879aa5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/values.yaml
+SPDXID: SPDXRef-item15610505
+FileChecksum: SHA1: 276b18e4114472e062f84fb319107da01d0ec534
+FileChecksum: MD5: c70c08fc7340537c4dee43d2851b7ccb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/deploy/docker_prepull.sh
+SPDXID: SPDXRef-item15610926
+FileChecksum: SHA1: b46c46196da1679d15fc77a230f7427611477de3
+FileChecksum: MD5: f85377f5390f00bab536da13f59feb01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs. </text>
+ 
+
+##File
+
+FileName: logging-analytics/deploy/azure/oom_deployment.sh
+SPDXID: SPDXRef-item15610929
+FileChecksum: SHA1: 62d38c8d59a962211801cb271342090dfad20d8b
+FileChecksum: MD5: 01e15bc2ff4099d9663b38e530431e54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/charts/logdemonode/values.yaml
+SPDXID: SPDXRef-item15610509
+FileChecksum: SHA1: c9e77299d1e8bad8d623f920f7f19f4f0d045dc7
+FileChecksum: MD5: cd5ebcf5cc6646d37dd1127defcf9c46
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs, Bell Canada </text>
+ 
+
+##File
+
+FileName: logging-analytics/deploy/rancher/oom_entrypoint.sh
+SPDXID: SPDXRef-item15610935
+FileChecksum: SHA1: db0591c7ceda5cb7a32b82b7021c80cd05729644
+FileChecksum: MD5: 5f9e4b2e7c73762cf0acf4f18dc9dfa7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs. </text>
+ 
+
+##File
+
+FileName: logging-analytics/deploy/rancher/oom_rancher_setup.sh
+SPDXID: SPDXRef-item15610934
+FileChecksum: SHA1: 5f97a7f0dc5135c36408323d3a5c471710b58ba4
+FileChecksum: MD5: d07b10251b792cb9c5785b5422d038c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2019 Amdocs. </text>
+ 
+
+##File
+
+FileName: logging-analytics/deploy/heat/logging_openstack_13_16g.yaml
+SPDXID: SPDXRef-item15610924
+FileChecksum: SHA1: b14326ca03bcf3c291ade31573f285664b1b7667
+FileChecksum: MD5: 6353f59a380114d063bf2fbf3ad54601
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Amdocs Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/marker/__init__.py
+SPDXID: SPDXRef-item15610841
+FileChecksum: SHA1: 25ed6cef92bfaac2e7ea49abc203cf434ea1b913
+FileChecksum: MD5: 655168582617162f9e9760f2790ff1ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/deploy/aws/oom_cluster_host_install.sh
+SPDXID: SPDXRef-item15610932
+FileChecksum: SHA1: edbddb1ce4ba6e40bb54f23b24d09e46ddd44edd
+FileChecksum: MD5: f3dc7a9530de89a79e7b9835590e328c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs. </text>
+ 
+
+##File
+
+FileName: logging-analytics/deploy/cd.sh
+SPDXID: SPDXRef-item15610936
+FileChecksum: SHA1: f78a1efc7f9f521c007dc761fe22bdbaa29647c3
+FileChecksum: MD5: 7b434e48743245b968e3f9c345c8d9df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2019 Amdocs. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/SimpleServletHeadersMap.java
+SPDXID: SPDXRef-item15610653
+FileChecksum: SHA1: 4c9f7a30adbc47fffca735abf068c8629c53efee
+FileChecksum: MD5: d3f75270a9378f571b2caf5a5f300bee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/src/main/java/org/onap/logging/filter/spring/MDCTaskDecorator.java
+SPDXID: SPDXRef-item15610617
+FileChecksum: SHA1: bf4ef1df891aac57b960031934ae0b284c729b5f
+FileChecksum: MD5: 5483065b967af3d280b089ad795687b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/SimpleJaxrsHeadersMap.java
+SPDXID: SPDXRef-item15610663
+FileChecksum: SHA1: 76f87c1adbfc54acfa491e8610a7555ee5752284
+FileChecksum: MD5: 7ac5c9fc58097e2d200d5ef017f39532
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/SimpleHashMap.java
+SPDXID: SPDXRef-item15610667
+FileChecksum: SHA1: d6ec0a67060af43b1d7d7f4baecdea5cb6f25647
+FileChecksum: MD5: 6a4f4820a8a5d8cda41208d028fcd05a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/src/main/java/org/onap/logging/filter/spring/SpringClientPayloadFilter.java
+SPDXID: SPDXRef-item15610616
+FileChecksum: SHA1: 44bd7d981ff61e68d3da3fbd6c543e42a99ffba0
+FileChecksum: MD5: d3ff622d553e499ad67b259626a54d0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/SimpleMap.java
+SPDXID: SPDXRef-item15610670
+FileChecksum: SHA1: dd8cea90b9cf791fbcfefcd397cd85f60a415542
+FileChecksum: MD5: a5dece39160371a5d7234257eac31115
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/src/test/java/org/onap/logging/filter/spring/LoggingInterceptorTest.java
+SPDXID: SPDXRef-item15610608
+FileChecksum: SHA1: b5363b7c26df41a976ff8b6a5701f0daed6e997b
+FileChecksum: MD5: dc321cfbc2471828ebfd813af9824db8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/src/main/java/org/onap/logging/filter/spring/LoggingInterceptor.java
+SPDXID: SPDXRef-item15610619
+FileChecksum: SHA1: 021149253f5bdacb0a8338a9a496d55bcb4d12f0
+FileChecksum: MD5: 2b054c1562410a9ea1d6a515386a54f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/src/main/java/org/onap/logging/filter/spring/StatusLoggingInterceptor.java
+SPDXID: SPDXRef-item15610621
+FileChecksum: SHA1: bef0d1a24174b549bba9f0cd9cd06dd27bb8acf7
+FileChecksum: MD5: c41c7b94ed97bcabe3d3b2b6c0c23ce2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/AuditLogContainerFilterTest.java
+SPDXID: SPDXRef-item15610636
+FileChecksum: SHA1: 4a6fee551d1524eab76dc280e7880e72a0516eeb
+FileChecksum: MD5: 5ee37ed0facf33d5680edf622c9608c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/SimpleJaxrsHeadersMapTest.java
+SPDXID: SPDXRef-item15610635
+FileChecksum: SHA1: 2d21538d85611ce6c959b5192e242b8535519c75
+FileChecksum: MD5: 3847994e5056a6d0f81e83d86f6bcbbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/SimpleServletHeadersMapTest.java
+SPDXID: SPDXRef-item15610640
+FileChecksum: SHA1: 4ae61727e214b6a3da60ceaa3ca7449187d9b9ae
+FileChecksum: MD5: 09c175d3c187c4d10d2f11034eb3b294
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/LoggingContainerFilterTest.java
+SPDXID: SPDXRef-item15610641
+FileChecksum: SHA1: 90d7e871d538384bffd3aea15da02ecc7341a284
+FileChecksum: MD5: 894e347b7084cc104baec94da9609b1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/AbstractServletFilter.java
+SPDXID: SPDXRef-item15610655
+FileChecksum: SHA1: 07f43af6d202e6bf17acc547bc84c05b66bc45ae
+FileChecksum: MD5: d0caae9e88b54d5362deadbab3b444a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/AuditLogServletFilterTest.java
+SPDXID: SPDXRef-item15610642
+FileChecksum: SHA1: d715057f19d2d62e00c1c85a328a5b5f069487a3
+FileChecksum: MD5: e95fe48d3727b8f342f04cbc79779a33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/PayloadLoggingClientFilterTest.java
+SPDXID: SPDXRef-item15610643
+FileChecksum: SHA1: 712706a794318dd0fe50e1a5f66c01fd26607cd9
+FileChecksum: MD5: c07bc603b2fb018e13f5c9ccb13248de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/ONAPComponents.java
+SPDXID: SPDXRef-item15610657
+FileChecksum: SHA1: 2fb70dec737ca6f79ade48772358c2840cee71c2
+FileChecksum: MD5: d56cffed9e31c7c5540a56d2e8e48e47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/ONAPComponentsList.java
+SPDXID: SPDXRef-item15610662
+FileChecksum: SHA1: 489476cef375702e6424305e4ad322670d624ead
+FileChecksum: MD5: dcd85bd3a9290386f9052d98ade63b49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/AuditLogServletFilter.java
+SPDXID: SPDXRef-item15610672
+FileChecksum: SHA1: f39bba310954b7d86b624f9e9a6c5b8bc534ace3
+FileChecksum: MD5: 7b4ed3293e6a5913fcb5b1fd15f2038c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 IBM.
+Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/src/main/java/org/onap/logging/filter/spring/SpringClientFilter.java
+SPDXID: SPDXRef-item15610620
+FileChecksum: SHA1: 4e04bf1a71b8656071fe12bb050adf129710eb01
+FileChecksum: MD5: 25f27b2f876231bb111f087c17b5e680
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/PayloadLoggingClientFilter.java
+SPDXID: SPDXRef-item15610674
+FileChecksum: SHA1: 93540a123ae7ceeb356f41e8ff52ce50ca7d64c6
+FileChecksum: MD5: 2d8ca200af8f6bd95c6e1dc6b065b41e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/src/test/java/org/onap/logging/ref/slf4j/ONAPLogConstantsTest.java
+SPDXID: SPDXRef-item15610756
+FileChecksum: SHA1: 18beee9d7e387d22012c9feef043ce4bebeba9ab
+FileChecksum: MD5: 7dfca7122f7ad1079cef1eb8cfe1a6a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/MetricLogClientFilter.java
+SPDXID: SPDXRef-item15610675
+FileChecksum: SHA1: 7dfead4441da59878ae3e6a748c63c38721476fc
+FileChecksum: MD5: 7df87739767e02f9d3d976ea1cbef64a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/src/test/java/org/onap/logging/ref/slf4j/ONAPLogAdapterTest.java
+SPDXID: SPDXRef-item15610758
+FileChecksum: SHA1: f0acc7d71cf7c513f01a77b33127c7d3889381d9
+FileChecksum: MD5: ca604d66dbe69a5e7478e207c904186e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/src/main/java/org/onap/logging/ref/slf4j/ONAPLogConstants.java
+SPDXID: SPDXRef-item15610767
+FileChecksum: SHA1: 701b1259b745f394f8b5481f0a4f1d02a0043881
+FileChecksum: MD5: a8caafdc572229d86da3d61dfb7268af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 Amdocs All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/Constants.java
+SPDXID: SPDXRef-item15610654
+FileChecksum: SHA1: f4e1f2c373859fd39217604c3932016a1ae96874
+FileChecksum: MD5: 0e5369ea753bc06732a02a72c21ed8af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/ScheduledLogging.java
+SPDXID: SPDXRef-item15610652
+FileChecksum: SHA1: 42e91002fb2575d6bb24405b77d4d806bc614cbd
+FileChecksum: MD5: da71d9dc2d98165446c9d8b3ef1ec283
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/src/main/java/org/onap/logging/filter/spring/SpringScheduledTasksMDCSetupAspect.java
+SPDXID: SPDXRef-item15610618
+FileChecksum: SHA1: 3daaff0f2cd41f8a2b13ee6621ed3d3ce416bf8b
+FileChecksum: MD5: 01da7b986339b12a1f17130425c28f32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/ErrorCode.java
+SPDXID: SPDXRef-item15610656
+FileChecksum: SHA1: 31edf37959702dd007a7de2d3bc4f5a3c1c8b4d7
+FileChecksum: MD5: 4bd801b9f9ce6d0051793e4100620a93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/ScheduledTasksMDCSetupAspectTest.java
+SPDXID: SPDXRef-item15610637
+FileChecksum: SHA1: 7adf3dacfdb35870b3fa66550e17678287f68ca1
+FileChecksum: MD5: 274d9f7967eab2f919e80d92849d040b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/AbstractMDCSetupAspect.java
+SPDXID: SPDXRef-item15610673
+FileChecksum: SHA1: eb4083fdc9682657e18dd392c7c2bb0776438ab5
+FileChecksum: MD5: d00d8fecdc4dd46da49004cc670581ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/MetricLogClientFilterTest.java
+SPDXID: SPDXRef-item15610638
+FileChecksum: SHA1: 84c52c571e321b255b79f23c2bd0464f8cc92417
+FileChecksum: MD5: a7c646fbadfac1b51db0f4b5c086ccd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/ScheduledTasksMDCSetupAspect.java
+SPDXID: SPDXRef-item15610671
+FileChecksum: SHA1: 02cd8528bee56c9cab023ac3e29187714d703bd4
+FileChecksum: MD5: fdca38519365caee9d51349d6a1b0af2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/ScheduledTaskException.java
+SPDXID: SPDXRef-item15610660
+FileChecksum: SHA1: 1f0e267225d6b80194ba3f33b6a6a4e2b67fbda3
+FileChecksum: MD5: 473c4ac24202735cfaff5b0b03d21f65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/AbstractMetricLogFilter.java
+SPDXID: SPDXRef-item15610658
+FileChecksum: SHA1: 507aa66d7e20088bf670a2185cb7bdb98a771b16
+FileChecksum: MD5: 7189673704034bb1dc539bdb581f8a9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/src/test/java/org/onap/logging/filter/spring/SpringClientFilterTest.java
+SPDXID: SPDXRef-item15610607
+FileChecksum: SHA1: 3902260e5d6e5e4d2681cad53f1b8ed79a07d3a7
+FileChecksum: MD5: 520fdff6bc0ed8e210811804e8071c34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/SoapMetricLogHandler.java
+SPDXID: SPDXRef-item15610659
+FileChecksum: SHA1: 929ca90d9f85d89ec533a02ad207034a4216d42c
+FileChecksum: MD5: fd14217e5026c9f99b1e382b2d8338f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/AuditLogContainerFilter.java
+SPDXID: SPDXRef-item15610661
+FileChecksum: SHA1: a17477116aa28b7019435b70c3164498d26e2977
+FileChecksum: MD5: 6a27782b4b506045f2672cd4ddbca748
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/CustomFilter.java
+SPDXID: SPDXRef-item15610665
+FileChecksum: SHA1: 817729516b3043f6cc4d8d4822ae4c9c9fd8a4c6
+FileChecksum: MD5: cb5b7756978a8106128d5c1cf505be2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/AbstractAuditLogFilter.java
+SPDXID: SPDXRef-item15610664
+FileChecksum: SHA1: dc658d9bd545d6421afb4c73de0b2a6cfbaca737
+FileChecksum: MD5: 6bdbb38b0e544621e1feb13fdbbdc665
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/HttpURLConnectionMetricUtil.java
+SPDXID: SPDXRef-item15610669
+FileChecksum: SHA1: 57e79b9e86f70c6d0f097ffe402f32671cb40057
+FileChecksum: MD5: 6e7aac07bb0e2b0fb069f05c4b61669a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/FilteredMetricLogClientFilter.java
+SPDXID: SPDXRef-item15610666
+FileChecksum: SHA1: 0b17c36e9be25edd4051da61837be3effd6cfd62
+FileChecksum: MD5: 1a27df70f93a18435b11793dd95babe1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_marker.py
+SPDXID: SPDXRef-item15610859
+FileChecksum: SHA1: d31cca95849fa1aa2a6335f652ac0b49ce6db801
+FileChecksum: MD5: 9444b78764c90cda4ea4e4faaaca8ce6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_mdc_formatter.py
+SPDXID: SPDXRef-item15610862
+FileChecksum: SHA1: ecb37699a72210619f836864c817f0924b70053d
+FileChecksum: MD5: 7f6c0ebbcafbe5febf68790cb3ad4db8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_marker_log_adaptor.py
+SPDXID: SPDXRef-item15610857
+FileChecksum: SHA1: e501c0bc38dd822d5ada10a6013dd60041c9a0df
+FileChecksum: MD5: 9174e7e057fe78ab05b25acbae4d371d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_mdc_context.py
+SPDXID: SPDXRef-item15610865
+FileChecksum: SHA1: f8da69c9e7c44d47164762a86aa3823c68c952a8
+FileChecksum: MD5: 9c1feaafc36d438a2329de9cf0035b20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/PayloadLoggingServletFilter.java
+SPDXID: SPDXRef-item15610676
+FileChecksum: SHA1: b98e3781a83565cccd6b4e065d7ee2e4236a50b6
+FileChecksum: MD5: f99db1748a8525903a831c401a72b574
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 IBM.
+Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/AbstractBaseMetricLogFilter.java
+SPDXID: SPDXRef-item15610651
+FileChecksum: SHA1: 54f02a952571d87edef8a9c121c02ed13fc9edcd
+FileChecksum: MD5: 03bc7283c452c19c20ae305930796b35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/mdcContext.py
+SPDXID: SPDXRef-item15610837
+FileChecksum: SHA1: dc89aad91430363fa9ec00191451f7aa85048746
+FileChecksum: MD5: 4eedbdc750f988c81cb5961530bfdd04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/marker/marker.py
+SPDXID: SPDXRef-item15610839
+FileChecksum: SHA1: 7935b8d124e7cdc906e8fdd203ad8dea10daf505
+FileChecksum: MD5: dc21f7dedb65600ec5f3df13ead01424
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/marker/markerFactory.py
+SPDXID: SPDXRef-item15610840
+FileChecksum: SHA1: 9e3a18d84d9cec63574d453ae831cf141df215c5
+FileChecksum: MD5: 129eb16ed069a2df89e7361908ee9f31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/marker/markerFilter.py
+SPDXID: SPDXRef-item15610842
+FileChecksum: SHA1: 125556a30571dc43d9a833ec6bb198cc1cf9e4bc
+FileChecksum: MD5: 693143a3fb0361392f8ac651b9c593de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/marker/markerHandler.py
+SPDXID: SPDXRef-item15610843
+FileChecksum: SHA1: 08014c469778549287f117435b23813e9fef5f8e
+FileChecksum: MD5: ac9328032c642d095476f8a9da918b8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/java/org/onap/logging/filter/base/MDCSetupTest.java
+SPDXID: SPDXRef-item15610639
+FileChecksum: SHA1: eda8cb76dfc3a3331a39e6305c31e24b52d40a97
+FileChecksum: MD5: 2e6ee150a3df5bc0fa59987703d98a3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/utils/tools.py
+SPDXID: SPDXRef-item15610847
+FileChecksum: SHA1: f542918e3a8671cab698d20b67c599ab4ce370c1
+FileChecksum: MD5: fb36259ed2d7bb5a5a14b87647030dfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/markerFormatter.py
+SPDXID: SPDXRef-item15610850
+FileChecksum: SHA1: 5d85fc84337c0a02f6233fe78bae5281c7b8d0bc
+FileChecksum: MD5: f5bcb720f57e737d157850b2099c5268
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/monkey.py
+SPDXID: SPDXRef-item15610849
+FileChecksum: SHA1: c904fe78af8578cf53beefb5c78dcfc196bf125e
+FileChecksum: MD5: 9b669728bf912296607fa70da98147a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/colorFormatter.py
+SPDXID: SPDXRef-item15610852
+FileChecksum: SHA1: e0b058692a69d2c5317dd8762f11fa851810effc
+FileChecksum: MD5: 324279681d38ead6eb1716adfaf93f15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/logWatchDog.py
+SPDXID: SPDXRef-item15610851
+FileChecksum: SHA1: cabba6a03dd1a131b494687aca04f4aa0edccb3a
+FileChecksum: MD5: a14a70bc6e8c6079a6fe022747f40748
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/utils/styles.py
+SPDXID: SPDXRef-item15610848
+FileChecksum: SHA1: a55cab398898a7e118e45c1b212f700afc840684
+FileChecksum: MD5: fd32189b456f82033ffee7750c78beff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_utils.py
+SPDXID: SPDXRef-item15610860
+FileChecksum: SHA1: c4f23cc4ab1e4ffbd21fa7d3336ac5189e381ccb
+FileChecksum: MD5: 0d3a9a1e0e4ecb1208fabad80ca73920
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_marker_formatter.py
+SPDXID: SPDXRef-item15610858
+FileChecksum: SHA1: 702362ef52667c225cbb3a41289f7e3342b99268
+FileChecksum: MD5: 59abf601f29a0c4dfc822b64241b2960
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/markerLogAdaptor.py
+SPDXID: SPDXRef-item15610855
+FileChecksum: SHA1: 0d0b00d20d3d5761f526e4e3545825d03897e97f
+FileChecksum: MD5: 4d9621f16af7252007043d209f167413
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_monkey.py
+SPDXID: SPDXRef-item15610861
+FileChecksum: SHA1: 922be958e4d363a49f035c071851788fbd74ab17
+FileChecksum: MD5: 9bfa4611d1f2433dd72888bfd13db922
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/mdcformatter.py
+SPDXID: SPDXRef-item15610854
+FileChecksum: SHA1: 219eba6c9ecf071c2918add6ac75a5c06b443e4a
+FileChecksum: MD5: e3b529fd6b8a762621a658c9e1723b63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ke liang <lokyse@163.com>. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_log_watchdog.py
+SPDXID: SPDXRef-item15610864
+FileChecksum: SHA1: 29fb25217421ebfcd283438ea82c621c117f9b52
+FileChecksum: MD5: 63141272af75a1a0b596a87052caaa72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/test_color_formatter.py
+SPDXID: SPDXRef-item15610866
+FileChecksum: SHA1: 46104cd26194bc81857c08f61c15440d959904aa
+FileChecksum: MD5: c0dca8b057e974d61ab982e1bd7f6846
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/utils/system.py
+SPDXID: SPDXRef-item15610845
+FileChecksum: SHA1: cc3a5a23d9db21c18ace004a63baa8d252ed43fd
+FileChecksum: MD5: 8de6c9a78d63d58bbd1b541ab79d1af0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Deutsche Telekom. </text>
+ 
+
+##File
+
+FileName: logging-analytics/version.properties
+SPDXID: SPDXRef-item15610498
+FileChecksum: SHA1: e3a1c61779ecbf7455ef3fbee97b260b4674c56b
+FileChecksum: MD5: 9b278a647557c05cdec449c1d6ddb745
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Amdocs. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/version.properties
+SPDXID: SPDXRef-item15610828
+FileChecksum: SHA1: 4777d5f949bf4810a9fc3cd9b159e7d5299d22b5
+FileChecksum: MD5: a84968f24b560ee9e85b1b81037f4dae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017-2018 VMware, Inc. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/MDCSetup.java
+SPDXID: SPDXRef-item15610677
+FileChecksum: SHA1: 940256c577d1ce0ecdee168cf64eed507ac0f388
+FileChecksum: MD5: 90ad683feb9fe8781133384b3029c287
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/pom.xml
+SPDXID: SPDXRef-item15610868
+FileChecksum: SHA1: 223c7367a002ab684708fb1bb1cb94b306dc7f95
+FileChecksum: MD5: 561b421d467c68c6bd96323f19f39a67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017-2018 VMware, Inc. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/main/java/org/onap/logging/filter/base/CustomResponseStatus.java
+SPDXID: SPDXRef-item15610668
+FileChecksum: SHA1: 5086ce8b30938ad7ebac78f6a4d8f6091e6082a1
+FileChecksum: MD5: 54652fadb6ece5010c793e143ce022b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: logging-analytics/pylog/setup.py
+SPDXID: SPDXRef-item15610830
+FileChecksum: SHA1: a7c895e97a6a91db1f1cfb6960996a8b7cf058c0
+FileChecksum: MD5: 5fc2afce013b848ad3a8e7463a3cc184
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 VMware, Inc. </text>
+ 
+
+##File
+
+FileName: logging-analytics/docs/ONAP_Log_Analytics/onap_log_analytics.rst
+SPDXID: SPDXRef-item15610894
+FileChecksum: SHA1: 24c9caa2ffeaa3bad48998a978d9e5887459201e
+FileChecksum: MD5: 434cd37aa3f9c7f066bbbe7a2e642e5e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright © 2017-2020 Aarna Networks, Inc. </text>
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/pom.xml
+SPDXID: SPDXRef-item15610623
+FileChecksum: SHA1: 530096055c9d48f2b01b9cc4012e9377c8e8442c
+FileChecksum: MD5: 3bf52031222e47b08918dd5309f7681b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache_v2-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/README.md
+SPDXID: SPDXRef-item15610503
+FileChecksum: SHA1: 6eb11f6218506ac7b03c77f541e970f7140ae870
+FileChecksum: MD5: 2d24b44c729448a40aab406810fba096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/charts/logdemonode/resources/config/log/filebeat/filebeat.yml
+SPDXID: SPDXRef-item15610514
+FileChecksum: SHA1: 8c653cb3b946fc0d8f8db06f7b9e5f3297db9152
+FileChecksum: MD5: 30c809eeef480d6f2db348e8413273fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/charts/logdemonode/resources/config/logback.xml
+SPDXID: SPDXRef-item15610515
+FileChecksum: SHA1: 364bea466788407bdd68c553a6ca6c8c01041a71
+FileChecksum: MD5: 99f5724c335541772be3c78aaad3345e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/resources/config/application.properties
+SPDXID: SPDXRef-item15610523
+FileChecksum: SHA1: 4dc183bfdd529b66b36d82bdfd380ea16c9df8e3
+FileChecksum: MD5: d8a350a6d66db93529d08c0bd6a09397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/resources/config/README.txt
+SPDXID: SPDXRef-item15610524
+FileChecksum: SHA1: c8d2331011ea74154e895916703ad5aaf3e5e70e
+FileChecksum: MD5: a520a63e942e7be96926ed232b63e672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/logdemonode/.helmignore
+SPDXID: SPDXRef-item15610525
+FileChecksum: SHA1: 97c3400640d7c299dd2d3c1f8fcd2ee7d44e0e56
+FileChecksum: MD5: 7c7993b89ef3c59457cee4776a24f4c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-kubernetes/pom.xml
+SPDXID: SPDXRef-item15610527
+FileChecksum: SHA1: b0047f720e8d1e1d95303bd1cde6fd29bcd401a4
+FileChecksum: MD5: f3f4effbeb03c73c345b0508ffdb2572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/README.md
+SPDXID: SPDXRef-item15610529
+FileChecksum: SHA1: 5f45a23011c932363620fcd8132dd962ea5f721d
+FileChecksum: MD5: 05e39716217c9c74c810c6a63a6d8bef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/resources/logback.xml
+SPDXID: SPDXRef-item15610533
+FileChecksum: SHA1: b46588b12ad8c156459debad6a127bc60c72142a
+FileChecksum: MD5: 78e67b64440fd5e9958144c92705dd70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/test/java/testng.xml
+SPDXID: SPDXRef-item15610561
+FileChecksum: SHA1: 8b4b9bc695381aba4564934c1b1bd9a1f42e1cbc
+FileChecksum: MD5: c088306d176525e6e54855863942c564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/src/main/webapp/WEB-INF/web.xml
+SPDXID: SPDXRef-item15610565
+FileChecksum: SHA1: 21a3841e35d24215b776a7e2b4c3c1b3cde38c71
+FileChecksum: MD5: 7791b3324ed63446084a75e8da5d95f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j-demo/pom.xml
+SPDXID: SPDXRef-item15610595
+FileChecksum: SHA1: 68468f4f5a1e7dc7ab56af6cf8cf79d3b15446c4
+FileChecksum: MD5: bd560da44bfde22e7ceec8dc22781f0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/README.md
+SPDXID: SPDXRef-item15610597
+FileChecksum: SHA1: 6408562a6ab5dac67f8c28afb8d2ee0549fb9401
+FileChecksum: MD5: 57b1cca7688cf424cefc513c47aa6d78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-spring/pom.xml
+SPDXID: SPDXRef-item15610622
+FileChecksum: SHA1: cc79b87fd92cd487984e21bf36a13c8d76284d27
+FileChecksum: MD5: d5d00735a02265438cdc7bff02d4c29d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/src/test/resources/log4j2.properties
+SPDXID: SPDXRef-item15610628
+FileChecksum: SHA1: 1aa0e3c10b93a40f0597e444647fa9377bccc529
+FileChecksum: MD5: d9ce3a64cb49c284aad6dc97faf3eebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-filter/logging-filter-base/pom.xml
+SPDXID: SPDXRef-item15610678
+FileChecksum: SHA1: 39221465f05fbf7f5f5b4bc458cd349b66b58aeb
+FileChecksum: MD5: 9797ed067a57c5e1212b78389289de6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/helm/log4jv1/placeholder.txt
+SPDXID: SPDXRef-item15610682
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/helm/logback/README.MD
+SPDXID: SPDXRef-item15610684
+FileChecksum: SHA1: 2c33cd9710e98fb5fbc7ee6e1b472eb660b7ad95
+FileChecksum: MD5: 79285a77e2372adb45a2321be7f61b20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/helm/logback/test/placeholder.txt
+SPDXID: SPDXRef-item15610686
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/helm/logback/chart/values.yaml
+SPDXID: SPDXRef-item15610688
+FileChecksum: SHA1: 4a83c6a307e02694836d1450024ee26a782db8a0
+FileChecksum: MD5: 18b54f630dc57e9210d2e21cd1ef9b88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/helm/logback/chart/resources/logback.xml
+SPDXID: SPDXRef-item15610690
+FileChecksum: SHA1: 46a1fb6cf0dfc3adf9508f0a5dde1a7b3b075f18
+FileChecksum: MD5: 2ebc4e2ac14f4f03c8b9bc1bd0be497d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/helm/logback/chart/templates/configmap.yaml
+SPDXID: SPDXRef-item15610692
+FileChecksum: SHA1: 7c7fd949e1a8cc23ef73d847586d2e9d4266cd97
+FileChecksum: MD5: dee5ac39c07f11744dbcceb961b0dfe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/helm/logback/chart/Chart.yaml
+SPDXID: SPDXRef-item15610693
+FileChecksum: SHA1: afe171ba379a063e00332e20245cbf30cc949be7
+FileChecksum: MD5: 2ec6bb57b3f6b300170b0128a23d1872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/helm/log4j/placeholder.txt
+SPDXID: SPDXRef-item15610695
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/provider/pom.xml
+SPDXID: SPDXRef-item15610696
+FileChecksum: SHA1: 697ccbebbbfb59722277c5a09e320b5cfda8f110
+FileChecksum: MD5: f7e9add2063d098d917fab76a0fee05f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/resources/logback.xml
+SPDXID: SPDXRef-item15610708
+FileChecksum: SHA1: 364bea466788407bdd68c553a6ca6c8c01041a71
+FileChecksum: MD5: 99f5724c335541772be3c78aaad3345e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/webapp/WEB-INF/spring.xml
+SPDXID: SPDXRef-item15610711
+FileChecksum: SHA1: d4af05f7e60961349230ece99c25bf76360a3285
+FileChecksum: MD5: 1fb45fcf715f9b6d8d09af2f0ec9c727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/webapp/WEB-INF/web.xml
+SPDXID: SPDXRef-item15610712
+FileChecksum: SHA1: 6efc7aed963deafa427991ac49859433fed8984a
+FileChecksum: MD5: 410937d3fdc13ac78aa43d36f21c06da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/webapp/WEB-INF/servlet-context.xml
+SPDXID: SPDXRef-item15610713
+FileChecksum: SHA1: c511885d3e633ba77663b8bc40d0da9f818c7da1
+FileChecksum: MD5: dfd579f31666fef7f2204bdfb04b7bde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/webapp/index.jsp
+SPDXID: SPDXRef-item15610714
+FileChecksum: SHA1: ed82bfed80c7ae3d26bfc360bbf604a182063833
+FileChecksum: MD5: 0846f4b803d93b18e34a98b81ea14c9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/webapp/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item15610716
+FileChecksum: SHA1: 14f6e5aedc400d47fda71c2fdc8ac3c1ac37ec0b
+FileChecksum: MD5: d0e895251c05b9ea895dda3a15b060db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/src/main/java/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item15610730
+FileChecksum: SHA1: 14f6e5aedc400d47fda71c2fdc8ac3c1ac37ec0b
+FileChecksum: MD5: d0e895251c05b9ea895dda3a15b060db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/resources/microservice/conf/logback.xml
+SPDXID: SPDXRef-item15610734
+FileChecksum: SHA1: ee230765d470a67fac5ac1f09c67b2720a4d0d2e
+FileChecksum: MD5: aa9961ed27b7886cb46e2caed49f55fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-demo/pom.xml
+SPDXID: SPDXRef-item15610735
+FileChecksum: SHA1: c260c27f6efc8fe8b8bceb84781859052c210458
+FileChecksum: MD5: 08eeff4eb4cae3a8260b5bbd20c6f698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-docker-root/logging-docker-demo/DockerFile
+SPDXID: SPDXRef-item15610738
+FileChecksum: SHA1: 6a85d80af4019e43cff53fa5ae05f87b5097b1e1
+FileChecksum: MD5: c325f80662a9827c310cb249cca20511
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-docker-root/logging-docker-demo-service/DockerFile
+SPDXID: SPDXRef-item15610741
+FileChecksum: SHA1: 6a85d80af4019e43cff53fa5ae05f87b5097b1e1
+FileChecksum: MD5: c325f80662a9827c310cb249cca20511
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-docker-root/pom.xml
+SPDXID: SPDXRef-item15610743
+FileChecksum: SHA1: 1e4eaa41e10093e1747e50a7aa62065f956a5d29
+FileChecksum: MD5: b0f4fa39deb37a8ce26c6db9f0744c88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/README.md
+SPDXID: SPDXRef-item15610745
+FileChecksum: SHA1: 58b5317c023b687fec92ff573a246aa7a069129c
+FileChecksum: MD5: 7b317de422b4a48eaf3f8daddd0bfdba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/src/test/resources/logback.xml
+SPDXID: SPDXRef-item15610749
+FileChecksum: SHA1: b46588b12ad8c156459debad6a127bc60c72142a
+FileChecksum: MD5: 78e67b64440fd5e9958144c92705dd70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/src/test/java/testng.xml
+SPDXID: SPDXRef-item15610759
+FileChecksum: SHA1: 8b4b9bc695381aba4564934c1b1bd9a1f42e1cbc
+FileChecksum: MD5: c088306d176525e6e54855863942c564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-slf4j/pom.xml
+SPDXID: SPDXRef-item15610770
+FileChecksum: SHA1: 7bca520a3c121eb111367cfaf0eafc0687107527
+FileChecksum: MD5: 3c1ab270fe5b5a8c0eb8088c3288d693
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-mock-service/pom.xml
+SPDXID: SPDXRef-item15610779
+FileChecksum: SHA1: b9269cb5161f66767e4028ee321b32889a927f03
+FileChecksum: MD5: cec137d96368d37fe9b1132cbae980c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/pom.xml
+SPDXID: SPDXRef-item15610780
+FileChecksum: SHA1: 12811bdbf1e792e826b1466bbe71cc541d67b1a5
+FileChecksum: MD5: f57e9f7cd8ca791d0ea7dcf27fbb6563
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/reference/logging-library/pom.xml
+SPDXID: SPDXRef-item15610791
+FileChecksum: SHA1: b445a11a2d8a236043075b0b828a6af1b9cd82da
+FileChecksum: MD5: ade267218cf8ec8f68748a12f20bdf38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/README.md
+SPDXID: SPDXRef-item15610792
+FileChecksum: SHA1: 44e7982c1a3039f46c1ffae1ffe532c5c159def7
+FileChecksum: MD5: c96205a61c2924d7ba7ed64c05dec640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/INFO.yaml
+SPDXID: SPDXRef-item15610793
+FileChecksum: SHA1: eef741fa4cfe0ada8ba76a3c4a3bbfc3539564da
+FileChecksum: MD5: cf44c34517bb01226801d2fa302262ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/.gitreview
+SPDXID: SPDXRef-item15610794
+FileChecksum: SHA1: 52ee7ba6990b4a0c7d28447e09341f3aa74c2f98
+FileChecksum: MD5: e712b1706a10de9132a96dec34b3603d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/logstash/conf/logstash.yml
+SPDXID: SPDXRef-item15610798
+FileChecksum: SHA1: 9d3ee4ba61ed8281df325e3de6bcac42a136cfc6
+FileChecksum: MD5: d9e25bbaf25f535f79e7d57f20113edf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/logstash/conf/onap-pipeline.properties
+SPDXID: SPDXRef-item15610799
+FileChecksum: SHA1: 6359931b7d08867bc764632e064a5effc3bd7fdc
+FileChecksum: MD5: ecc33254f6976dd67490bcd2fa6cd141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/logstash/conf/README.md
+SPDXID: SPDXRef-item15610800
+FileChecksum: SHA1: 63777c1886ea73f02174a9771ba189b5b8fa7dac
+FileChecksum: MD5: 67e255139ffdec0a23a4c0d7f668dee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/logstash/conf/onap-pipeline.conf
+SPDXID: SPDXRef-item15610801
+FileChecksum: SHA1: 8c6fff9d2729345f53f843db2405669edf50fc12
+FileChecksum: MD5: 9df363871d5bab5417149a37bd18ba5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/filebeat/logback/conf/README.md
+SPDXID: SPDXRef-item15610805
+FileChecksum: SHA1: fd6fd3c0fd45f89a675e2cb27ae4426e2e91dc23
+FileChecksum: MD5: 66df7997d16adf101b52e46a6f9b0fbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/filebeat/logback/conf/filebeat.properties
+SPDXID: SPDXRef-item15610806
+FileChecksum: SHA1: 280dfec5790a8ba713ca43d3b2ff5c5f6942003d
+FileChecksum: MD5: b569ca6bcf1304ae7e98655f5eeaf7af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/filebeat/logback/conf/filebeat.yml
+SPDXID: SPDXRef-item15610807
+FileChecksum: SHA1: a793d9c7209ff47e59a374bb63d318394871f826
+FileChecksum: MD5: cda3adf49b580bed5ff8200738316e24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/filebeat/log4j/conf/README.md
+SPDXID: SPDXRef-item15610810
+FileChecksum: SHA1: 9576f72bff07bbe4c57e0b91e247b5974b85a4b9
+FileChecksum: MD5: f3a1810c25753dd0b2a95247f23b1450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/filebeat/log4j/conf/filebeat.properties
+SPDXID: SPDXRef-item15610811
+FileChecksum: SHA1: cd47bfabceb2fe837c5e09295632faec988dae44
+FileChecksum: MD5: 97b8be9b225455332a5d063cd847a118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/filebeat/log4j/conf/filebeat.yml
+SPDXID: SPDXRef-item15610812
+FileChecksum: SHA1: ef8e4b725f85c33a6cfe03335ea5e50053017679
+FileChecksum: MD5: 8e864ca5ba024d9eca8d28da8799f4e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/elasticsearch/conf/elasticsearch.yml
+SPDXID: SPDXRef-item15610815
+FileChecksum: SHA1: 158362c35d5599b17c50d30d9b549f32d3a8b74f
+FileChecksum: MD5: e53ea4110038706550051f1541bcd126
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/elasticsearch/conf/README.md
+SPDXID: SPDXRef-item15610816
+FileChecksum: SHA1: 2f77062e221df91d73dd3afbded360d9370de58d
+FileChecksum: MD5: c8f938acb49aad09daba1ae572c9732f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/elasticsearch/conf/elasticsearch.properties
+SPDXID: SPDXRef-item15610817
+FileChecksum: SHA1: 1c8823d73954066bb30862b1c327212d6f61f2ea
+FileChecksum: MD5: e032ab4263c2bb10f3acc1edeb160103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/kibana/conf/README.md
+SPDXID: SPDXRef-item15610820
+FileChecksum: SHA1: f1d5650dd55705a20098b8660e27c548891f72a2
+FileChecksum: MD5: 5ed8f2ce075ec9a7f22354034306197e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/kibana/conf/kibana.yml
+SPDXID: SPDXRef-item15610821
+FileChecksum: SHA1: c172ec60df486ff9955cf6e5aeb1e254d5a568f7
+FileChecksum: MD5: 493790e961ba4ce44d5ce5f5fd67c81e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/elasticstack/kibana/conf/kibana.properties
+SPDXID: SPDXRef-item15610822
+FileChecksum: SHA1: 38397b3cabb641bcf03e0af2c569b529ba55f19e
+FileChecksum: MD5: 7f1d4ebc62731ccb9ca748e269fc9c92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/project-configs/code-tools/pom-format.properties
+SPDXID: SPDXRef-item15610825
+FileChecksum: SHA1: 2a93289c8480d944afac1a8521dd94df5a8589c7
+FileChecksum: MD5: fda2873979c42dc49207ba11eabb6102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/project-configs/code-tools/onap-java-format.xml
+SPDXID: SPDXRef-item15610826
+FileChecksum: SHA1: 90890e715445a44fafbe9207f00a3d4b589d3b33
+FileChecksum: MD5: 2859998ef0ce6f2aa027516b77a99ea1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pylog/README.md
+SPDXID: SPDXRef-item15610829
+FileChecksum: SHA1: f22584c4dc512539c8e3aba12267e6e523a75e18
+FileChecksum: MD5: 8abd263ec3d35bc55bf794c2859dc742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tox.ini
+SPDXID: SPDXRef-item15610832
+FileChecksum: SHA1: 6a9390136df37d9ce43f02a6bfcd88034efcfc1b
+FileChecksum: MD5: a3c5ca1e6b3b40fbb66b165d5404c011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pylog/test_requirements.txt
+SPDXID: SPDXRef-item15610833
+FileChecksum: SHA1: ee8b37340f387f1b48f0610adec3610b83632f4b
+FileChecksum: MD5: 16a12d3e54d2bcb409786b3f13f9f820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pylog/__init__.py
+SPDXID: SPDXRef-item15610834
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pylog/requirements.txt
+SPDXID: SPDXRef-item15610835
+FileChecksum: SHA1: 536ff05202509e64b9b26ce616650b3c7862f062
+FileChecksum: MD5: c6f4cbe354c92abe405876bdab6b730d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pylog/onaplogging/utils/__init__.py
+SPDXID: SPDXRef-item15610846
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pylog/tests/__init__.py
+SPDXID: SPDXRef-item15610863
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pylog/.gitignore
+SPDXID: SPDXRef-item15610867
+FileChecksum: SHA1: 83e46d69703e26100f5c30b49d45b2f94f524dac
+FileChecksum: MD5: 55c3c62f0b19c895ac2656c4cbf494c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.1.yaml
+SPDXID: SPDXRef-item15610871
+FileChecksum: SHA1: c0cbd2c6dd278c9d346353d10cf72131520c22ed
+FileChecksum: MD5: 5772291b2a38636c2e2a7131dd302671
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.6.yaml
+SPDXID: SPDXRef-item15610872
+FileChecksum: SHA1: e3efb451c549842ca8618d607b3ba4cbf9ece279
+FileChecksum: MD5: d45f9630e5b2147f1e044617d9ab8b06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.7.yaml
+SPDXID: SPDXRef-item15610873
+FileChecksum: SHA1: bdbabbde0a41a2728f1b04469ef3b9d1b62911cd
+FileChecksum: MD5: aeb6cf5ff1c404f993cc2519ea2ae782
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.5.yaml
+SPDXID: SPDXRef-item15610874
+FileChecksum: SHA1: bce5aa86bbda8264f006f655ad47305c293f3661
+FileChecksum: MD5: fdb8800d2e3be43ec3172e424c4ff3ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.8.yaml
+SPDXID: SPDXRef-item15610875
+FileChecksum: SHA1: 477c4843cefacea2653dce8a02b96da6a9bbbece
+FileChecksum: MD5: 38f47af64bfbe2575d20630a4278572c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.5.1.yaml
+SPDXID: SPDXRef-item15610876
+FileChecksum: SHA1: 154cf84224b57fd9714d75d3d8501222095f052e
+FileChecksum: MD5: de698a059ab53dea2ee55287625d4de3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.0.yaml
+SPDXID: SPDXRef-item15610877
+FileChecksum: SHA1: 3a294caeb76672beda28fc4dfbd4fb647a05e2a6
+FileChecksum: MD5: d4035443a4a50cb3de0c260a08a52aa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.5.0.yaml
+SPDXID: SPDXRef-item15610878
+FileChecksum: SHA1: 6f1c39af81777e757ffd34c23c50bddd82bd449c
+FileChecksum: MD5: f5bb4f9ece38e7639ed386f511c03967
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.4.yaml
+SPDXID: SPDXRef-item15610879
+FileChecksum: SHA1: f2052901aaca75c4672e7d67c8abdc59ff6f1480
+FileChecksum: MD5: 9364bb3b27ac3821a10830c3203539e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.3.yaml
+SPDXID: SPDXRef-item15610880
+FileChecksum: SHA1: 9110dcfc762441576edaacd9dfd2492e579851e4
+FileChecksum: MD5: 86ef6b1b0e39b0a06bdac10af1caf397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/releases/1.6.9.yaml
+SPDXID: SPDXRef-item15610881
+FileChecksum: SHA1: f8c06140b480bb8ea7ee3fb74b7bbfde39ad0154
+FileChecksum: MD5: 7ae77c238cf45b2532b28ac1c730d955
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/.readthedocs.yaml
+SPDXID: SPDXRef-item15610882
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/.gitignore
+SPDXID: SPDXRef-item15610883
+FileChecksum: SHA1: cfdaf0096a563d89653c7a3c0aad948d7a88ba76
+FileChecksum: MD5: da76f2f15f77b3188544c391c883b2b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/requirements-docs.txt
+SPDXID: SPDXRef-item15610886
+FileChecksum: SHA1: 6681b8a769a3e0344136f295527960c9587d13b1
+FileChecksum: MD5: 646adeb101c66ab0129f9f6cd9e4b401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/conf.yaml
+SPDXID: SPDXRef-item15610888
+FileChecksum: SHA1: 7c234fd98c22d7868614794a7cd1bc5f647334a4
+FileChecksum: MD5: b048128c560b6148690658ccbce5edc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/onap_kibana_dashboard.png
+SPDXID: SPDXRef-item15610889
+FileChecksum: SHA1: 1fe038dd79fbbecd41d8f58ddcfb98683e273af9
+FileChecksum: MD5: 77b96db69c7e71a0b04c6033634cbbaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/conf.py
+SPDXID: SPDXRef-item15610890
+FileChecksum: SHA1: 6ab10e99848cc391caf749626a84c51cd9974117
+FileChecksum: MD5: 1893ad5dc9e7fea503f50a4094e09ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/tox.ini
+SPDXID: SPDXRef-item15610897
+FileChecksum: SHA1: 981abf87530a6904a8bec9ad71e213a9b9eac8fa
+FileChecksum: MD5: 570687b14e941f1e070a549f852467b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item15610900
+FileChecksum: SHA1: fb77f5bdf95a987e00e38b3613c0586931475805
+FileChecksum: MD5: d9eea8407f413b537c24e5be2c00c9b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item15610901
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/_static/favicon.ico
+SPDXID: SPDXRef-item15610902
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/time-range.png
+SPDXID: SPDXRef-item15610904
+FileChecksum: SHA1: 86e1a1cde781719b99c3d0cb1a20df3c4d67db9f
+FileChecksum: MD5: 006ef551721a1d95195824f65b4561b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/onap-component-logs.png
+SPDXID: SPDXRef-item15610905
+FileChecksum: SHA1: 4ddce7f525eefdddfc2e8f9fcf9488a970c3ec92
+FileChecksum: MD5: b441df226b012f02cb47a2ac444fa8d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/search-source-logstash.png
+SPDXID: SPDXRef-item15610906
+FileChecksum: SHA1: 8c0791e05b8f3ef00094932ac00fc926e049484c
+FileChecksum: MD5: bbb0cf007aa9e70a0f908e4e32160de3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/visualization.png
+SPDXID: SPDXRef-item15610907
+FileChecksum: SHA1: 14bef49a7b0eb98bd66768afa40c3885046f5455
+FileChecksum: MD5: def153ffb657a50e232ef14fb264a859
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/visualize-options.png
+SPDXID: SPDXRef-item15610908
+FileChecksum: SHA1: bbc517e4d240ff28bdae60e477b16d1c02c843d6
+FileChecksum: MD5: fa49c7e88935520e08518bde66451ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/select-bucket-type.png
+SPDXID: SPDXRef-item15610909
+FileChecksum: SHA1: 51c0de4836501fe41b929890a572b5e9d098acca
+FileChecksum: MD5: a2b081aa0e1b44171298f1a285656936
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/logging-architecture.png
+SPDXID: SPDXRef-item15610910
+FileChecksum: SHA1: d61e5f25fbd20a8ced6709ed14e4896e14ea77e8
+FileChecksum: MD5: d22fb6ac93041c19eebf0a079b0e7caf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/kibana_ui.png
+SPDXID: SPDXRef-item15610911
+FileChecksum: SHA1: eb83c4494076bd4db1b38f29b0340a13a6f997ff
+FileChecksum: MD5: 159e71e5dfb4c18c335743311a8913b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/search-component-logs.png
+SPDXID: SPDXRef-item15610912
+FileChecksum: SHA1: 75ffd21e08bf9e3a212bc6d946f244db15f89b37
+FileChecksum: MD5: 574347fec77b8ec0f649e17791295ff1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/split-row-data.png
+SPDXID: SPDXRef-item15610913
+FileChecksum: SHA1: 0aad2f5f36bd8645b1963eeb1f765e1a855948a7
+FileChecksum: MD5: aac2b0a0a03510826fbb42ab6444867d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/log-details.png
+SPDXID: SPDXRef-item15610914
+FileChecksum: SHA1: 9ba7ae38520dfd442cb4818c4ccdf3feedf7e45d
+FileChecksum: MD5: 131757c272271de49d448e17a1a3239c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/configure-index-pattern.png
+SPDXID: SPDXRef-item15610915
+FileChecksum: SHA1: 1bf8e79079137d5e2c4976de180745e9ad43703b
+FileChecksum: MD5: 96a6694536749aa00335c7f919981a98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/onap-discover.png
+SPDXID: SPDXRef-item15610916
+FileChecksum: SHA1: 2fb4ed9b494c3a77d5041b8e71b95cb298c0ba5f
+FileChecksum: MD5: c289f8d607c1be8248e19e3779649d66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/log-expand.png
+SPDXID: SPDXRef-item15610917
+FileChecksum: SHA1: dbf698a95dc4d94eec2e5fd27c5660983e1f54f1
+FileChecksum: MD5: fa2858bfde84172b0994f39fac77b3c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/media/data-table.png
+SPDXID: SPDXRef-item15610918
+FileChecksum: SHA1: 44cd21fdb0d8b7cc38099abefd1a7af927950e32
+FileChecksum: MD5: a5ee993ae59525034975d3af85b0039d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/docs/.gitignore
+SPDXID: SPDXRef-item15610919
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/pom.xml
+SPDXID: SPDXRef-item15610920
+FileChecksum: SHA1: cd5fc20316b8a94e653a429632d46ff94569f299
+FileChecksum: MD5: a84d3a330fa6eabb90a73c0b3b5d09a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/deploy/README.md
+SPDXID: SPDXRef-item15610922
+FileChecksum: SHA1: 0c3d993316f3f08b5ba136e5278a1b1c9e58d349
+FileChecksum: MD5: eebbe14d819c1ca9bb5c055b495833cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/deploy/heat/logging_openstack_oom.env
+SPDXID: SPDXRef-item15610925
+FileChecksum: SHA1: 3086a0187d7db8bc29513e1a754d4682615ff8fb
+FileChecksum: MD5: d959ec4cd978baa619626a1e78d815e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/deploy/azure/_arm_deploy_onap_cd_z_parameters.json
+SPDXID: SPDXRef-item15610928
+FileChecksum: SHA1: 526e4c3af5d1b2fdcf327765046f19841f73e4c2
+FileChecksum: MD5: 9a6c86719442605d762532096ff39386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/deploy/azure/_arm_deploy_onap_cd.json
+SPDXID: SPDXRef-item15610930
+FileChecksum: SHA1: 254e3e70da1e3173e9c6a922c05a7da33db73fba
+FileChecksum: MD5: 5dd7e6e1aa80d5c01dbf8f955084dea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: logging-analytics/basepath_marker
+SPDXID: SPDXRef-item15610937
+FileChecksum: SHA1: 977a228f895396eef16624aea1136f09c75c4c63
+FileChecksum: MD5: 3830a290a99d576b65febe45d73e0ae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Apache_v2-possibility
+LicenseName: Apache_v2-possibility
+ExtractedText: <text> License by Nomos. </text>
+
