@@ -1,0 +1,1688 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_clamp-2021-12-08.zip_1639482023.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-12-14T11:40:23Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: clamp-2021-12-08.zip
+PackageFileName: clamp-2021-12-08.zip
+SPDXID: SPDXRef-upload217
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 8f448fc7a33d91839e583a474b003f772c49e6f1
+PackageChecksum: SHA1: 3e670058876b52f3e23b139bc3c096c79949a709
+PackageChecksum: SHA256: 4ec7d415b9ab4edbfccb888bb15cd9700cfaf3961d383dd1fbb90887ba7b58d0
+PackageChecksum: MD5: 70d156a11c8d3a1c00bdad3dfa343dba
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload217
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/LICENSE.txt
+SPDXID: SPDXRef-item925763
+FileChecksum: SHA1: eec99398833f90048a3cf6d82b7d7673ad08dae6
+FileChecksum: SHA256: 55e3f06a13626ea1e6daad86adff7d8e7d0104618777602ca4edb344f5da1ac5
+FileChecksum: MD5: 3a1325978de42cc4b2bcb227966bd46b
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2017-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/elasticsearch/Dockerfile
+SPDXID: SPDXRef-item925703
+FileChecksum: SHA1: 73163f777ca227e833ed51397461571dc00b4f5b
+FileChecksum: SHA256: ae6b2b2be9d32307b4c187aa23b86e2cd4c55819ca84bc1e47e2f09798e4bae0
+FileChecksum: MD5: da532e958f4c3121f60128dbf05e159a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/backup.py
+SPDXID: SPDXRef-item925713
+FileChecksum: SHA1: 6820f744b0c3a6e34f4913d2d7a91114deee9c62
+FileChecksum: SHA256: 6dfcbb0b5357574ef7a23ead6523e42a6108a75fe344a369261590e2e00e1d05
+FileChecksum: MD5: b3c76c7ecfb613275d7a469da6cae8b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/restore.py
+SPDXID: SPDXRef-item925714
+FileChecksum: SHA1: 120d484f77cd3dff675c3f0b82d23e5748a6f168
+FileChecksum: SHA256: e21315133d20423c6d53d118fea5e85601c1c3a4cd9d7f8c928e972181e70dce
+FileChecksum: MD5: 23baca9f21f48301046e7ee050140115
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/startup.sh
+SPDXID: SPDXRef-item925720
+FileChecksum: SHA1: 3c044f5b84f629beea8fa6182c8a400a4c408ce5
+FileChecksum: SHA256: 921c06d49570b78bd3daa5b8bbef2ab2b16a18846b07d25cc96982812c7d8b9f
+FileChecksum: MD5: 7301432203fd5a7c0220f710edafbc0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/Dockerfile
+SPDXID: SPDXRef-item925721
+FileChecksum: SHA1: d1ac657ab344714645ea2cc4c7b915327ad75eb1
+FileChecksum: SHA256: d697268cd340cc56cb72144d2763a3ab0a6c345ac0e248e5b65d34754d183504
+FileChecksum: MD5: 39ef72dfec0816389a93d12526d92dee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/logstash/pipeline/logstash.conf
+SPDXID: SPDXRef-item925755
+FileChecksum: SHA1: 75193ba8fd32e461da60b8778594e03f5425c899
+FileChecksum: SHA256: a47ef86baf71ab8513b4f0a8db6961c92cae4ab50d52d67256c336fec3e2deaa
+FileChecksum: MD5: ec066601725d098890aee9dd6771c85b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/logstash/Dockerfile
+SPDXID: SPDXRef-item925756
+FileChecksum: SHA1: 1553f614228a40c7333f097f0fe9a6c927277922
+FileChecksum: SHA256: 0b8b45c0f747145eb288243d90d472eec09a1be0d14a02dd440eb67f5298935b
+FileChecksum: MD5: a35f7b32427e597b779f7341bdf204a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/script/TagVersion.groovy
+SPDXID: SPDXRef-item925760
+FileChecksum: SHA1: 12b9ef8b9347bcee95dfea0489d37804dd700bc8
+FileChecksum: SHA256: f49b60ca5a029a01d9ef20a21daff2b23566a2ba9e391a53ad7bd3ffb658cbc2
+FileChecksum: MD5: 6ba8039a5367a24d7aa4cc946ce239e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/pom.xml
+SPDXID: SPDXRef-item925795
+FileChecksum: SHA1: 50e963790184d8d4acdceae4964fe19ca258243b
+FileChecksum: SHA256: c7268b2d90c9938f76a6b74a7495e6b8d93995c1972d6e5e4b450ce1eeffc9fd
+FileChecksum: MD5: 1fc8b064d0727bf7d4a960651276f534
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/version.properties
+SPDXID: SPDXRef-item925788
+FileChecksum: SHA1: 29948a727b5f695871ba485aa6ff4bbedd68e4d6
+FileChecksum: SHA256: e7da4c0d4a48a3fe23676fea8c70de2e47943a6adf3289fe8ca0f66f7c7e2df7
+FileChecksum: MD5: 6746d8a17bf60c072ad0578dfdd728cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017-2020 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/requirements.yaml
+SPDXID: SPDXRef-item925851
+FileChecksum: SHA1: dfb4c130eb45e4618febc5d3abe22abe05a86e78
+FileChecksum: SHA256: b72220c3b34d290b727695b937c29f1fc06a0caafbe1b333fa73ee0f763b87af
+FileChecksum: MD5: 087dccba0593f41ed4947eebd96c5dcf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/requirements.yaml
+SPDXID: SPDXRef-item925802
+FileChecksum: SHA1: dfb4c130eb45e4618febc5d3abe22abe05a86e78
+FileChecksum: SHA256: b72220c3b34d290b727695b937c29f1fc06a0caafbe1b333fa73ee0f763b87af
+FileChecksum: MD5: 087dccba0593f41ed4947eebd96c5dcf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/values.yaml
+SPDXID: SPDXRef-item925798
+FileChecksum: SHA1: 34bad68fa35bbccf0e94ec85851a1137599b8050
+FileChecksum: SHA256: ddc0b9cebabdebf63084c695b05e5539b5d0d921f14d5f454bacb741ee9e3165
+FileChecksum: MD5: 4755b6bd5e192a2acab16f26416d311f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018-2019 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/resources/config/mariadb/docker-entrypoint-initdb.d/bootstrap-database.sh
+SPDXID: SPDXRef-item925814
+FileChecksum: SHA1: 76d1a5ec71e70aae85de58b87ba30b0dda8d1641
+FileChecksum: SHA256: 81b87b7ef361804a901bca38205d8d50706a3317023782f894b169ffcb639915
+FileChecksum: MD5: 87b18de06a7559d33f6dde8e4f23a5be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/values.yaml
+SPDXID: SPDXRef-item925806
+FileChecksum: SHA1: e029b1091b19fd358a02cfed35684907a0f81cac
+FileChecksum: SHA256: 12812b5c5a4b1332d8e57e5ae4cab1ea66502f51d7c7c12181399234eb40a880
+FileChecksum: MD5: 5fcfc639216c59fb17a8ab4c595f2003
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018-2019 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/templates/secrets.yaml
+SPDXID: SPDXRef-item925821
+FileChecksum: SHA1: 55f0494af18e44e9f38c01a67ea79a858d486666
+FileChecksum: SHA256: e6ebfedf0fc82f840cc07c55c561ed39fc54f2c802efe575c181d2bd475075df
+FileChecksum: MD5: e56afdd61c03be06f7aee79b1dea8179
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/templates/deployment.yaml
+SPDXID: SPDXRef-item925820
+FileChecksum: SHA1: 66cc764e88e24c0aad6cf3679c1b3514afd03ea5
+FileChecksum: SHA256: c774c01edb32a2d9fbe685fac6effa91c90636d83dd9dc0b65b66063dae387c1
+FileChecksum: MD5: ffb7b23aea2e4c572744b857fa222289
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/templates/NOTES.txt
+SPDXID: SPDXRef-item925822
+FileChecksum: SHA1: 6bab738a242dcb1c3532f52ed85771d07434f196
+FileChecksum: SHA256: 2b29cd77fddeef705c94f7118b05b2f40bdaa16437ba6f98dae6ca03641e3d53
+FileChecksum: MD5: 304518803884fcca86e1e1f4dd38f1a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/NOTES.txt
+SPDXID: SPDXRef-item925818
+FileChecksum: SHA1: 6bab738a242dcb1c3532f52ed85771d07434f196
+FileChecksum: SHA256: 2b29cd77fddeef705c94f7118b05b2f40bdaa16437ba6f98dae6ca03641e3d53
+FileChecksum: MD5: 304518803884fcca86e1e1f4dd38f1a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/resources/config/mariadb/conf.d/conf1/my.cnf
+SPDXID: SPDXRef-item925817
+FileChecksum: SHA1: edb8284a325a475236121b9c01c888992dd21173
+FileChecksum: SHA256: 84dd84dfd2d147234fac2471deda5cc381688d9bf54629d82973806103bea266
+FileChecksum: MD5: 8ae243e776a2ad3c891fe93529f726c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/templates/configmap.yaml
+SPDXID: SPDXRef-item925823
+FileChecksum: SHA1: 9822cb0e5db1f24b1db99f0253f39046a27a4541
+FileChecksum: SHA256: dcfe3c7699edd53cfa1c9e38575f51b98a5179a8237af2f3f5e2afffc6dea6a8
+FileChecksum: MD5: 381f0136cd096a9af9a7ab49a02e682c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/templates/pv.yaml
+SPDXID: SPDXRef-item925825
+FileChecksum: SHA1: 5ea8fd36beec795a98ae9d49316f9b5215000cc7
+FileChecksum: SHA256: 43489b6fce00acbdf4de27e6ba3536c9cae0219666c53fa59bb14c5d1c530d32
+FileChecksum: MD5: ccd48b97d8732364f63501c470f7adb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/templates/service.yaml
+SPDXID: SPDXRef-item925824
+FileChecksum: SHA1: 044938a6b77d9174578f59697225df5971d01566
+FileChecksum: SHA256: 3e663a28a3e5d028c720cc5b0778c8c5b7b490011bec4713acd09204b787dcac
+FileChecksum: MD5: 66a3dc9c54334cd8edc9c56df808c7bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/templates/pvc.yaml
+SPDXID: SPDXRef-item925826
+FileChecksum: SHA1: e21f3e185593b53b174dc31c48bd5fe50428c041
+FileChecksum: SHA256: 11a57d1fc018340187521d668449ffe4f29eda7ad63af906feb95f7f915c32ea
+FileChecksum: MD5: bc9b13a0e6568034289a15d70252aae7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/Chart.yaml
+SPDXID: SPDXRef-item925827
+FileChecksum: SHA1: 0726a320e887dc740c6bec6318dea71f366a2520
+FileChecksum: SHA256: 96619e8ff352eb8dca41a853d3e7c9662aeb18d7a2dbbc254543d5f84296d034
+FileChecksum: MD5: 2176ab3cb31fe716dd69cf2879202e3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/values.yaml
+SPDXID: SPDXRef-item925829
+FileChecksum: SHA1: fb8a05bf147fca3b8b1639dd83ae594887feac3a
+FileChecksum: SHA256: 564ba1a237961bcf9337b327d11861d936b84f76355b597c01c8ffbfd8c1062f
+FileChecksum: MD5: fa067df9b69f8f6cba14450c2707e176
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/resources/config/logstash.yml
+SPDXID: SPDXRef-item925835
+FileChecksum: SHA1: 77eb23b89a9ca71c241f96abfaa89dfd53e848e7
+FileChecksum: SHA256: 6e6b987929f23a7bc0fb82c43c4b031129f93b23a7f8ebf6b26d0da849ed1ce3
+FileChecksum: MD5: e12aad89de2953e3e3908964978dc972
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/resources/config/pipeline.conf
+SPDXID: SPDXRef-item925834
+FileChecksum: SHA1: 61a14656aad6e591810569608fc97a20712b2e03
+FileChecksum: SHA256: 6743ac91310e5e02399a2d2b8ce1b2fc6af5d57e11cf5d6eeae5fe673fe7dd82
+FileChecksum: MD5: b8ee153a70f46d26e0b3537e6d23e9ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/requirements.yaml
+SPDXID: SPDXRef-item925863
+FileChecksum: SHA1: e47182b7817f92e26ce4490b1c9cbb3355df9771
+FileChecksum: SHA256: eec40c15841c88c846d37c68945e4abed224af27ac2ae31f78879f782f161dba
+FileChecksum: MD5: 5067b414ce31c48d7120a73f70e4e332
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/requirements.yaml
+SPDXID: SPDXRef-item925879
+FileChecksum: SHA1: e47182b7817f92e26ce4490b1c9cbb3355df9771
+FileChecksum: SHA256: eec40c15841c88c846d37c68945e4abed224af27ac2ae31f78879f782f161dba
+FileChecksum: MD5: 5067b414ce31c48d7120a73f70e4e332
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/requirements.yaml
+SPDXID: SPDXRef-item925836
+FileChecksum: SHA1: e47182b7817f92e26ce4490b1c9cbb3355df9771
+FileChecksum: SHA256: eec40c15841c88c846d37c68945e4abed224af27ac2ae31f78879f782f161dba
+FileChecksum: MD5: 5067b414ce31c48d7120a73f70e4e332
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/templates/deployment.yaml
+SPDXID: SPDXRef-item925838
+FileChecksum: SHA1: 6689f59bfb7567b4eb8d38863a249dddf2103a65
+FileChecksum: SHA256: 945deb836d2954632e0def463cc8f6c9274529e71a538cabbc63d8e3c3eeade7
+FileChecksum: MD5: 0b3f3917f6d81530577961815bb94eeb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/templates/configmap.yaml
+SPDXID: SPDXRef-item925839
+FileChecksum: SHA1: a06f9bf9a3f2eb05da57cabece432c9c9f5d8912
+FileChecksum: SHA256: 1e4d77d708b1f46201e964c6e8dfbe171d5ea97049f0948c311d876e415dc981
+FileChecksum: MD5: dd99bfed37b77f84febb49e27c74c2e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/templates/service.yaml
+SPDXID: SPDXRef-item925883
+FileChecksum: SHA1: 7ed777e1cff1254704e38e99beaaec4f9e774187
+FileChecksum: SHA256: efc1520ea402cac2fe3560fdf4750d58ea28416608af05faf0038f52c934ee04
+FileChecksum: MD5: a8e7d3b2e63278709874979941694e96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/templates/service.yaml
+SPDXID: SPDXRef-item925840
+FileChecksum: SHA1: 7ed777e1cff1254704e38e99beaaec4f9e774187
+FileChecksum: SHA256: efc1520ea402cac2fe3560fdf4750d58ea28416608af05faf0038f52c934ee04
+FileChecksum: MD5: a8e7d3b2e63278709874979941694e96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/Chart.yaml
+SPDXID: SPDXRef-item925841
+FileChecksum: SHA1: d0c353ac9bc22e5c807e2cb5d0e2c8439ad7f148
+FileChecksum: SHA256: ed58b5240f153b283586613e5478af64ca8c54c466e2a57a22d79e0890e1ebdf
+FileChecksum: MD5: e346a807b3fb58e49f81202d2e5df133
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/resources/config/logback.xml
+SPDXID: SPDXRef-item925846
+FileChecksum: SHA1: 0b5709a850bcfb7a62d155147ba83ff250efa7d3
+FileChecksum: SHA256: b9b921e1d1eb74fc2b08cd43c0b5e7e9f9e65d8450f006ccfd7ed030531339be
+FileChecksum: MD5: f06c1c9741f7278fd6e044b084e7b70a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/values.yaml
+SPDXID: SPDXRef-item925843
+FileChecksum: SHA1: 7788940a904d9e4cded5435ad1f27b6ba599dfdb
+FileChecksum: SHA256: 6f62769b24ffd30a36a985e3a6e5e0df651451c40c7a66dcb354c66a7515e75a
+FileChecksum: MD5: a5fdf47d9a7081a09aacc7a8feb5836f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018-2019 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/resources/config/log/filebeat/filebeat.yml
+SPDXID: SPDXRef-item925850
+FileChecksum: SHA1: 2ad5001af5eeb8dc7aacce1139f886cc362f851d
+FileChecksum: SHA256: d5de3f6c96b4bcc407162208ee859e1c4d7e2d0e172ad2017d2ba242455cc041
+FileChecksum: MD5: eeba47848565b9b6a0962d550c809e1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/templates/NOTES.txt
+SPDXID: SPDXRef-item925854
+FileChecksum: SHA1: 4c45b4b5803635df70963811a06fde6e030d6989
+FileChecksum: SHA256: 6af2a751b3baed5d26e7301558f1e6cae0a91aed9240b708b733e1e5e55911fe
+FileChecksum: MD5: 66fffe65f508f6f8f3aa9bda3b143515
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/templates/NOTES.txt
+SPDXID: SPDXRef-item925887
+FileChecksum: SHA1: 4c45b4b5803635df70963811a06fde6e030d6989
+FileChecksum: SHA256: 6af2a751b3baed5d26e7301558f1e6cae0a91aed9240b708b733e1e5e55911fe
+FileChecksum: MD5: 66fffe65f508f6f8f3aa9bda3b143515
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/templates/deployment.yaml
+SPDXID: SPDXRef-item925853
+FileChecksum: SHA1: dfd2132fd027252e63c4bd10bd8be80dec429027
+FileChecksum: SHA256: fdc2b1f316af04fcac3a95290c357a829ce9b9c5ee64d1de4f188f1fb0b70632
+FileChecksum: MD5: 08b4dd42d85f162fb1a82f50d9db8d61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/templates/configmap.yaml
+SPDXID: SPDXRef-item925855
+FileChecksum: SHA1: a4aa640a9eef760cb40cbd8dc0b3b0832e49d573
+FileChecksum: SHA256: 8e85a46dc28da06e73d2c5443d4f79592190f4f7e409a6e091ab69bfe647495b
+FileChecksum: MD5: ddb5e1d710f2b0b9549ee9abe752b103
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/templates/service.yaml
+SPDXID: SPDXRef-item925856
+FileChecksum: SHA1: c22bb460ff09214b7e1fb5c494390707be1e2fd5
+FileChecksum: SHA256: b89ac99e5affcb8e32e9365fa4913b9767425133ae5c3d80d806c0651a1bc90c
+FileChecksum: MD5: c667a01f4f5e4eb37e026081ca420850
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/values.yaml
+SPDXID: SPDXRef-item925859
+FileChecksum: SHA1: 7d4681100fdeabe4b2f64943c76901056da3bb11
+FileChecksum: SHA256: aa01f6288f41e6b9e7818f392085a97eb492e70f53f4c764b2be84b3c0779912
+FileChecksum: MD5: 920ccb824fc871e260a9d1c765e95171
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/templates/deployment.yaml
+SPDXID: SPDXRef-item925865
+FileChecksum: SHA1: 7ebd5e7ecb08407c98771752b8bf8c93ede57eec
+FileChecksum: SHA256: 60e5a37cfaf229ba01de81cb548c1af43c822359db84dcbcf869ecb1ef1c15d6
+FileChecksum: MD5: 2dc6dd3575bbbbf618f11b066dca4d45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/resources/config/elasticsearch.yml
+SPDXID: SPDXRef-item925862
+FileChecksum: SHA1: 757c1b724dad8eb7e740a2ccc1b0041c125d3d1b
+FileChecksum: SHA256: 661891dfa097fb2e8061f747d12f90c972ef6497c7a25a99c811c1c2bd3fd0e2
+FileChecksum: MD5: 1a8923098ec3b1c552143e0309ada607
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/Chart.yaml
+SPDXID: SPDXRef-item925857
+FileChecksum: SHA1: 9a882462188a37c2bf918155486472eec2a1decc
+FileChecksum: SHA256: 861172ae0e74a3304b98202758cd56c2d05fcc4814b6de0e4c7fcda96a221b3f
+FileChecksum: MD5: 10d9c787879247d9bb6df698511af16d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/templates/configmap.yaml
+SPDXID: SPDXRef-item925866
+FileChecksum: SHA1: c0bbb2a0a8e5125c60e4667b9ec3f5b4782372e3
+FileChecksum: SHA256: 2d3cb57db55be558f37c156a1dd55816d4f5654d4065cc960369db1ea6f1df00
+FileChecksum: MD5: a1c174ac86ac95da814a2ff7eead42fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/templates/service.yaml
+SPDXID: SPDXRef-item925867
+FileChecksum: SHA1: d09942cbd93dc24670eb4760ad290e1c7e19f1d3
+FileChecksum: SHA256: 6679a3b10c29c56b5331094b2172d18a6b3adaf27c4f3cf5ee8dac30bb1d96f9
+FileChecksum: MD5: 510eaa62869724d847d6b288e91f9c03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/templates/pv.yaml
+SPDXID: SPDXRef-item925868
+FileChecksum: SHA1: 14412403aa02f4b5835bb865f50ce09fe08faf47
+FileChecksum: SHA256: 10c249a54e73e9ece3aea1b49620327eb33944333ecb1a8dca553d7b0569c961
+FileChecksum: MD5: dc1634ef1dc0a3f8c0f5ae9eb0c8f92b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/templates/pvc.yaml
+SPDXID: SPDXRef-item925869
+FileChecksum: SHA1: 798597cf4690e0516facba547bbf42559aa6a244
+FileChecksum: SHA256: 3f94324a9a00a5e27acafa42c0477024606dff9941a5ccaa9dcbf4b08ef852a0
+FileChecksum: MD5: 0b57c91c055daaf7519fe3d9b14c085f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-es/Chart.yaml
+SPDXID: SPDXRef-item925870
+FileChecksum: SHA1: a2e74dd94bde91d52c58d824145d100436d52d9a
+FileChecksum: SHA256: d1fb764a1b027cbe0d9ca81f480ac669c6b28e8a7914d7bde03fbafed08f36a6
+FileChecksum: MD5: bea1f2f442e5be2e85c552ca4ecaf439
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/values.yaml
+SPDXID: SPDXRef-item925872
+FileChecksum: SHA1: 8058b4ea5bd5042256d030df597d1ca01493679a
+FileChecksum: SHA256: c497542bf1d32045da113209a47d8da2cc68bf2d4d6f4847a22f712ef18c3602
+FileChecksum: MD5: 0e336c65eb575efcbdc28341c622c123
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/templates/configmap.yaml
+SPDXID: SPDXRef-item925882
+FileChecksum: SHA1: eba561c5f7266ebb4d88202c011a33bb4288e6e5
+FileChecksum: SHA256: da9d9d2558004d859a076659a02e5b6b232977d462d37e22309f4d9ed2ccd005
+FileChecksum: MD5: 910ee1ad9f9e0f796e2f5e0dd404fbdf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/resources/config/kibana.yml
+SPDXID: SPDXRef-item925878
+FileChecksum: SHA1: cda8423d250c079d66e094cc3def400c5c391648
+FileChecksum: SHA256: d35d9878fc97385576c21064b545be2a4c35a8329aff74337d1f303c62559c32
+FileChecksum: MD5: 22f130b6df53f92ebbc684e1fc0120ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2018 AT&T, Amdocs, Bell Canada Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/templates/deployment.yaml
+SPDXID: SPDXRef-item925881
+FileChecksum: SHA1: e24a116c14ca70e04ef216f2397ac21ef4dca73c
+FileChecksum: SHA256: 26a841a46a8ec9286de5ab782e152eb6629338f71faf1492d080f2d8cb086f32
+FileChecksum: MD5: 7361bc022c1fa544f390f665c3d1c775
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/Chart.yaml
+SPDXID: SPDXRef-item925884
+FileChecksum: SHA1: 1a1806ac413373b7266e98b5e387c57338539d6f
+FileChecksum: SHA256: 4aaf3d3b5aa85f8d6aa46f9dd083321767486bfb88828662bd49b7abc464cb62
+FileChecksum: MD5: fc4c42b2bf0933ed4c0a1bb33083ebe3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/templates/configmap.yaml
+SPDXID: SPDXRef-item925888
+FileChecksum: SHA1: 7251b52cbb6ca6ba1b193ee11e746fb1675c8950
+FileChecksum: SHA256: 74b4142c7b48b2332d6ec1d66c2ef1cbf8d6665be041d723d553055deb9a2a82
+FileChecksum: MD5: b26367e6b3387bca1f3d84297e054676
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/templates/deployment.yaml
+SPDXID: SPDXRef-item925886
+FileChecksum: SHA1: 3d827592dd490310138bd88f9f8e57f5f3fe7351
+FileChecksum: SHA256: bac91c37681a73e72864c33d8c95cab088e457b6243db4a9370bff3a507c1d3e
+FileChecksum: MD5: cef707f73dba581bdf61b6ba86ab2d7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/templates/service.yaml
+SPDXID: SPDXRef-item925889
+FileChecksum: SHA1: a7db63687c7bccea15051e2dbcacd375607434f8
+FileChecksum: SHA256: 2fe0615181ea1fa824c5742971a257385d4d746cd1b4dad94179f98f75fc2eb5
+FileChecksum: MD5: bf386b58a9659fa2a7adcf90600b967d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/Chart.yaml
+SPDXID: SPDXRef-item925890
+FileChecksum: SHA1: 5b6db577e1180b25c311d276cd0ae6116dbd122b
+FileChecksum: SHA256: de731225a0755f830c8e8b0d9be73ca5a2ab1a78a4743f2e2731adc53f8fe727
+FileChecksum: MD5: c29cd5eba43b72fcccafd9d7ac2b3e87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2017 Amdocs, Bell Canada
+Copyright © 2018 AT&T </text>
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/elasticsearch/config/clamp.pem
+SPDXID: SPDXRef-item925705
+FileChecksum: SHA1: 303c3e7ac7e17d382abda61b2dba16d959adc526
+FileChecksum: SHA256: 898be9a0af059a70b2f5dd35da5910a2f312d4218904425cb1d258fd5be58f88
+FileChecksum: MD5: 0cad67cb1004aec82dfe27fdafe6ccc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/elasticsearch/config/clamp-key.pem
+SPDXID: SPDXRef-item925706
+FileChecksum: SHA1: 9d33edd7d864c5da3bfa75de77e295f5afa560cb
+FileChecksum: SHA256: 5f394a0186449a5657e2c9110a09bab0e7eca37f62dd35c0475001d4f1fab4b1
+FileChecksum: MD5: c0fbf845566c1670d51a7eae572736cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/elasticsearch/config/ca-certs.pem
+SPDXID: SPDXRef-item925707
+FileChecksum: SHA1: 1f00b69b4c851e0103457c53ceb43a29cd5354af
+FileChecksum: SHA256: bee220863a3891d22fdb264e5e883d0c4a062a49f001f9e1c3e3c39211df6ef9
+FileChecksum: MD5: 535ba9d8141cf8ac4f0a78e5f8cf7aab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/elasticsearch/config/elasticsearch.yml
+SPDXID: SPDXRef-item925708
+FileChecksum: SHA1: e79b851a64c6b2c113bbaa7905dee2a5db9e3d2b
+FileChecksum: SHA256: d319e320fef1db18fbba2e3adbf5d2e81ef9d0708ee08f1a58d76b567dfeb247
+FileChecksum: MD5: 231cd73d1a91a6ead7065a812811db4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/elasticsearch/securityconfig/roles.yml
+SPDXID: SPDXRef-item925710
+FileChecksum: SHA1: df2fa3289668fe0c3044481a65e2b4401bca5582
+FileChecksum: SHA256: 6185b5d68ac304b5bf4cd2569e8d1da94d122e099708a9a4b2fbef2e7bd25acf
+FileChecksum: MD5: aa336ae26b06080f4313ae433df8ff6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/elasticsearch/securityconfig/internal_users.yml
+SPDXID: SPDXRef-item925711
+FileChecksum: SHA1: 2bafe08d6c263ff27f4dc5b055b26f6fe5272c3c
+FileChecksum: SHA256: db3a892b85921a7a2239aebab904afe63a3e79fef44a443a18332359401ee3b1
+FileChecksum: MD5: 4059cf3841a61f9ab8ff5830c6e36ced
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/conf/keystore/org.onap.clamp.crt.pem
+SPDXID: SPDXRef-item925717
+FileChecksum: SHA1: 303c3e7ac7e17d382abda61b2dba16d959adc526
+FileChecksum: SHA256: 898be9a0af059a70b2f5dd35da5910a2f312d4218904425cb1d258fd5be58f88
+FileChecksum: MD5: 0cad67cb1004aec82dfe27fdafe6ccc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/conf/keystore/org.onap.clamp.key.pem
+SPDXID: SPDXRef-item925718
+FileChecksum: SHA1: 9d33edd7d864c5da3bfa75de77e295f5afa560cb
+FileChecksum: SHA256: 5f394a0186449a5657e2c9110a09bab0e7eca37f62dd35c0475001d4f1fab4b1
+FileChecksum: MD5: c0fbf845566c1670d51a7eae572736cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/conf/kibana.yml
+SPDXID: SPDXRef-item925719
+FileChecksum: SHA1: 62c5bc0fda7f42215743b4039bc8f05e567d390f
+FileChecksum: SHA256: 3c345178c6ca4f0e5f3606db8e8aa08318d1b212942c4261a75986d02ed0d874
+FileChecksum: MD5: 0c025ac75807d04ae38c0745e21cc734
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/README.md
+SPDXID: SPDXRef-item925722
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/index-pattern/index-pattern-45238b70-b7ae-11e8-8c46-97881a199baf.json
+SPDXID: SPDXRef-item925726
+FileChecksum: SHA1: 4bee8f08ee722ba9aab71c7f0ff28c1ca18ed14b
+FileChecksum: SHA256: c542e3b9f4006f6e824c690e8139e2f2abecf33ee3a88d877e0bcc857d90390e
+FileChecksum: MD5: c114990fd00d36d66bca4fba2e6ea773
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/index-pattern/index-pattern-04e06060-50bf-11e9-b3a3-7302725859d5.json
+SPDXID: SPDXRef-item925727
+FileChecksum: SHA1: 996c4c33407f907fee30155dd53eff486db16c40
+FileChecksum: SHA256: 54884d6ecbe924c611bac3a6f3495b351b5a7586c1bd2b56b8a729fa5dbf04cb
+FileChecksum: MD5: c5321181e37ba262e2f569704de0e021
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/index-pattern/index-pattern-54038730-b7ae-11e8-8c46-97881a199baf.json
+SPDXID: SPDXRef-item925728
+FileChecksum: SHA1: 5ffaa203144433c6a15b5670f8047896fb663186
+FileChecksum: SHA256: ec5227ae35e8a0d0d689841a28639f81cd629a0764fa30a36b54cce77a153ce7
+FileChecksum: MD5: 764cd2d7350af2970351ca097993d6ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/dashboard/dashboard-e12b9f50-3a83-11e9-ba41-bb0c8f21f2f4.json
+SPDXID: SPDXRef-item925730
+FileChecksum: SHA1: 4be5f93a73ddba03ee7ca518819db78c090a610d
+FileChecksum: SHA256: 54b254b7183e121da7e93df52b91d4d648be20f8fe43f5a1bab95744f4ab5bfd
+FileChecksum: MD5: 7c22eb1161ed14c728b40f988284aa71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/search/search-AWWh7d7sTSxbbr1lgyaz.json
+SPDXID: SPDXRef-item925732
+FileChecksum: SHA1: 691b407ad4150f8c62b8d87973b71d6612bbfb44
+FileChecksum: SHA256: 6db7e7ec364c39ad0493341c574f2208b743c13d4d0c4ebb3204dabec9dd8252
+FileChecksum: MD5: e8bbb2f88308f5f170b6ad8f4b6e6c49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/search/search-AWXPmsmxr9U94x7rrLgV.json
+SPDXID: SPDXRef-item925733
+FileChecksum: SHA1: 63c737026db45631495d76c737bb233428b69f58
+FileChecksum: SHA256: e668478ad06ea80c9c5e7015cfc74962e3e96ca88102d1056b6a85871dc4ff36
+FileChecksum: MD5: 6ac34bc48f30a2d380e25797a96d1c23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/search/search-AWIk8yDIDjJ4k3sPXRbu.json
+SPDXID: SPDXRef-item925734
+FileChecksum: SHA1: 125f7506619028213824432d8ff24ec9a4b0cc56
+FileChecksum: SHA256: 14d0e75e143915772d55868034095254da025b1da551754f2dc6a72d7eb55e38
+FileChecksum: MD5: b0a02efd61e959bd9c0c21859cebf048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/search/search-AWJsTEvYr1AwiIiFoV6S.json
+SPDXID: SPDXRef-item925735
+FileChecksum: SHA1: a298be17d69d42b5f41bd7d9dc01f87ff9846fc8
+FileChecksum: SHA256: 8083785edbd2842efd4baa4f5e3c52c0c9f64eac03ce5529eda2b3c184d4ae38
+FileChecksum: MD5: f8d621385e292229ee4a9d5fd6dbe471
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/search/search-AWIlAjTaDjJ4k3sPXRe1.json
+SPDXID: SPDXRef-item925736
+FileChecksum: SHA1: 53155b6d28e42732672f22d4f7104f8d7dc6034e
+FileChecksum: SHA256: 725a9be340d47a2b9ecc8c3884cd64f296c6d75b30d0317eb4de8231e00e6daf
+FileChecksum: MD5: 91b75a24ab1f43433baa3ec50acf5229
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/search/search-AWIk9P-qDjJ4k3sPXRcQ.json
+SPDXID: SPDXRef-item925737
+FileChecksum: SHA1: da90539f9e39572ba75a54d6de7c1ceed02fdd54
+FileChecksum: SHA256: 17880e779476683349b67acfcdaafbfe76b3e798029e31a595dc3b34b550aa9a
+FileChecksum: MD5: fda76c706de5c72387237a2e218e1553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/search/search-AWWh6CC3TSxbbr1lgyay.json
+SPDXID: SPDXRef-item925738
+FileChecksum: SHA1: 4a29ef2bf2182752c16c0af384c6bbdc6a45cbd2
+FileChecksum: SHA256: 82c7245f603bd6e906b75514dbd158482a7d08b251e91dda18295059e59f5f24
+FileChecksum: MD5: 1364eca30ed20f509a2a31eca377a5c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/search/search-AWWhVlbFTSxbbr1lgyap.json
+SPDXID: SPDXRef-item925739
+FileChecksum: SHA1: bcbc29b53a1d140ffeb96abc9348441ec967d9a7
+FileChecksum: SHA256: c77e431362e7f567de2e6a861612a8fe4828ddb70b24867e02dc831ba9da807e
+FileChecksum: MD5: 56c5b22b2f770a4926f2922137fc0d9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/visualization/visualization-ae8c22b0-3905-11e9-beac-8d2beda26615.json
+SPDXID: SPDXRef-item925741
+FileChecksum: SHA1: 0e5aea4c36a52a49f8f17df98dad1274c64b6807
+FileChecksum: SHA256: 520774d307ae8999fda3cfed849768fc024940d8942f1fb920ef6a1ffc99d881
+FileChecksum: MD5: 79f310a1cdb8b2f98ba021ad8a3fa052
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/visualization/visualization-f724dfd0-38f6-11e9-beac-8d2beda26615.json
+SPDXID: SPDXRef-item925742
+FileChecksum: SHA1: ff01649072011b355b760b244447201f6f1ef3fb
+FileChecksum: SHA256: 79ab7d253357b8ecd653d65c9229c6380910639fb7314ecc87bc831576d8f55f
+FileChecksum: MD5: 0c7de1429f681f12b81dc071b1ed17ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/visualization/visualization-0ef409f0-38f8-11e9-beac-8d2beda26615.json
+SPDXID: SPDXRef-item925743
+FileChecksum: SHA1: 91e9f75d9c6b45f44781845d8027d2dfbc6bb342
+FileChecksum: SHA256: 0367e490cc14889fbadc713e52bf2552ec113b4969ddb9ff8896ab2bd336b5f6
+FileChecksum: MD5: 205b1a8a7e9189eaa2922de26a9edf2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/visualization/visualization-9a1a6750-38f7-11e9-beac-8d2beda26615.json
+SPDXID: SPDXRef-item925744
+FileChecksum: SHA1: 5bd4b0dbfec43d25b1ab0a3d30c3eb944c77f375
+FileChecksum: SHA256: ae494573739d26b5a8fde8b85bb3dc268f5976e0049d7e1c96d9a762d97ae822
+FileChecksum: MD5: 7f98cc35051170f52d59ed9fe0c2a537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/visualization/visualization-fcc9a8b0-38f8-11e9-beac-8d2beda26615.json
+SPDXID: SPDXRef-item925745
+FileChecksum: SHA1: b94cc4e726be6f7e63f4e6b574b20c2085523212
+FileChecksum: SHA256: 6376aa103544648cfeea3960251341aa5894bf21048756e6343665cdfbe0983c
+FileChecksum: MD5: 27fce28077810f93874e7bcdbc9f7232
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/visualization/visualization-2d36b0e0-38f6-11e9-beac-8d2beda26615.json
+SPDXID: SPDXRef-item925746
+FileChecksum: SHA1: 1c03aa3d5774f4fbdc732d0f3ca917d6a1b235fe
+FileChecksum: SHA256: 65bb4d85220c4417a522a8fd3508e6569a78819952bd2b7fe66560f332861fe2
+FileChecksum: MD5: 37c641a68bdeaef91788ede104091745
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/visualization/visualization-e1f0fa00-38f5-11e9-beac-8d2beda26615.json
+SPDXID: SPDXRef-item925747
+FileChecksum: SHA1: b06c0cdd5a6035e9e7d9aa7490f8a47a7a3ed82d
+FileChecksum: SHA256: 46af3ecdafa54cfc23ef4cbe31d54af7b6f7925650e68adeccd1ccc8ab98f8b7
+FileChecksum: MD5: 24830b64151fc9a949131439f9054757
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/visualization/visualization-a9d9d120-38f8-11e9-beac-8d2beda26615.json
+SPDXID: SPDXRef-item925748
+FileChecksum: SHA1: c03eae1fc22d8f1f1e375ee1969b1d91f308955f
+FileChecksum: SHA256: 83126115ab6250fb21f4074ad977ff0469ca88187cc29cec2fb46f3456fcd510
+FileChecksum: MD5: 2f56d6652bde0a1f6ef83bf991d2f4bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/kibana/saved-objects/default/config/config-6.6.2.json
+SPDXID: SPDXRef-item925750
+FileChecksum: SHA1: f6dc70d69679b93785a76b81da77b5881bb2d7ba
+FileChecksum: SHA256: 1fbb0a8bb997df2b4c1699df09b66697d37f49233be5653aa292c8f18c86c945
+FileChecksum: MD5: f7d4968724137ca75faac2526c2d0b4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/logstash/certs/aafca.pem
+SPDXID: SPDXRef-item925753
+FileChecksum: SHA1: 1f00b69b4c851e0103457c53ceb43a29cd5354af
+FileChecksum: SHA256: bee220863a3891d22fdb264e5e883d0c4a062a49f001f9e1c3e3c39211df6ef9
+FileChecksum: MD5: 535ba9d8141cf8ac4f0a78e5f8cf7aab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/src/main/docker/logstash/clamp-cert/ca-certs.pem
+SPDXID: SPDXRef-item925758
+FileChecksum: SHA1: 1f00b69b4c851e0103457c53ceb43a29cd5354af
+FileChecksum: SHA256: bee220863a3891d22fdb264e5e883d0c4a062a49f001f9e1c3e3c39211df6ef9
+FileChecksum: MD5: 535ba9d8141cf8ac4f0a78e5f8cf7aab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/INFO.yaml
+SPDXID: SPDXRef-item925761
+FileChecksum: SHA1: e6fc2d6fe22c382c58afe588442a295850ff514e
+FileChecksum: SHA256: 504687426eecdd01b05b2485a4624f492e0eb59745596d1e919ed700d8feb7b4
+FileChecksum: MD5: dd2ea182b0660262f0afa57a96fd1c80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/.gitignore
+SPDXID: SPDXRef-item925762
+FileChecksum: SHA1: 7305ac149e8a7b12986d054a065526d65b44ede6
+FileChecksum: SHA256: 8b93d0f43d6d7030c8b47e3d730ef527d91fad8e6d8a4e2cfc49d8bea6a7e4eb
+FileChecksum: MD5: 7668166c012e7da2f9b64e4b8d991aa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/.env
+SPDXID: SPDXRef-item925767
+FileChecksum: SHA1: 42a4c0f19deca700ecc8c58bdb105ce7d28082f2
+FileChecksum: SHA256: 94f0f10cba8f084e6aff5f70ba7a2e53083c8a9d6088e0875751ae83162db517
+FileChecksum: MD5: eb77314de85240522f8bf4e2ff244280
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/event_abated.json
+SPDXID: SPDXRef-item925770
+FileChecksum: SHA1: ff58c96b739a4b1ddb0ae87f1a42ca348e1edcee
+FileChecksum: SHA256: bf30d870d561538f6795e54329d59bd67b3614351ef0b8524d387758969710a0
+FileChecksum: MD5: 3e81fb5854fbf20ee254afea637935cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/event_onset.json
+SPDXID: SPDXRef-item925771
+FileChecksum: SHA1: ef67190359bfbc4ad54958a4936ad789baa27fb8
+FileChecksum: SHA256: edd9bf70715e337d9222dc21a703e8fcd71df435b56f3cd6aa811e9f64c8b347
+FileChecksum: MD5: 80e48014dabb3cea902bc9c972050b03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_active.json
+SPDXID: SPDXRef-item925772
+FileChecksum: SHA1: 8e2cd50ef7e6768030580a64245c170a969eabbf
+FileChecksum: SHA256: d8362e14df1b901afa4b78af488bb60681ac153dc50b4f674fdf70206425b040
+FileChecksum: MD5: 6e37019d98ad90dcf47ea456ddede6af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_final_failed.json
+SPDXID: SPDXRef-item925773
+FileChecksum: SHA1: 3692f206c1d63caa0e84057890a39d5d3f9f6353
+FileChecksum: SHA256: 0dd3e9e8feef5919aed1504f9fc0e9b30ec1df89deb97c51be91b310b0cc6ab4
+FileChecksum: MD5: cc634c696b17db03efa778b7ce991150
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_rejected_disabled.json
+SPDXID: SPDXRef-item925774
+FileChecksum: SHA1: 8c9db28311ec879186e5549a34539bfcb3eeeb30
+FileChecksum: SHA256: bb5382aa96a915eba934b294ece036f03adc6bd6937f2f9d95a767a31d4925ea
+FileChecksum: MD5: 40b0e12aeb065c6fbefbe907437be665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_operation_success.json
+SPDXID: SPDXRef-item925775
+FileChecksum: SHA1: 34680239c07f56713bd1a0a0f727f9e612734c62
+FileChecksum: SHA256: 267adbeb1c2f70ffd55c3c00dbd803ccb644236b1a393e2645b3d220923561f0
+FileChecksum: MD5: cc5b8e4d4fdc0fb39cbc6c3795c39671
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_operation.json
+SPDXID: SPDXRef-item925776
+FileChecksum: SHA1: 8e2cd50ef7e6768030580a64245c170a969eabbf
+FileChecksum: SHA256: d8362e14df1b901afa4b78af488bb60681ac153dc50b4f674fdf70206425b040
+FileChecksum: MD5: 6e37019d98ad90dcf47ea456ddede6af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_final_open.json
+SPDXID: SPDXRef-item925777
+FileChecksum: SHA1: 036cd7208d234d6d71d40cf06f8d92fbf8a821b4
+FileChecksum: SHA256: 40fb28baa51ec4e56e798f377b17184a4d9c668d99ef0dbeaa9457e009be79ef
+FileChecksum: MD5: 5817a737ed6668bb7ce77eb1b39dd632
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_final_success.json
+SPDXID: SPDXRef-item925778
+FileChecksum: SHA1: 6de6f638740a53592804967ede06de85d411ce5c
+FileChecksum: SHA256: d626ef050c9c95f48ce4a21b6203accf326937ec9e4ff3fc378373a6ca361afb
+FileChecksum: MD5: b39ab39ea6dc61ab6305fb382a6ad44e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_operation_failure.json
+SPDXID: SPDXRef-item925779
+FileChecksum: SHA1: e99b3bf2c1f6d2ba531397309511aebe21721085
+FileChecksum: SHA256: 5d8eb4671689a97eb008de7db8120d2393d8fbd3f922f53166e609e36af32b30
+FileChecksum: MD5: f1aa90757902649aacd39ecd9d8453e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/ds_mocker.py
+SPDXID: SPDXRef-item925780
+FileChecksum: SHA1: 61eda39f3f197bff3b05724bfe84318227ad520f
+FileChecksum: SHA256: 2eb27df9b71ec41c307d27ae27fcc23460aebc4820a4dd7bd4ba4d9cf2e9072e
+FileChecksum: MD5: 8ff4c3ef5b1658bf02c5a51504486e43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/DMaaPServiceMocker/notification_rejected_missing.json
+SPDXID: SPDXRef-item925781
+FileChecksum: SHA1: 39c71246ab1a28dc798d16c192b4a0e779684c6b
+FileChecksum: SHA256: 67efb78a2c36b45c22265a7a06bef3d2ce011445ea43cc70b003d33057f13eeb
+FileChecksum: MD5: e695779a14b6ca3f08a20ebd8ffb78de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/EsAutoQuery/closedLoopAlarmDuration.json
+SPDXID: SPDXRef-item925783
+FileChecksum: SHA1: f268d403741fdaf1b9e5b238ed6b0f963f241b57
+FileChecksum: SHA256: e0589c6fe6df84465b90af797f1fbeb700687277b2e5f2a9a5645f0da5dcbca6
+FileChecksum: MD5: af1ae02353e1ae5d05e8b18af05456f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/EsAutoQuery/autoQueryLoop.sh
+SPDXID: SPDXRef-item925784
+FileChecksum: SHA1: d4106b24fdebc8e19e41b3491a50e48bd72c15b6
+FileChecksum: SHA256: 7362be2e8a3e390861d5e2da1337dba15c7b315da2121936a0cb0c45b7a31fa4
+FileChecksum: MD5: d4d98c912eb4aa8ed4f5dfa3bca049e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/tools/EsAutoQuery/timeSince.json
+SPDXID: SPDXRef-item925785
+FileChecksum: SHA1: 14884992fddd555b9e2b086864ad632aec48680b
+FileChecksum: SHA256: 32455b9c61494fe784e6fccb151dc8e55994877f3552efcbb975fa81dc10ea85
+FileChecksum: MD5: 6326401e8a867974f641af8a5c62e467
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/README.md
+SPDXID: SPDXRef-item925786
+FileChecksum: SHA1: 244378395ef36439c9223d71b5f48a8de4965af9
+FileChecksum: SHA256: 77e9806c8f09c52daf111a247cfa2fceccc0b89acd8379e616d0f8b9cac8244d
+FileChecksum: MD5: 3ccb55cc4b88366600c527f3d2969e08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/extra/docker/elk/docker-compose.yml
+SPDXID: SPDXRef-item925787
+FileChecksum: SHA1: 0c866b3b157e01da6e991f7952733d800b1634e6
+FileChecksum: SHA256: 621ce8cc302fafb86d1771d678152a7c354b343eb2f01772e93281f39a7b7724
+FileChecksum: MD5: 3f556636d679f5544d0ad869ae3a39c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/releases/5.0.0-container.yaml
+SPDXID: SPDXRef-item925790
+FileChecksum: SHA1: b80c712b58d21a7af8b3d07c347100a3b42ef790
+FileChecksum: SHA256: 24be9e84075280f81b06ed9fe94ac1c2fd71806f9372b3e18ac2c5013f620ae9
+FileChecksum: MD5: e71799254095491d7dc8844b89294410
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/releases/5.0.2-container.yaml
+SPDXID: SPDXRef-item925791
+FileChecksum: SHA1: d6c3901db4dd0fd6f17dbcbc8283691d3bf5669a
+FileChecksum: SHA256: d49e8fdf9a271121bd98cc45f4f982efa8f270bddcc932f06e796d6328d7fd43
+FileChecksum: MD5: a970973adc9a502cd1cf1272fafa203d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/releases/5.0.3-container.yaml
+SPDXID: SPDXRef-item925792
+FileChecksum: SHA1: dd2bc2487a0fa6d48e9a14fa5d33b174d57d3b3d
+FileChecksum: SHA256: 647a477f86adc5f2fdf58f3a27063d00244b773c2deb404b399af130cbd71df9
+FileChecksum: MD5: 783c7ca4fd72e85ddc5bd08913de5b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/releases/5.0.4-container.yaml
+SPDXID: SPDXRef-item925793
+FileChecksum: SHA1: 7a64d61489a3f0a49b675737c035e71bcc4cc81a
+FileChecksum: SHA256: 63eaf6b3b478b32c46b8172ade0cf110681390f1d6e94f5479e0ffea1d3373fd
+FileChecksum: MD5: 16109db1fd023df64b480490b1e7881e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/releases/5.0.1-container.yaml
+SPDXID: SPDXRef-item925794
+FileChecksum: SHA1: 0eb9d09b00b9f4e0afff38c29a35f3ec50046d3e
+FileChecksum: SHA256: 0b75c2af34012abc23435f5344c4a58c037c168089c0e5582dc8468c634bcd48
+FileChecksum: MD5: a2b285b07c58bfd13c724d3cc8e72915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-dashboard/.gitreview
+SPDXID: SPDXRef-item925796
+FileChecksum: SHA1: 625cee993f9e475ca91a1215daa27c9d6fe3f684
+FileChecksum: SHA256: ea1a181ab7138cdaa3c6ac66cd3455c313423e71238329d2cf76e144cf0dd668
+FileChecksum: MD5: 2bc8b0cfe95586cc1725eb3755f623a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/resources/config/nginx.conf
+SPDXID: SPDXRef-item925801
+FileChecksum: SHA1: 7e43d63ae12c37391158f456a275c47ec83399ce
+FileChecksum: SHA256: 60c01841bf2069bda9f144feb162f7700fa59ff6ca90a1c9b8535c264e476946
+FileChecksum: MD5: 0988a96b67b02686b6d9a38216e91c02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/INFO.yaml
+SPDXID: SPDXRef-item925803
+FileChecksum: SHA1: a61665d1e3b8946a03c16a2572431abc30af670e
+FileChecksum: SHA256: fd9223189c7487a51e2f559064bc361d2a1e4d4325897df0ef10230cfef2d0d0
+FileChecksum: MD5: 9082a23ad6ebe7f6c79ffb6613ed587c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/resources/config/mariadb/docker-entrypoint-initdb.d/bulkload/create-tables.sql
+SPDXID: SPDXRef-item925812
+FileChecksum: SHA1: 9fbc014200872d926e47b4fd6e0812b1b910481d
+FileChecksum: SHA256: 8d75ab52040d4337619ca9eda2aa6b82e50c643681e489e316f909d83127746f
+FileChecksum: MD5: 91b2ffdda6d9e9489b537d656b0bdadc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/mariadb/resources/config/mariadb/docker-entrypoint-initdb.d/bulkload/create-db.sql
+SPDXID: SPDXRef-item925813
+FileChecksum: SHA1: ce400a3613c00bec42b62cdd1a0764eb05a2f8ea
+FileChecksum: SHA256: 580786f430571744f4b406b4c4d9ee280eef0bd59b5d53d766ad070fcd666dcb
+FileChecksum: MD5: 19e854bbb8322e2c3e511f3b68346e39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-logstash/resources/certs/aafca.pem
+SPDXID: SPDXRef-item925832
+FileChecksum: SHA1: 8cf152fd80cd49132ca3a4675d399e8a32c9bda2
+FileChecksum: SHA256: 5e5e4e284096a573ef9c777e43e7b6e8305894f4292df3c5b6799590fc15265f
+FileChecksum: MD5: 8984fdd5bce09a407d7aa3931d1fe901
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-backend/resources/config/sdc-controllers-config.json
+SPDXID: SPDXRef-item925847
+FileChecksum: SHA1: 4b7b256090bb79a6f9a1a77b17b8256e4f4a2b93
+FileChecksum: SHA256: 941f154acebd88964bfa691774feb71a3ad9cd0557a14b12abda5bbb3a80d518
+FileChecksum: MD5: 57e34ad9c857a29f562e5e1ae89e17ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/resources/certs/org.onap.clamp.crt.pem
+SPDXID: SPDXRef-item925875
+FileChecksum: SHA1: 1bfc4567927253d26ef2e1d13e8ebb3f9af39521
+FileChecksum: SHA256: f6f8bf7426975801b3b9ee63fbf9b7f30a38d37bc76786a157c038973ca03824
+FileChecksum: MD5: 427b9daa9ea333236f41a3063f002474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-oom/charts/clamp-dash-kibana/resources/certs/org.onap.clamp.key.pem
+SPDXID: SPDXRef-item925876
+FileChecksum: SHA1: 25c8f7cbe6f7f9641b3638a870762e92b64acf90
+FileChecksum: SHA256: ebc5ebe99c7cd734307504d4a11a1cb6eeed800ada67cc967fcf639780a99bd6
+FileChecksum: MD5: 6334e0f454542aeb54c2a02cf7e1f2b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-ui/INFO.yaml
+SPDXID: SPDXRef-item925892
+FileChecksum: SHA1: 9ad0069786eaf71c855ed2a176cc0d605be9c5a3
+FileChecksum: SHA256: ee48f303d2ab15b8ebb992b8f251b693e5fa46caee1ab33feb9fa6d1f43c0e43
+FileChecksum: MD5: d24b8c58b8c26299089ebde6054b7f03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: clamp-2021-12-08.zip/clamp-ui/.gitreview
+SPDXID: SPDXRef-item925893
+FileChecksum: SHA1: 4f25ca4775b27e58a915dac19bd05fc200d9b9fa
+FileChecksum: SHA256: 79bd6f0e87c567a7612f68419d3d636d5d100f230ca753491378820afa8ed0ce
+FileChecksum: MD5: d107da52187e781051f952ad464b9750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
