@@ -1,0 +1,84 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_relman-2022-05-19.zip_1653016543.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-05-20T03:15:43Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: relman-2022-05-19.zip
+PackageFileName: relman-2022-05-19.zip
+SPDXID: SPDXRef-upload460
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 4d8196ecdb3be68aabc11bb9e2107a7caf3e911b
+PackageChecksum: SHA1: 54496bd8403520c22192584f3e71af8440fd22f9
+PackageChecksum: SHA256: 91939e663988e32dbdb584bdf75e531459a8d25e3ba80e0779e3802fd07e714a
+PackageChecksum: MD5: 0d1eacd8eb095989c2a79ccbe438f3fe
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload460
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: relman-2022-05-19.zip/relman/INFO.yaml
+SPDXID: SPDXRef-item2108629
+FileChecksum: SHA1: 419c4ecf308961583ce9df4d5450ab034f5723cb
+FileChecksum: SHA256: 2bd6ebe43d2c8ede3af251338ce11e97bffabea27dcb1d4ddf4f13bc40e0a3eb
+FileChecksum: MD5: 8e263966d865c2b6753fcc0db465e76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: relman-2022-05-19.zip/relman/.gitreview
+SPDXID: SPDXRef-item2108630
+FileChecksum: SHA1: f8c977db15956cff0ba30475f2b7a8e184b77fcf
+FileChecksum: SHA256: 33edfaaf87a7d81b99e019ea7c22838364e6ebadbc783debf52025d6acdcfaf2
+FileChecksum: MD5: f86c2d1be5cf2d1de2bfc84e5610d80b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
