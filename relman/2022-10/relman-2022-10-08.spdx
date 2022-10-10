@@ -1,0 +1,120 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_relman-2022-10-08.zip_1665387358.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-10-10T07:35:58Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: relman-2022-10-08.zip
+PackageFileName: relman-2022-10-08.zip
+SPDXID: SPDXRef-upload645
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: c904754a027fb0167a433aa7ec42df8e55004a5d
+PackageChecksum: SHA1: d0bc0cae441c2e3da07995bcb152e7bc1bb8932c
+PackageChecksum: SHA256: bd88eaced21d362337315b119631f2a1e0f029e2709089f86c8d18cea5fb55b3
+PackageChecksum: MD5: 4f4b41e9ce13cc991ca5d9e05a1e6938
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload645
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: relman-2022-10-08.zip/relman/repos/repos.yaml
+SPDXID: SPDXRef-item2946079
+FileChecksum: SHA1: eea8d403bedca3b2c6210708641ef626048835af
+FileChecksum: SHA256: 314c59807aa768d8beb15e89204dc9980f516d40a3c263ec5c7445aca9696958
+FileChecksum: MD5: 524a49a0f52d319b14160ca9afbd78ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: relman-2022-10-08.zip/relman/repos/repos-schema.yaml
+SPDXID: SPDXRef-item2946080
+FileChecksum: SHA1: 314803d855bd94fffd5356976c489e8615b5205e
+FileChecksum: SHA256: 29cd9b4a51431bfb2db74aace6e994d907a5c8eb8e0e8fe8d6b637acde5e0445
+FileChecksum: MD5: d11e43dc0b7a5cedc6c4932ed549736a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: relman-2022-10-08.zip/relman/repos/README.md
+SPDXID: SPDXRef-item2946081
+FileChecksum: SHA1: e30c24567daa4c57c111f1f2417948b353b49f2e
+FileChecksum: SHA256: 3f62d740cee93018ff1bbb094b5c43901b5d220d2b7a60c6cef539abf591a593
+FileChecksum: MD5: e6024553466de2a8960d6664ac63be09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: relman-2022-10-08.zip/relman/INFO.yaml
+SPDXID: SPDXRef-item2946082
+FileChecksum: SHA1: 419c4ecf308961583ce9df4d5450ab034f5723cb
+FileChecksum: SHA256: 2bd6ebe43d2c8ede3af251338ce11e97bffabea27dcb1d4ddf4f13bc40e0a3eb
+FileChecksum: MD5: 8e263966d865c2b6753fcc0db465e76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: relman-2022-10-08.zip/relman/.gitreview
+SPDXID: SPDXRef-item2946083
+FileChecksum: SHA1: f8c977db15956cff0ba30475f2b7a8e184b77fcf
+FileChecksum: SHA256: 33edfaaf87a7d81b99e019ea7c22838364e6ebadbc783debf52025d6acdcfaf2
+FileChecksum: MD5: f86c2d1be5cf2d1de2bfc84e5610d80b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
