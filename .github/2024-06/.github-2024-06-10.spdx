@@ -1,0 +1,162 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_.github-2024-06-10.zip_1721456405.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-07-20T06:20:05Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: .github-2024-06-10.zip
+PackageFileName: .github-2024-06-10.zip
+SPDXID: SPDXRef-upload1342
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 795cfdc8140c8fc8d1644756dd59e625bf9046ae
+PackageChecksum: SHA1: 540ba69310f271b1fd50b479de54e0bcc329194a
+PackageChecksum: SHA256: 0f29ccf4809e642c9772eeaade8fec9172fd4abb88c5309fd8496048c7b24e9f
+PackageChecksum: MD5: d7beee6ee35a32d6f260c52467542479
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1342
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/.github/workflows/gerrit-required-verify.yaml
+SPDXID: SPDXRef-item9097380
+FileChecksum: SHA1: c6ca7fb7ea69bc5973af22d29874e37f6ea4c6c4
+FileChecksum: SHA256: 8b1c2ae7194f0ab76da3e83498b7a1409f59a7587755cbe0667ddf28040b754d
+FileChecksum: MD5: 928d9d42db0c409fc66b465e634c48dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/.github/workflows/doc-rules-compose.yaml
+SPDXID: SPDXRef-item9097381
+FileChecksum: SHA1: aa6cf7f0f73489eed3f1dee5dffdb4ce68f619d5
+FileChecksum: SHA256: 744d21473d47504d7adbf2876ce59da3ce57d025467c8a19d3096931182bb610
+FileChecksum: MD5: b3e8f2768cd855f1c2f6c9e7fd18e18f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/.github/workflows/gerrit-required-merge.yaml
+SPDXID: SPDXRef-item9097382
+FileChecksum: SHA1: 2bdeccbd271aeae6a0a664e9e5a7c9fe0cd6f56c
+FileChecksum: SHA256: 93ed565e69e7a0d216b3dc80fe07c8f5a7f0ce6ce26169f28c941377c0645df2
+FileChecksum: MD5: 714c4e3d370ef641cd306860ca2d3888
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/.github/workflows/gerrit-verify.yaml
+SPDXID: SPDXRef-item9097383
+FileChecksum: SHA1: ca8aa8cac1f47131ec6fb1d18c8b4aa264ac1d7e
+FileChecksum: SHA256: a15bbd3f2b0a0fcbe3341a20bd0f201239183c5e0c96a52bf2fbfe62167d80ef
+FileChecksum: MD5: beaa987c58b78139f409baf8a286614f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/INFO.yaml
+SPDXID: SPDXRef-item9097384
+FileChecksum: SHA1: 181916443d00a839e8aa55f7abd12d0a48233390
+FileChecksum: SHA256: 87b23ffb7fd2cc5578a70f8d888e927e8757237df86b7b922da166802e57cac0
+FileChecksum: MD5: e31f5ebe5d81f197f6ad6aba9394f505
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/.editorconfig
+SPDXID: SPDXRef-item9097385
+FileChecksum: SHA1: d5d36d08f058b9891d8e9fa15e4202d5291f76ad
+FileChecksum: SHA256: ab91c7834b8346a82fc6fbdbd83ee3fcfebb09235390be01a32115bedea66fc4
+FileChecksum: MD5: cbc49d414c816e024f3f4911e5cbfe07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/.gitlint
+SPDXID: SPDXRef-item9097386
+FileChecksum: SHA1: f13190e3d2c6334bd36abf0c7d5d7c0017e72927
+FileChecksum: SHA256: 97f26ce6eddbb2c18a09ef486eabeebe34905e8cc35cb11342d50ca189580824
+FileChecksum: MD5: ddc4588f3db5da8503eebe603399ed38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/.gitreview
+SPDXID: SPDXRef-item9097387
+FileChecksum: SHA1: a26a7dd11c3230972acba3b063140dec7b756928
+FileChecksum: SHA256: 9a1bd9138e146c5f2698cbe7c704a4f6eefe2da3b09517011918ea6470a7ed7c
+FileChecksum: MD5: 04fdb5c726de61acaa295bbd02d0cd0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .github-2024-06-10.zip/.github/.pre-commit-config.yaml
+SPDXID: SPDXRef-item9097388
+FileChecksum: SHA1: 65b24b943dd039f81d38840f038caf4e39df23eb
+FileChecksum: SHA256: 1d6749dd3c7b72863f9055bed9e3cab5d322984e5b39a77cf96f9c049ee54ec2
+FileChecksum: MD5: 5e276dc5dd7742e6435b0dd7345edf88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
