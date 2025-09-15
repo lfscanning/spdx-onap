@@ -1,0 +1,75 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T12:57:42Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmp21rudm8n/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp21rudm8n/code-e3d58033-604b-457c-92f7-d27df644db44",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-6b04744c2d81a146",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "onap.doc",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-doc-doc",
+            "comment": "This package was added to the Trivy analysis for the doc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "doc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "667d188e2881bcbdbd9083c455eab5de03856601"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-doc-doc-doc-best-practice",
+            "comment": "This package was added to the Trivy analysis for the doc/doc-best-practice by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "doc/doc-best-practice",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "af8bab94b72788b6da716a7a20122a061f43ca62"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-6b04744c2d81a146",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6b04744c2d81a146",
+            "relatedSpdxElement": "SPDXRef-onap-doc-doc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-onap-doc-doc-doc-best-practice",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
