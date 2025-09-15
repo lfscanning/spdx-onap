@@ -1,0 +1,75 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T13:12:47Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmp3jpw8vke/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp3jpw8vke/code-0ccfdd9e-1ae1-443e-a205-9a5043902c9a",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-5a55bdf707557f0f",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR EPL-1.0)",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR EPL-1.0)",
+            "name": "onap.msb",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-msb-msb",
+            "comment": "This package was added to the Trivy analysis for the msb by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR EPL-1.0)",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR EPL-1.0)",
+            "name": "msb",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "a49a93db6eced500a012ab6e8ca88ac5a976772b"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-msb-msb-service-mesh",
+            "comment": "This package was added to the Trivy analysis for the msb/service-mesh by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR EPL-1.0)",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR EPL-1.0)",
+            "name": "msb/service-mesh",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "174deb61e7510516cfad2f454d83861c10f6eab6"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-5a55bdf707557f0f",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5a55bdf707557f0f",
+            "relatedSpdxElement": "SPDXRef-onap-msb-msb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-msb-msb",
+            "relatedSpdxElement": "SPDXRef-onap-msb-msb-service-mesh",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
