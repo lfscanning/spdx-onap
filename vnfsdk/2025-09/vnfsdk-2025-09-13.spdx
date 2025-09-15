@@ -1,0 +1,1675 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_vnfsdk-2025-09-13.zip_1757807072.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-09-13T23:44:32Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: vnfsdk-2025-09-13.zip
+PackageFileName: vnfsdk-2025-09-13.zip
+SPDXID: SPDXRef-upload1929
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 897ba0c8d0c431bd85639b2880ce42ea37e0b692
+PackageChecksum: SHA1: a092e44d77fa86201fc07b8b44c7428e65740340
+PackageChecksum: SHA256: d2cb0f04d9a5574b9dd7debdddb8e8e83c5b45a896434a885e581f2750b385de
+PackageChecksum: MD5: 5e0282826c7a8b3e83db7a1ced0c69e9
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1929
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/packager/csar.py
+SPDXID: SPDXRef-item11117388
+FileChecksum: SHA1: c7dedb8f48569629800195afa350edb734a46ccb
+FileChecksum: SHA256: a81f580a8e10a3eff282d0a4a4e6ee62aeab93ce0dc0117a335759d03bc3ade0
+FileChecksum: MD5: ee59f577849b991a47d246e8ffcf3860
+LicenseConcluded: Apache-2.0 OR LicenseRef-fossology-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+FileAttributionText: <text> 982
+982
+982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/packager/toscameta.py
+SPDXID: SPDXRef-item11117389
+FileChecksum: SHA1: 29d5f8c8ec98b9dc06cb3749cd00f7917986a97c
+FileChecksum: SHA256: 0cd2a25a33b9c0129ccd172dd7767b73528fc838cd3c905fd151c673c321fe67
+FileChecksum: MD5: d1c26a48844f6566554c79a210e2dbc4
+LicenseConcluded: Apache-2.0 OR LicenseRef-fossology-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel Corp. All rights reserved.
+copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+FileAttributionText: <text> 982
+982
+982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/conf/catalina.policy
+SPDXID: SPDXRef-item11117411
+FileChecksum: SHA1: 5951fb4c2c0abcf31155ae65dc0a616a99cb749a
+FileChecksum: SHA256: 6c763281adbe44cdfc6dd6ba1646f9468c43b0374cf9356848ce127b73509ec7
+FileChecksum: MD5: 88b8bc34f8a0c04e109bb9d848ee3011
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/conf/catalina.properties
+SPDXID: SPDXRef-item11117412
+FileChecksum: SHA1: 73b289f941dad167f10b856c64f0f30a20e9d696
+FileChecksum: SHA256: cc4317d4aa8d19ce1055a3bdc20175c7c1b30b6668840120c3f2e48666363966
+FileChecksum: MD5: 26ace54f254ce3189a1cc8c06f87edb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/conf/context.xml
+SPDXID: SPDXRef-item11117413
+FileChecksum: SHA1: 545fe6fabc1a455006fe5c987e5bfa90827d0540
+FileChecksum: SHA256: 9bc2dca6526acec4cd370958c878b18e2cebf25aba50655f3e8923a4272ac1c0
+FileChecksum: MD5: ca9a311cbf20e8d8e6bae04bfd8bb7e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/conf/logging.properties
+SPDXID: SPDXRef-item11117416
+FileChecksum: SHA1: 4cee059160082a19c0cd4cf28f56a0ec3cf964c9
+FileChecksum: SHA256: 522946c0fc4f08be33cd2b9aef86187b3e79ae8a67ac2628ce3640759a77f0cc
+FileChecksum: MD5: 58a7cffbcd7ff9c7926a8b0694e0711d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/conf/server.xml
+SPDXID: SPDXRef-item11117415
+FileChecksum: SHA1: 163d36873df9937e4bde99774ea20d54b40ee4da
+FileChecksum: SHA256: eb34e57e97d864af6aa09b3706f10253a1481d79a27889f5d077a14d4bb33167
+FileChecksum: MD5: b69a630ad92d446b6f2c1a45bda46509
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/conf/web.xml
+SPDXID: SPDXRef-item11117414
+FileChecksum: SHA1: 7ae9455f01ab7c96355b4dfd542bf945b994a46f
+FileChecksum: SHA256: 0efcb190b0e77b3d01b19e23c85b6f1145e81719a53b19082212598d4708fc0f
+FileChecksum: MD5: 983cd776fc3bca6d8fc3eaf8c3725238
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/VNFSDK-Marketplace-userguide-vendors.rst
+SPDXID: SPDXRef-item11117481
+FileChecksum: SHA1: a684f5f5111adf1848f1d5dfa7b1cbf67a49267a
+FileChecksum: SHA256: e52cdb77fdb4c6ea9ddfd03ae9b858b1c0d90502ef9d9540ccd2bfe2b4f3471f
+FileChecksum: MD5: dd2894b07067761ffc350af62a57d40b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/csar-validation.rst
+SPDXID: SPDXRef-item11117489
+FileChecksum: SHA1: 9a9c6b62d07bea3a299efdbc6a6ae9e8be9d58b1
+FileChecksum: SHA256: 6811510dff9659743e08635a0df08f47c57f4596a670a8140beeb4166f2ab8a7
+FileChecksum: MD5: 6443344ddf8f9d84e00f0a2c8958e5d9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/dictionary-validation.rst
+SPDXID: SPDXRef-item11117488
+FileChecksum: SHA1: 1de385e4618527c7345c9415c8dc3ba4019f7970
+FileChecksum: SHA256: a540f68e67a27ea5ed133c63c5c26016b8c71a35890947eaf6ff54fa69b18235
+FileChecksum: MD5: 18fb4b371f053b82f3c5f5b82ed37dfe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2020 Nokia </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/marketplace-overview.rst
+SPDXID: SPDXRef-item11117479
+FileChecksum: SHA1: 5ff7a05c757a157029c1dd9bb3e3df10a3bc685e
+FileChecksum: SHA256: e271353f8fb91181d9427d114c9065b659f8c9c5771321aeb62d3bfcf2a479a2
+FileChecksum: MD5: 53e247965ad440f150486167492872bd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/swagger.yaml
+SPDXID: SPDXRef-item11117486
+FileChecksum: SHA1: 5de53679f6a6a5bdcaa9e1296cc3bdb88fd96d99
+FileChecksum: SHA256: d04fa6e467ca9abe54dd0914018f4a34acd5950ed30076c2ae4df50982a572a6
+FileChecksum: MD5: 636109b40ace692a6ce65e51f0aaa515
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/conf.py
+SPDXID: SPDXRef-item11117513
+FileChecksum: SHA1: 3a887a2f4361e252a62c4c711690e03e8635dc7a
+FileChecksum: SHA256: 0eed4b794fd16057a5e2fca06e6f22f9e6b866c162f7a957df585a97b6b44f40
+FileChecksum: MD5: 5a26b8cc3d5ae44062f429a090910050
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright = "ONAP. Licensed under Creative Commons Attribution 4.0 International License" </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/index.rst
+SPDXID: SPDXRef-item11117500
+FileChecksum: SHA1: 6308afc7997bb1804373f66e4c7d32bb04ba85c1
+FileChecksum: SHA256: 7cc2664875f52a3ab495676cdae4b36624bbfd00a0df94c12cec348a8493bfb5
+FileChecksum: MD5: bb71df117b8209178f017a839e51d9db
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd. master_index: </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/release-notes.rst
+SPDXID: SPDXRef-item11117505
+FileChecksum: SHA1: 89911355bb70c04f095903d7491539ae184ab1a2
+FileChecksum: SHA256: ef692a71004fe143e6ac03fa2b9496580d5ef6b7d9f91d05eb221c02144b0e78
+FileChecksum: MD5: 5e45ea7c86804656010bed0941737a93
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd. release_notes: </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/swagger.yaml
+SPDXID: SPDXRef-item11117504
+FileChecksum: SHA1: 5de53679f6a6a5bdcaa9e1296cc3bdb88fd96d99
+FileChecksum: SHA256: d04fa6e467ca9abe54dd0914018f4a34acd5950ed30076c2ae4df50982a572a6
+FileChecksum: MD5: 636109b40ace692a6ce65e51f0aaa515
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/.readthedocs.yaml
+SPDXID: SPDXRef-item11117517
+FileChecksum: SHA1: f1aad112446e07cdb282a759d85aa01323a8bc25
+FileChecksum: SHA256: 61aa581d55e197748c9b8df62b722bc99fe74293568f04149a3f268440cc9291
+FileChecksum: MD5: b2a8febd2d1d4ce4cf10c0f816208c3e
+LicenseConcluded: LicenseRef-fossology-See-URL
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/swagger.json
+SPDXID: SPDXRef-item11117496
+FileChecksum: SHA1: 0fc1b51b82bb4e402c21394e77ceb4497461f295
+FileChecksum: SHA256: 734778fe17bc6671d8a8c48843a05e77edf181a25839e16dc6fa16817f33c2f9
+FileChecksum: MD5: d28498eb1c612f30f71972891f2df764
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/swagger.json
+SPDXID: SPDXRef-item11117506
+FileChecksum: SHA1: 0fc1b51b82bb4e402c21394e77ceb4497461f295
+FileChecksum: SHA256: 734778fe17bc6671d8a8c48843a05e77edf181a25839e16dc6fa16817f33c2f9
+FileChecksum: MD5: d28498eb1c612f30f71972891f2df764
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 982 </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/pom.xml
+SPDXID: SPDXRef-item11117423
+FileChecksum: SHA1: 851943a6ef0c1d10257833dbb3f16134b3e519e5
+FileChecksum: SHA256: 84bd81faf0c5beebad87fd4d52f224b06af27181fdbc42659a39c8bfcbd24fb2
+FileChecksum: MD5: a3c45d4a2932a5b26f4a5af0282e4535
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017, Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/constant/Constant.java
+SPDXID: SPDXRef-item11117450
+FileChecksum: SHA1: 61e53ea7b6d3ebd62f23b3cc80df9a407bcc3e55
+FileChecksum: SHA256: b73f948904e0dd4715f82d842407addfc95ba2e1e8398d85de4d99bd16bc1e75
+FileChecksum: MD5: 23f3f4b2697a5a8a0bb16bd0419e94ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/constant/UrlConstant.java
+SPDXID: SPDXRef-item11117451
+FileChecksum: SHA1: 6248c2b3e3eca358c040cc4f187d70ba8d70187b
+FileChecksum: SHA256: 5a9f6d5a1646ca3240d967bb104b824097cb096e67bffa7d00ae18029ba6e9f1
+FileChecksum: MD5: cfb74f3b3d78c526cef84f6d63b3a502
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/util/RequestUtil.java
+SPDXID: SPDXRef-item11117448
+FileChecksum: SHA1: 6ed0bc51d6cd63dafcbc81b846f513637d66ff3b
+FileChecksum: SHA256: c96eac220dee8e010caab8edaa132ee51974d462dc2bae444e7f6a3e375f5b27
+FileChecksum: MD5: 76f34467830ea71e3d7c42bfda23ab14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/util/RestConstant.java
+SPDXID: SPDXRef-item11117445
+FileChecksum: SHA1: 555837f1c691f0ec2bdcada3c60124ff18158797
+FileChecksum: SHA256: 8017cb86cffca63136cf053e228aca22ac068ff011e75fb8829ed1d7253b977f
+FileChecksum: MD5: 91155ff6fa3c597cca67ff42c9b5cc23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/util/RestResponse.java
+SPDXID: SPDXRef-item11117447
+FileChecksum: SHA1: e78270fe9138befa5254ddead4b9807692d3fc86
+FileChecksum: SHA256: 69c9270e10e756f593da21a01ac47536cd528c0e4e0f44f1f05e88687962443a
+FileChecksum: MD5: 7883d6dcc93261cf73c33284266c2699
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/util/RestfulClient.java
+SPDXID: SPDXRef-item11117446
+FileChecksum: SHA1: 84230cfef6acb202bd31ada9b16bd7655ea18567
+FileChecksum: SHA256: 2b96ef8d1e40fb4b7b859e6588b5cb3b55be46b301474a810558a4b96240fc85
+FileChecksum: MD5: 810fd5b2c6fe3e6da980c586f685b5a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/activator/LifecycleTestPostProcessor.java
+SPDXID: SPDXRef-item11117454
+FileChecksum: SHA1: 6f834a32cb10891403eeead5942ec4070c20f3a0
+FileChecksum: SHA256: adeb953a00c9fdd451873661c0566b966f39313221e50fb0ff5f3bfc578da75a
+FileChecksum: MD5: f4adb4ac38b1b8495ecd6d4dbadd45a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/cli/__init__.py
+SPDXID: SPDXRef-item11117384
+FileChecksum: SHA1: d2492978959ae74862dbbdcc61b7102092cfc26b
+FileChecksum: SHA256: 2ba433a52cb8373babb30955d481feb06ee909a1eb8304d9c9514cf2f2bd66e2
+FileChecksum: MD5: a50ff60bc84aac728d50364eeb6844ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/packager/__init__.py
+SPDXID: SPDXRef-item11117391
+FileChecksum: SHA1: d2492978959ae74862dbbdcc61b7102092cfc26b
+FileChecksum: SHA256: 2ba433a52cb8373babb30955d481feb06ee909a1eb8304d9c9514cf2f2bd66e2
+FileChecksum: MD5: a50ff60bc84aac728d50364eeb6844ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/validator/__init__.py
+SPDXID: SPDXRef-item11117380
+FileChecksum: SHA1: 602f4136b3e7beef72fe541a5c0a4cdc7c7c2c7b
+FileChecksum: SHA256: bfc18bd504d28a2d8f5479b865b7f58d73de5515a1b6224b325e62f96cac6608
+FileChecksum: MD5: 520add19ebd7be7bddad728d9f697262
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/validator/toscaparser_validator.py
+SPDXID: SPDXRef-item11117381
+FileChecksum: SHA1: 472f87877abecc5c82df62a5d53080cd2d1df213
+FileChecksum: SHA256: 305f7e044d4e342d922658f655bd2633dc00f855f16500ef5078eed5ef7430ca
+FileChecksum: MD5: b33a29e6a226007ae7dacc1e37b6761b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/validator/utils.py
+SPDXID: SPDXRef-item11117382
+FileChecksum: SHA1: cb7657b68b37a3340131cdee09fff6015721a79b
+FileChecksum: SHA256: 03ba67244a5a338c15833b7b2b4c970fcac01c7c5cb97d3355bc2841f6ce79cc
+FileChecksum: MD5: e5f57eabaa99ac4510f2a53ab2a243a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp Inc. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/vnfreq/__init__.py
+SPDXID: SPDXRef-item11117395
+FileChecksum: SHA1: d98919b537b6e2adf346a7ade1d64f0cb46ae0f7
+FileChecksum: SHA256: d81b335fa1678e6c22da9b32b60d78555006a2576b224e879ddd50e97591619e
+FileChecksum: MD5: 4e463f1abe513a2a4da47dfaac6c7b7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/vnfreq/pkg_reqs.py
+SPDXID: SPDXRef-item11117396
+FileChecksum: SHA1: 924dcb6d90a4fecd9a65dc940d1e392bd3074d97
+FileChecksum: SHA256: bc0bc16f53c3ca6e41c30ad61bde80e91d87c741bb4983b7f10a33dddc4a5c8c
+FileChecksum: MD5: f6f8ae213159c8fc001e112a531611a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/__init__.py
+SPDXID: SPDXRef-item11117393
+FileChecksum: SHA1: d2492978959ae74862dbbdcc61b7102092cfc26b
+FileChecksum: SHA256: 2ba433a52cb8373babb30955d481feb06ee909a1eb8304d9c9514cf2f2bd66e2
+FileChecksum: MD5: a50ff60bc84aac728d50364eeb6844ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/COPYRIGHT
+SPDXID: SPDXRef-item11117401
+FileChecksum: SHA1: 206e5a5091fb59b56388b3d6f3bff249c202daff
+FileChecksum: SHA256: 489bf23f8f55c85c9cfa59e3592fa81308ec7c4f9ce99bf4e9427468be26d1df
+FileChecksum: MD5: 63bcbd4fd6f367a7380bb1367c5463bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/Makefile
+SPDXID: SPDXRef-item11117368
+FileChecksum: SHA1: e85d855ab5ea287e342ff2f977d7c162521a01c8
+FileChecksum: SHA256: ba3ba5d8b252ec6bc85f8ef3d89323715d1c0642e28d2ac44a43451e43eea002
+FileChecksum: MD5: 3ed8f7fc3a99199f811b5324af74d444
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/assembly.xml
+SPDXID: SPDXRef-item11117370
+FileChecksum: SHA1: 4b5b1de75bf559f7c9d023c825dab6023aaebfe6
+FileChecksum: SHA256: 2f24eaa813c8c421393c032d4c0e0fa94a5b84c6baf0155768e88d82c5162420
+FileChecksum: MD5: 871f22bcf123251fd9eb1e8f86934c78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2017 GigaSpaces Technologies Ltd. All rights reserved.
+COPYRIGHT</include> include>LICENSE</include> include>MANIFEST.in</include> include>Makefile</include> include>vnfsdk_pkgtools/**</include> include>requirements.txt</include> include>setup.py</inclu </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/pom.xml
+SPDXID: SPDXRef-item11117399
+FileChecksum: SHA1: d6598ff5450eab4c4f49b98e75ee38e9f163f483
+FileChecksum: SHA256: a133afb944b062ba096341388f4ebed32fb8b155c122d80da79228ddb4786dae
+FileChecksum: MD5: 9ae00e5a264dae672494ef199b136269
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 GigaSpaces Technologies Ltd. All rights reserved.
+Copyright (c) 2018 Huawei Technologies Co., Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/setup.py
+SPDXID: SPDXRef-item11117371
+FileChecksum: SHA1: 05d26b1b484a2c36523b7c53e1ea57f50c3aa962
+FileChecksum: SHA256: 2272d551610d43674b79dc1ddb1c0361315c763aad9c50898d7abd67d76a258d
+FileChecksum: MD5: 91fa06436719fe87347c39b08a48a956
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tox.ini
+SPDXID: SPDXRef-item11117372
+FileChecksum: SHA1: 220adff5a1612a3e49347dc98d45494ceec2a945
+FileChecksum: SHA256: ad4153bba7b7fb15f5882a20d1da202b02930d70d07ca8280846f7ce6e73f351
+FileChecksum: MD5: 64dfce0df4c8337f2da8cb2d227b1fea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/bin/start.sh
+SPDXID: SPDXRef-item11117408
+FileChecksum: SHA1: d7580d01049fa416d4fcab69435c8ed66d2a0263
+FileChecksum: SHA256: 353ce84fa2559f602a0099267e2a2a2aac293f673f8e7addcd5d97e943ade75f
+FileChecksum: MD5: fc8849de60fcd244f349b34666e8a0a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/bin/stop.sh
+SPDXID: SPDXRef-item11117409
+FileChecksum: SHA1: 75c4d808f5fd1eab76590074358e962df15ca61d
+FileChecksum: SHA256: 0146b0d612df7d1dca11a7488d76b4e6b65cac7f663b4fb06a00315dccc8b162
+FileChecksum: MD5: 8d305567ebd3f226f48b89ae72343ae3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/cli/__main__.py
+SPDXID: SPDXRef-item11117385
+FileChecksum: SHA1: d7c2f4629f47e14a68765a1d987dcbf8f22c2e77
+FileChecksum: SHA256: 69e93ca9880a3f92f69ad69acd4ad759a059439dd97d2e650941c3ee889c8147
+FileChecksum: MD5: e666fc7d9df8c086218ecc7d0a92136e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/packager/manifest.py
+SPDXID: SPDXRef-item11117390
+FileChecksum: SHA1: 74d706ef761814e25f74b10473066cd9428d4a26
+FileChecksum: SHA256: c2f421aaf699359c18580db4dc6c44a4e3186394e4a0766922c1057518d23e2c
+FileChecksum: MD5: 50e91154bf0133ed618dd0cd6f8dc537
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/packager/utils.py
+SPDXID: SPDXRef-item11117392
+FileChecksum: SHA1: 92ba445f2ce58b767665748452a2db6950e74d93
+FileChecksum: SHA256: 798ccdef9b0499646cd08b419e1b1d0e78b73ab44a6064f792d534dcde0aa6de
+FileChecksum: MD5: 6b489adc1a9dd4e1886b59e7d1e42689
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp Inc. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/adapter/impl/LifecycleTestAdapter2MSBManager.java
+SPDXID: SPDXRef-item11117466
+FileChecksum: SHA1: 54beb77d65e559ed37cb42a0547ce4263c576738
+FileChecksum: SHA256: a43758e388fbb55c34b8114b630b6df55dbc4abea124df2f24397f29c4460770
+FileChecksum: MD5: b77d850585b696d6c88902d9ddf8909b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/adapter/impl/LifecycleTestAdapterMgrService.java
+SPDXID: SPDXRef-item11117465
+FileChecksum: SHA1: c5ca0da5fca3052dedb1c0e44292befccf74b2f1
+FileChecksum: SHA256: e4efd6e38d74c6be10e58e0e31a01249c236abd8e1802fc61f9b89e605f63acd
+FileChecksum: MD5: 1cc8b50b52e7f7752141a34829eb7e2a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/adapter/inf/ILifecycleTestAdapter2MSBManager.java
+SPDXID: SPDXRef-item11117462
+FileChecksum: SHA1: 4871cd6422cdc722e9a51aef18fcd611ca2b9300
+FileChecksum: SHA256: 6c24670e6061a66b217e755c2f99a26dab5d72d20c610f47eadb4120a1901ded
+FileChecksum: MD5: 771d378e9c3497aa10aad369ec570899
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/adapter/inf/ILifecycleTestAdapterMgrService.java
+SPDXID: SPDXRef-item11117463
+FileChecksum: SHA1: 52220233363bda4bbf19e5095e7882d7dab01efd
+FileChecksum: SHA256: 6e960a3262f97a1a082f5c0a1844ab715a8b9e8083ff9451f60a69d9bcf20d53
+FileChecksum: MD5: bbdfb3899a0627559fe153b178d77557
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/business/impl/VnfpackageServiceImpl.java
+SPDXID: SPDXRef-item11117459
+FileChecksum: SHA1: e63d6aa1d8ab1a37de4a2e97eeb33dfd08651da6
+FileChecksum: SHA256: cb4bdcc5a4516753fb2bba78490963e3b3dcf2716b07dc36b1f74c12c45fbd89
+FileChecksum: MD5: 5535d758a20bf205f32bca02f790efe6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/business/inf/VnfpackageService.java
+SPDXID: SPDXRef-item11117457
+FileChecksum: SHA1: ecb595c5e1bbe4402210c6290088baf9764ff291
+FileChecksum: SHA256: 3bf5e5b06e61123d6c047f020ecca611a6d2c7321941e87fcb493ca6dbc44256
+FileChecksum: MD5: db3fd4af52458f9a499dc7d050ad4f1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/rest/SwaggerRoa.java
+SPDXID: SPDXRef-item11117468
+FileChecksum: SHA1: a6f622b4e351bc3ee8cebce278a11d8e2c251f35
+FileChecksum: SHA256: 9e7fb34525abe81a15e3870880b5369f518d44b3ac9a8c591a88221214534634
+FileChecksum: MD5: d32cbdfe48255849ab15236902fd31c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/rest/VnfpackageRoa.java
+SPDXID: SPDXRef-item11117469
+FileChecksum: SHA1: c631998d29bff1ea9396883ce3abfe1a983ae742
+FileChecksum: SHA256: bf6a5542889f48b338582836a43c4b1003986173c79e76eb8c96452730a570d6
+FileChecksum: MD5: 1a5c1cc6b85c4347c5952e283d6d2b76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/resources/spring/services.xml
+SPDXID: SPDXRef-item11117434
+FileChecksum: SHA1: dea18b155ae5109256df1803fdad5b04212b1787
+FileChecksum: SHA256: 8af6d72a9b6b7f819bdcbcd4483479043340686c18c2f751c339f5b70440c4b7
+FileChecksum: MD5: 2fde82466074a556f55cd6874dd5a5e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017, Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/resources/spring/svc_register.xml
+SPDXID: SPDXRef-item11117433
+FileChecksum: SHA1: 58483f9b45110b95f0cbb94d5b6f657c86dec9f4
+FileChecksum: SHA256: 1105b48f280fd7273eee70f6306bff5117cf018f794873e2cd90636374016507
+FileChecksum: MD5: b1bb36cdf070a40fa21f6501562122d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/resources/log4j.properties
+SPDXID: SPDXRef-item11117430
+FileChecksum: SHA1: ff31fff3dcf569984d07bfd5e45e26b378ec7b98
+FileChecksum: SHA256: 8e2e9a0ca95fdad5bf0c1f9089e73447272725842556cdabf0d17a541e48af78
+FileChecksum: MD5: 7ca06f580ca78b1fc0de6e99779a2b5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017, Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/webapp/WEB-INF/web.xml
+SPDXID: SPDXRef-item11117437
+FileChecksum: SHA1: d30c0650d865ace754a570709bd1ff4c92633c63
+FileChecksum: SHA256: 3cd18e1f1fb8dacd3bfe931312697039270f4e80525abd7a176d7c07844a4910
+FileChecksum: MD5: d079b5a4525ff4736c35645e00e72b5f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/webapp/WEB-INF/web.xml
+SPDXID: SPDXRef-item11117472
+FileChecksum: SHA1: 73f97770ce10d2ccf36c86521f8463305cf969ce
+FileChecksum: SHA256: a4fc6bf3a5a1e17a02b71db30c03f09748abcb209dc539bfcf7b559b83da29d8
+FileChecksum: MD5: e6e4a5fcf39286797d528890d60e64ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/pom.xml
+SPDXID: SPDXRef-item11117473
+FileChecksum: SHA1: 5d6f18bc7d0ad7cfb7624a325532b862294bc8d9
+FileChecksum: SHA256: d758db3fc2f8f5d4658f9e7018f7aa9a053b820fa625cfbf677e9bf7fdaa5678
+FileChecksum: MD5: 4405b3c7e0f5e5955a429d17b081561a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 Huawei Technologies Co., Ltd. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable la </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/pom.xml
+SPDXID: SPDXRef-item11117425
+FileChecksum: SHA1: f8c763d1c2dc4c579377a500c1853661e729d03c
+FileChecksum: SHA256: 7aa08ed1bc78b98c6f96f1c99599c1f2ec82866d971fe8ce62b024fb31e624fc
+FileChecksum: MD5: f774e0c7660164bdd817cae3bf8e1f2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/cli/test_cli.py
+SPDXID: SPDXRef-item11117306
+FileChecksum: SHA1: a218a1e27d073964e4b6317593cdfe55d430db59
+FileChecksum: SHA256: 6b42490706d77d3de9145ec86578a61dcb348a43bd85023fc5577f8f0e616984
+FileChecksum: MD5: e6c8a53124233f7cf291040fca638d37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/packager/test_csar.py
+SPDXID: SPDXRef-item11117362
+FileChecksum: SHA1: 8bfdc70a87d130d8159929fb34aff04094fcfa35
+FileChecksum: SHA256: 1b00b1a7b7c842e54ba90523472a9202476e83d597b4382d1cbfb9de85c80bf6
+FileChecksum: MD5: 584013853b6191e5ccd84bfd28f5d29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/packager/test_manifest.py
+SPDXID: SPDXRef-item11117364
+FileChecksum: SHA1: 7b8509c4a1dc316858eaad0c6367954771cce37c
+FileChecksum: SHA256: eba3aacb36252014160bfc04a2b8df4ec6b58e5021756cbb28e55cb2ac60a7f2
+FileChecksum: MD5: 4288738f2d4a827629bac2f2a9c59515
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/packager/test_toscameta.py
+SPDXID: SPDXRef-item11117361
+FileChecksum: SHA1: 4991209ab6f825f70d4003a890df07b05ead0c8c
+FileChecksum: SHA256: b188cd9a99103bad079a41b7ac927fd52f235cf4751ac50b14d1aa4f2bbfd993
+FileChecksum: MD5: 978c628c42d9033c6b7e92c3c5d148dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/packager/test_utils.py
+SPDXID: SPDXRef-item11117363
+FileChecksum: SHA1: 8b7a25722e8a6d9dc9a48226aed243ac87930ee1
+FileChecksum: SHA256: 7125e82bb5da3a16d70109087de0953ee809f1ce6069069b6722a83da527cea6
+FileChecksum: MD5: 391b3821185c9a7e7ac12cc7533cec4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/csar/test_entry.yaml
+SPDXID: SPDXRef-item11117358
+FileChecksum: SHA1: 8e352dceb861f532cd0ebc809bdac3b819979c75
+FileChecksum: SHA256: e99f364aac40a0fa84d84199c8a622802f07ceb74e3ed1ae1ef42b4eca5a0cce
+FileChecksum: MD5: 45fd37a1728d14068942f96a493683ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/validator/test_toscaparser_validator.py
+SPDXID: SPDXRef-item11117304
+FileChecksum: SHA1: 6d4172376c4590553defdd2021f5183c7db8c5d0
+FileChecksum: SHA256: 6e0ea5893c5428ad50ec983cd0a29095f33d7bdc4b2ee22da45cdf73d8f1b1e1
+FileChecksum: MD5: ae9f590157f642c5878d8c6ab0075e2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/validator/test_validate_utils.py
+SPDXID: SPDXRef-item11117303
+FileChecksum: SHA1: 28739a093d510d86101b89107083e88f2f359ad1
+FileChecksum: SHA256: 58f77012ebdb87b2a2ab2a7f16dc6f2bee43c94c6ef5e07e9007eae2c7c6b9ff
+FileChecksum: MD5: f064ecab866dce13c80cb74fe593ad86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/vnfreq/test_pkg_reqs.py
+SPDXID: SPDXRef-item11117367
+FileChecksum: SHA1: 8dec50edbf6930cbf2125ef11701dd85c1216d30
+FileChecksum: SHA256: 2ba69679a05b4eb32251737d6356b90b1b220e9bba13c356461ebfbc26bdeee2
+FileChecksum: MD5: 28dc85549826111fdf7c92dc14801845
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/vnfreq/test_vnfreq.py
+SPDXID: SPDXRef-item11117366
+FileChecksum: SHA1: 655643681edf0b1e385534020b46de7e1837c8c8
+FileChecksum: SHA256: c866109cb62462962feebf10469d246c45363e5e47254216ebbcb5eaaafffc69
+FileChecksum: MD5: 539737e943188f5c68d7e765b68b96e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/requirements.txt
+SPDXID: SPDXRef-item11117359
+FileChecksum: SHA1: 53c40a71ed561643663cee28f84485e3ae8acf9f
+FileChecksum: SHA256: baaafa2295f78301848f82b761d9b617248d58653e76368fac3c16b8cfd29642
+FileChecksum: MD5: 75cf9d2e854d4235dc0b3e69bd91966c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 GigaSpaces Technologies Ltd. All rights reserved. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/LICENSE.txt
+SPDXID: SPDXRef-item11117375
+FileChecksum: SHA1: 172ca3bbafe312a1cf09cfff26953db2f425c28e
+FileChecksum: SHA256: 73ba74dfaa520b49a401b5d21459a8523a146f3b7518a833eea5efa85130bf68
+FileChecksum: MD5: 19cbd64715b51267a47bf3750cc6a8a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner that is granting the License.
+copyright owner as "Not a Contribution."
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must inclu
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/Dovetail.rst
+SPDXID: SPDXRef-item11117492
+FileChecksum: SHA1: a07a53a2fcea67ea1fcdb1b2b67140dd74356cf6
+FileChecksum: SHA256: 7fc546ffcaf41c611a49cdd2824964bc7727501af6e8a850aad7f7f9b188c475
+FileChecksum: MD5: f6bbd1de2742469e1133bf17bb3aa668
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/VNF SDK - Guide for Bundling VNFs.rst
+SPDXID: SPDXRef-item11117497
+FileChecksum: SHA1: c47ba3ad6ca32b10c038e022b36e0db654333871
+FileChecksum: SHA256: 3c7a983a93a84b9bb26c208478881ca622d82f46ecb0d442667b79fd2cce232b
+FileChecksum: MD5: 6102d63d32dbd4ab65b618e94a00cd78
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/VNFSDK-LFN-CVC.rst
+SPDXID: SPDXRef-item11117480
+FileChecksum: SHA1: 3a021ef5dfe4dc11f7d3c6bc22ded151f68599a4
+FileChecksum: SHA256: 2c0e4bd34dc70e261e5c55f00ea04cf9bf13e4eb4f5e6bed5f529fd61dd87e42
+FileChecksum: MD5: 734ed5e76573720d297998fb101cd755
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2018 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/VNFSDK-Marketplace-userguide-installation.rst
+SPDXID: SPDXRef-item11117499
+FileChecksum: SHA1: ca4371cf84b85e6746d37b9685454f75681af968
+FileChecksum: SHA256: eff6994f40c8f3ccdb7c575f4d36f1e03d4ef5ff6bfd655ee5c4bbdce8d8ef2b
+FileChecksum: MD5: ba92dd43f2ca9ffe2e2d4370f5763c4b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2020 Nokia </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/VNFSDK-Marketplace-userguide-operators.rst
+SPDXID: SPDXRef-item11117482
+FileChecksum: SHA1: 5c77c133ced7ad6d79d92b1a02d34414f20cbc4a
+FileChecksum: SHA256: 8b1a4001072bfa6529b4d6abda20286bb02bb520941a4b22fa0e2b5f56adde0f
+FileChecksum: MD5: c20eb32fc469ac9394137a40df041c22
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/VNFSDK-Marketplace-userguide-rest-api.rst
+SPDXID: SPDXRef-item11117495
+FileChecksum: SHA1: 7e2743d96da7e6b5e7a150430c3412a4dc3301f7
+FileChecksum: SHA256: 728087c355ed61ff8a33235d6a4e374f190775e64b35aa578691c8c9442aa7bc
+FileChecksum: MD5: 21775f2082749c588d089039afc27409
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2020 Nokia. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/pkgtool.rst
+SPDXID: SPDXRef-item11117478
+FileChecksum: SHA1: eb76614fd181c689a8521639ca6d686118475d8f
+FileChecksum: SHA256: 46760617636d6b6a9fdb879f8d70630256330f2dc6ff3b5701e2d7ac7b3fb2a5
+FileChecksum: MD5: db7db85ac3f0fabd12fa861063df740f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017-2018 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/vnf-packaging-model-blueprint.rst
+SPDXID: SPDXRef-item11117485
+FileChecksum: SHA1: f7af14b91dac3a5183dbfe80318328ffa07dc667
+FileChecksum: SHA256: 38916d6273d7d819c7875f2708c0437640b45bfd42233eee763e36bb21d4f512
+FileChecksum: MD5: f91fec9faf962fe0f764e67eef013a52
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/vnf-test-platform.rst
+SPDXID: SPDXRef-item11117484
+FileChecksum: SHA1: 33cfa2a60ca103d9d51bd86f24b0ac4ec3764221
+FileChecksum: SHA256: 929b1eb882e5426afe50f0061b689d12dee88c82eef3fc4af9038a2100ef9384
+FileChecksum: MD5: f4bd261cc3ab3a316d0cc7207ca36793
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2019 Huawei Technologies Co., Ltd. </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/vnfsdk-apis.rst
+SPDXID: SPDXRef-item11117483
+FileChecksum: SHA1: c153bb0bfd3390638eafd709c01b1ceeb59d1982
+FileChecksum: SHA256: 0d5a34b46ad11ced9ae1c8f21a79d0d6a25e2dbf4d5024282bca145875843ee1
+FileChecksum: MD5: 76c5b22c2ffa506dc8a7762aaf0708ad
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright 2017 Huawei Technologies Co., Ltd. offeredapis: </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/test_import.csar/test_import.yaml
+SPDXID: SPDXRef-item11117311
+FileChecksum: SHA1: 8463ad473463435ced98ce6e58dbf63c5cfd8d87
+FileChecksum: SHA256: 044518f051b312d00482a0fc259e4742c45735cd943713004d03e30e08ea8551
+FileChecksum: MD5: 23f0db57ae75cf857c037a1c1cbc9d84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/test_import.csar/to_be_imported.yaml
+SPDXID: SPDXRef-item11117312
+FileChecksum: SHA1: 4adfa049569f0fdf65ca38c8cc49696ce10f1791
+FileChecksum: SHA256: 7e9d7f3f935bf8f61deea672d38bfcc0222c68065359711727ff69f20cf91417
+FileChecksum: MD5: 2e100a8d86d865c9233cf3e716a98ca6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/test_import.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item11117314
+FileChecksum: SHA1: 1f1299387527d7c677ec2b4fac31f8fa9b1d8cff
+FileChecksum: SHA256: 2bce7e2ded0dae9a0e8d34804ab8665c251d30dcd6db2dd48474a43f17cd6361
+FileChecksum: MD5: af5004f2262da39fd16fc16975ae8589
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/TOSCA.meta.sol261
+SPDXID: SPDXRef-item11117315
+FileChecksum: SHA1: da890c08811cf3a5839074840a2a43006ce3a433
+FileChecksum: SHA256: 09dbd71b5f9695b149dcff8dae01f20c2af8686cb77f684cd20ede52fc16cf80
+FileChecksum: MD5: dfc522d4229a35a3ceb4ade5844b4dd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/TOSCA.meta.sol241
+SPDXID: SPDXRef-item11117316
+FileChecksum: SHA1: 934b2e8a75340210742738af4e5e772ba7b66986
+FileChecksum: SHA256: 3504452a10eef6a60b0aef0f964fa7f88e49763b1ca4187bfccf9b8cce803972
+FileChecksum: MD5: 5a9b983fe44e8842c090de868faba288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa_bad.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item11117321
+FileChecksum: SHA1: f8e6e14d1d018e8208745b6a304923246791db31
+FileChecksum: SHA256: 904927fe2f4867993a8fa4c153125f1d1e533d4630619df9f27b0eceeab03f66
+FileChecksum: MD5: 117c6915e51ff844355538cfe1f67b31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa_bad.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item11117322
+FileChecksum: SHA1: dae99941967f31d1bc3ec4c77b2b7ecac7f8394a
+FileChecksum: SHA256: 0ac07845f2dac3a3fec152c660a62d0a7c3c7da0495bcd911b6d1a5b4fa4667e
+FileChecksum: MD5: 7cce22584f76d6aa0636aae2219b26be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa_bad.csar/Artifacts/images/ubuntu16.04
+SPDXID: SPDXRef-item11117325
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa_bad.csar/Artifacts/keys/id_rsa.pub
+SPDXID: SPDXRef-item11117327
+FileChecksum: SHA1: 6ab62740ee681750a1984817bc0fbfab328d4cc3
+FileChecksum: SHA256: 5ca91d32a47e944ecf5acb93cc0b5af2c5cb1703f8fe83e59c7f4864fbf8ea28
+FileChecksum: MD5: 67fe0f83f0e2193ba895c3bca697aa6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa_bad.csar/Artifacts/keys/id_rsa
+SPDXID: SPDXRef-item11117328
+FileChecksum: SHA1: d9a470faffc08f2989558c844722c0a459605c80
+FileChecksum: SHA256: eaf9f0c3774406807cbcf6ce5133c1df0266bb37ddf644e57dabe724b132050f
+FileChecksum: MD5: d6fb1e4ed9dfb754408ebbd646349665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa_bad.csar/Artifacts/keys/authorized_keys
+SPDXID: SPDXRef-item11117329
+FileChecksum: SHA1: 6ab62740ee681750a1984817bc0fbfab328d4cc3
+FileChecksum: SHA256: 5ca91d32a47e944ecf5acb93cc0b5af2c5cb1703f8fe83e59c7f4864fbf8ea28
+FileChecksum: MD5: 67fe0f83f0e2193ba895c3bca697aa6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa_bad.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item11117331
+FileChecksum: SHA1: 392f1a8436aab67ae67e8d1e6e214bc51f071b45
+FileChecksum: SHA256: be1f34455740be9e888998b8ca6acdfe2c853140f38e9b363d13ce4b140dbe1b
+FileChecksum: MD5: dcc2b7bbdf246ba1ce0e097de891ab1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/signature/test.crt
+SPDXID: SPDXRef-item11117333
+FileChecksum: SHA1: 3c604a3f445cb9f715a5346f861baf94e28785e6
+FileChecksum: SHA256: 48812f4b7323241950e07c1cf309e0f2582840468eb41b0a4842fda740a6504a
+FileChecksum: MD5: a6067d2895476b85c691b67f212fcfc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/signature/manifest.mf
+SPDXID: SPDXRef-item11117334
+FileChecksum: SHA1: 4f3e3dc988568380dc47a902e84417a719eee69c
+FileChecksum: SHA256: eb8183c9e655c9bc9f9602ed0c9c88ddba8567d8f075922bf9bbb3788a66ffdc
+FileChecksum: MD5: 4b7a463d414234e2a26b252a106409c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/signature/test.key
+SPDXID: SPDXRef-item11117335
+FileChecksum: SHA1: 598025de5acc8c2b880c94f2c812d6badb628e98
+FileChecksum: SHA256: cd5af273de42195b96e175d7e2865afec3728dea72866fa48344ad2ae8d6caf7
+FileChecksum: MD5: 29c51c5b4aff970d8ebbc17470fbf0ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/signature/ca.crt
+SPDXID: SPDXRef-item11117336
+FileChecksum: SHA1: 2d3e4e6fac4dd3c01177f1721f18e3a2fb3d252a
+FileChecksum: SHA256: 8f77adb0bd0078b69082d91292ce4aaffae4b024e89a43a7a69df28936dad488
+FileChecksum: MD5: 25fe79773605e74f17687616320abddd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item11117341
+FileChecksum: SHA1: 433fe3506ffdece62bd6299954cd64f699eeeffe
+FileChecksum: SHA256: 07b8ef73f335ce5c9ba4650847bc621da675c60c8e79faeea9e7caa74de66997
+FileChecksum: MD5: cd7fb1947ce4721b54a515290b266cea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item11117342
+FileChecksum: SHA1: dae99941967f31d1bc3ec4c77b2b7ecac7f8394a
+FileChecksum: SHA256: 0ac07845f2dac3a3fec152c660a62d0a7c3c7da0495bcd911b6d1a5b4fa4667e
+FileChecksum: MD5: 7cce22584f76d6aa0636aae2219b26be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa.csar/Artifacts/images/ubuntu16.04
+SPDXID: SPDXRef-item11117345
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa.csar/Artifacts/keys/id_rsa.pub
+SPDXID: SPDXRef-item11117347
+FileChecksum: SHA1: 6ab62740ee681750a1984817bc0fbfab328d4cc3
+FileChecksum: SHA256: 5ca91d32a47e944ecf5acb93cc0b5af2c5cb1703f8fe83e59c7f4864fbf8ea28
+FileChecksum: MD5: 67fe0f83f0e2193ba895c3bca697aa6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa.csar/Artifacts/keys/id_rsa
+SPDXID: SPDXRef-item11117348
+FileChecksum: SHA1: d9a470faffc08f2989558c844722c0a459605c80
+FileChecksum: SHA256: eaf9f0c3774406807cbcf6ce5133c1df0266bb37ddf644e57dabe724b132050f
+FileChecksum: MD5: d6fb1e4ed9dfb754408ebbd646349665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa.csar/Artifacts/keys/authorized_keys
+SPDXID: SPDXRef-item11117349
+FileChecksum: SHA1: 6ab62740ee681750a1984817bc0fbfab328d4cc3
+FileChecksum: SHA256: 5ca91d32a47e944ecf5acb93cc0b5af2c5cb1703f8fe83e59c7f4864fbf8ea28
+FileChecksum: MD5: 67fe0f83f0e2193ba895c3bca697aa6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/hpa.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item11117351
+FileChecksum: SHA1: 392f1a8436aab67ae67e8d1e6e214bc51f071b45
+FileChecksum: SHA256: be1f34455740be9e888998b8ca6acdfe2c853140f38e9b363d13ce4b140dbe1b
+FileChecksum: MD5: dcc2b7bbdf246ba1ce0e097de891ab1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/csar/Tests/test
+SPDXID: SPDXRef-item11117354
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/csar/test.crt
+SPDXID: SPDXRef-item11117355
+FileChecksum: SHA1: 3c604a3f445cb9f715a5346f861baf94e28785e6
+FileChecksum: SHA256: 48812f4b7323241950e07c1cf309e0f2582840468eb41b0a4842fda740a6504a
+FileChecksum: MD5: a6067d2895476b85c691b67f212fcfc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/csar/ChangeLog.txt
+SPDXID: SPDXRef-item11117356
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/tests/resources/csar/test_entry.mf
+SPDXID: SPDXRef-item11117357
+FileChecksum: SHA1: 809fae4a53ebcd941bc2826bbdee7b94a8777447
+FileChecksum: SHA256: 797a475904e1b61cb2b338107dbf67a389ba10656e7a5107eb321d5ec12032df
+FileChecksum: MD5: ca9d02a9c244f1ac9d762c42347c0a58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/MANIFEST.in
+SPDXID: SPDXRef-item11117369
+FileChecksum: SHA1: da98d36cc06f5007e997cfa7afeff3916df0159b
+FileChecksum: SHA256: e62ea4b10c93e9c5e3ef8c3c2b8a1880468f7856f4034588752b87f95a3c6049
+FileChecksum: MD5: b79f18a93f99dec374ebf637765edda7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT include LICENSE.txt include requirements.txt include vnfsdk_pkgtools/validator/*.yaml prune tests/ </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/INFO.yaml
+SPDXID: SPDXRef-item11117373
+FileChecksum: SHA1: d965c01b64fd6a79690d3528bd59bf793a2affc7
+FileChecksum: SHA256: 93e74dc0f5285976ec3de0abf48859e7bb976411168052b103940d6958565f4f
+FileChecksum: MD5: ea56d93b695f126f4dfb8512b90250d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/.gitignore
+SPDXID: SPDXRef-item11117374
+FileChecksum: SHA1: d7df4eb6dc0d185640206a0f739c3a157e4f4125
+FileChecksum: SHA256: b71130e08b25364161940cfd9dffabefbddd4157550e1fea9935ff8d49e43639
+FileChecksum: MD5: 48e8b2ddccf72571ccb6e590e3bd2cce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/requirements.txt
+SPDXID: SPDXRef-item11117376
+FileChecksum: SHA1: 7e0f5e2e57ab2f3ca985fe23b6760fd34a2d5cb6
+FileChecksum: SHA256: f2416aef666714866fec07d44c4362e7fa3c82af7980f4e2850a034f4d0f7b2f
+FileChecksum: MD5: 174228c0ce05908597e14eb32d0a1436
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/validator/hpa.yaml
+SPDXID: SPDXRef-item11117379
+FileChecksum: SHA1: 8025cdcde0b160cdb8f01bc96a402b122e4392e4
+FileChecksum: SHA256: aeb12dcec3667c350187c48459b214cb947ee3dd2cae5ea8871647cc5d65d406
+FileChecksum: MD5: 9dca7ef54028bab08146076ca379540a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/util.py
+SPDXID: SPDXRef-item11117386
+FileChecksum: SHA1: 00b1820684dc693923c8d386defc319115bad4d4
+FileChecksum: SHA256: 8518c8abd7dc7160d043cb03645df89e82df137bdf6f89691a070a84df4f9af0
+FileChecksum: MD5: 02ce521ecaa1a8ec0cbc9fbcee2bf453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/vnfsdk_pkgtools/version.py
+SPDXID: SPDXRef-item11117397
+FileChecksum: SHA1: 049080efed4d59efebb6cee516cbcdda1fe2d540
+FileChecksum: SHA256: 47d6724ab010c40a75d43f3aa747309cdf229f9a1f824a7fe6d5c5f4ce2aed85
+FileChecksum: MD5: 9d84103904d613b5819fd496612f6f04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/README.rst
+SPDXID: SPDXRef-item11117398
+FileChecksum: SHA1: 837de62d84b712a76b683e233332bdef982b7251
+FileChecksum: SHA256: 5b627eaa8a6336ee4c206d8324bfb3cf609532c47205ef23ea5d734e23f3d4bb
+FileChecksum: MD5: 37a4ccfc0edde4000ba1589682264b35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-pkgtools/.gitreview
+SPDXID: SPDXRef-item11117400
+FileChecksum: SHA1: c7fb6ba4602135060faac2b2f11b808a18ec2674
+FileChecksum: SHA256: 9b582c1057326412e49a4ea710a0372b5db7cef79d18dd267c71ada7f06a5ac4
+FileChecksum: MD5: 7bed3deeec0276aa12fefa769173ae8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/README.txt
+SPDXID: SPDXRef-item11117417
+FileChecksum: SHA1: 490e74af30e6582071174800b4e3fda44d4b1bbe
+FileChecksum: SHA256: 8501484905bee2f392dbc7c443ff24f82749aa714cd9f6e0bc558affa8e051fb
+FileChecksum: MD5: f5331d8f6030eaaebef74f119e7084e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/etc/conf/restclient.json
+SPDXID: SPDXRef-item11117420
+FileChecksum: SHA1: a4822181ca1b93d4dcef8fc6a5d80eb439476662
+FileChecksum: SHA256: e2c1ab66df7cd8b075bc7bc52771a1268ef53fad659b31e728f515f2df0bfdc0
+FileChecksum: MD5: f8d8ee198478377632a152c39c953a6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/deployment/src/main/release/etc/adapterInfo/lifecycletestinfo.json
+SPDXID: SPDXRef-item11117422
+FileChecksum: SHA1: d04135b347d713b21dbca1b9b5b9fa0325adbe00
+FileChecksum: SHA256: f6fd06303e07e587e3e9f8b46443f8504129198a3e8ec260f8f6cbd6096079de
+FileChecksum: MD5: 80e88b3500475dd8d6d520d686c952be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/INFO.yaml
+SPDXID: SPDXRef-item11117424
+FileChecksum: SHA1: 9e7be9396def8e168d5eff893fcef44f119ce507
+FileChecksum: SHA256: 36f2fd5521397b29702dbad70447b292a8b310beaa7c98d3d7f905a478f1668a
+FileChecksum: MD5: e71fa76708cca2e15a01d16b0ed735fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/resources/swagger.json
+SPDXID: SPDXRef-item11117431
+FileChecksum: SHA1: 41c4fca5e2b9f62bce971c5ddfe01f6987a34f5a
+FileChecksum: SHA256: 1605352c456d7b7ca59356f4fee36d44a80b3b34b8b1e4cf5d5c0d4a6c5f4e3e
+FileChecksum: MD5: 90d394973948f13c54d6c427c1b3afc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/zip_package.png
+SPDXID: SPDXRef-item11117477
+FileChecksum: SHA1: d4ebc7c76c566b568b5c563eb057563f54723d9d
+FileChecksum: SHA256: 8e656bb2510a4cca83a9386c09019eca56c999d4b3a11fd1c6e5c8bed63759ab
+FileChecksum: MD5: c392acced46069b8f789e181a07e9f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/VTP.png
+SPDXID: SPDXRef-item11117487
+FileChecksum: SHA1: bc5a95d953b969ff086e683f1e0eaba4a9689752
+FileChecksum: SHA256: f1bebf23326f32f54056293b859f6cc7ad552472727ff63e6312ba7afd614ff5
+FileChecksum: MD5: 4680bc6b8f1ff841b287fa4bff894a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> © t~1g?Kb?!<}?Qb©?öbÕѣGé?7"?£éLq8ðâYo?#?4tR@Ê?iFU)-%¬ô> °޾/;<òî+úD¶o½?d.PÌÌ;à8ì°Iå éå¸Ìi]À1;Ù~LnË?Ò?åqß# /³c?Üq?)Û!!Þ|\ ?Pq8 ÚÞ%B)2.C AZäC?#bʑîˌÊҶÏïåuà1GV Íg?Eys|¾Ô浗ÎJK(6cl{éýŹ </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/image2.png
+SPDXID: SPDXRef-item11117490
+FileChecksum: SHA1: 0759efe4a59695afab37da388fbf033266f16fe1
+FileChecksum: SHA256: 9873b2eab1e367acfaa345116c0b637bf1532fd29da5abe7deb28a28096cc0c6
+FileChecksum: MD5: cf5d953830771d73925caa41dcfa6fa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/VTParch.png
+SPDXID: SPDXRef-item11117491
+FileChecksum: SHA1: a865f5bfb3e4b1a2439d7ab98ccac66857612fce
+FileChecksum: SHA256: 065d80fbeb194f348c97afcd5247a18b0fbab57eacf8b0b64100f1120d7e174e
+FileChecksum: MD5: 45b87b50d8c9528647163cc47ae9a986
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/vnfsdk-marketplace.png
+SPDXID: SPDXRef-item11117493
+FileChecksum: SHA1: bd743c9b29dddc024978cb68d7be67787564549e
+FileChecksum: SHA256: 230de148681365e99d0b69940fed682150020ec9bdcf86a61d3481b6d5c6cc66
+FileChecksum: MD5: d1d22c743ad7b4fce34a7aad55782e6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © VvcO~«SKå~Ã3Yþ/?ůÇOçã?«%]O`ÖÔÏْÕAóÊAóZ?fBÊ5?ê]?Iq£Ê'Ç&%?Âcm ?jKêW? ?3/y?Ãæ(øO?i`Oޏþ?¨´"BükAd?Ì{¬¾åw}¶?>ï©eÜé¢y­9)ó¼¤G­?ó?á*Î2æAμô%? 7trjùnãO¦á?î^?+.NVǼÇj?~¿iu¼?Þð¡y­;zÙvO}1sو©n?:´_6¢Ue?4 7㫺¼y%? òËƻb^¹ßðL¿?áJ?yå~?TވÄ??ÿ­Y?Y?ó'VÇ+4¯ÍÁnëñÔ/º?×Îݳövh </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/image1.png
+SPDXID: SPDXRef-item11117494
+FileChecksum: SHA1: 3c54b915f299115ec0211d46a7892f7a37cf4129
+FileChecksum: SHA256: 32012f5ae60970517677c75a84f2b902981cc28bd49872c108afa2e508bf0f54
+FileChecksum: MD5: b491d25805833b58b3e4c47f15e5a0af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	agcWêFªhcmÚj9º#Éæ¯;?T)«%rEƾ＠R"y>Ҵ¥-mÔfc?¶úOùTÀVjBÉrÍ)°gÓ!ü»l-͝?( </text>
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/files/cvc.png
+SPDXID: SPDXRef-item11117498
+FileChecksum: SHA1: 19ebfa929bc978763f94aa0d0bf5369806122a1d
+FileChecksum: SHA256: bbc63932460a4f165111ed907ede7c600746a305b71fe18de07a6bac77b7bda0
+FileChecksum: MD5: 01ee8581643c20068c978dc765963ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/.DS_Store
+SPDXID: SPDXRef-item11117501
+FileChecksum: SHA1: e36ce88006168c916aab5761c76710462fbe2832
+FileChecksum: SHA256: 9414f95b5d48bdcb58ab1592fb37f949501c4910fdd86de571f25917fc8c88ae
+FileChecksum: MD5: d896828defe7e275843855291109ca91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/tox.ini
+SPDXID: SPDXRef-item11117502
+FileChecksum: SHA1: c58d7f7b0b720785d7f1c13197ae955406c74381
+FileChecksum: SHA256: 5eff3c0e55dd13a5f1041fd14d641f188cf568e1f2a89233cbf17698e39c8f32
+FileChecksum: MD5: e868b9c2c95cda1cd51fac7bf8e16ff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/.gitignore
+SPDXID: SPDXRef-item11117503
+FileChecksum: SHA1: 28ce6a9e55e7a09d3652e45560116a20681cfc4f
+FileChecksum: SHA256: 9a60ea9a6f25aee03e5817737996295e9fe4f1bb91ea369b8314eb3efd5f122b
+FileChecksum: MD5: 737ed43c6d82a9b8a4122c319fcccd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/requirements-docs.txt
+SPDXID: SPDXRef-item11117507
+FileChecksum: SHA1: 621b6a2dd75992004eac5e78aee44bc81b42c88b
+FileChecksum: SHA256: 1eff3964159793293e0da7db832e5c87089a2b39c95ca91c681e1096e05c5ebf
+FileChecksum: MD5: 17a7166becfdee6872f11f6b312716fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/_static/css/ribbon.css
+SPDXID: SPDXRef-item11117510
+FileChecksum: SHA1: e1c9b7c0b4afb40ea8eb77eff153696e22c1cf71
+FileChecksum: SHA256: 7aed36a3d0a9e8c92a3e07bc30ff195a8a7e485302d53c0966a623a24d09cf7e
+FileChecksum: MD5: 9d89b6553742ce809f5866fee67743a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/_static/logo_onap_2017.png
+SPDXID: SPDXRef-item11117511
+FileChecksum: SHA1: 131b7292f47c32f9966b551b4ee94a73827f48e0
+FileChecksum: SHA256: 3487555c0784147279765b75da3865ac661bf72285f41d0ca47f21a9bea451ae
+FileChecksum: MD5: 85d4abdec13c6c7eeb69f4c7437c721b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/docs/_static/favicon.ico
+SPDXID: SPDXRef-item11117512
+FileChecksum: SHA1: 9e851226254d46f92585b4731b7ea9a4405d3e58
+FileChecksum: SHA256: 7ded121be21030233f525c0fddf0afb718216a208853dff3fdd4e909676c3d62
+FileChecksum: MD5: 9a0bda20156b9596dd82191d7232aca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/sandbox/README
+SPDXID: SPDXRef-item11117515
+FileChecksum: SHA1: 48202496bd1ef9e0e35adaae6dd248972da18f11
+FileChecksum: SHA256: a98bd065ad3d38653e6d944373f455d371465c454045aff47207c450b6233857
+FileChecksum: MD5: bb99b911ecb6da1f64aec91093b7c331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/INFO.yaml
+SPDXID: SPDXRef-item11117516
+FileChecksum: SHA1: 2ebaf1def87f433493c86d5c79e76251b298f358
+FileChecksum: SHA256: 6703d16b6498c8880a6ac98762bcb2765190bfd7d6d6fc4061da2535493ced83
+FileChecksum: MD5: 97d7bd8f06100db2dc1110472a214e4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vnfsdk-2025-09-13.zip/vnfsdk-model/.gitreview
+SPDXID: SPDXRef-item11117518
+FileChecksum: SHA1: 3abf8674fe44e97cd27f21b384a8cf3edd4efab7
+FileChecksum: SHA256: 4568491297aa9a2aede34c326463f479355a91dadc6e5de35b9095a4b1230b6e
+FileChecksum: MD5: f78857ee0a597dc702b6d223bea44035
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Apache-2.0-ASF-Header-1
+LicenseName: Apache-2.0 (ASF Header)
+ExtractedText: <text> Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements. See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership. The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the
+specific language governing permissions and limitations
+under the License. </text>
+
