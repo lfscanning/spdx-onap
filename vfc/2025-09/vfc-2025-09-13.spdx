@@ -1,0 +1,266 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_vfc-2025-09-13.zip_1757806946.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-09-13T23:42:27Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: vfc-2025-09-13.zip
+PackageFileName: vfc-2025-09-13.zip
+SPDXID: SPDXRef-upload1927
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: e85d35fcf1a8c228b48cd3bea0e1ef02d651500c
+PackageChecksum: SHA1: 1689ae193b9d50bdfa52748623283dc20e1046bd
+PackageChecksum: SHA256: 3b4efc8a77bb0ee2d338164335f28c07a7a7658bd8c183f49aabae5d880838c9
+PackageChecksum: MD5: 50dec9e2f1b881ecdf8c0f17907fc8f8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1927
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/.github/dependabot.yml
+SPDXID: SPDXRef-item11117029
+FileChecksum: SHA1: 0b021e1a53d761ce8c7acda4a444779fedbab8f7
+FileChecksum: SHA256: 1e65a347696d7b3d8fadfd5223616266c046e3ac5464f177d0d0dcc9d06d27fd
+FileChecksum: MD5: 334125da760705de54ffbf63bc14f2a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> 2025 The Linux Foundation SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/docker/LICENSE
+SPDXID: SPDXRef-item11117031
+FileChecksum: SHA1: ce2c906b171b14784e95be74c7c5fadeb13cfbd5
+FileChecksum: SHA256: e63713a22a34eb8876d9d46e6368ab61b582de78d56d439a040885f04dcc495c
+FileChecksum: MD5: 629588b61ccde8ddb05ae87cab3f3e06
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must inclu
+copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+copyright. More considerations for licensors: wiki.creativecommons.org/Considerations_for_licensors
+copyright--then that use is not regulated by the license. Our
+copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More_considerations for the public:
+Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+copyright and/or similar rights
+copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights
+Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+copyright notice;
+Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically. </text>
+FileAttributionText: <text> 952
+952
+952 </text>
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/README.md
+SPDXID: SPDXRef-item11117045
+FileChecksum: SHA1: b8a2b21f8bf3a6972621f37c390d4e072370647a
+FileChecksum: SHA256: a24e5c65290a6302124a5b93591f4003ddc5f2bdd962cc19fe1628cc5bef0414
+FileChecksum: MD5: e127323bf2bbe53e8c37c637b9dc7689
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ZTE Corporation. </text>
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/assembly.xml
+SPDXID: SPDXRef-item11117027
+FileChecksum: SHA1: ce239d9f52dbf67055d90dfd43ad02a92d2cba20
+FileChecksum: SHA256: 22bb28dfda8864ee532e3be5d19fe772668db78a84e08e5df361b18b62f34205
+FileChecksum: MD5: bf6fa7aaac0a28d028ebd7811854b159
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ZTE Corporation. </text>
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/pom.xml
+SPDXID: SPDXRef-item11117044
+FileChecksum: SHA1: dfd6d996d3a30dd1a468f510c558432a921f1d3d
+FileChecksum: SHA256: ebaa6e4e345d54f8b39e0c1294dbab916af497399e4384bc63e0afbbb37b2301
+FileChecksum: MD5: 5005f254628d745b4f29a0ecee2e7c14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ZTE Corporation. </text>
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/docker/build_image.sh
+SPDXID: SPDXRef-item11117032
+FileChecksum: SHA1: ab86fad64f4f0671a2ef0d960cacb689f8870632
+FileChecksum: SHA256: 1352ef78c0124fe7f238d7473fd210a4d896708b14d55dd7d6155d78d92a6528
+FileChecksum: MD5: ce30146fd2543fcb52be40e5915598a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/docker/Dockerfile
+SPDXID: SPDXRef-item11117033
+FileChecksum: SHA1: 4e9a1ea4857d7e7d93fc636608cc30a9d8a77769
+FileChecksum: SHA256: f37a0ac742fc5fa66fd39c1d4bbe387a18693968caadc99d49ec412310ecc09b
+FileChecksum: MD5: 20d10633da62b5e0947bd7b94267e03e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/docker/instance_run.sh
+SPDXID: SPDXRef-item11117034
+FileChecksum: SHA1: 99e9f88abe7d349c657a7f22fdaf23b82753d6ab
+FileChecksum: SHA256: c14ba47cf627cfbeed86f7bf134b6501d8fdd3228859550aec156cffa252accf
+FileChecksum: MD5: 39aeb01e7f85df3dc57e19f198930285
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/docker/docker-env-config.sh
+SPDXID: SPDXRef-item11117035
+FileChecksum: SHA1: 848b7f6593028e136634403f6dccd1b44cc2cf31
+FileChecksum: SHA256: d114a50d2c6b6ac8610dfa29f1276ce8c67bd9de29445680b30781ac69dbb63f
+FileChecksum: MD5: 229be166a88137cd04a91405d37416ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/INFO.yaml
+SPDXID: SPDXRef-item11117036
+FileChecksum: SHA1: db79cf8ae140de9180fa40582304d7e008ba05f9
+FileChecksum: SHA256: c741b996250e5a38e0e2b395c83b5083f8e254e304f07d2711fa8654941590a9
+FileChecksum: MD5: d047810ccbb1a1403d04150c79a068a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/.gitignore
+SPDXID: SPDXRef-item11117037
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/version.properties
+SPDXID: SPDXRef-item11117038
+FileChecksum: SHA1: e3668388574db5f780711a063212f027b4a5adec
+FileChecksum: SHA256: 1ff2fef52f07a9c06133bd560f5e01a695e452f530732c505dfd10890ce23bcd
+FileChecksum: MD5: b7df5542094c79028af36244e6ae1827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/releases/1.3.4-container.yaml
+SPDXID: SPDXRef-item11117040
+FileChecksum: SHA1: 88f6f2f743fa560505c920f29b31be9c4ed9c205
+FileChecksum: SHA256: 066c6ab45c14bccd84b5ae215938dfc94d35be942474888ba69f95bb0d10db14
+FileChecksum: MD5: d2fab9b76781a71ccc09bdc35ad46d5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/releases/1.3.1.yaml
+SPDXID: SPDXRef-item11117041
+FileChecksum: SHA1: 930fab017533e2515c8534b63a4105e37b45b9c1
+FileChecksum: SHA256: 09ea5d25d2b991960f9b14b4cb0e46c6f6a979e0a3968f93c7764753d8d643fd
+FileChecksum: MD5: ad37c4c4ef4093dd8c83d55eb4be88cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/releases/1.3.3-container.yaml
+SPDXID: SPDXRef-item11117042
+FileChecksum: SHA1: 3cd14bc1900487a76b877fe4b14daaf9b7afda99
+FileChecksum: SHA256: 2612e576fa4f0dd4d1c91cdf386fd5dd8a04f27ebd9421683676a91026106b81
+FileChecksum: MD5: 2918cc36b53814921c6da10c06b8f35c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/releases/1.3.5-container.yaml
+SPDXID: SPDXRef-item11117043
+FileChecksum: SHA1: 4594302374afc341e318b7058f3b9150b66b269c
+FileChecksum: SHA256: 25562a4b495d710848f0f8b1ae91ee897ccbccd4d097005b39d158b60bb3836c
+FileChecksum: MD5: 63c9688449e2a71a070837d1cec67283
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: vfc-2025-09-13.zip/vfc-nfvo-db/.gitreview
+SPDXID: SPDXRef-item11117046
+FileChecksum: SHA1: c0effc627f0b6f401df533ceadc4968882b09859
+FileChecksum: SHA256: ff13451eee8c9c0274169e09bcf7a6943c8ce0db020beb87a911313b86564864
+FileChecksum: MD5: 737ae1224af74d78ad150c13033b5271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
