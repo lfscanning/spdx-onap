@@ -1,0 +1,64 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T17:55:15Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "No license found",
+            "licenseId": "LicenseRef-No-license-found"
+        }
+    ],
+    "name": "/tmp/tmp7jk9dgby/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp7jk9dgby/code-109fc0f6-9478-4db1-a0b2-3c17b915b227",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-41acb0a0adb14b8a",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-No-license-found",
+            "licenseDeclared": "LicenseRef-No-license-found",
+            "name": "onap..github",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-.github-.github",
+            "comment": "This package was added to the Trivy analysis for the .github by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-No-license-found",
+            "licenseDeclared": "LicenseRef-No-license-found",
+            "name": ".github",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "624c799f0679d03c9bc17fd312b0e8746c526850"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-41acb0a0adb14b8a",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-41acb0a0adb14b8a",
+            "relatedSpdxElement": "SPDXRef-onap-.github-.github",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
