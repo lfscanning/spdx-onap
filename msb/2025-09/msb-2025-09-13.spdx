@@ -1,0 +1,722 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_msb-2025-09-13.zip_1757806246.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-09-13T23:30:46Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: msb-2025-09-13.zip
+PackageFileName: msb-2025-09-13.zip
+SPDXID: SPDXRef-upload1916
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 66b133c75213b2dce47c40fc676e0c347cf7469e
+PackageChecksum: SHA1: 8b798ca7a986534a6861c5bfdf0269879a0708a8
+PackageChecksum: SHA256: 0f4dda188d7d812f89465046b47485df883730a003983db41cd87ccff11e00a5
+PackageChecksum: MD5: 22b7e882305aae1ccc5e3c4771f7298b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1916
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/pilot/controller.go
+SPDXID: SPDXRef-item11050284
+FileChecksum: SHA1: 04277830e38c51f156bb48bee11b8c432a91f966
+FileChecksum: SHA256: 60d35aa9ba33950944c660549035bbeb8e393857d8ded3518582e371bf710dbf
+FileChecksum: MD5: 2d9c1363a9fb9a08d383dc3fd01bc4af
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/pilot/controller_test.go
+SPDXID: SPDXRef-item11050283
+FileChecksum: SHA1: 7ef533b4a4b923760a442ff722c6d24e728e9f7b
+FileChecksum: SHA256: f14435b235c824e4a1d710fa37cedefc1889bd5ee27638adfbe248bb82e44928
+FileChecksum: MD5: 7762c469f213130a2a60c6d6e53a4e6e
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/pilot/msb.go
+SPDXID: SPDXRef-item11050281
+FileChecksum: SHA1: 8e3c8d8e63e8abda6e2784254fde22398b5ce77d
+FileChecksum: SHA256: 79058d32d7de4c0c1b11f7e58064f7fac6010cd8732986c8193758f90beddf82
+FileChecksum: MD5: 48cb6ad2d99ebf713ded390e5c7a98dc
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/pilot/msb_test.go
+SPDXID: SPDXRef-item11050282
+FileChecksum: SHA1: 11bb052cc3c47772a6241395ac7860226069b0a7
+FileChecksum: SHA256: 28a89d1592945586d40fe7df66479301a80cba1db0fa2c80f2501cbde1c7aeee
+FileChecksum: MD5: 28adfb916f688d848f0e51a417de6c0b
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/routers/router.go
+SPDXID: SPDXRef-item11050268
+FileChecksum: SHA1: 31bd71f841045cdc91d5d45f429bdbad71cdfe2e
+FileChecksum: SHA256: 1b97e042894da7d68711c33583c4c7a024e36df41a793c2c3b599df95df52076
+FileChecksum: MD5: 77857f862d5667d8389d483af816b467
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/static/js/reload.min.js
+SPDXID: SPDXRef-item11050279
+FileChecksum: SHA1: 3177db8b3b6f63718554f97a49a2e6601b98b960
+FileChecksum: SHA256: 383bf5d0db41f3cb2a70741529287059eb9489e839305b87d9d649e8b91f17f4
+FileChecksum: MD5: f601b6e03bfca673c3f881def4cd1933
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/tests/default_test.go
+SPDXID: SPDXRef-item11050243
+FileChecksum: SHA1: fa61cd7f07d4fa92b9b189618d3dd7cf959ddbc3
+FileChecksum: SHA256: a5f9ba53e071fec3c1561bec3b425cd81c2cc044ce6fefe64d20b167baa67b04
+FileChecksum: MD5: 42e927ec4736926aa313bcd03d264f9e
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/util/common.go
+SPDXID: SPDXRef-item11050255
+FileChecksum: SHA1: d76a1435cb7bec55002756d3c6f467e06df4ed6d
+FileChecksum: SHA256: c361875d7fb6d56d087c6332ebb8179e7faa34917210b9750f5c8cf700b5a2b8
+FileChecksum: MD5: 9a738f2baf3e2737b23b2217411e10a3
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/util/common_test.go
+SPDXID: SPDXRef-item11050254
+FileChecksum: SHA1: f14fc47ed73cb18f6234d87a1222b947b038e88e
+FileChecksum: SHA256: d45a57ea1f63a5d22f09b0ea42e105a6f78a100940e6b3dfbe3c4da54d4e01b3
+FileChecksum: MD5: 9829b09f3129cba0ee49704c9bb9307e
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/util/file.go
+SPDXID: SPDXRef-item11050256
+FileChecksum: SHA1: 26bf4aa839386a1cadabad7d98c0a8376c7de2d9
+FileChecksum: SHA256: 2c2c6f739b7a13fd53733dad6d0c9ce7265a824700e85711c99d62a6cf0ed68e
+FileChecksum: MD5: 3e8fa9534064e0bd6ab027c568218531
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/util/file_test.go
+SPDXID: SPDXRef-item11050251
+FileChecksum: SHA1: 5a307b2937a658ece5193c61b765f6350c2f3150
+FileChecksum: SHA256: 64047f7b0f78ec8725fdbd39336dd63fe1133d5d011cb7c432a559227f8d156d
+FileChecksum: MD5: c356b17ed4551b44470836b785584e59
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/util/yaml.go
+SPDXID: SPDXRef-item11050253
+FileChecksum: SHA1: 6b46708a0b67751b58b00f8ed3669eaf0371df3a
+FileChecksum: SHA256: 9ad292eb88f191887729c9ddbed73b5fa9e6b8c16fde74d6d960e335aa56f4b0
+FileChecksum: MD5: c5bab6104a44d4d56fa139947a0defa7
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/util/yaml_test.go
+SPDXID: SPDXRef-item11050252
+FileChecksum: SHA1: 417825a072560fd7a354ac5f43427a3201f39c71
+FileChecksum: SHA256: 4ab0c927adbda71981aafb75868f65f7f9d2376b70290fb3081afc4a617f8c96
+FileChecksum: MD5: bba9c9e8700a9f0a50e61449f45e0ae1
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/views/index.tpl
+SPDXID: SPDXRef-item11050276
+FileChecksum: SHA1: 36942a335a33677099496405e3a6e458843c2ce5
+FileChecksum: SHA256: 18bf690eef7fe020c1a37267da1dd575b806e2ffb59683ae6bed665eab0901e9
+FileChecksum: MD5: ad729c80ae0601b493881352cfc84dfd
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/main.go
+SPDXID: SPDXRef-item11050285
+FileChecksum: SHA1: 440a0b29414765263669918d37707d6f56d35ea0
+FileChecksum: SHA256: d407453ed338021a4ecc4671d0487402007deb33a5a1044e0bcc18c2d5b4e99e
+FileChecksum: MD5: 000a9bc2ed7071b2bfcfce4a8e0e44f7
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/consul/controller.go
+SPDXID: SPDXRef-item11050247
+FileChecksum: SHA1: 5c9440179b2e05fba014961142c409c7b0b10047
+FileChecksum: SHA256: 920cc668e8ce36b24f9ff478b2f02a95d5b6cbf9bc5df4f158998384fb38d456
+FileChecksum: MD5: 05fa4aede02bf153d89cc6357a8b5904
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/consul/controller_test.go
+SPDXID: SPDXRef-item11050246
+FileChecksum: SHA1: c39306df1e4e861d1d80baccfce1d9167312824d
+FileChecksum: SHA256: 044d07976015a64dd128bcf76510d46447bd5631129e7fe1882ee53bfe270782
+FileChecksum: MD5: ec84a4d6cba80489cd4e73447809c38a
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/consul/monitor.go
+SPDXID: SPDXRef-item11050245
+FileChecksum: SHA1: 1cb069c810f7c4b9460ff1254bc5e45f10c3f289
+FileChecksum: SHA256: 3691870e483e54cfd2744d15e99dc6b3ede0994a87d6240252c34eeb70f5f96a
+FileChecksum: MD5: 0f608b5452caf58537214c94c7adc7b7
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/controllers/default.go
+SPDXID: SPDXRef-item11050270
+FileChecksum: SHA1: d8dfd1ce9ff7a23a7ceb8011518aff5fb270ba08
+FileChecksum: SHA256: 23ba59a943af1e587ca9079358637074a4a82b77d5cdd9984b0c3d9bcadd1c17
+FileChecksum: MD5: 80ae9e3c93e68c8612e7e72c0ddcb2dd
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/controllers/routerule.go
+SPDXID: SPDXRef-item11050271
+FileChecksum: SHA1: 97e1bce235cdce86feae178bc66d6d2cc95c1adc
+FileChecksum: SHA256: 2b7a495b3a17ddba5cd386367bed51a1a9f7656757467591bd5b35c8143145cb
+FileChecksum: MD5: 498f3b5b86f5e5f035fee8c1c74c6962
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/log/log.go
+SPDXID: SPDXRef-item11050287
+FileChecksum: SHA1: ee3ea6da86996011c12eea1de92c2ab4fc12a62b
+FileChecksum: SHA256: 0c60be9ffbdb414cd4b8997556ddf8342dac62c3ccc048a59a8e057e26e29653
+FileChecksum: MD5: ec25caac8a3537110b1658e8748304dc
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/log/log_test.go
+SPDXID: SPDXRef-item11050288
+FileChecksum: SHA1: f12120d364c011e620868a60639feb24b592b56a
+FileChecksum: SHA256: 82c07f9a0bae950bb0b39f5b6c923b9b6ce63ed30877e295242843809165e4ea
+FileChecksum: MD5: 93f57b97ff9042768fd674d99ba85f73
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/models/config.go
+SPDXID: SPDXRef-item11050264
+FileChecksum: SHA1: 5cc83eba8f87695815c7ea560e3909d5d8b95cab
+FileChecksum: SHA256: 359d660f6e11ba7ee1b48960c3f4a249ea5ae806681b0a62ec904b6095a7d13e
+FileChecksum: MD5: e14834980c82f27b9052b5cf394a76db
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/models/conversion.go
+SPDXID: SPDXRef-item11050266
+FileChecksum: SHA1: 8d1ca54b83635d437f20fb08fa97e3b9078ba5c0
+FileChecksum: SHA256: 92ab5c8b36f01d0f581b5b0e721328906ef26daf831b26c78902f241d5c51a22
+FileChecksum: MD5: cd01487d521bf2d7a5619b769d3c1b5a
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/models/conversion_test.go
+SPDXID: SPDXRef-item11050265
+FileChecksum: SHA1: f76de645496052f314ce0d462390ba33d8e96871
+FileChecksum: SHA256: 658da366f8f9a9d7758c683d7d0072fd12b696aec42710228a27d3c712bda30b
+FileChecksum: MD5: 4597eeffc36ad0483b95e208a8c18f68
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/models/msb.go
+SPDXID: SPDXRef-item11050263
+FileChecksum: SHA1: deb303a209f0afafa5f66bdd81e973fc0e003c08
+FileChecksum: SHA256: 51a6694c0689c6aecb3dce9fe9d7b0613de8c8e30c2a6d17e2d806e889eb83d5
+FileChecksum: MD5: 04b2b4c8cc414fb561d6ad4875fcec19
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/msb/msb.go
+SPDXID: SPDXRef-item11050249
+FileChecksum: SHA1: 30e8266b7e8a598003c6cb7fb5b22d37dc840407
+FileChecksum: SHA256: f8172d16793af786ad2a593e2704b7584d3892fb28a2c9c244a8d960c11afb96
+FileChecksum: MD5: a6e48b2bc65776dea2c9ad8fd564f661
+LicenseConcluded: Apache-2.0 OR EPL-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: EPL-1.0
+FileCopyrightText: <text> Copyright (c) 2018 ZTE Corporation. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 and the Apache License 2.0 which both accompany this distribution, and are available at http://www.eclipse.org/legal/ </text>
+FileAttributionText: <text> 462
+462
+462 </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/1_install_k8s_master.sh
+SPDXID: SPDXRef-item11050293
+FileChecksum: SHA1: d74d61132c322a1d240c1ef89f4e5a5366d3426c
+FileChecksum: SHA256: 03bf403f3a6b7959d9d86963b96f934e3cb16e3709c16ce90b7fbcc6f741d984
+FileChecksum: MD5: bcdbc3987e11869fada9c55de2ea5fe5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ZTE, Inc. </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/2_install_k8s_minion.sh
+SPDXID: SPDXRef-item11050295
+FileChecksum: SHA1: 8463e4e18e5a8488fd4b647479c538149f444782
+FileChecksum: SHA256: b9c911fbc75cc20166f7b3548120c59d987cdb9f6e8d3ddffac4c72b02ddb87b
+FileChecksum: MD5: bc744a576c8b1452e373fc8f08b191c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ZTE, Inc. </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/3_install_istio.sh
+SPDXID: SPDXRef-item11050298
+FileChecksum: SHA1: b5cbb73d39840ddc371886091ec57a4053be70e1
+FileChecksum: SHA256: bf4b5b6f675fa564d7fc540a96e0cacb837c9c896eaf5b4c6e40fe157d14f9e3
+FileChecksum: MD5: 4d20c3ea5e975496022852afefcd705a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ZTE, Inc. </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/3_install_istio_with_auth.sh
+SPDXID: SPDXRef-item11050294
+FileChecksum: SHA1: f4d48b53e8734612df15ebefd776a7a1a940263f
+FileChecksum: SHA256: 28cdea85f79112e6061c7598179e3c21b0bc1462dfce8eaccfe305c2e6b2f352
+FileChecksum: MD5: 71c8334c20be0d28d87cb90f3301802f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 ZTE, Inc. </text>
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/LICENSE.txt
+SPDXID: SPDXRef-item11050238
+FileChecksum: SHA1: 207e69616c8737c8f555ab28fed9529d4e18cdde
+FileChecksum: SHA256: 026735756384344975dc872aca7cc0a21c7bd4a9898aa217c412acc54acc242c
+FileChecksum: MD5: 95bbd7455d842e7c9e20c8e5842f2142
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/INFO.yaml
+SPDXID: SPDXRef-item11050236
+FileChecksum: SHA1: 43045b2d9a179fb30f08f796d3ac2444cfb67b23
+FileChecksum: SHA256: d1bd0cef576f4fec71275ff95fcbc6a7f354d4f8831b52eb106a2cd68ab495db
+FileChecksum: MD5: 00234028935e02601419953717d30ed1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/.gitignore
+SPDXID: SPDXRef-item11050237
+FileChecksum: SHA1: 70a7dc3d336bf9d0a5deba22226986f61801400b
+FileChecksum: SHA256: 26ef1991ebe3f67bcfebe8c154e0c36461e38966b494abb8d834eee30e15a6d1
+FileChecksum: MD5: ec7cf52fef8cc8fdd6c79939e77eeeb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/conf/app.conf
+SPDXID: SPDXRef-item11050258
+FileChecksum: SHA1: c309f6c1164c5eeaf59d65e24b921336c331eef5
+FileChecksum: SHA256: 27d68558676c454d2e6485f535997d8c91c3968e7eebc049e9f102bb06c40f3b
+FileChecksum: MD5: 8a2e4ad0e003b8ad08059d6b6427e24e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/conf/log.yml
+SPDXID: SPDXRef-item11050259
+FileChecksum: SHA1: 0283e72769aced9a48ca643a8baf893fced8768a
+FileChecksum: SHA256: bb5f0cfaa7f6158c5781b9f46cfa8a9a0c2e02d17c9663c145b8e790f5dda0fe
+FileChecksum: MD5: 3647d30890d3af09f717d87a3920b1b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/conf/k8s.yml
+SPDXID: SPDXRef-item11050260
+FileChecksum: SHA1: 6f5d98be9bcd775164fc1782c78e1dff557a741d
+FileChecksum: SHA256: c167e63c1899a3f84e6c9c6d78ab8be4f741e24fa42c7b93e1d0d796ddae161e
+FileChecksum: MD5: 8a7f802f7c09e3b356c86e21f7f5c73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/conf/consul.yml
+SPDXID: SPDXRef-item11050261
+FileChecksum: SHA1: 94676784577208339c1348ec6692e9e56672b77e
+FileChecksum: SHA256: 491bfc6777906121d442a6ee4417b6a1f215536657a22ac2e562bb427d64cee6
+FileChecksum: MD5: d1e8dc805d1344b4381503f89963b7ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/Gopkg.toml
+SPDXID: SPDXRef-item11050272
+FileChecksum: SHA1: 07f4616983f7535ffd0705b3031eb814d95f8612
+FileChecksum: SHA256: 6cc248464410609297c372e109054f8fcec4ce72e7894cc05d34643cb5cdb117
+FileChecksum: MD5: 87592bed21b469bf06bad40295c4e5c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/Dockerfile
+SPDXID: SPDXRef-item11050273
+FileChecksum: SHA1: fe87a0721065ec8456424aca5f466f1fa167337f
+FileChecksum: SHA256: fdec3c4d8a13dcc846df92fc083840690a32e4315e1e2ac91e66c16e769aaa9e
+FileChecksum: MD5: 173c60e6529a792f33be47c53c0c110c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/msb2pilot/src/msb2pilot/Gopkg.lock
+SPDXID: SPDXRef-item11050274
+FileChecksum: SHA1: 10bb9292ac9a30ac9204619f6d81a45c31084a39
+FileChecksum: SHA256: 567d4963cadb5bbc417523fe2949c6b4e983c9deea825c91f3fb2033c155fc1b
+FileChecksum: MD5: f99b4606f450af99ea22418d3c955d9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/istio-ingress-rbac.yaml
+SPDXID: SPDXRef-item11050290
+FileChecksum: SHA1: aa74ac682ca04e0956db6f3c61a5c14548696e50
+FileChecksum: SHA256: e905b990d7caf48142bf607d4b57a1288a936346e0c414c211aa63ff4b052899
+FileChecksum: MD5: a969af98d6ca785a9ef508bf02b03c6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/msb-rbac.yaml
+SPDXID: SPDXRef-item11050291
+FileChecksum: SHA1: 8fe7fc4e7841228fc39daa50e4b139986149ca90
+FileChecksum: SHA256: f8295b41ca79e8f294163145fb7a3327a767484b3b94e7224f8ec6e8a0ddb682
+FileChecksum: MD5: b5e1e954a1d6f3581558b83f1b78e4e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/enable-istio-rbac.yaml
+SPDXID: SPDXRef-item11050292
+FileChecksum: SHA1: bbd31d07d725b71fb9639e6b1bde90ed2bd4fa65
+FileChecksum: SHA256: 6946d2fffb40d8a52f9ca10f12ef72accea930e5493ab732c92c0ff0072339eb
+FileChecksum: MD5: 08f529ca8156051152d8a77f21fdf9fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/istio.yaml
+SPDXID: SPDXRef-item11050296
+FileChecksum: SHA1: d46e21e8812f1cb8fda3e799307f0205bd0cb4af
+FileChecksum: SHA256: bb8425cba501462ce2905cbd6a0424dc7cdb8870d52a0b23faae73b5d096bd8c
+FileChecksum: MD5: f7ac805c6b0ffd80e431ec81e9c81e87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/istio-auth.yaml
+SPDXID: SPDXRef-item11050297
+FileChecksum: SHA1: f8d759794525d0014177f9da0296110b3ccde99c
+FileChecksum: SHA256: cbdd0d401254e7fc102c1f407e13b8f54ae20ea43d11f1a2b61d21809515a5b2
+FileChecksum: MD5: a736ebf7bc1899eb7568c53962eefdb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/README.md
+SPDXID: SPDXRef-item11050299
+FileChecksum: SHA1: 40d07ba1e0a12e1d7af12c4891ada1f7093d1f1c
+FileChecksum: SHA256: ffc5e5f528d73e8ccf26eebced9ec9f4e9310c979656642f3afdbaec537a8a78
+FileChecksum: MD5: 52fdc85772cdf2de4c7864b62deff1e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/kubeadm.conf
+SPDXID: SPDXRef-item11050300
+FileChecksum: SHA1: 8b8aa5458029fd8c50a27c1f8c138c794d6d9c6f
+FileChecksum: SHA256: fa6f7500e456b052241fa5ce5e736277af22ea2a2d0bb0d1f54dec509ddec01c
+FileChecksum: MD5: bf3becc88d7685ee39fe7270edefc3a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/helm_service_account.yaml
+SPDXID: SPDXRef-item11050301
+FileChecksum: SHA1: 0ca77f7801070ae2a4f5d1598c739c73cce79f0a
+FileChecksum: SHA256: 6a783aa08a787d3e79f8ca6c6dcd5149827d5508aa8a36ba782b416b144884bd
+FileChecksum: MD5: 44fe6b9857d0b80f65e0a128a32663b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: msb-2025-09-13.zip/msb-service-mesh/install/msb-istio-gateway.yaml
+SPDXID: SPDXRef-item11050302
+FileChecksum: SHA1: 854d84f8c9f65a7ce81123f058f49ec44259f132
+FileChecksum: SHA256: 17b283d43faab4fa17386b73f9a05c422c7c9d0f96114211d91df8686eafab17
+FileChecksum: MD5: 2d4d3bcd00142d03ccd518728159525f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
