@@ -1,0 +1,2221 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T17:38:42Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Apache-2.0 (ASF license header)",
+            "licenseId": "LicenseRef-Apache-2.0-ASF-license-header-"
+        },
+        {
+            "extractedText": " GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-GPL",
+            "name": "GNU General Public License"
+        },
+        {
+            "extractedText": " Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.\nWhen software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. ",
+            "licenseId": "LicenseRef-fossology-Dual-license",
+            "name": "Dual-license"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-URL",
+            "name": "See-URL"
+        },
+        {
+            "extractedText": " Licensed to the Apache Software Foundation (ASF) under one\nor more contributor license agreements. See the NOTICE file\ndistributed with this work for additional information\nregarding copyright ownership. The ASF licenses this file\nto you under the Apache License, Version 2.0 (the\n\"License\"); you may not use this file except in compliance\nwith the License. You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing,\nsoftware distributed under the License is distributed on an\n\"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY\nKIND, either express or implied. See the License for the\nspecific language governing permissions and limitations\nunder the License. ",
+            "licenseId": "LicenseRef-fossology-Apache-2.0-ASF-Header-1",
+            "name": "Apache-2.0 (ASF Header)"
+        }
+    ],
+    "name": "/tmp/tmpjv_h74o2/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-onap/vnfsdk/2025-09/onap-vnfsdk-full/0bbc6de7-02a8-432d-98f7-568190edb8d0",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-562b7a02f14c9780",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "vnfsdk-lctest/deployment/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-7944bac7d57f4058",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "vnfsdk-lctest/lifecycle-test/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-24ce44f6196ab6ef",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "vnfsdk-lctest/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-bdfe17b6db9313ef",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "vnfsdk-pkgtools/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-a37210f358b5927b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "vnfsdk-pkgtools/tests/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75a7e6fa1e67415d",
+            "description": "The Apache Commons IO library contains utility classes, stream implementations, file filters, file comparators, endian transformation classes, and much more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-io/commons-io@2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-io:commons-io",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e7e64a6443dc8cf1",
+            "description": "The Apache Commons IO library contains utility classes, stream implementations, file filters, file comparators, endian transformation classes, and much more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-io/commons-io@2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-io:commons-io",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-61fa4aa2b2805415",
+            "description": "JUnit is a unit testing framework for Java, created by Erich Gamma and Kent Beck.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/junit/junit@4.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://junit.org",
+            "licenseConcluded": "EPL-1.0",
+            "licenseDeclared": "EPL-1.0",
+            "name": "junit:junit",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: JUnit",
+            "versionInfo": "4.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8d76f198013d10e2",
+            "description": "JUnit is a unit testing framework for Java, created by Erich Gamma and Kent Beck.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/junit/junit@4.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://junit.org",
+            "licenseConcluded": "EPL-1.0",
+            "licenseDeclared": "EPL-1.0",
+            "name": "junit:junit",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: JUnit",
+            "versionInfo": "4.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-222b44df1a17d7b2",
+            "description": "Rolling backport of unittest.mock for all Pythons",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mock@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://mock.readthedocs.org/en/latest/",
+            "licenseConcluded": "(BSD-2-Clause AND MIT AND MIT) OR (GPL-2.0-only AND NOASSERTION)",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "mock",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-pkgtools/tests/requirements.txt",
+            "supplier": "Organization: testing-cabal",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-17b47293c53faddc",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/mysql/mysql-connector-java@5.1.36",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "GPL-2.0",
+            "name": "mysql:mysql-connector-java",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "5.1.36"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ee9b5cd13b2c79f8",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/mysql/mysql-connector-java@5.1.36",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "GPL-2.0",
+            "name": "mysql:mysql-connector-java",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "5.1.36"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9714a8d73f2667f3",
+            "description": "Java library for transforming beans, maps, collections, java arrays and XML to JSON.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/net.sf.json-lib/json-lib@2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://json-lib.sourceforge.net",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "net.sf.json-lib:json-lib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b8978d88b2cbe713",
+            "description": "Java library for transforming beans, maps, collections, java arrays and XML to JSON.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/net.sf.json-lib/json-lib@2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://json-lib.sourceforge.net",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "net.sf.json-lib:json-lib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-61ec97295b3779aa",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-io@1.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-io",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "1.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a23137baf0fc4878",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-io@1.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-io",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "1.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-18d945d94c5cf727",
+            "description": "Apache CXF Runtime JAX-RS Frontend",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.cxf/cxf-rt-frontend-jaxrs@3.1.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cxf.apache.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.cxf:cxf-rt-frontend-jaxrs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "3.1.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-34d9dc9654d8d917",
+            "description": "Apache CXF Runtime JAX-RS Frontend",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.cxf/cxf-rt-frontend-jaxrs@3.1.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cxf.apache.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.cxf:cxf-rt-frontend-jaxrs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "3.1.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-327a142cd753e321",
+            "description": "Apache HttpComponents HttpClient - MIME coded entities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpmime@4.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpmime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e80acfe869202730",
+            "description": "Apache HttpComponents HttpClient - MIME coded entities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpmime@4.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpmime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3c796d80ae8ad821",
+            "description": "Jax-RS provider for JSON content type, based on Jackson JSON processor's data binding functionality.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.codehaus.jackson/jackson-jaxrs@1.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://jackson.codehaus.org",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.codehaus.jackson:jackson-jaxrs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "1.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6a0fcd553f6cf5f",
+            "description": "Jax-RS provider for JSON content type, based on Jackson JSON processor's data binding functionality.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.codehaus.jackson/jackson-jaxrs@1.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://jackson.codehaus.org",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.codehaus.jackson:jackson-jaxrs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "1.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-55d801057b904668",
+            "description": "Data Mapper package is a high-performance data binding package built on Jackson JSON processor",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.codehaus.jackson/jackson-mapper-asl@1.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://jackson.codehaus.org",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.codehaus.jackson:jackson-mapper-asl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "1.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d7c1e5a27016dbfb",
+            "description": "Data Mapper package is a high-performance data binding package built on Jackson JSON processor",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.codehaus.jackson/jackson-mapper-asl@1.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://jackson.codehaus.org",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.codehaus.jackson:jackson-mapper-asl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "1.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-17bdbaf26152d81b",
+            "description": "Mock objects library for java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.mockito/mockito-all@1.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.mockito.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "org.mockito:mockito-all",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: mockito",
+            "versionInfo": "1.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-70cfc13c46ad0bc6",
+            "description": "Mock objects library for java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.mockito/mockito-all@1.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.mockito.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "org.mockito:mockito-all",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: mockito",
+            "versionInfo": "1.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-18064f5001e0465e",
+            "description": "The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.mybatis/mybatis@3.2.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/mybatis-3/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.mybatis:mybatis",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: MyBatis",
+            "versionInfo": "3.2.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1da8b48ff74dd862",
+            "description": "The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.mybatis/mybatis@3.2.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/mybatis-3/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.mybatis:mybatis",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: MyBatis",
+            "versionInfo": "3.2.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-78372f2d3d444a0a",
+            "description": "An easy-to-use Spring bridge for MyBatis sql mapping framework.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.mybatis/mybatis-spring@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/spring/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.mybatis:mybatis-spring",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: MyBatis",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c67a9d7ff8182bcb",
+            "description": "An easy-to-use Spring bridge for MyBatis sql mapping framework.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.mybatis/mybatis-spring@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/spring/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.mybatis:mybatis-spring",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: MyBatis",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2dd193ad1081d2ff",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.vnfsdk.lctest/lifecycle-test-deployment@1.0.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.vnfsdk.lctest:lifecycle-test-deployment",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "1.0.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-abf627be053519c6",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.vnfsdk.lctest/lifecycle-test-deployment@1.0.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.vnfsdk.lctest:lifecycle-test-deployment",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/deployment/pom.xml",
+            "versionInfo": "1.0.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5d3ae6a89320cef4",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.vnfsdk.lctest/lifecycle-test-service@1.0.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.vnfsdk.lctest:lifecycle-test-service",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "1.0.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1b676b95e2eac00",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.vnfsdk.lctest/lifecycle-test-service@1.0.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.vnfsdk.lctest:lifecycle-test-service",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "1.0.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1bc30a1a5e1f21a6",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.vnfsdk.lctest/vnf-sdk-validate-lc-test@1.0.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.vnfsdk.lctest:vnf-sdk-validate-lc-test",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "1.0.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d682b1f576ca6936",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.vnfsdk.pkgtools/vnfsdk-pkgtools",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.vnfsdk.pkgtools:vnfsdk-pkgtools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-pkgtools/pom.xml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-31b85eb24ecd9ee4",
+            "description": "PowerMock API for Mockito 1.+..",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.powermock/powermock-api-mockito@1.5.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.powermock:powermock-api-mockito",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: PowerMock",
+            "versionInfo": "1.5.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d84ea6a4179af4c2",
+            "description": "PowerMock API for Mockito 1.+..",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.powermock/powermock-api-mockito@1.5.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.powermock:powermock-api-mockito",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: PowerMock",
+            "versionInfo": "1.5.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b71386b012056867",
+            "description": "PowerMock support module for JUnit 4.x.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.powermock/powermock-module-junit4@1.5.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.powermock:powermock-module-junit4",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: PowerMock",
+            "versionInfo": "1.5.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d887469a2837e48",
+            "description": "PowerMock support module for JUnit 4.x.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.powermock/powermock-module-junit4@1.5.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.powermock:powermock-module-junit4",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: PowerMock",
+            "versionInfo": "1.5.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3cda3deafc81d0fc",
+            "description": "SLF4J LOG4J-12 relocated to slf4j-reload4j",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.slf4j/slf4j-log4j12@1.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "org.slf4j:slf4j-log4j12",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-493481565e7077cd",
+            "description": "SLF4J LOG4J-12 relocated to slf4j-reload4j",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.slf4j/slf4j-log4j12@1.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "org.slf4j:slf4j-log4j12",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-13363d4ede0790fe",
+            "description": "Spring AOP",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-aop@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-aop",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-824b1bc5b287e7de",
+            "description": "Spring AOP",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-aop@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-aop",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-101ec36a5322e85b",
+            "description": "Spring Framework Parent",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-asm@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.springframework:spring-asm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-661afea0cb36f2d0",
+            "description": "Spring Framework Parent",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-asm@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.springframework:spring-asm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5ae471b3e14f8a2c",
+            "description": "Spring Beans",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-beans@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-beans",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c5679c35850cfa9c",
+            "description": "Spring Beans",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-beans@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-beans",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-32e58f42c5be351a",
+            "description": "Spring Context",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-context@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-context",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e1d114112cb01bc7",
+            "description": "Spring Context",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-context@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-context",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-68c31b0ec9e8f670",
+            "description": "Spring Core",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-core@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e4ee9938d73284e1",
+            "description": "Spring Core",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-core@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6af4b674f571496a",
+            "description": "Spring Expression Language (SpEL)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-expression@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.springframework:spring-expression",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7b421a30d92534c8",
+            "description": "Spring Expression Language (SpEL)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-expression@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.springframework:spring-expression",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75280a0580c9fd9b",
+            "description": "Spring JDBC",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-jdbc@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-jdbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7bfc8bb764ff07c0",
+            "description": "Spring JDBC",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-jdbc@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-jdbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1dc6dc06ca7a5512",
+            "description": "Spring TestContext Framework",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-test@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-test",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a7508e9aef4c0ee9",
+            "description": "Spring TestContext Framework",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-test@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-test",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4375cef5b065cb85",
+            "description": "Spring Transaction",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-tx@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-tx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-57a31b3834fe879c",
+            "description": "Spring Transaction",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-tx@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-tx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2ce37e0b98dfe156",
+            "description": "Spring Web",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-web@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5abb44ae7443d96c",
+            "description": "Spring Web",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-web@3.1.0.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.1.0.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1cdb7734af83787e",
+            "description": "YAML 1.1 parser and emitter for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.yaml/snakeyaml@1.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://bitbucket.org/snakeyaml/snakeyaml",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.yaml:snakeyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "versionInfo": "1.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9fb39842e1e87ed7",
+            "description": "YAML 1.1 parser and emitter for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.yaml/snakeyaml@1.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://bitbucket.org/snakeyaml/snakeyaml",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.yaml:snakeyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "versionInfo": "1.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7da2ba06ee90c58a",
+            "description": "python code static checker",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pylint@1.6.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "GPL-1.0-or-later AND GPL-1.0-or-later AND GPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-2.0 AND GPL-2.0-only AND GPL-2.0+ AND GPL-2.0-or-later AND NOASSERTION",
+            "licenseDeclared": "GPL-2.0 AND GPL-2.0-only AND GPL-3.0-or-later",
+            "name": "pylint",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-pkgtools/tests/requirements.txt",
+            "supplier": "Organization: pylint-dev",
+            "versionInfo": "1.6.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3b72d1aaa388869d",
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@3.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "BSD-3-Clause AND DOC AND MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-pkgtools/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "3.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-11680ac75c345661",
+            "description": "Pytest plugin for measuring coverage.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest-cov@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "BSD-2-Clause AND MIT",
+            "name": "pytest-cov",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-pkgtools/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c2d1614e19f560e",
+            "description": "Thin-wrapper around the mock package for easier use with pytest",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest-mock@1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/pytest-mock/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "pytest-mock",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vnfsdk-pkgtools/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-57489bd11c40470e",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "name": "onap.vnfsdk",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "comment": "This package was added to the Trivy analysis for the vnfsdk by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "name": "vnfsdk",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "0e285ec173266734a01464d50d3514b42429ee56"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfsdk-vnfsdk-lctest",
+            "comment": "This package was added to the Trivy analysis for the vnfsdk/lctest by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "name": "vnfsdk/lctest",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "19421c9c686983092b4ff05dd2acd5ffa16638a9"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfsdk-vnfsdk-model",
+            "comment": "This package was added to the Trivy analysis for the vnfsdk/model by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "name": "vnfsdk/model",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3099808021ba0d7fc42789ea7b24099e6f376ef2"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfsdk-vnfsdk-pkgtools",
+            "comment": "This package was added to the Trivy analysis for the vnfsdk/pkgtools by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
+            "name": "vnfsdk/pkgtools",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "f944d87cbc4f4a1d840ec7fafca50531a160dbc7"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11117450",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "61e53ea7b6d3ebd62f23b3cc80df9a407bcc3e55"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b73f948904e0dd4715f82d842407addfc95ba2e1e8398d85de4d99bd16bc1e75"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "23f3f4b2697a5a8a0bb16bd0419e94ca"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/constant/Constant.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117451",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6248c2b3e3eca358c040cc4f187d70ba8d70187b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5a9f6d5a1646ca3240d967bb104b824097cb096e67bffa7d00ae18029ba6e9f1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cfb74f3b3d78c526cef84f6d63b3a502"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/constant/UrlConstant.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117448",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6ed0bc51d6cd63dafcbc81b846f513637d66ff3b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c96eac220dee8e010caab8edaa132ee51974d462dc2bae444e7f6a3e375f5b27"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "76f34467830ea71e3d7c42bfda23ab14"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/util/RequestUtil.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117445",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "555837f1c691f0ec2bdcada3c60124ff18158797"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8017cb86cffca63136cf053e228aca22ac068ff011e75fb8829ed1d7253b977f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "91155ff6fa3c597cca67ff42c9b5cc23"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/util/RestConstant.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117447",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e78270fe9138befa5254ddead4b9807692d3fc86"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "69c9270e10e756f593da21a01ac47536cd528c0e4e0f44f1f05e88687962443a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7883d6dcc93261cf73c33284266c2699"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/util/RestResponse.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117446",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "84230cfef6acb202bd31ada9b16bd7655ea18567"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2b96ef8d1e40fb4b7b859e6588b5cb3b55be46b301474a810558a4b96240fc85"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "810fd5b2c6fe3e6da980c586f685b5a9"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/common/util/RestfulClient.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117454",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6f834a32cb10891403eeead5942ec4070c20f3a0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "adeb953a00c9fdd451873661c0566b966f39313221e50fb0ff5f3bfc578da75a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f4adb4ac38b1b8495ecd6d4dbadd45a8"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/activator/LifecycleTestPostProcessor.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117466",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "54beb77d65e559ed37cb42a0547ce4263c576738"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a43758e388fbb55c34b8114b630b6df55dbc4abea124df2f24397f29c4460770"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b77d850585b696d6c88902d9ddf8909b"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/adapter/impl/LifecycleTestAdapter2MSBManager.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117465",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c5ca0da5fca3052dedb1c0e44292befccf74b2f1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e4efd6e38d74c6be10e58e0e31a01249c236abd8e1802fc61f9b89e605f63acd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1cc8b50b52e7f7752141a34829eb7e2a"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/adapter/impl/LifecycleTestAdapterMgrService.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117462",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4871cd6422cdc722e9a51aef18fcd611ca2b9300"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6c24670e6061a66b217e755c2f99a26dab5d72d20c610f47eadb4120a1901ded"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "771d378e9c3497aa10aad369ec570899"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/adapter/inf/ILifecycleTestAdapter2MSBManager.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117463",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "52220233363bda4bbf19e5095e7882d7dab01efd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6e960a3262f97a1a082f5c0a1844ab715a8b9e8083ff9451f60a69d9bcf20d53"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bbdfb3899a0627559fe153b178d77557"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/adapter/inf/ILifecycleTestAdapterMgrService.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117459",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e63d6aa1d8ab1a37de4a2e97eeb33dfd08651da6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cb4bdcc5a4516753fb2bba78490963e3b3dcf2716b07dc36b1f74c12c45fbd89"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5535d758a20bf205f32bca02f790efe6"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/business/impl/VnfpackageServiceImpl.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117457",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ecb595c5e1bbe4402210c6290088baf9764ff291"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3bf5e5b06e61123d6c047f020ecca611a6d2c7321941e87fcb493ca6dbc44256"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "db3fd4af52458f9a499dc7d050ad4f1d"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/business/inf/VnfpackageService.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117468",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a6f622b4e351bc3ee8cebce278a11d8e2c251f35"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9e7fb34525abe81a15e3870880b5369f518d44b3ac9a8c591a88221214534634"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d32cbdfe48255849ab15236902fd31c1"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/rest/SwaggerRoa.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11117469",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c631998d29bff1ea9396883ce3abfe1a983ae742"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bf6a5542889f48b338582836a43c4b1003986173c79e76eb8c96452730a570d6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1a5c1cc6b85c4347c5952e283d6d2b76"
+                }
+            ],
+            "copyrightText": " Copyright 2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "vnfsdk-2025-09-13.zip/vnfsdk-lctest/lifecycle-test/src/main/java/org/openo/vnfsdk/lctest/service/rest/VnfpackageRoa.java",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-24ce44f6196ab6ef",
+            "relatedSpdxElement": "SPDXRef-Package-1bc30a1a5e1f21a6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-562b7a02f14c9780",
+            "relatedSpdxElement": "SPDXRef-Package-abf627be053519c6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-7944bac7d57f4058",
+            "relatedSpdxElement": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a37210f358b5927b",
+            "relatedSpdxElement": "SPDXRef-Package-11680ac75c345661",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a37210f358b5927b",
+            "relatedSpdxElement": "SPDXRef-Package-222b44df1a17d7b2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a37210f358b5927b",
+            "relatedSpdxElement": "SPDXRef-Package-3b72d1aaa388869d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a37210f358b5927b",
+            "relatedSpdxElement": "SPDXRef-Package-7da2ba06ee90c58a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a37210f358b5927b",
+            "relatedSpdxElement": "SPDXRef-Package-c2d1614e19f560e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bdfe17b6db9313ef",
+            "relatedSpdxElement": "SPDXRef-Package-d682b1f576ca6936",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-57489bd11c40470e",
+            "relatedSpdxElement": "SPDXRef-Application-24ce44f6196ab6ef",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-57489bd11c40470e",
+            "relatedSpdxElement": "SPDXRef-Application-562b7a02f14c9780",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-57489bd11c40470e",
+            "relatedSpdxElement": "SPDXRef-Application-7944bac7d57f4058",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-57489bd11c40470e",
+            "relatedSpdxElement": "SPDXRef-Application-a37210f358b5927b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-57489bd11c40470e",
+            "relatedSpdxElement": "SPDXRef-Application-bdfe17b6db9313ef",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1bc30a1a5e1f21a6",
+            "relatedSpdxElement": "SPDXRef-Package-2dd193ad1081d2ff",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1bc30a1a5e1f21a6",
+            "relatedSpdxElement": "SPDXRef-Package-b1b676b95e2eac00",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-101ec36a5322e85b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-13363d4ede0790fe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-17b47293c53faddc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-17bdbaf26152d81b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-18064f5001e0465e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-18d945d94c5cf727",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-1cdb7734af83787e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-31b85eb24ecd9ee4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-327a142cd753e321",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-3c796d80ae8ad821",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-3cda3deafc81d0fc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-4375cef5b065cb85",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-5abb44ae7443d96c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-5ae471b3e14f8a2c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-61ec97295b3779aa",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-61fa4aa2b2805415",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-6af4b674f571496a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-75a7e6fa1e67415d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-7bfc8bb764ff07c0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-a7508e9aef4c0ee9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-b71386b012056867",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-b8978d88b2cbe713",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-c67a9d7ff8182bcb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-d7c1e5a27016dbfb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-e1d114112cb01bc7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d3ae6a89320cef4",
+            "relatedSpdxElement": "SPDXRef-Package-e4ee9938d73284e1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-1da8b48ff74dd862",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-1dc6dc06ca7a5512",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-2ce37e0b98dfe156",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-32e58f42c5be351a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-34d9dc9654d8d917",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-493481565e7077cd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-55d801057b904668",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-57a31b3834fe879c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-661afea0cb36f2d0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-68c31b0ec9e8f670",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-6a0fcd553f6cf5f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-70cfc13c46ad0bc6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-75280a0580c9fd9b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-78372f2d3d444a0a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-7b421a30d92534c8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-824b1bc5b287e7de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-8d76f198013d10e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-9714a8d73f2667f3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-9fb39842e1e87ed7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-a23137baf0fc4878",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-c5679c35850cfa9c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-d84ea6a4179af4c2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-d887469a2837e48",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-e7e64a6443dc8cf1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-e80acfe869202730",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1b676b95e2eac00",
+            "relatedSpdxElement": "SPDXRef-Package-ee9b5cd13b2c79f8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-57489bd11c40470e",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-57489bd11c40470e",
+            "relatedSpdxElement": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-onap-vnfsdk-vnfsdk-lctest",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-onap-vnfsdk-vnfsdk-model",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-onap-vnfsdk-vnfsdk-pkgtools",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117450",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117451",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117448",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117445",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117447",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117446",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117454",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117466",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117465",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117462",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117463",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117459",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117457",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117468",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vnfsdk-vnfsdk",
+            "relatedSpdxElement": "SPDXRef-item11117469",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
