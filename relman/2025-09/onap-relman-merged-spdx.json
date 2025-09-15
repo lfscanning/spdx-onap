@@ -1,0 +1,229 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T17:45:42Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmp6r_0hnfy/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-onap/relman/2025-09/onap-relman-full/e98db8d3-3665-4fb4-bd0d-1e0dc0118438",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-125c95b8af8e2331",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "onap.relman",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-relman-relman",
+            "comment": "This package was added to the Trivy analysis for the relman by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "relman",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2358d4e7f547f5526c48f00b5230b11982aa15a4"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11119438",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0b021e1a53d761ce8c7acda4a444779fedbab8f7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1e65a347696d7b3d8fadfd5223616266c046e3ac5464f177d0d0dcc9d06d27fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "334125da760705de54ffbf63bc14f2a4"
+                }
+            ],
+            "copyrightText": " 2025 The Linux Foundation SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "relman-2025-09-13.zip/relman/.github/dependabot.yml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11119434",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eea8d403bedca3b2c6210708641ef626048835af"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "314c59807aa768d8beb15e89204dc9980f516d40a3c263ec5c7445aca9696958"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "524a49a0f52d319b14160ca9afbd78ba"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "relman-2025-09-13.zip/relman/repos/repos.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11119435",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "314803d855bd94fffd5356976c489e8615b5205e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "29cd9b4a51431bfb2db74aace6e994d907a5c8eb8e0e8fe8d6b637acde5e0445"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d11e43dc0b7a5cedc6c4932ed549736a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "relman-2025-09-13.zip/relman/repos/repos-schema.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11119436",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e30c24567daa4c57c111f1f2417948b353b49f2e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3f62d740cee93018ff1bbb094b5c43901b5d220d2b7a60c6cef539abf591a593"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e6024553466de2a8960d6664ac63be09"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "relman-2025-09-13.zip/relman/repos/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11119439",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "419c4ecf308961583ce9df4d5450ab034f5723cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2bd6ebe43d2c8ede3af251338ce11e97bffabea27dcb1d4ddf4f13bc40e0a3eb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8e263966d865c2b6753fcc0db465e76d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "relman-2025-09-13.zip/relman/INFO.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11119440",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f8c977db15956cff0ba30475f2b7a8e184b77fcf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "33edfaaf87a7d81b99e019ea7c22838364e6ebadbc783debf52025d6acdcfaf2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f86c2d1be5cf2d1de2bfc84e5610d80b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "relman-2025-09-13.zip/relman/.gitreview",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-125c95b8af8e2331",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-125c95b8af8e2331",
+            "relatedSpdxElement": "SPDXRef-onap-relman-relman",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-relman-relman",
+            "relatedSpdxElement": "SPDXRef-item11119438",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-relman-relman",
+            "relatedSpdxElement": "SPDXRef-item11119434",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-relman-relman",
+            "relatedSpdxElement": "SPDXRef-item11119435",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-relman-relman",
+            "relatedSpdxElement": "SPDXRef-item11119436",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-relman-relman",
+            "relatedSpdxElement": "SPDXRef-item11119439",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-relman-relman",
+            "relatedSpdxElement": "SPDXRef-item11119440",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
