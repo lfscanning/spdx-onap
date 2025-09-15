@@ -1,0 +1,57 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T15:36:27Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpakn1lbv_/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpakn1lbv_/code-c130f62b-5cba-4aca-8af8-06b12a5d9631",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-f9a36517e2630d2d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "onap.osa",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-osa-osa",
+            "comment": "This package was added to the Trivy analysis for the osa by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "osa",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "6ef8f78407bf30dd9107fef56d8b85df2a04e7f0"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-f9a36517e2630d2d",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f9a36517e2630d2d",
+            "relatedSpdxElement": "SPDXRef-onap-osa-osa",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
