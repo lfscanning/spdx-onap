@@ -1,0 +1,5111 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T12:57:42Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-GPL",
+            "name": "GNU General Public License"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-URL",
+            "name": "See-URL"
+        }
+    ],
+    "name": "/tmp/tmp21rudm8n/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-onap/doc/2025-09/onap-doc-full/6122d5c0-f66c-4713-a38f-a4fa253459b7",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-6b04744c2d81a146",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "onap.doc",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-doc-doc",
+            "comment": "This package was added to the Trivy analysis for the doc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "doc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "667d188e2881bcbdbd9083c455eab5de03856601"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-doc-doc-doc-best-practice",
+            "comment": "This package was added to the Trivy analysis for the doc/doc-best-practice by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "doc/doc-best-practice",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "af8bab94b72788b6da716a7a20122a061f43ca62"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11039247",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0b021e1a53d761ce8c7acda4a444779fedbab8f7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1e65a347696d7b3d8fadfd5223616266c046e3ac5464f177d0d0dcc9d06d27fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "334125da760705de54ffbf63bc14f2a4"
+                }
+            ],
+            "copyrightText": " 2025 The Linux Foundation SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "doc-2025-09-13.zip/doc/.github/dependabot.yml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039185",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "494701f0d9b9452a5221b22d0c98183a8f99bf5c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e0c89ecc806a825cebccf5f8c93bddf0c0c598c0dc2bf8f134bc84ee14189b5c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e3003992c21d24da6a4769efaf04375a"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/administration.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039171",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "54eb50bf693f72976dd08dafc5bafe8f65a5ffee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "379979be6b68de9cce049cae4dee0657ae3fb60b2870bca36c5624a265068909"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2450dc353f1cf1e3899d38de2b31f669"
+                }
+            ],
+            "copyrightText": " Copyright 2019 Orange. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/api-swagger-guide.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039187",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "610dbada9daad8df5333d34c6ab8fb39dfc19a7a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5c8e322dfa7c9fbdb2614ddb85fca252fbd90342b7def4cd9023d9ca2b243524"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "76b3a24b258e13082a8e6de5e03c4894"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/architecture.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039189",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "43efc1d344fc8c267d5caf0f1e53a951057748da"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0edc881f83f746d099e63b9dde202828058273c66dbd92f29bdcdf770dec91d1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e69f4c2e4fed61530d62758d9c5b821a"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/build.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039132",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "701239865a0e862d42579186322886db865b1ffa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b63254005b68dd01f234f5cd12e7580b33dbb6d76c9df7d8425d23e84ea9d8b2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "15ea3dd3303279eebcfd25c975df52f6"
+                }
+            ],
+            "copyrightText": " Copyright 2025, ONAP Contributors. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/release/component-release-notes.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039283",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3983e22156b315a25378254731448bffc6536179"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5c523ee92a7f147f997026c6242ab637528c7272c2fc297251d311e4d6f54aee"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "79d1f35ef0e513ec57e68e682888233f"
+                }
+            ],
+            "copyrightText": " copyright = \"ONAP. Licensed under Creative Commons Attribution 4.0 International License\" ",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/conf.py",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039226",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4dd0653364f7993e1e756cf95afda6f1f6a3954b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "722c72f31c4dfebe9eb4f44a71bfe2788ea90ba6d394d58a5c3f81a5b0ba11c3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a412bec34ae7f6a50e84c7887b6d843f"
+                }
+            ],
+            "copyrightText": " copyright = \"ONAP. Licensed under Creative Commons Attribution 4.0 International License\" ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/conf.py",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039296",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ce8a291a7732e40ef1c3768bf72d46a401999fea"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "268bceb5b650105c51e7d019ffb5ac2e6a397297f8edda45c1a49c29e08f7d86"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "afa75be483517636ab03718ed3287c69"
+                }
+            ],
+            "copyrightText": " copyright = \"ONAP. Licensed under Creative Commons Attribution 4.0 International License\" ",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/conf.py",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039195",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cc924d3024e5a0c4cb914dc8f0e7c2d1b8bcb080"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aefa52483b6ccb758834233064e1821d4124bd069fe99a757436e264e7534df9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dfb2ee3a548b7578f6368fe2051a4e6f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/configuration.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039188",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9f8862ccdc532a7265495d83dad57651bc9bba98"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c4e5a525bad46d76a1133e9793aaa49ea5a65d4e381fd2ca6af16cf4562e8428"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "284dbc6d661d1616d9546f1dc50e9ffa"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/consumedapis.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039167",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f979f40bc1be06bdf2bf8f8b89e91a4ab15fd831"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "79b9feb19f5a29a95fb76f4d4134b5029d41acdf86fbfd73c67334be0d7ea241"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "147c15346d4e28b55a8b82d68503cf86"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/converting-to-rst.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039169",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aacd5a3cc93fa20a842b7772c5ab5e60ffdeff2c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b59705671339610463919b69069717f9383f4a17bf8e2ce6b669ddb05fb8543b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c3b7a068e64c847e4839448b5dbac3a4"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved.\nCopyright 2022 ONAP ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/creating-rst.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039186",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c321eab308b3fe0b097bcb189633d9fa97bf1887"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e82a357b2ce8f8803376909fea6f50426246c9038637e80cbcefd67a672408d9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "78191c000bf8d639f236ae91335a5347"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/delivery.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039194",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "67fd9ae5d33efaf77b40889df85ef430cade616b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "76d0adfd413bc3ff0fca7a54d5c796ed7e4338d5496e6e30d812965995bef39f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "44f01c4001287f62f38dd6e2d901369e"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/design.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039130",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "44b4a17e1c6088b3a6898f20cc359bc08761aa3a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a2147c809fdab8ab103746b02007d91ccc013d66ba52085b098443b8acaf3853"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "661bf989c416fb6df06a5f03f0c824ed"
+                }
+            ],
+            "copyrightText": " Copyright 2023 by ONAP and contributors. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/release/history.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039128",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f492b582f586c7a8b5ba7a471eb4a2366d932ea7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0df109cf60839be4eb358b1e2c824d2063bfca54aa845fb9f571daad92776ffc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2007e974e1319552b05f6870345224bf"
+                }
+            ],
+            "copyrightText": " Copyright 2023 ONAP Contributors. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/usecases/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039094",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "12ea0631fbf88fb4421fb0ed94c37b9b82542e6b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b4f5207dd0457feb4ddea6f5fa1fc6c2698718fe1b6070ab320e99b7746ee962"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fc7541bb44e289a01843b708bf77d913"
+                }
+            ],
+            "copyrightText": " Copyright 2017-2018 Huawei Technologies Co., Ltd.\nCopyright 2019 ONAP Contributors\nCopyright 2020 ONAP Contributors\nCopyright 2021 ONAP Contributors\nCopyright 2022 ONAP Contributors\nCopyright 2023 ONAP Contributors\nCopyright 2024 ONAP Contributors\nCopyright 2025 ONAP Contributors\nCopyright 2025 ONAP Contributors ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039126",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8b7cd876f3bac813b3aa14f35aa45a1ccd22cee5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8ed3f650539d170b95c8b5c414b58fe6deb9e70f654e99324945345a6b1da5c3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ec1b2c20b869b8763792988c9cc868ff"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/components/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039085",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "53e92a6fee1b86e0c7adc03e561d00868d476d23"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "af7dc442c5a1a6ca7c621ee1e9a7697b9b0e9443fd2e8d12a7a95bb979875e7d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b5bc3ec97a34828bfe20e91a25c662cb"
+                }
+            ],
+            "copyrightText": " Copyright 2019 Nokia; Copyright 2017-2018 Huawei Technologies Co., Ltd.;\nCopyright 2017 AT&T Intellectual Property ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/overview/index.rst",
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039144",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fe00d9959433e9386e12de56d28da97f0b684e31"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cd755a669b8bd28e9709c9408126d4048e25a9bcb5708aae8d125b705595777e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f0e3b9106d6740e9ab6a1ed7cafcecb5"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-developer/apiref/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039141",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1c309fbce242a35dfe9ff37836786272d258c7b4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d0f1be7fc8b4a873f34e8233962c6931a0bddb8b1b1418ed7452d7af919818dc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "78362d6323f8b5fd37a2f9eaf4d603f2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-developer/contribution/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039142",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0deff980ec4f03804452824f858c2b7b97f65cfe"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "766070b8419af625502d38c09439feb2229db8c2a08c4795661f76eae936218f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "04dd5d5ca474f07e7d5e8256bcded066"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-developer/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039197",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9f5c40ce929b3a016fdcfc93d8f977a0e2a5102e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "24c94b4d897acbafb1603f6735eb436c1eadffd22174d8d499c8adc62b0c6585"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8480c0b1533b20a8e2769f494150deca"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP Contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039168",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bceac2a5711018f64f403e14f844dcd1caaea389"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "075bf0f478746c563f47d34dee2d3177973fd231b07c638241b1e6b99a6267c5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "85968e6759a5c032038548a347c4ebc2"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2021 Deutsche Telekom AG ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039155",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "812296b2ae00defcd056cf7d4f9255c15528331c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b7a5ce840982ac9a939b753c1391be72263ddf3419f52075d920fd2c79361e58"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "70711ee094e532aa22f92b4c1ba2f814"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/cloud_site/aws/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039157",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "80dfbee27a322f7082d9166c1486d975e6961957"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b9f58a1ef57fcddba70a8879afa6a63c33a7de9c732132cab5832effcfefb9a4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b4217531276a333ebda15cfd0c6ca131"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/cloud_site/azure/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039153",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "65fea98c859bfde9775aee85ec9212d44ec0c702"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a9681f167db6530463caf8c67e975b2a45cc7457640defda67c5dde4b7a6a7df"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "edab27a14bdefa97f7731844065d1f12"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. Modifications 2020 Nokia Networks ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/cloud_site/k8s/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039151",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e206ca1f38e459a46f4fc52a71eb02e0d1b267e2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bfdebd2af8b1d7f310970aa529cf63908e1daa681583f9e835b27992176f9ab3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7e7e94e5ec6ee6a2771233b5e6e32c8b"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/cloud_site/openstack/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039148",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f76ba13cd5a05ed789a48da824f338b8d694f77d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "60b6e29fac4e3e47e7cc5ba2c91939dada0ce1380299599b1eeeb6d0f4fa8c63"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bc882e9e56eedd912574e0bceccd358c"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/cloud_site/vmware/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039149",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0aa1b14a85301dd90d110f8dbcea2e24de22d605"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d92e2332a72e98f7e745cb584d265a963a5c366f452eb3644b9a09c39e2d5ee7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "412139a8c56fa5d5cdc04585dfc27558"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/cloud_site/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039160",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c3d1085c5603d795f84a991b5887627e8bdd4d92"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "88f59b3abd4bb3ab35b40232e3e5dbd494463e290781a6f0249f349c0492e066"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d1b4333fa8870cc14ec84bd68212b863"
+                }
+            ],
+            "copyrightText": " Copyright 2017-2018 AT&T Intellectual Property. All rights reserved.\nCopyright 2018 Orange\nCopyright 2018 Amdocs\nCopyright 2018 Huawei\nCopyright 2019 Orange\nCopyright 2021 Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/settingup/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039162",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "97b513c9b90f2a2e0f7afb1263476c19f0772394"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8ad4a9862b5715cd8dff20f356e9dbc5436a4a9fa37229f4ad762f1328389694"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a51b293a0205ac6ca6cae76966604e3d"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039131",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "381e7c1e6d9f33814f2e943646c111545274c49b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4e113983e21d2bdc0e995d4cf1da53ce7412997295f24849ae02502811c48186"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "69b8f6a369802e5a0da37d282385ab67"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/release/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039205",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9438a725449f1c5077ad684f83ece3984a14a7e8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a67aae979d71f03b33eda27e0e938261752535b3e19c1dcf1d7316eeed51e9ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7815d4bd97fd4b18253378a348e1b9e6"
+                }
+            ],
+            "copyrightText": " Copyright 2019-2020 Samsung Electronics ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/security/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039082",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "439784e81128fcad3fde194bfb91f6211aa19a39"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dbf179f7a86dfb98627686f8b2e3666aa4d9b90ab3f79eee769f86396d367a6a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0b58744dfac86de74661fe994db9a55e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/index.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039191",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "efbc89e99ac266cd75de1c2c488d8b8279abbf40"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e4648ac606923d727ef6e51838fd59a37e8efa766b540d39970313566955fe66"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3e3d180fc629522ba34da1e2c271eb70"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/installation.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039166",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2dc85fa874c8eef0fcd23f7be645400315d93458"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5b318b5c5c91f67ee6fcf32068f72bf1f8df8c72a265918daa7aac9b32237e2c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8a9070748441843bc653099831ac127b"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved.\nCopyright 2022 ONAP\nCopyright YEAR ONAP or COMPANY or INDIVIDUAL\ncopyright line may be appended\ncopyright line. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/introduction.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039190",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "862764bd6d09d4b5c0e5ee71b9d14c1a8b97d75e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cab9b2a51b548a8a733d7c4f71fdeaab1642c0564b26ea0746c12c88fb5bfc9f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7830552b2d1fe974e2b781230c533b34"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/logging.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039193",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3f8c6651add4affe0dced629e36203ccafc2dae1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "18110de34e3c53dbd10bfbfd300674635ba4ee4f790d643fc3074e6447245c87"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "80505e024f5de16756af38fe4e6f3ccd"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/offeredapis.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039115",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3823b8f6a859d1f7318a50d807ea0afaeee3181e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "090dd6515801563c27784c6bb9cd0479caf89e6ecbcfe97404cc0d53be0a9e44"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bdd33658fcc7ba6530d979f4aa4deb00"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2021 - 2024 Deutsche Telekom AG --> ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/onap-architecture-overview-interactive-path.svg",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039120",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a48394a404717642bb5ad451cdae35e76ec3715e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "63281e77eb43aef6319ffd7862a6f3056a0302621dafcd03b675b0ae1d768de1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1b9918298c443e98f12bbc861353c3c4"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2021 - 2024 Deutsche Telekom AG --> ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/onap-architecture-overview-interactive.svg",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039164",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb0e4847718eff2fe4537d7778f55cf356fbeb53"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f062471acc0c53cfc15a7ead0dc631b94915525e82453a19a3bcba0e170392fb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4a75496398ffe11bb1ff0514821b76e2"
+                }
+            ],
+            "copyrightText": " Copyright 2017-2020 Aarna Networks, Inc.\nCopyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved.\nCopyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/onap_backup_restore.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL",
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039200",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "df9d793ea3dd0ce018ac5af03e09af5c54d8d4e7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9f4cce53e63cdfafc3f6a713552f3ed75f04462af2181e6e553e8936ef2ccec3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "174294fd6200e1b9432c63238a61e466"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/collections/platform-component.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039158",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "55be03bdbed43645ec93b5f3716f382e677c8a13"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f926b150ca50f96d244442f9bed288cbecc282127a5169fd9a0996efa62eb3a9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f15f379092807c37fa1d7e34a98d48f1"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/platformoperations.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039202",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0c0932bef0f7ba54c3fb95c5bb813aa1c87e8d77"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3cc2a62b5a0d64edceb11b5622e61fb6383891ff7653608a7e8136808ee47244"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a5579ff148c237e8d2519325052690ef"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved.\nCopyright 2018-2025 by ONAP and contributors. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/release-notes.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039192",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c5d13306d1b3acbcc8b1b73a904365553b9c7124"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "797e82a25cb6d0d45fd9418ed2f56515719ac3fc69824218c4ec35b0f5fb584c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "068a6c49bc122bf292287eab36b62743"
+                }
+            ],
+            "copyrightText": " (c) ONAP Project and its contributors release_notes: ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/release-notes.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039199",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c9b425cd243a293a26b70102fd9097cd90f905c7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "95803f1173c04d5f3b9993760dd827bb33f9df842fbf118f93bd7006f258d9af"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ecc3b2687fb349e3b8565efe341ec3d8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/collections/sdk.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039140",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "db9ac2be52d0089886480d1303c4234ce8e73004"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6bf5330878b6990e2a974e273a6268868080751661a4ca9cd88d77704d6c775d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "579a89a258b1096d737f18e4f731a27a"
+                }
+            ],
+            "copyrightText": " Copyright 2020 Nokia. ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-developer/contribution/setting-up-environment.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039201",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f7f5573b26db7fcf02124927baead193e64de909"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "08db05d936344d8a2c10569b48f3caf4a37966fb3598bd405714cc2d985889ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6bcbf5c5ad98c3188bf4e4bffd54f899"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved.\nCopyright 2022 ONAP ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/setting-up.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039172",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e78f2568dc113884d482ac6c59fcb2a222cc552e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5850a43474a11b47f2433e9e8f6a1adab211f34474d6a39b3cb71748528a3327"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "437b4b072384a7beb140c8607eb9a959"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2021 Deutsche Telekom AG ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/setup-of-a-doc-dev-system.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039173",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bee785be315a864aff9b2fda0f4b5a244e56637e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a6c4f881fc4c6a6bc952280d2553a38de88b97cf00ff04bf03ba66d353065470"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e0bc233468b75f27eaf2ea87c328447"
+                }
+            ],
+            "copyrightText": " Copyright 2017 AT&T Intellectual Property. All rights reserved.\nCopyright 2022 ONAP ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/style-guide-content.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039170",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7cd0ab67c009d40b9f0f9d628047350544f7317f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8fc9a51c8b0c0314a970eccf591622d611006df78e0645a97cf52609bcd67333"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "341aec98e0d2827d8c21fda2359541a8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/updates-and-review.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039196",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9549f750b324baef52a27662737cfe8dafa78f61"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "73c3ae51e44aa7022620c16c4429445306736ee9db8e63b490b4c6bb4dc7e33f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fbdbce2f7bca934eede200e8e6a1a567"
+                }
+            ],
+            "copyrightText": " Copyright 2021 ONAP contributors, Nokia ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/templates/sections/userinterfaces.rst",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039260",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "875103b4e5879b74518e8f9e12f8fda34b03d9e3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "87457a66aaefac593cb836289e9784f525edc16a5fa4dde94f3b6bc47e21c000"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6618397d7faa7577580cc6a05aa7da90"
+                }
+            ],
+            "copyrightText": " Copyright 2021 Nokia Licensed under the Apache License 2.0 SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "doc-2025-09-13.zip/doc/tools/Dockerfile",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039261",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e306aa8d180edf3f7ed51553f22da3778b719fd9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "605d7dfde1ea588685fe323a7d5f6e11f36d6814450740ab25c8b05bcc4e60e1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bd9ec1d7517eca650f0af8dbfe982c3a"
+                }
+            ],
+            "copyrightText": " Copyright 2021 Nokia Licensed under the Apache License 2.0 SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "doc-2025-09-13.zip/doc/tools/build-c2m.sh",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039252",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "67ec539765dade51d03bac33632d7f7617d073ac"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e6f9e0da90326109e698eeaa9e9c1aeadf256a9dbf499bd99d910a923eba0311"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fc75db19a5e72d48d33cda033300d67e"
+                }
+            ],
+            "copyrightText": " Copyright 2021 Nokia Licensed under the Apache License 2.0 SPDX-License-Identifier: Apache-2.0 set -x echo \"c2m-wrapper -------------------------------------------------------------\" ",
+            "fileName": "doc-2025-09-13.zip/doc/tools/c2m-wrapper.sh",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039263",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b41feffcc38ce5743b1fb8d45ed41de77f4abf09"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a88af205a0f87774fc57bafbf876e1ef009467a71b3c1c8029b5ff416f9fc31e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "892ce8ee1ad72e1cd23321e916d104c8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/c2m.sh",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039251",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6a82608882eda30e969865a93e76356cdd5ac980"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "df02338ca007516a75809fa034af510bbdd212715f1acd4c7529743021293aac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "49e36a5a355df2760dacbaed6fa981f5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/checkdocs.sh",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039182",
+            "attributionTexts": [
+                " 414 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3505116ffa233d5bb25281b79ccd25ca76e64f0b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8e459f448eb7a44db46e23ae9ad024468bba67a58ebf50913ad9e418c69c6f9e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "edeec08ed669667eb2f22b33cb7f2805"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/media/myAPI1.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039181",
+            "attributionTexts": [
+                " 414 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a2c00f5f8460a6ef30e5725603f03423aaf49093"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1174782655bfef8291ddd28b5ed001825eb6e0fc4de4bc1bdbc9a3df7b2aad4c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dc3eedac621dbd347fbbcb0f85419948"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/media/myAPI2.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039256",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "16c1014b718dab952b76b4c301a2d464f77f21a7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "372e0cda1e03fe7ee91a9dad10e2b7b12bdc2bef041718ae2ab0ce54f782d367"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5fc1ff9a2f55c8f48d1e189ffedc5be9"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2021 Deutsche Telekom AG LICENSE_END==================================================== ",
+            "fileName": "doc-2025-09-13.zip/doc/tools/getrsttitle.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039259",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6f0926ff34ba2d5e8367f1aca37fd023f6d46592"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b38b4542cf19ff3ef83d8eafcc601e434b6aa70cdf298c4d56c7c46b576a807f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "627c2be989565bc5982ad7485144a953"
+                }
+            ],
+            "copyrightText": " Copyright 2021 Nokia Licensed under the Apache License 2.0 SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "doc-2025-09-13.zip/doc/tools/run-c2m.sh",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039265",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a5875e4ba7d39c991d61678479292e71d99014e6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "661f38cc0fff4c17d7cb3b04746b940562668472ccc555859f2f0051832acc52"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2a4a20acc5e80541c3b9db7d8ea4079c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/warnstats.sh",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039227",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "376eef8566100ec79860b0c6edf6b6adb8cf82db"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a71f3c513ffd80eb1869901dd07dde55a38cac258d8bdf17797b5536b832cd19"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1652a446f86ae2b7ffa02d2af06f49c4"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2017 Open Network Automation Platform and contributors ",
+            "fileName": "doc-2025-09-13.zip/doc/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039081",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "894baf87ebaa650091536ff5cc569ebb28f70819"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b5f126d4666b9aaaf29b37fe7ce41b1a3627ac2be50604433d8e057f1ed616a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4a5cc08cafc41acd8851ce1f1fa2b794"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/spelling_wordlist.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039087",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f68a0222b052f78b9726c8b2eaed3fd46f3dab36"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c23667ed34252bb15c3bbf5c172edda54d46c21c3ca26a4ae8197502c1b79557"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d43702e6dcd139816a45019cadaed4b4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/overview/media/ONAP_architecture_high_level.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039088",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "60c0468aa0663e0f6b8f7d9e3ab84ad4646b11d8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a52aec34b5d4094fc64c62749bbb1559b91217fff5b0fde13ecd7827d0b2644c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "15bb9793abbdbf95915dd7e38bd6d2d0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/overview/media/ONAP_main_functions.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039089",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dd4b0e7e97217d3bd3a09b587a87ce963092c584"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "873146dcd3b94e61b4b906a1314680058d1ba690b7d313d285a132f74f453b6b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1eaa506cd9a7aa7d5f657f6b2642ed91"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/overview/media/ONAP_architecture_high_level.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039090",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9cc0b0fb07aea090632626352348c1c2d57d08f1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b01426a3876313765877bc9b63c3cc8249325c205c8b33d1f62fe66d570ae9d7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e3b3b42533f35f42bd04fdfb1df11c7a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/overview/media/ONAP_architecture_high_level.des",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039091",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6e69189c8b85b301348d182da23b60d482badc8f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c8564390dbc6d8676cb76fa0d85fb5342292f377c264bc23e3081de1cd9effdc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8c98dee2e6bcd0fcdc071e98431fe1c9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/overview/media/ONAP_main_functions.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039092",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cdee42805321d7f7a48d23dbdcde4e647327fc63"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "602a08a53790a1acc719b4e50f026509bb5fdc3b91beed17a0a8a63b66ca8b99"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "71e54de5c5fe2f25417493c11526b7fc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/overview/media/ONAP_main_functions.des",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039096",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4a6be7169c776bead4166c0d12b268b38fcb561b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "801cc941e104bed324610a823d7ce5c6cf1f8dadae56cf1d03f6aee831724d15"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0790ae507be1ebc0ce44967ad585ac9c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-architecture.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039097",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e4a6dfeeed1e883146d0982945698d2d0727ab20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "62ef7e7ab6d48e11a7524f4851920358d03eeee527fc90ce5134fe343433c9d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "399e5e8ed73c325ff11b0f41dc0edf99"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-securityFramework.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039098",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dec0f27e7cce0a5732ed7cab6c7c7142e617e637"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "09695ae63886151532dd7844e9ae368f18cc4b89f97a514dc63fbdfbe890e41b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6687831286d06078198d129595067ee4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-fncview.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039099",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "606af3a2a9ad40dbe2e9c32b03bfb57dc6a39b1e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ae3a637ea0803973f366309a1ff985f3ffa15a868bf054e02a8bec6cc76e5b8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c3700b97ed102a4e08c519f9b4834395"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-org-chart.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039100",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "543ef27e2adf433c18541a438b067ef4f8ef0fcb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "857afb96133bbbbb4b4ed8a751f32db87ed2ab92b61db6d9bf4d303d84eb57fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b7fd3ae8b7b1fa5ebad95676742655d7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-NetworkSlicingOptions.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039101",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7b841579f5cea252ef5c800109bf13013696704f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a1f75fdf1b34ef92fd97ba905fdee1942ef2612a2550e48a82a643038a724d5f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "03a9865797c0475cd92502a6fc99d081"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-architecture-functions.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039102",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9900ea5dbf21f55eb9a56dc6eadbd961c15015d1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "14c6be1978232246fa21c01077818a1a06b00b5c470d5a32fb94214c49a755af"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3eba01db4a486257f35173b40e008555"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-GitOps-CD-based-orchestration.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039103",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8ade00b3348287922880875a3f90f79ac10a1e1d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9021080e277149efd767a2ca4dd280160183125ba52be27472ae6dcf4c2b5903"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f066d6d85ff6683f08e76b44722fde93"
+                }
+            ],
+            "copyrightText": " \u00a9 0?\u0090C\u00f8A>A\u00e6Q^UF\u00d9\u00f1\u0089D\u00a0*C\"0\u0087\u00e4\u00e0\u00a3f`\u0460A\u0083\u008ct\u0085\u00d4Q\u0085b?~\u0096A)\u00ffS%dt\u00e5\u0095WZ\u0099!\u00b8T]hm?\u00f6\u0509z3\u00e1\u00a4?J\u009a?\u0094\u00f2\u00d2);\u00bc(\"\u0090?@^\u00aa/8#\u00a5!K\u00a9?x\u00d2v?e\u00d3&\u0450\u00bd\u00aa\u00ee\u00b1{\u008f\u00fd\u00f1?9\u00cd}\u00ae&\u0711\u00fa\u009e\u008cT?i\u00f7V*\u0088@\u00f5;h\u00f7\u00a6\u009a\u00c7G\u00aa?\u008a\u00d4D\u00d9?W?\u00f38\t\u009fH?\u00f2,A\u032a\u00a9s\u0527O?\u00bb?T\u00e5?/\u00b6?\u00ef\u00aa<\u008an\u00b9\u00e5?#x\u00b9\u00a7y6(?\u00f7.\u0084/\ud698\u00e2\u0093\u00c1\u00b0\u008f\u00e3x\u0086Tq?\u00a9J\u00d0 \u00d4L:\u04a8\u00a9v?\u0087\u00e3\u00f8V5o\u00c4>U??\u009e\u00aa\u00864b\u009d\u00c5?\u00aeI]\u00b8?\u00cf\u00dd\u00f0\u00e1\u00c3#5\u0777{\u0099\u00e7\u0086\u00e7?\u0092EUS?\u00f7%\u00a4\u009f\u009aVG\u00ea?1R\u00ff\u00a4F\u00b2\u00b0\u00c0\u00f9\u00a2\u008a\u00ab\u0082\u00fb^M\u00d6#\u008d\u0090l\u0084\u008a*\u00b5\" ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-IntentBasedNetworking.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039104",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "95c4cf5022dd1576454c3fdd574780dc79a9eca6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "17fa44c9ee55abdec9f1a5ccaaa643a611cafcc9cba9b18ba7d0f6f81a643842"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "64bbc69fa48d07743782b9768637256d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-5G.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039105",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "55a4a6cc38fd4df269e62044c623a10e5d53aa7e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e2f11d6b4a924b0146f8781d33d3ecb690fe842852f13f42c916af5f2a4e0e98"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "03f6c6d1f8547688858d87d37597f2cc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-AI-enabled-func-enhancement.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039106",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8e98c72cd1e8eb97c3e24955d5bbcd1a55f754dd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "90facc7314e77ee1b1811102be160a742d32e021485310af0aa188db7e046e26"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e57ad5732a29f8458fad46f05a96fc11"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-Streamlining-Build-Deployment.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039107",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ae11641b75cf0d3d96ffe5028297dbf84782777e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6196fd2b48a60642c7f2a44c5b4c5f095e1f2f915d86a059c3cbd2c7548315f2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "73ee08675fdecc16fd5f8fa33be5c913"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-project-interface-abstraction.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039108",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fd6da1c160b0f869a59153b916dcab59127a3c92"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c5fddc077ed10c317511a30156870aea4ad4cfc238edb611bdd81e2fa319216c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ae7023ebc6d966137c7d39798b2649c4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/onap-architecture-overview-colors.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039109",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7442340b95beda91e8fb8d21a3d6646e923fef9e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4e95dbe72d1fdb6b8727c188e25f6ddd90b3f262c681d679120a6d010e5e7010"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0e37051056023a38b57b94cae5a8ed56"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-volte.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039110",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "87f9e0d7f4c3420f4a4a921bd861e9ab4aacd75b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6de37f2888f4acd6ec74be077d9ae7aedd90296672b48ed8d532672eecb265dd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2f2101f5d324b02cc3770d0996eddf93"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-semi-standalone-projects.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039111",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e982464519cd9c70bbaf42b6cd289532f7c98792"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8c48a4834664fbd80da533612493c52369a3b3d63f2be2d319a4d1f41e652625"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e72a7c6e5a8efe57752387342450244a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-closedloop.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039112",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f99078ba2d03e57673e83b0c3e6766c644cf2c67"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b0463b49bd8fe99aa7153badc7090b37bf0ea02c1a3a16bb3ba6d98cdc5a9946"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0a0ec11a2c611031cfb5a6dce18cbc07"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/onap-architecture-overview-notes.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039113",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b94e55105d85a927c4a1381aeff6d83a2cceb11c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7b1f1ff8866d506e8f27ea7440d04a992f3a4a3c87e40df1062a937f54ed920f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c73236c19e2f8eb9add2f0cea3509a01"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-5GSuperBP-Integration.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039114",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dbec4f1e5181134d82d3529e0773d8f267f1070e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c373efdb708df407793827a866daa841126dfce45d1d7d519a46a19bbf1a6934"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ba4c7fde32294fbac1eefb8a7a949664"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-Streamlining-Target.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039116",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "26d8eaaacdc83e9fe57f630f99b678738e09704d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "11987b6524498c02f8a5c979cb8663e31e916f02623ee45ebb971265d9b32f84"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1358349b0d7899c8db62d51fb9522f6b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-choreo-intent-use-case.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039117",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3f1c70a6bc41bebf65026f2b89ea2890389e4f9d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "867505936f3e73380efedc718839fcf78c74b638bed1a981b4ae3df21f206363"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a561e4841373716ab37f2a336ba0ff05"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-repo-based-build-deployment.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039118",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6a9178329c37f25b0556ba85060b515e979db8e9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3be761fbf47ef46aee2bb7288235561dc7ef9f93d50844cb25b4a175af003634"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3706546b38bb315c5dc239a995380db9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-mdons.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039119",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ad1342a63e12d953c3ed4399d8767e34992f9e4c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "92953ecbfc7e6dbaabdc02abae11aef9fee5ce3fa26dcd5a1ef5fcf9840ef3b3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "67af239f8ee3260529bdf7cefedac00c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/UUI-Component-Architecture.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039121",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7c80a7a69a6d7f33c539e81e9073b6aa6633f170"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "005dd551d613d1271d116fc8cbe7b2802dd78c44769b6ebfffaf2da579e2f39c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ef2c6cca3b79d09fa75d5bd3743b59a9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-vcpe.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039122",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "83b360a58a381cec66b0c99393553dda35440ddc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d9f840b4a22394f1539a22eb1e5ca3e089478acff7f56568caf2b1ca83b9246f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0b820483a61e871792153cdcfb1e9989"
+                }
+            ],
+            "copyrightText": " \u00a9\tf%P?\u0090J\u008cYiF\u00b1,M\u00fb\u00e8\u03c7\u00ab\u00f2\u00fc\u00a3\u00aba-`?UA* ",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-Streamlining-Transformation.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039123",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dbc65d881e8c7ad180e5568276adc64c899d4274"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ebd297a6febfa0587f164c6b46036182464afb51e5bba48d5ec9825623d52b60"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4c3a61deada63840a622e16739fdcd33"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-ccvpn.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039124",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f7fc14ac6d41a9f43ee223833a73709d89735a3b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9e63095a16a3e098d2fea4d5fad7ab6c787dbb95a53a7a547d34c0898f5afa4e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a5f24980796bb2d770be8e3f8c110d1e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/ecosystem/architecture/media/ONAP-bbs.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039133",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba66fbd67dd13487cc90c97b16866c9c8b200ecd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ec0cef2a7665be1d4e05e674bc04dd34814f3471bb25634fd004027493bf659a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "844dcb0ff82516a5ff7ee54d32694f0d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/tox.ini",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039135",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "75e86bc4b6d1b1b133acf44455aa40c92d6ef7a0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3cd712d6b05ffbca411bffa0631d323fe13938baa118dd0e17d47484c2d75caa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a6c03625dceab4b3f96250d31a3de7af"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_templates/layout.html",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039139",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6e20e94f2149244cd7a9d2027c9834f34e656a68"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f5b4c27ba1a61b9582333ae2640d6cf740c93d261cb0d940a6674d37a783b802"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86e8460d03a558b7b9e2fe609df40cb9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-developer/contribution/CLA_types.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039161",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "25d59609c39c84d9e401316e75567d86a003f94e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ec1dba684e464c7e3c69284aea32515c9b67a7159f44fb3bb1b3bb032793d3e4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8046559916ab6a559ef8ee1d4eb119bd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/settingup/nodeports.csv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039163",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "142f5a917887ee4833469cf19b32b8326564241f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c2131c82431bb68ab868490cfac48cffde558214ebfec8644280b7184a31f361"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "02251876f689fe233e4bb80cac4d5c8a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-operator/Backup-And-Restore.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039175",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ff686bff50c83703d3e70e1d0868061124a5f5f9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fa7f27447ca4e064426f1a071bd4c5181de9ea4d8cae1290500d6f3835335ca5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "19fbf4b30714ca9cbfed23dd4747917f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/media/view-app-grid-symbolic.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039176",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "35259ec0dfbc88e9117449640d6f9d27b1d167af"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "48f1ce217594e4d940bdd7475444004bc207b9c7a6cea1b6a84de2f71f4f298c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "29c608ef37fbb9e8ccf9802a77a2b7d3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/media/git_branches.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039177",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f3aaa7d60aa65fda01d8890a85acb21fed76b064"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "25ebcde2bde79e719e890c9014fd4f85ca0fae2c344deb064322f1483c81f159"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2ab6c9f1f5ed791dea2523b8efea659e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/media/files.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039178",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cbeea2bd8cc1ddc9938871367ec0c5be4a1350b1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "87f54b0a8a90c9270c28e800119fe89825ea7f5a8cdcf3daa840be167f5e78b0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7bcb8264c1ef1ed5190cabed69be1b57"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/media/gear.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039179",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0e1dd23d836e0f8e1df447ae045c1af7bed4a0ba"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e0c77bc3df45ce2d0b881e68407c1299717b3252b9fbf7abc6faa6603d4cdaee"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0e66d24a2f9d192a48fd4dd3e2d9614a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/media/git_branches.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039180",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da12365b2b45208959b82b64f1bf1cd3e2f29d5a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6880543062ef1427f9a8be7f27abcbd79ef4c0f05385a0fbe432a035e35c71c3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a2ed01d65ff39dfdf6037b5c03fb5c01"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/guides/onap-documentation/media/PreviewOnRightPane_16x.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039203",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bdfdc19ca2dba746b22a3757ff405be542066f42"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0c70391f18e01193f0f59e71645bf59e984af14295a52e621b6efc1d1004e520"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dcb657c3c0d3161806f1c5046961c935"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/requirements-docs.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039208",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1c72a01f8b68afc4991bbe9145fe69c116457e79"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "474b3e725ef7ea758f16dec8d06f71003f323fe8c4e2a7ddf9008c6030a60952"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7ac6c2473cc3940418bc1737b99d5f3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/css/ribbon.css",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039209",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ae7ab8338bd2982530d36ac438e7c0063484f691"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6962fc357a12d9a28c9c3498e5f29d2abc314bcbb28d86cc6c16c0e8f84e5559"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f742dff3329c3d842f3a8181c470ce5e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/clock-history.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039210",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e6f63e25b5e7f8812e98fae6a458c6366a81e4c7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "480f32d446176354747a87a1ccf9c4f054a3a32ec08a03402109c8058cc51bf8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0fcc1944eba8716d478967c690ec7072"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/eye.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039211",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3330163d37e36996632289a066a916c54425a0df"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b110d07d072f1473fd35458263be4b84f845119af246d7ec8422e63c798d199b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9645ad304d389e640028634797901021"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/person-gear.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039212",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9078c25a72267effd0ec1633c33d16ff496612bb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f1ce867ec8edc62174d6cb5b2a6e906a7ac562fc200e853c841ed9073f3e2681"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dbbdfe505dc199a5a1f26adc0aac174c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/exclamation-triangle.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039213",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "27accd805105a167e22903feaf70f099e46a84d1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e1b46326bd5517e2ee97e012d7dd57cce45353cefd349ff197e2197efdd22b85"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8cd15838b9c5d0a1d3617433c5007d7a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/columns-gap.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039214",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "013fd9c6aff58740ecc3114540eb2b6f786eb795"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "10926eeb1e93c44d283a734ca502a2612c53aab4adb32259802479b0c5a7f31a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9660e88e9ef676a0650c0fadce7ed1f3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/diagram-3.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039215",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9966b7436787d1dfd1b22ffb98e75a583bb95e9d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4200320291220044f688706f38898b8503730465fa6ffdaabadb100bf288e3af"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5696624842dadd424e1183b5d639120f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/file.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039216",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6b0722883696e01219479c56607f220058dce701"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "49e7ef38de6adacade18b4e7fe4fd1863c3836b7f327dba38bf7a4db9dad2fe2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3a316082fe64df98d5dd5ef4a6ee0e19"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/person.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039217",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "64c92fe55d4514ef2fecaeabbac4e718a8af9610"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f0a1a8e46cbe3c5f57b38cf33887886a69195e16e30f7816de6ae7f7bebb9621"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3567d5768ddb8980fded3bba52167d20"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/files.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039218",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ab7a3e833a3c133cb9fcdb1f340ccb442932d644"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ee7534e571dc9e3b37235e4bbb3c3806b3ab639060ead5103dc2d83b1469b57d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e760de81c6051d15ebe9586ebd31a6ca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/logo_onap_2024.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039219",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e54e805c9b507d8f96e4f13ad843b0998d7be2ae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b90b5a325c039d46a33f2bde3492f75790f158cbde4b2d2c443d7a5f770b0dbc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "59e5fbb2e0722c74f50a3944823fb751"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/filetype-rst.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039220",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e18cd84a98ad1310a825e8a1abbc705e9ad4a647"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "89d10a49a9b7408b05e774e58e195dbc975b6425a6572fa0a76cb952ef664a2d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0d500b8b1b2b2594db62ebe5ef6c36d6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/calendar-event.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039221",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2086b2a3c56785d06e6d324f0b577a6897e244e2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f9b99fb6d9101d0d81b5505fb20feb55e4970d65400cd407bb4f2aedccaf776"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a318eb8502b10283aef3eac7324ec715"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/code-slash.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039222",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "872cef3f83c88339133b6fcc24b63a6542b385dc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "02cc38f1077de0b2f499505f3653a048c13869964a289a6c17bf9ef14577f085"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "830c02d2d42cc0c3c04951839ba9576e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/terminal.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039223",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9e851226254d46f92585b4731b7ea9a4405d3e58"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ded121be21030233f525c0fddf0afb718216a208853dff3fdd4e909676c3d62"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9a0bda20156b9596dd82191d7232aca9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/favicon.ico",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039224",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9eaa5a5382a7393b7599f74463baa10570c48abb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "65fac69911c7bb5b5173486a3ad10ea583fdb330985f2e8e639c78fba5e4c4c0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4bbdead9d334576cda245c5415b9d21d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/bullseye.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039225",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "239d73734ccb953fd641dd36f6b3f103dddc67fd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "52389ab790be99986f5b6da49283d12c38cbc955ad2fb4cb825c0b6686abf1e5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6e3d15d7c00fedd534d32d51f847971f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/docs/_static/shield.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039229",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "19daa2121eeef0aaab763c397b598c14fe6333b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "20a60f0c8ff526aeeb03b468ef6b7af69c1568b0edf530073a4f8ac0db3b2341"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "32681ece34856241597c02a8b540c611"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_2400x411_white.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039230",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec794cbf7330310f66026f3f75aa885d27166993"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cd121e108b6dcd464d30d3f0719ca031113f58e11fa2f0ced77b9286d8834980"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "620705670eeab8dc652476edb2ce7f97"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_4800x823_white.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039231",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "54fe17f5bef551f398e52e8737fa1884731bf5f5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "76d6d3def54adb96d4b47b6b026546081abbaa5729de161c886fe7293f0b9fec"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d201911cf44f3be2e54451aab2268cef"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039232",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "844df1f176626311443b0e2beb1b958758549d4a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "286c56d53dae66c0fbcd3b1120af64190a37100658cd914e46718493aaed23f2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a82f8df40d451545cce0b6beff24ef24"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2017.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039233",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cb6b2a1e7d304baf60541d5e8920c9b30048707f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "eeca7360c2cc9ff9017bf104c2b48e4a428b8f5fc483657f89fa7b9383ed4fbf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0c680fe8f0ef67a333a2503e3659aa3b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_1200x206_white.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039234",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a91bb7d36f62b6a831c052a0243f7c07270eb48d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f474a93f8806ba0a2a5cbfcbd7c6d510b0318240ec6a64489c29b6a4426415a5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1eb1d1f9ad246f680dfe1dd2e0c12738"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_2400x411_transparent.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039235",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4cc261b85b98a0f36485a183df9479d4263bcb45"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "82c0de048ba6642b3d3472d9feb26f62cf327191893feb7d9266b6486b1f8602"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "42fc1f717fed1bd907bf76c84e6ca575"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_4800x823_transparent.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039236",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "95775fbb1a425942b39fe874f110eac0c15ec80d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5a1cbf3ed07e412af421023f36af00d804ac977f22bf1d68a8019376ebbb4756"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "530808ffd84f0fd273095633bfb2c410"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_300x51_transparent.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039237",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ab7a3e833a3c133cb9fcdb1f340ccb442932d644"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ee7534e571dc9e3b37235e4bbb3c3806b3ab639060ead5103dc2d83b1469b57d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e760de81c6051d15ebe9586ebd31a6ca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_300x51_white.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039238",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a1afb9e83034caf4ec97a71156022256aa6b49a3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "abfcd1e7cd3571d0be50d890a6d2ee513e5ca7aeda64833e290970f9ca8284ce"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "22cb2e61960fd453c784d05e093bd795"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_600x103_transparent.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039239",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2a6a5f203285a32dbf55ca9dde82bc7c9f9fd4c6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "eb9f707c619693ed01c8a9fee2aa2375da28a28ae48fe5a950f81d4396cd2b88"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e26cec6c2e902b4fb3c9eff9f487392c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_1200x206_transparent.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039240",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "131b7292f47c32f9966b551b4ee94a73827f48e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3487555c0784147279765b75da3865ac661bf72285f41d0ca47f21a9bea451ae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "85d4abdec13c6c7eeb69f4c7437c721b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2017.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039241",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8b65ebb3e75ffc1d924516f9b2cb17854c17ab2b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4e8474480aebd71a56c28a30e59334de4808593a6fc245210b13c5c04d640ef5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a0cb8e82c2f4a603433c82c13bf6fd02"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/logo/logo_onap_2024_600x103_white.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039243",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9c41f12dda8c1ed6f34392d62ff292f151ace09e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "094dd819b6c55184b4a84d94f426168f22435863ea9d2e406c5f62a956b5cdc6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ef3649e7cbd109dc09bae78d7ea4706c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/.vscode/settings.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039246",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c8146d48a3fa66863a5a049d65eeb353f9829c1b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dad71b9e99388de8d452b450c44b7dac9483e401de451c4aafb97634fe1f900f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eacfa1cec46c3ba32dbeab2173f9290b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/.github/workflows/gerrit-verify.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039248",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "79f82842b3933121497086f36a87ae13edaae4a2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3276e5fa559b7694d2e7ddb51c71e748e6638b62c57d944d7d04aba49e475ee1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3564601284383e88c49ee4f52de658d3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/INFO.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039250",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bd3d28c2ab854bcc42aa8db3c2d54ef7cce61930"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4f486cd083cd242bac09c221e2df7e36c0b8beb04bad2e10d883d3e8319f10ea"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a2d616cf2291fef26009aa62d3311a70"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/wiki_lifecycle_state_210410.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039253",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "80cd0347190dca92de97564edbc40383cd8533a6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "45a4e9a33b6b94ac1a40fd51f0c4bee50419f448852bb38f01033a435cedcbad"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f4140c01ecd8e7986923c43137b48718"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/release_partizipation_210610.csv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039254",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6a2e506be09254f48e9885235076cbad74662586"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bb7e35fd9ee909656485ac040ef0720cb747c1693f81d99e499eee8aab24959e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "00c634c928a8d09dcd1c1850990a9914"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/wiki_lifecycle_state_211015.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039255",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6a2e506be09254f48e9885235076cbad74662586"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bb7e35fd9ee909656485ac040ef0720cb747c1693f81d99e499eee8aab24959e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "00c634c928a8d09dcd1c1850990a9914"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/wiki_lifecycle_state_210517.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039257",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2854f4c68c671fc5d2a2ae6dc7d9a57d5ba0103a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "42a35062bc3167348743a6f16e11032fed7cf4f4ce106c4929024bfe010ed62d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2386047e7652f027acbeb1b50ebe04e8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/release_partizipation_211015.csv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039258",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "953d5afb6c268372b2450a5998b71bc98b30c252"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0ca8268948a3f1e819dd886f1782faf884f12e223534f6da62610a838a2a5e4c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e46d042da305c2af522a260dcb110201"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/latestbranch.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039262",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "218c0786d5c7cd2df8d94f73f7be5f3ed31b8360"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0e201f9f894e4b6a14454631333affc2d15d3df9891645df924b87d34142d9e0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "93ab094df299de200d34299bb8f32696"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/checkrtd.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039264",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7a652f2962f2d6330653774ed842b330fe208236"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "453b9ca97f7a27b14073c8bd5d31f54bb444d27a8517f120b64df5f3f3ca885d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "444233c0320f88ca20beb36631396dad"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039266",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cb4d1d66cffc900482a655139aef36d2cc4789d2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d97f8a00cf7ad0491646effa64acb87394894b3b755c92c633b29013b0ef92e1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "012b361d6724f4b89dee2a4665ce3dde"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/example.pagelist",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039267",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b9adeb7c4a4ba9537e3446a6a3ca5e416fb9f7bb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "abdf7c2059fa12a11356a44100d17907dc7313013438e7f0a66853df0db206f8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ddd05fec8444114c123164ec29c89643"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/example-tox-build-log",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039268",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ee9c25a524a55304040f6647e3d1d9861cea16b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5ac27a4ddbd577661476ac2da3caee3f596e535c604e24b3bdd9200ee3580034"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca335245e3c1553e372a927ec08bfaf0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/tools/wiki_lifecycle_state_210409.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039272",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "108449d47c5a7be636788851a00c687471272772"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ea0b6c3ada6858cec9340407797f5f894d61a633c09e07cac94d7d0698cd362e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca13dc09b32e59235fd4e93442ef9805"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/spelling_wordlist.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039274",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cd295504b17a67690115d2f1aef9333e5ae2e7a4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cec65e714fc306d1fd2f64300e952c27b1fba3df2b38a456bf21975f8e1fb4e3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b92a9a6884b1a3c85628100e3207cdeb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/images/biohazard.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039275",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8aebeb2153d0340a986d50421079e12ee809302d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8d56079dd7215a5a32bc8524d2dfdf99b4fbf1e7889445813fff6fe519744024"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d424581a75186b52a7de35c1464d8e9b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/index.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039276",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2334b72f96f22d66fed42ffb333609aace2f6d79"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "63ea5dc23bf20ffdb8edaf600b8ffd238051716b0c1536510fec449b262098ac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e0a405ef3d004e8c87d3a49a8b57fca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/tox.ini",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039277",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "952b45b8a18fdcaf215289113da9284aa31d77cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d6f6d89c1deed490f29d68951cb362e3dc96b2114cfadaa7e9df3b1d3ea47598"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54df70e5491c91fe35251ac488e098bb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/requirements-docs.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039280",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1c72a01f8b68afc4991bbe9145fe69c116457e79"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "474b3e725ef7ea758f16dec8d06f71003f323fe8c4e2a7ddf9008c6030a60952"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7ac6c2473cc3940418bc1737b99d5f3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/_static/css/ribbon.css",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039281",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "131b7292f47c32f9966b551b4ee94a73827f48e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3487555c0784147279765b75da3865ac661bf72285f41d0ca47f21a9bea451ae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "85d4abdec13c6c7eeb69f4c7437c721b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/_static/logo_onap_2017.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039282",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9e851226254d46f92585b4731b7ea9a4405d3e58"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ded121be21030233f525c0fddf0afb718216a208853dff3fdd4e909676c3d62"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9a0bda20156b9596dd82191d7232aca9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/master/_static/favicon.ico",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039285",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "108449d47c5a7be636788851a00c687471272772"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ea0b6c3ada6858cec9340407797f5f894d61a633c09e07cac94d7d0698cd362e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca13dc09b32e59235fd4e93442ef9805"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/spelling_wordlist.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039287",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cd295504b17a67690115d2f1aef9333e5ae2e7a4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cec65e714fc306d1fd2f64300e952c27b1fba3df2b38a456bf21975f8e1fb4e3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b92a9a6884b1a3c85628100e3207cdeb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/images/biohazard.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039288",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8aebeb2153d0340a986d50421079e12ee809302d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8d56079dd7215a5a32bc8524d2dfdf99b4fbf1e7889445813fff6fe519744024"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d424581a75186b52a7de35c1464d8e9b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/index.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039289",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d103eb5fa979c790715e82ed8c02258a24f03d7d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8ac826ddb297d7cf8fd988be559f29f487c1fe87b287c14d5390bc9d35b22b68"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0fe9b68f0f3325dc383a0327f89c708e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/tox.ini",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039290",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "952b45b8a18fdcaf215289113da9284aa31d77cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d6f6d89c1deed490f29d68951cb362e3dc96b2114cfadaa7e9df3b1d3ea47598"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54df70e5491c91fe35251ac488e098bb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/requirements-docs.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039293",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1c72a01f8b68afc4991bbe9145fe69c116457e79"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "474b3e725ef7ea758f16dec8d06f71003f323fe8c4e2a7ddf9008c6030a60952"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7ac6c2473cc3940418bc1737b99d5f3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/_static/css/ribbon.css",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039294",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "131b7292f47c32f9966b551b4ee94a73827f48e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3487555c0784147279765b75da3865ac661bf72285f41d0ca47f21a9bea451ae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "85d4abdec13c6c7eeb69f4c7437c721b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/_static/logo_onap_2017.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039295",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9e851226254d46f92585b4731b7ea9a4405d3e58"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ded121be21030233f525c0fddf0afb718216a208853dff3fdd4e909676c3d62"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9a0bda20156b9596dd82191d7232aca9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/release/_static/favicon.ico",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039297",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f1aad112446e07cdb282a759d85aa01323a8bc25"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "61aa581d55e197748c9b8df62b722bc99fe74293568f04149a3f268440cc9291"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b2a8febd2d1d4ce4cf10c0f816208c3e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/.readthedocs.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039298",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ccd7911d3d2653332cf89e5fb2c6e8c605caf573"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "09dc57a38a743f716b6da16708e630259fa15ae53e7b579cf45ce55e4873477a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e85913339f1cd4cfdbffe267ae7f7bc3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/examples/sphinx/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039299",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e660290c7a0637924a3fb53efba5a4bb20c8b649"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4fc31521aa509d81621b4ab18a726ddf56d72832f311c7efa022bd94486c8096"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "06a6ecee9e1ef282709e08549d8fd4f6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039300",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f1aad112446e07cdb282a759d85aa01323a8bc25"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "61aa581d55e197748c9b8df62b722bc99fe74293568f04149a3f268440cc9291"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b2a8febd2d1d4ce4cf10c0f816208c3e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/.readthedocs.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039301",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f468ad939b23fcd787af0fdc83aa9d18c1a7835f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6c0a5c793021c033a0e91409d51662ee0404aaecdd614a3c0ed78ef12e14e8b9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a9358deab5fe654ba67c834023e3347b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/.gitreview",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039303",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "816360444ba75d80287b3b5ed843620ba3b35eda"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1b1fda2d94291d87a2994759ea856003643b8a037d537dd698fb9eb24a5c46e5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "de1fb86e364796d1d5f7f9c5647fbcca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/etc/upper-constraints.os.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11039304",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d599b368a72226b524f524fe3ca100d5bbdf6bef"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4e697e90bfb032ec83a3824bf106fd61233967f7caf409553ee25de9cb63be5e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f0c4a220caa7ee7130980df232ecbecb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "doc-2025-09-13.zip/doc/etc/upper-constraints.onap.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-6b04744c2d81a146",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6b04744c2d81a146",
+            "relatedSpdxElement": "SPDXRef-onap-doc-doc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-onap-doc-doc-doc-best-practice",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039247",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039185",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039171",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039187",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039189",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039132",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039283",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039226",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039296",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039195",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039188",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039167",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039169",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039186",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039194",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039130",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039128",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039094",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039126",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039085",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039144",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039141",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039142",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039197",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039168",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039155",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039157",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039153",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039151",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039148",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039149",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039160",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039162",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039131",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039205",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039082",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039191",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039166",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039190",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039193",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039115",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039120",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039164",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039200",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039158",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039202",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039192",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039199",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039140",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039201",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039172",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039173",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039170",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039196",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039260",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039261",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039252",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039263",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039251",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039182",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039181",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039256",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039259",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039265",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039227",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039081",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039087",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039088",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039089",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039090",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039091",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039092",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039096",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039097",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039098",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039099",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039100",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039101",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039102",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039103",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039104",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039105",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039106",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039107",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039108",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039109",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039110",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039111",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039112",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039113",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039114",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039116",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039117",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039118",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039119",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039121",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039122",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039123",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039124",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039133",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039135",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039139",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039161",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039163",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039175",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039176",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039177",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039178",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039179",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039180",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039203",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039208",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039209",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039210",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039211",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039212",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039213",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039214",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039215",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039216",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039217",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039218",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039219",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039220",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039221",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039222",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039223",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039224",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039225",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039229",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039230",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039231",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039232",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039233",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039234",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039235",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039236",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039237",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039238",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039239",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039240",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039241",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039243",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039246",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039248",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039250",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039253",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039254",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039255",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039257",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039258",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039262",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039264",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039266",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039267",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039268",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039272",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039274",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039275",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039276",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039277",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039280",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039281",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039282",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039285",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039287",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039288",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039289",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039290",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039293",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039294",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039295",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039297",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039298",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039299",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039300",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039301",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039303",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-doc-doc",
+            "relatedSpdxElement": "SPDXRef-item11039304",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
