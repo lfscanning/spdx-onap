@@ -1,0 +1,2393 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T15:35:22Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.\nWhen software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. ",
+            "licenseId": "LicenseRef-fossology-Dual-license",
+            "name": "Dual-license"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-URL",
+            "name": "See-URL"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-doc.OTHER",
+            "name": "See-doc.OTHER"
+        }
+    ],
+    "name": "/tmp/tmp26s_b9xe/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-onap/oparent/2025-09/onap-oparent-full/dab73bde-f7a4-44cb-bb5f-c6e8cb058583",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-983e9f1685261a64",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/checkstyle/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3e0044116dbc9440fbff26a410bb00703c53c578"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-654ed2ca61768964",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/dependencies-clm/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3e0044116dbc9440fbff26a410bb00703c53c578"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-7b2e85e7e808e20a",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/dependencies/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3e0044116dbc9440fbff26a410bb00703c53c578"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e7e0ac769d563b57",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/license/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3e0044116dbc9440fbff26a410bb00703c53c578"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-861af846a7bc2e17",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/oparent-python/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3e0044116dbc9440fbff26a410bb00703c53c578"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-cabcb6f2f90e976b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/oparent/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3e0044116dbc9440fbff26a410bb00703c53c578"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-7fad67c9493a1301",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3e0044116dbc9440fbff26a410bb00703c53c578"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7e1bbf5ff8a4355c",
+            "description": "logback-classic module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-classic@1.4.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseDeclared": "LGPL-2.1",
+            "name": "ch.qos.logback:logback-classic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.4.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dea63e6df4ab7ddb",
+            "description": "logback-classic module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-classic@1.4.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseDeclared": "LGPL-2.1",
+            "name": "ch.qos.logback:logback-classic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.4.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4ed27f4910fd6775",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.14.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.14.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c4101227f164bbbb",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.14.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.14.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a1671ce8483e149e",
+            "description": "Guava is a suite of core and expanded libraries that include utility classes, Google's collections, I/O classes, and much more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/guava@31.1-jre",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:guava",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "31.1-jre"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-efaf477422bb28c9",
+            "description": "Guava is a suite of core and expanded libraries that include utility classes, Google's collections, I/O classes, and much more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/guava@31.1-jre",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:guava",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "31.1-jre"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-61427525b3f1ca89",
+            "description": "Apache Commons BeanUtils provides an easy-to-use but flexible wrapper around reflection and introspection.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-beanutils/commons-beanutils@1.9.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-beanutils",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-beanutils:commons-beanutils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "1.9.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a755c0c4d8086aee",
+            "description": "Apache Commons BeanUtils provides an easy-to-use but flexible wrapper around reflection and introspection.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-beanutils/commons-beanutils@1.9.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-beanutils",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-beanutils:commons-beanutils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "1.9.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-69c12e5e18c5c035",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpclient@4.5.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.5.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c48b8a00c453ec95",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpclient@4.5.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.5.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2f962c44bb95173",
+            "description": "Core Tomcat implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
+            "licenseConcluded": "(EPL-2.0 AND GPL-2.0) OR ((GPL-2.0 AND NOASSERTION) AND Apache-2.0 AND Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND CDDL-1.0) OR (NOASSERTION AND CDDL-1.1) OR NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION",
+            "name": "org.apache.tomcat.embed:tomcat-embed-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "10.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fe190e409f24c136",
+            "description": "Core Tomcat implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
+            "licenseConcluded": "(EPL-2.0 AND GPL-2.0) OR ((GPL-2.0 AND NOASSERTION) AND Apache-2.0 AND Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND CDDL-1.0) OR (NOASSERTION AND CDDL-1.1) OR NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION",
+            "name": "org.apache.tomcat.embed:tomcat-embed-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "10.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-df98be217ff1617a",
+            "description": "The Eclipse Jetty Project",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-http@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-http",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e77381d43a339d0f",
+            "description": "The Eclipse Jetty Project",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-http@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-http",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c25ba8d06601b782",
+            "description": "The common Jetty security implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-security@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-security",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dd1f848f16b6f288",
+            "description": "The common Jetty security implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-security@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-security",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2b5dcf1b5719ccfb",
+            "description": "The legacy jetty server artifact.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-server@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-server",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fd43b2e1e4aa2764",
+            "description": "The legacy jetty server artifact.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-server@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-server",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3180070cf81cfad5",
+            "description": "Jetty Servlet Container",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-servlet@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-servlet",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b6be96cb116d099b",
+            "description": "Jetty Servlet Container",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-servlet@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-servlet",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-137e8347c1aeb099",
+            "description": "Utility Servlets from Jetty",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-servlets@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.eclipse.jetty:jetty-servlets",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e6d7a36a95e132cb",
+            "description": "Utility Servlets from Jetty",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-servlets@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.eclipse.jetty:jetty-servlets",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-24b3d81e07eb9b",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/checkstyle@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:checkstyle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3811a1b900d17d70",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/checkstyle@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:checkstyle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/checkstyle/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a7aca3410b3243b4",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/dependencies@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:dependencies",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f4aa66768aeaa446",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/dependencies@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:dependencies",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-534d262fdef9a0ba",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/dependencies-clm@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:dependencies-clm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-971a5dc35068e235",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/dependencies-clm@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:dependencies-clm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1bacfede846bc505",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/onap-license@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:onap-license",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8e093455fae64c63",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/onap-license@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:onap-license",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/license/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5780e5617c550a8f",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/oparent@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:oparent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7e5da65eb1b362da",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/oparent@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:oparent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2e65584cd38ba05a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/oparent-python@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:oparent-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c173003f29c05e2d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/oparent-python@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:oparent-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/oparent-python/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ac21064ce26d4851",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/version@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:version",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3c3db0b624424a19",
+            "description": "Spring Core",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-core@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5e3fd24843047758",
+            "description": "Spring Core",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-core@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-34b680245c40cfef",
+            "description": "Spring Expression Language (SpEL)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-expression@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-expression",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b97bb2e60f7c9e97",
+            "description": "Spring Expression Language (SpEL)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-expression@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-expression",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6f0da6526ec52aa5",
+            "description": "Spring Web",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-web@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a1255da631a247f0",
+            "description": "Spring Web",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-web@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-45ae86d29093411a",
+            "description": "Spring Web MVC",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-webmvc@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-webmvc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aed358900067f66b",
+            "description": "Spring Web MVC",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-webmvc@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-webmvc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-82b99b13aa84a576",
+            "description": "WebJar for Bootstrap",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.webjars/bootstrap@5.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://webjars.org",
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.webjars:bootstrap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: WebJars",
+            "versionInfo": "5.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a644435870195f6e",
+            "description": "WebJar for Bootstrap",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.webjars/bootstrap@5.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://webjars.org",
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.webjars:bootstrap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: WebJars",
+            "versionInfo": "5.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9704ccf2e124935f",
+            "description": "WebJar for jQuery",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.webjars/jquery@3.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://webjars.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.webjars:jquery",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: WebJars",
+            "versionInfo": "3.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fa355f9598a5136c",
+            "description": "WebJar for jQuery",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.webjars/jquery@3.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://webjars.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.webjars:jquery",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: WebJars",
+            "versionInfo": "3.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7013ca70e9fcfb60",
+            "description": "Xerces2 provides high performance, fully compliant XML parsers in the Apache Xerces family. This new version of Xerces continues to build upon the Xerces Native Interface (XNI), a complete framework for building parser components and configurations that is extremely modular and easy to program. The Apache Xerces2 parser is the reference implementation of XNI but other parser components, configurations, and parsers can be written using the Xerces Native Interface. For complete design and implementation documents, refer to the XNI Manual. Xerces2 provides fully conforming XML Schema 1.0 and 1.1 processors. An experimental implementation of the \"XML Schema Definition Language (XSD): Component Designators (SCD) Candidate Recommendation (January 2010)\" is also provided for evaluation. For more information, refer to the XML Schema page. Xerces2 also provides a complete implementation of the Document Object Model Level 3 Core and Load/Save W3C Recommendations and provides a complete implementation of the XML Inclusions (XInclude) W3C Recommendation. It also provides support for OASIS XML Catalogs v1.1. Xerces2 is able to parse documents written according to the XML 1.1 Recommendation, except that it does not yet provide an option to enable normalization checking as described in section 2.13 of this specification. It also handles namespaces according to the XML Namespaces 1.1 Recommendation, and will correctly serialize XML 1.1 documents if the DOM level 3 load/save APIs are in use.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/xerces/xercesImpl@2.9.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://xerces.apache.org/xerces2-j/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "xerces:xercesImpl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "2.9.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-abb6e4410051ca13",
+            "description": "Xerces2 provides high performance, fully compliant XML parsers in the Apache Xerces family. This new version of Xerces continues to build upon the Xerces Native Interface (XNI), a complete framework for building parser components and configurations that is extremely modular and easy to program. The Apache Xerces2 parser is the reference implementation of XNI but other parser components, configurations, and parsers can be written using the Xerces Native Interface. For complete design and implementation documents, refer to the XNI Manual. Xerces2 provides fully conforming XML Schema 1.0 and 1.1 processors. An experimental implementation of the \"XML Schema Definition Language (XSD): Component Designators (SCD) Candidate Recommendation (January 2010)\" is also provided for evaluation. For more information, refer to the XML Schema page. Xerces2 also provides a complete implementation of the Document Object Model Level 3 Core and Load/Save W3C Recommendations and provides a complete implementation of the XML Inclusions (XInclude) W3C Recommendation. It also provides support for OASIS XML Catalogs v1.1. Xerces2 is able to parse documents written according to the XML 1.1 Recommendation, except that it does not yet provide an option to enable normalization checking as described in section 2.13 of this specification. It also handles namespaces according to the XML Namespaces 1.1 Recommendation, and will correctly serialize XML 1.1 documents if the DOM level 3 load/save APIs are in use.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/xerces/xercesImpl@2.9.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://xerces.apache.org/xerces2-j/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "xerces:xercesImpl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "2.9.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-714c8cb513a24e89",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "onap.oparent",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-oparent-oparent",
+            "comment": "This package was added to the Trivy analysis for the oparent by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "oparent",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3e0044116dbc9440fbff26a410bb00703c53c578"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-oparent-oparent-cia",
+            "comment": "This package was added to the Trivy analysis for the oparent/cia by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "oparent/cia",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "c4e9470e6ba566ad22c4a13810ada9c2117d3dc6"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11060043",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "63e3eb3b0942c9e017f8136ab38bdc94c5819a21"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b22a975ac05629b70f08d18c69328b2482591e3dbeb04f72745cd6c791cda3ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0855cfa561a88db81098e359927b5e35"
+                }
+            ],
+            "copyrightText": " Copyright .*$ ",
+            "fileName": "oparent-2025-09-13.zip/oparent/checkstyle/src/main/resources/onap-checkstyle/apache-license-2.regexp.txt",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060041",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "40a3259048df3791b8ca95f5511c9b6154dd57ab"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "38fee3761fccab18a7658239b92caa726ed7dfa88c4d6968ea040f2afcb43495"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0209bce66b56cb7ee2b237387530f4d6"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2016-2017 Huawei Technologies Co., Ltd. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/checkstyle/src/main/resources/onap-checkstyle/check-license.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060042",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "adf980902c2edd18c7753d8282176eeb650de653"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "741bd35ac6f8c7302accbb8a50efe0199b4a03bfed61b459b965e01f8f11c192"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e412bb0ab7cc03f0cf5545d6d082ba60"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2016 Huawei Technologies Co., Ltd.\nCopyright (C) 2019-2020 Nordix Foundation. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/checkstyle/src/main/resources/onap-checkstyle/onap-java-style.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060044",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "401a6c88330c45455f63f0734f1901eee114bd03"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dbf1eb75d832f1cd8d1c56f03a8514b7614f17789747d5102c9188859ac2c012"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "146df0b5e420dfdf8b6dc6d6d6d77a47"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2016-2017 Huawei Technologies Co., Ltd.\ncopyright (C) 2019 AT&T Intellectual Property\nCopyright (C) 2020 Bell Canada. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/checkstyle/pom.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060015",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "54fb4f79294a9f9294f72ca6ab1bc555cf7f0b14"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1301804d46db66f15861da5c6d7f4e2d85a414eb0d44b547be09ec78aa3b0412"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d096956c57a485c234fd345ef29801ad"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2018-2020 AT&T Technologies and others.\nCopyright (C) 2020 Bell Canada. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/dependencies/pom.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060013",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dfc32cf931c681d469e3d737c31c25b4d7470ed6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3bf3c1fc8f6de9f560bd129745fbc5a4641249c4adde6bb60154e2119876267d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1a7cb222d1ae8b6fdae14ed7146e92d9"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2018-2019 AT&T Technologies and others.\nCopyright (C) 2020 Bell Canada. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/dependencies-clm/pom.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060026",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f57ae702d6cd195323a1c159f3f6ad804ad3cf86"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c05126c70dc1fd729eb9bb474032c3f7ace0a9700263b35b4c422270c2fec9c4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bb183a5d21f46fb6e513c326b31b729d"
+                }
+            ],
+            "copyrightText": " Copyright 2016 [company name] and others. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/license/doc/java-license-header.txt",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060023",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2b8b815229aa8a61e483fb4ba0588b8b6c491890"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3b83ef96387f14655fc854ddc3c6bd57"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "oparent-2025-09-13.zip/oparent/license/src/main/resources/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060024",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c18fb6f62e5547bedca3b84593d210dc6a76a27c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e94bace3a32a37740559f16fb83725f65ca45a05cd0f3ea81884cb51dc5b71d7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b85314ce4aae796801c654a5c8e5d052"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2016-2017 Huawei Technologies Co., Ltd.\ncopyright (C) 2019 AT&T Intellectual Property\nCopyright (C) 2020 Bell Canada. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/license/pom.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060052",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "822b9af9705faf449441627663cfd18b268cff40"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "832f3dbf123f33cd04ed6873f69bbfd1d857060339791b713377987edec26003"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "67a64b6190fbbbfcceebed3b879ecc37"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2016-2017 Huawei Technologies Co., Ltd.\ncopyright (C) 2019 AT&T Intellectual Property\nCopyright (C) 2019-2020 Nordix Foundation.\nCopyright (C) 2020 Bell Canada. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/oparent/pom.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060049",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f33637c3182ab8922a0978552e7f90bff5aa5c43"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "316bb20eaa13f299929681ab4a82ef667a5fed101b11142253b632237fab2cc0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b6c4bb29f0c613bbdfddee8e0a07d8e1"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2016-2018 Huawei Technologies Co., Ltd.\ncopyright (C) 2017-2019 AT&T Intellectual Property\nCopyright (C) 2020 Nordix Foundation.\nCopyright (C) 2020 Bell Canada. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/oparent-python/pom.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060033",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "71d0e03c6e614877919721f5de1d6d102f2108e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "33487b17373ee34e3f6f6fa4de8366052914fd0eb3ecae86d4298439ff1ad540"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "258e6ba316dc73f482ce82073f01c8b5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2017 AT&T Intellectual Property ",
+            "fileName": "oparent-2025-09-13.zip/oparent/versions/src/main/resources/onap-versions/ruleset.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060046",
+            "attributionTexts": [
+                " 494\n494\n494 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e9289e01f84448ed79752f14ac33ea98780a1371"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c45a0ef23dfdc158f0988c3e6e94e48cfe00ff038ece8a0d82b6631696a8255a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ef8371591d6e41b61f3ee5d852d1fbb0"
+                }
+            ],
+            "copyrightText": " copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must inclu\ncopyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.\ncopyright. More considerations for licensors: wiki.creativecommons.org/Considerations_for_licensors\ncopyright--then that use is not regulated by the license. Our\ncopyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More_considerations for the public:\nCopyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\ncopyright and/or similar rights\ncopyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights\nCopyright Treaty adopted on December 20, 1996, and/or similar international agreements.\ncopyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\ncopyright notice;\nCopyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/LICENSE.txt",
+            "licenseConcluded": "Apache-2.0 OR CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060065",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "49d327464b5721ffedda4f5f338efb7bf0ea078f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fe9f469634cba7dbdfecfa6d87116dede90a18a2efd78a3da30c798513383171"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "158e8482f0dcf7db90fca0f13d282c9d"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2016-2018 Huawei Technologies Co., Ltd.\ncopyright (C) 2017-2019 AT&T Intellectual Property\nCopyright (C) 2020 Bell Canada. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/pom.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060047",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8e35232a54d49ee4829d5b2c7c15e4c0af60f818"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e14395d979887a25283d7d8a5efc27f19f87501858144bbd937005a913db76d2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6b31220868d4988720fdedd5518fe359"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2016-2018 Huawei Technologies Co., Ltd. and others. All rights reserved.\nCopyright (c) 2020 AT&T Technologies. All rights reserved. ",
+            "fileName": "oparent-2025-09-13.zip/oparent/settings.xml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060018",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "82ec5bbb98b675ce7ce546f81df09368d08a2115"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "52fdb53d1d7e5985c15644f4c89329a7ebfd757792b5a4582dbad52fb282534f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b55df858d0711532f1ad2ca2e75fd88a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/.github/workflows/gerrit-verify.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060027",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "652b91661b23e1df3012bdcb3f5913b98201cdf3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3b034fe995525b00cdfc69cf334026eafd428f521764ae91b9d348fecf05ff4a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ad3bc079a13cc1da4cd407f85c2a76d2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/onap-java-formatter.xml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060034",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e78b3025f668184f535ded43a92b8bd1a5254053"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ceee423a0d4b6a3f36a49a07423e21ebff2c69ff6659bad34acd39ab52b5fd4c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c575510d1794acfe92d66d8ae86219f2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/versions/src/main/resources/onap-versions/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060035",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6155357fbe743da8b9beffa026e61c873bca130c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "821eef166799b50ccb3372b22bb6668a08a6bb16f4fa8e8040f1a6c014792b73"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f395a679d9562068d19b78b08d82e56b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/INFO.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060045",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c3d4f2bdabc8c58de1e97a6f60d6e1e0b34daa1c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5d65762382d4c6fc79a14951929a3688f38bc5a142c2f9779118583664c42b81"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fdd9e5832c0c51ba51ab621ecdbe8f4f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060050",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6265ca8df347b2ce63178c8e7ca4952c0e752887"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3f1afc0cbb631334d2449e616f3324df99cdb7a8895ef6ab594560bb7c732ff6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3024061c1b3f91ffb6db164d9d5c0848"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/version.properties",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060053",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "29d12a8ed17c449c7df8f1627a33921a3e40feb3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fc634c08d4cd0be50e44a34a902e7beeb0885abb99ef10fb5d79fa8729a561a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2a5a4325355a572bd7f492b825252522"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/.gitattributes",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060055",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba793c773ea764081191810d750773d7d9856b71"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "17d728e40627101e494a8d1a5af4d0fcb02b48b22dbd972dd1f0b2caf0c984d8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aeb312df71a6902496ad71c92ed43b1d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.3.2.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060056",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "949ff59dbe9d4a75a38dd6ed99882535ecaaec75"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c48cd28f7c99e13efa609dbdab0c57e7f0ef96acd6e79fef6c4debda424525a2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "00ce554901c86a15376154d893ad9811"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/2.1.0.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060057",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "858446ff1011ccfdf017bbc789a542352c55b7f6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "df95bef0659bc6afc82949327b8beee95273a551b0040943b45215914521b562"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "82e4c72a67a6f336d59a9732e4b27fbf"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.2.1.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060058",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "14b8a8eef6b27892588a681a3ac40e9ebff1deea"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d3774f0010d45f6788194b8d6374dddf98fb33ffa07db18f5f30aef9aae98e08"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0934300cf22adf10c829034b30511c8f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.0.1.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060059",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "94dd1af4d5459805acd3d8bf39c7f23352c09f32"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2e97ff35bfc1283e526a84434708049a6560ed64895319bbae8499ccf646c6ad"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ac27f4d760941751021f7d6bf672c07e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.3.0.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060060",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fda0651f7c2b9d360a16f3c2b61b5a62920a0739"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b44ca47dd1a49b2ff86d6e973de2c4b78d1996c8f6f4026ecfe995062ea4a85e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7597d05d0c01d5ab3f29f0129b5b6671"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.0.0.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060061",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c3ac561b6fef538fcef5e5239f7419c531421b68"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3da4ef9c3967fffc9f2e5d7f7ad9a2fb25034b5afd25285562f1caf6f195e504"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "715d7080b7eaa235d54745e02ea04b8b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.3.1.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060062",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7243a03e70e3cec36eb0aec6bf1e1800722a2062"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6b98ed9c3a5d20daacbaa26f6b22821f5d421d0bf314fd490d066cd9d0e53b44"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "96001aa5b551258324775b331a29f7b7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.2.0.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060063",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3ca7f1aa03ec72bf42243b02f27b82b4de1dac3d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7d285baf3af2413674ba3acd13eceba2b2672d2ffdda9e48b7bc36627ad82945"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4c14abc1d897d91ae18272665f3e0b2d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.1.0.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060064",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a4d9b4dc46fd4e167d7ea2ebe81a1034a6cf0a23"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "84db8ef7cb0faf3383aa4f180d2746c7d139a588a17a6823a241f9a1b88561be"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b0b00c9af90bf13751b3433d75d5146f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/releases/3.3.3.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060066",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2de7f5562f402b88664720e85f64168d13bc6d52"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3a5008a622f12cf1180a4795c516926b046f7096e5baa4459e7e5d59cdd1fc30"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "630d3e06a3057137ebf4ce95a963484e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11060067",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "52c3d3c4eeb0cabc812de017b11fdf8d9113ef71"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c91ca79eb2d1256241e8c56ab8934d30a94fc9ed709e5393ae472c877a454ed0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d3ecc5cd8cd13fa5f77a994822c4ce78"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "oparent-2025-09-13.zip/oparent/.gitreview",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-654ed2ca61768964",
+            "relatedSpdxElement": "SPDXRef-Package-971a5dc35068e235",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-7b2e85e7e808e20a",
+            "relatedSpdxElement": "SPDXRef-Package-f4aa66768aeaa446",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-7fad67c9493a1301",
+            "relatedSpdxElement": "SPDXRef-Package-ac21064ce26d4851",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-861af846a7bc2e17",
+            "relatedSpdxElement": "SPDXRef-Package-c173003f29c05e2d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-983e9f1685261a64",
+            "relatedSpdxElement": "SPDXRef-Package-3811a1b900d17d70",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-cabcb6f2f90e976b",
+            "relatedSpdxElement": "SPDXRef-Package-7e5da65eb1b362da",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e7e0ac769d563b57",
+            "relatedSpdxElement": "SPDXRef-Package-8e093455fae64c63",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-654ed2ca61768964",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-7b2e85e7e808e20a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-7fad67c9493a1301",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-861af846a7bc2e17",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-983e9f1685261a64",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-cabcb6f2f90e976b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-e7e0ac769d563b57",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-2b5dcf1b5719ccfb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-2f962c44bb95173",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-3180070cf81cfad5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-45ae86d29093411a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-5e3fd24843047758",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-61427525b3f1ca89",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-69c12e5e18c5c035",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-6f0da6526ec52aa5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-7013ca70e9fcfb60",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-a644435870195f6e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-b97bb2e60f7c9e97",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-c25ba8d06601b782",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-c4101227f164bbbb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-dea63e6df4ab7ddb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-e6d7a36a95e132cb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-e77381d43a339d0f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-efaf477422bb28c9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-fa355f9598a5136c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-137e8347c1aeb099",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-34b680245c40cfef",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-3c3db0b624424a19",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-4ed27f4910fd6775",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-7e1bbf5ff8a4355c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-82b99b13aa84a576",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-9704ccf2e124935f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-a1255da631a247f0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-a1671ce8483e149e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-a755c0c4d8086aee",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-abb6e4410051ca13",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-aed358900067f66b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-b6be96cb116d099b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-c48b8a00c453ec95",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-dd1f848f16b6f288",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-df98be217ff1617a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-fd43b2e1e4aa2764",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-fe190e409f24c136",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-1bacfede846bc505",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-24b3d81e07eb9b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-2e65584cd38ba05a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-534d262fdef9a0ba",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-5780e5617c550a8f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-a7aca3410b3243b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-714c8cb513a24e89",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-714c8cb513a24e89",
+            "relatedSpdxElement": "SPDXRef-onap-oparent-oparent",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-onap-oparent-oparent-cia",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060043",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060041",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060042",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060044",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060015",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060013",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060026",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060023",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060024",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060052",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060049",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060033",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060046",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060065",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060047",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060018",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060027",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060034",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060035",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060045",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060050",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060053",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060055",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060056",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060057",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060058",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060059",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060060",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060061",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060062",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060063",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060064",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060066",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-item11060067",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
