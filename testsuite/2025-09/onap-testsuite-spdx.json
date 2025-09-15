@@ -1,0 +1,685 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T17:19:39Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "No license found",
+            "licenseId": "LicenseRef-No-license-found"
+        }
+    ],
+    "name": "/tmp/tmp593etn5t/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp593etn5t/code-b9a19288-32dc-4dea-9122-fa1ab88a5645",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-ae7a5e05a4f26c43",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "testsuite-python-testing-utils/robotframework-onap/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d13b61f80a0aaa80",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "testsuite-pythonsdk-tests/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-abc145c7f07e2bc5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "testsuite/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "45840b556f03911763093708dcc9af0a515ab879"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-266d78dc0976ff20",
+            "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cryptography@38.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((BSD-3-Clause OR Apache-2.0) AND Python-2.0 AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause) OR (Apache-2.0 AND Python-2.0)",
+            "licenseDeclared": "Apache-2.0 OR (Apache-2.0 AND BSD-3-Clause)",
+            "name": "cryptography",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: Python Cryptographic Authority",
+            "versionInfo": "38.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-66d29530f8b47398",
+            "description": "Standard Health Checking Service for gRPC",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/grpcio-health-checking@1.71.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://grpc.io",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause AND MPL-2.0) AND Apache-2.0 AND (Apache-2.0 AND LicenseRef-scancode-unknown-license-reference) AND Apache-2.0 AND BSD-3-Clause AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MPL-2.0",
+            "name": "grpcio-health-checking",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "versionInfo": "1.71.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7b2e3bdc205a2e96",
+            "description": "Python plotting package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/matplotlib@3.8.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://matplotlib.org",
+            "licenseConcluded": "AGPL-3.0-or-later AND APAFML AND Apache-2.0 AND Apache-2.0 AND MIT AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND LGPL-2.0-or-later AND NOASSERTION AND Python-2.0 AND BSD-3-Clause AND NOASSERTION AND Bitstream-Charter AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND CC-BY-3.0 AND CC-PDDC AND CC0-1.0 AND MIT AND MPL-1.1 AND NOASSERTION AND OFL-1.1 AND Python-2.0 AND Qhull AND TCL AND xlock",
+            "licenseDeclared": "PSF-2.0",
+            "name": "matplotlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "3.8.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-eb9e154dda5ccddb",
+            "description": "A self-contained Python driver for communicating with MySQL servers, using an API that is compliant with the Python Database API Specification v2.0 (PEP 249).",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mysql-connector-python@8.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://dev.mysql.com/doc/connector-python/en/",
+            "licenseConcluded": "0BSD AND Apache-2.0 AND (Apache-2.0 OR BSD-3-Clause) AND BSD-2-Clause AND (BSD-2-Clause OR GPL-2.0-or-later) AND BSD-3-Clause AND BSD-4-Clause AND BSD-4-Clause-UC AND BSD-Attribution-HPND-disclaimer AND CC-BY-SA-3.0 AND CMU-Mach-nodoc AND FSFULLRWD AND FreeBSD-DOC AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-3.0-only AND HPND-export-US-modify AND NOASSERTION AND NOASSERTION AND NOASSERTION AND ISC AND LGPL-2.1-only AND LGPL-2.1-or-later AND MIT AND MIT-CMU AND MPL-2.0 AND NOASSERTION AND OLDAP-2.8 AND OpenSSL AND Python-2.0 AND RSA-MD AND UPL-1.0 AND Zlib AND curl AND Apache-2.0 AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-2.0-only AND NOASSERTION AND NOASSERTION AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND GPL-3.0-or-later",
+            "name": "mysql-connector-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "versionInfo": "8.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-31ddcd6df16a153d",
+            "description": "Convert data to their natural (human-readable) format",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/natural@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tehmaze/natural",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "natural",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: maze",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3ad07db98a0a5d23",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(0BSD AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND (NOASSERTION OR NOASSERTION) AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND BSD-3-Clause AND TCL AND BSD-3-Clause) OR (Apache-2.0 AND MIT AND NOASSERTION AND Python-2.0)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-76ed0743b1e3e10",
+            "description": "PostgreSQL interface library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pg8000@1.30.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://codeberg.org/tlocke/pg8000",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pg8000",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: Tony Locke",
+            "versionInfo": "1.30.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-62269c49f113b818",
+            "description": "Persistent/Functional/Immutable data structures",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyrsistent@0.16.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tobgu/pyrsistent/",
+            "licenseConcluded": "BSD-3-Clause AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyrsistent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: Tobias Gustafsson",
+            "versionInfo": "0.16.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b2757428db66e4fb",
+            "description": "Generic automation framework for acceptance testing and robotic process automation (RPA)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework@3.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://robotframework.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "robotframework",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: Robot Framework",
+            "versionInfo": "3.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2e28e0bf8f2f0a82",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-onap@11.0.0.dev19",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "robotframework-onap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite/requirements.txt",
+            "versionInfo": "11.0.0.dev19"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-22bb65711c537b1b",
+            "description": "Robot Framework keyword library wrapper around requests",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-requests@0.9.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/MarketSquare/robotframework-requests",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "robotframework-requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: marketsquare",
+            "versionInfo": "0.9.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fd99209590999fc7",
+            "description": "Robot Framework keyword library wrapper around requests",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-requests@0.9.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/MarketSquare/robotframework-requests",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "robotframework-requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-python-testing-utils/robotframework-onap/requirements.txt",
+            "supplier": "Organization: marketsquare",
+            "versionInfo": "0.9.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7ef8e2848c165f47",
+            "description": "Web testing library for Robot Framework",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-seleniumlibrary@4.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/robotframework/SeleniumLibrary",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "robotframework-seleniumlibrary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: Robot Framework",
+            "versionInfo": "4.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b6d8b17f6888c07a",
+            "description": "Official Python bindings for Selenium WebDriver",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/selenium@4.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.selenium.dev",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "NONE",
+            "name": "selenium",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: Selenium",
+            "versionInfo": "4.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-17fd16b761741bf1",
+            "description": "Easily download, build, install, upgrade, and uninstall Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/setuptools@65.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((BSD-2-Clause OR Apache-2.0) AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause) OR (Apache-2.0 AND GPL-3.0-only AND MIT AND BSD-3-Clause AND MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0 AND NOASSERTION AND Python-2.0)",
+            "licenseDeclared": "MIT",
+            "name": "setuptools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "65.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ca962216d33e4cf6",
+            "description": "The Slack API Platform SDK for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/slack-sdk@3.21.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/slackapi/python-slack-sdk",
+            "licenseConcluded": "MIT AND MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "slack-sdk",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: SlackAPI",
+            "versionInfo": "3.21.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2f53c233b6a43e6e",
+            "description": "OPNFV reference testing framework",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xtesting@0.91.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://wiki.opnfv.org/display/functest",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "NONE",
+            "name": "xtesting",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "versionInfo": "0.91.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-23c3e871b85e432e",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "onap.testsuite",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite",
+            "comment": "This package was added to the Trivy analysis for the testsuite by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "45840b556f03911763093708dcc9af0a515ab879"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite-cds",
+            "comment": "This package was added to the Trivy analysis for the testsuite/cds by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite/cds",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "a3a209c58e4032cc687f4e8830e21384ee566974"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite-cds-mock-odl",
+            "comment": "This package was added to the Trivy analysis for the testsuite/cds-mock-odl by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite/cds-mock-odl",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "4913f346c7b4f0a3513c125786fa521dfec46143"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite-cds-mock-server",
+            "comment": "This package was added to the Trivy analysis for the testsuite/cds-mock-server by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite/cds-mock-server",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "b1878d59394f511b1a8f5d0749622f2bbe7d50c7"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite-cds-mock-ssh",
+            "comment": "This package was added to the Trivy analysis for the testsuite/cds-mock-ssh by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite/cds-mock-ssh",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "a43ce8950dcc36363c406b1cc4043dc7d623c9f4"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite-oom",
+            "comment": "This package was added to the Trivy analysis for the testsuite/oom by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite/oom",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "d35d734942197839bfff4d51eb238d0240a5615b"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite-python-testing-utils",
+            "comment": "This package was added to the Trivy analysis for the testsuite/python-testing-utils by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite/python-testing-utils",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "18da0e46f0999bb829932d7e3ebf44ae34eb2ac7"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite-pythonsdk-tests",
+            "comment": "This package was added to the Trivy analysis for the testsuite/pythonsdk-tests by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite/pythonsdk-tests",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "524afd1c1bb7c582c9f4274098ef0b4e4acda28e"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-testsuite-testsuite-robot-utils",
+            "comment": "This package was added to the Trivy analysis for the testsuite/robot-utils by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-No-license-found",
+            "name": "testsuite/robot-utils",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "86721ee9985e5890d59833af05c723ac9bd4b486"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-abc145c7f07e2bc5",
+            "relatedSpdxElement": "SPDXRef-Package-22bb65711c537b1b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-abc145c7f07e2bc5",
+            "relatedSpdxElement": "SPDXRef-Package-2e28e0bf8f2f0a82",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-abc145c7f07e2bc5",
+            "relatedSpdxElement": "SPDXRef-Package-62269c49f113b818",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-abc145c7f07e2bc5",
+            "relatedSpdxElement": "SPDXRef-Package-7ef8e2848c165f47",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-abc145c7f07e2bc5",
+            "relatedSpdxElement": "SPDXRef-Package-b2757428db66e4fb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-abc145c7f07e2bc5",
+            "relatedSpdxElement": "SPDXRef-Package-b6d8b17f6888c07a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ae7a5e05a4f26c43",
+            "relatedSpdxElement": "SPDXRef-Package-fd99209590999fc7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-17fd16b761741bf1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-266d78dc0976ff20",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-2f53c233b6a43e6e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-31ddcd6df16a153d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-3ad07db98a0a5d23",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-66d29530f8b47398",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-76ed0743b1e3e10",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-7b2e3bdc205a2e96",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-ca962216d33e4cf6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relatedSpdxElement": "SPDXRef-Package-eb9e154dda5ccddb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-Application-abc145c7f07e2bc5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-23c3e871b85e432e",
+            "relatedSpdxElement": "SPDXRef-Application-ae7a5e05a4f26c43",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-23c3e871b85e432e",
+            "relatedSpdxElement": "SPDXRef-Application-d13b61f80a0aaa80",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-23c3e871b85e432e",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-23c3e871b85e432e",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-cds",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-cds-mock-odl",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-cds-mock-server",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-cds-mock-ssh",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-oom",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-python-testing-utils",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-pythonsdk-tests",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-testsuite-testsuite",
+            "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-robot-utils",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
