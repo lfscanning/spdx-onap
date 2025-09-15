@@ -1,0 +1,121 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-09-15T17:33:40Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.\nWhen software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. ",
+            "licenseId": "LicenseRef-fossology-Dual-license",
+            "name": "Dual-license"
+        }
+    ],
+    "name": "/tmp/tmpt_4ks5jb/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-onap/vfc/2025-09/onap-vfc-full/ac98ce17-b137-4bce-b3ee-b8df6f9487c5",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-3f266244475f2eb3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "vfc-nfvo-db/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c5162d245ce21744",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.vfc.nfvo.db/vfc-nfvo-db@1.3.5-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.vfc.nfvo.db:vfc-nfvo-db",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: vfc-nfvo-db/pom.xml",
+            "versionInfo": "1.3.5-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-94ac4708f0989ef5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0)",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0)",
+            "name": "onap.vfc",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vfc-vfc",
+            "comment": "This package was added to the Trivy analysis for the vfc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0)",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0)",
+            "name": "vfc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "3ab6cafdb7fd2a7371b354cf500f0919e69a385d"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vfc-vfc-nfvo-db",
+            "comment": "This package was added to the Trivy analysis for the vfc/nfvo/db by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0)",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0)",
+            "name": "vfc/nfvo/db",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "29b3eef8c37e986f5cb582b01b6427031dfb64e0"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-3f266244475f2eb3",
+            "relatedSpdxElement": "SPDXRef-Package-c5162d245ce21744",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-94ac4708f0989ef5",
+            "relatedSpdxElement": "SPDXRef-Application-3f266244475f2eb3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-94ac4708f0989ef5",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-94ac4708f0989ef5",
+            "relatedSpdxElement": "SPDXRef-onap-vfc-vfc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-vfc-vfc",
+            "relatedSpdxElement": "SPDXRef-onap-vfc-vfc-nfvo-db",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
