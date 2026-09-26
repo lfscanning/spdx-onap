@@ -1,0 +1,57 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-09-26T06:54:48Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpsi6d3n2n/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpsi6d3n2n/code-4ff4d1df-a095-4c87-a842-0144b21f717c",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-87deea951308d9b8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "onap.modeling",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-modeling-modeling-modelspec",
+            "comment": "This package was added to the Trivy analysis for the modeling/modelspec by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "modeling-modelspec",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "b10553fb48c7f2d49de7bc3b3d5301f64d504ad4"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-87deea951308d9b8",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-87deea951308d9b8",
+            "relatedSpdxElement": "SPDXRef-onap-modeling-modeling-modelspec",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
