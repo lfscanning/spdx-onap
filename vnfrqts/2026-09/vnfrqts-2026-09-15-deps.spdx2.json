@@ -1,0 +1,147 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-09-26T07:45:50Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpie_1v5dt/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpie_1v5dt/code-3d6e2ae3-a2a3-484c-8f72-2e885d362819",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-3d59086edc25d9a8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "onap.vnfrqts",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfrqts-vnfrqts",
+            "comment": "This package was added to the Trivy analysis for the vnfrqts by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "vnfrqts",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "394ee17aca8369f68548dfd8ea399ee68e8afdb7"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfrqts-vnfrqts-epics",
+            "comment": "This package was added to the Trivy analysis for the vnfrqts/epics by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "vnfrqts-epics",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "b004a90bad06e024338e7f2cb215a57c3984a62a"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfrqts-vnfrqts-guidelines",
+            "comment": "This package was added to the Trivy analysis for the vnfrqts/guidelines by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "vnfrqts-guidelines",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "ba481a7efb2d0119c44c454be3a1fdb810903ff8"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfrqts-vnfrqts-requirements",
+            "comment": "This package was added to the Trivy analysis for the vnfrqts/requirements by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "vnfrqts-requirements",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "620a29826c17e9867ef02aab0843c6b7dfe03a4f"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfrqts-vnfrqts-testcases",
+            "comment": "This package was added to the Trivy analysis for the vnfrqts/testcases by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "vnfrqts-testcases",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "b80b197b362dac947620851dd2c0295442d4155b"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-vnfrqts-vnfrqts-usecases",
+            "comment": "This package was added to the Trivy analysis for the vnfrqts/usecases by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "vnfrqts-usecases",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "0cda86f283fc23cab786dc1bc9b942c6727031f8"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-3d59086edc25d9a8",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3d59086edc25d9a8",
+            "relatedSpdxElement": "SPDXRef-onap-vnfrqts-vnfrqts",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3d59086edc25d9a8",
+            "relatedSpdxElement": "SPDXRef-onap-vnfrqts-vnfrqts-epics",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3d59086edc25d9a8",
+            "relatedSpdxElement": "SPDXRef-onap-vnfrqts-vnfrqts-guidelines",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3d59086edc25d9a8",
+            "relatedSpdxElement": "SPDXRef-onap-vnfrqts-vnfrqts-requirements",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3d59086edc25d9a8",
+            "relatedSpdxElement": "SPDXRef-onap-vnfrqts-vnfrqts-testcases",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-3d59086edc25d9a8",
+            "relatedSpdxElement": "SPDXRef-onap-vnfrqts-vnfrqts-usecases",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
