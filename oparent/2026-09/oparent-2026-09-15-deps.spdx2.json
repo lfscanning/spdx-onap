@@ -1,0 +1,2890 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-09-26T07:10:01Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
+            "licenseId": "LicenseRef-NOASSERTION"
+        }
+    ],
+    "name": "/tmp/tmpxaf53kn5/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpxaf53kn5/code-84cd5fa7-3c62-43e5-919a-2d30470cbf14",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-983e9f1685261a64",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/checkstyle/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "80e8e8d54a8d97b6f27c25a9054c5befd7e444ad"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-654ed2ca61768964",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/dependencies-clm/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "80e8e8d54a8d97b6f27c25a9054c5befd7e444ad"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-7b2e85e7e808e20a",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/dependencies/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "80e8e8d54a8d97b6f27c25a9054c5befd7e444ad"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e7e0ac769d563b57",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/license/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "80e8e8d54a8d97b6f27c25a9054c5befd7e444ad"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-861af846a7bc2e17",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/oparent-python/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "80e8e8d54a8d97b6f27c25a9054c5befd7e444ad"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-cabcb6f2f90e976b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/oparent/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "80e8e8d54a8d97b6f27c25a9054c5befd7e444ad"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-7fad67c9493a1301",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oparent/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "80e8e8d54a8d97b6f27c25a9054c5befd7e444ad"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c96f1eb8c9928f0",
+            "description": "logback-classic module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-classic@1.4.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
+            "name": "ch.qos.logback:logback-classic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.4.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f305a6c2fe5814df",
+            "description": "logback-classic module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-classic@1.4.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
+            "name": "ch.qos.logback:logback-classic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.4.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1ca53fc135b8d83",
+            "description": "logback-core module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-core@1.4.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
+            "name": "ch.qos.logback:logback-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.4.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d819c03338c7108d",
+            "description": "logback-core module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-core@1.4.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
+            "name": "ch.qos.logback:logback-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.4.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2e6ef5063a1edaaa",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.14.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.14.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-987f0d884cb980f",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.14.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.14.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a786a73108369aca",
+            "description": "JSR305 Annotations for Findbugs",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.code.findbugs/jsr305@3.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://findbugs.sourceforge.net/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.google.code.findbugs:jsr305",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f8aa8ac340b1a07b",
+            "description": "JSR305 Annotations for Findbugs",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.code.findbugs/jsr305@3.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://findbugs.sourceforge.net/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.google.code.findbugs:jsr305",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "3.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-54a0c30f018b3adf",
+            "description": "Error Prone is a static analysis tool for Java that catches common programming mistakes at compile-time.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.errorprone/error_prone_annotations@2.11.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://errorprone.info",
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "name": "com.google.errorprone:error_prone_annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "2.11.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-caa011d5c78cae0f",
+            "description": "Error Prone is a static analysis tool for Java that catches common programming mistakes at compile-time.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.errorprone/error_prone_annotations@2.11.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://errorprone.info",
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "name": "com.google.errorprone:error_prone_annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "2.11.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c2fa4c639d53fa9c",
+            "description": "Contains\n com.google.common.util.concurrent.internal.InternalFutureFailureAccess and\n InternalFutures. Most users will never need to use this artifact. Its\n classes are conceptually a part of Guava, but they're in this separate\n artifact so that Android libraries can use them without pulling in all of\n Guava (just as they can use ListenableFuture by depending on the\n listenablefuture artifact).",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/failureaccess@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:failureaccess",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ef9088866775dfda",
+            "description": "Contains\n com.google.common.util.concurrent.internal.InternalFutureFailureAccess and\n InternalFutures. Most users will never need to use this artifact. Its\n classes are conceptually a part of Guava, but they're in this separate\n artifact so that Android libraries can use them without pulling in all of\n Guava (just as they can use ListenableFuture by depending on the\n listenablefuture artifact).",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/failureaccess@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:failureaccess",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e99b62fcd5f3fe08",
+            "description": "Guava is a suite of core and expanded libraries that include\n utility classes, Google's collections, I/O classes, and\n much more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/guava@31.1-jre",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:guava",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "31.1-jre"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fb10403600b3ff59",
+            "description": "Guava is a suite of core and expanded libraries that include\n utility classes, Google's collections, I/O classes, and\n much more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/guava@31.1-jre",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:guava",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "31.1-jre"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-74278e9d85a506df",
+            "description": "An empty artifact that Guava depends on to signal that it is providing\n ListenableFuture -- but is also available in a second \"version\" that\n contains com.google.common.util.concurrent.ListenableFuture class, without\n any other Guava classes. The idea is:\n\n - If users want only ListenableFuture, they depend on listenablefuture-1.0.\n\n - If users want all of Guava, they depend on guava, which, as of Guava\n 27.0, depends on\n listenablefuture-9999.0-empty-to-avoid-conflict-with-guava. The 9999.0-...\n version number is enough for some build systems (notably, Gradle) to select\n that empty artifact over the \"real\" listenablefuture-1.0 -- avoiding a\n conflict with the copy of ListenableFuture in guava itself. If users are\n using an older version of Guava or a build system other than Gradle, they\n may see class conflicts. If so, they can solve them by manually excluding\n the listenablefuture artifact or manually forcing their build systems to\n use 9999.0-....",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/listenablefuture@9999.0-empty-to-avoid-conflict-with-guava",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:listenablefuture",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "9999.0-empty-to-avoid-conflict-with-guava"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af46789643a9e84f",
+            "description": "An empty artifact that Guava depends on to signal that it is providing\n ListenableFuture -- but is also available in a second \"version\" that\n contains com.google.common.util.concurrent.ListenableFuture class, without\n any other Guava classes. The idea is:\n\n - If users want only ListenableFuture, they depend on listenablefuture-1.0.\n\n - If users want all of Guava, they depend on guava, which, as of Guava\n 27.0, depends on\n listenablefuture-9999.0-empty-to-avoid-conflict-with-guava. The 9999.0-...\n version number is enough for some build systems (notably, Gradle) to select\n that empty artifact over the \"real\" listenablefuture-1.0 -- avoiding a\n conflict with the copy of ListenableFuture in guava itself. If users are\n using an older version of Guava or a build system other than Gradle, they\n may see class conflicts. If so, they can solve them by manually excluding\n the listenablefuture artifact or manually forcing their build systems to\n use 9999.0-....",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/listenablefuture@9999.0-empty-to-avoid-conflict-with-guava",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:listenablefuture",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "9999.0-empty-to-avoid-conflict-with-guava"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-21cdca603eb62e5f",
+            "description": "A set of annotations that provide additional information to the J2ObjC\n translator to modify the result of translation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.j2objc/j2objc-annotations@1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/j2objc/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.j2objc:j2objc-annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-41ddc76142f8409",
+            "description": "A set of annotations that provide additional information to the J2ObjC\n translator to modify the result of translation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.j2objc/j2objc-annotations@1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/j2objc/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.j2objc:j2objc-annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5549ba69007ac5d3",
+            "description": "Apache Commons BeanUtils provides an easy-to-use but flexible wrapper around reflection and introspection.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-beanutils/commons-beanutils@1.9.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-beanutils",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-beanutils:commons-beanutils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "1.9.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bec8e106e7e32909",
+            "description": "Apache Commons BeanUtils provides an easy-to-use but flexible wrapper around reflection and introspection.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-beanutils/commons-beanutils@1.9.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-beanutils",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-beanutils:commons-beanutils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "1.9.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a473a4007584b6da",
+            "description": "The Apache Commons Codec component contains encoders and decoders for\n formats such as Base16, Base32, Base64, digest, and Hexadecimal. In addition to these\n widely used encoders and decoders, the codec package also maintains a\n collection of phonetic encoding utilities.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-codec/commons-codec@1.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-codec/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-codec:commons-codec",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "1.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c2e3fe189b7ebd8b",
+            "description": "The Apache Commons Codec component contains encoders and decoders for\n formats such as Base16, Base32, Base64, digest, and Hexadecimal. In addition to these\n widely used encoders and decoders, the codec package also maintains a\n collection of phonetic encoding utilities.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-codec/commons-codec@1.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-codec/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-codec:commons-codec",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "1.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ee66c07e3321e877",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-collections/commons-collections@3.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-collections:commons-collections",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ef819315512c418e",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-collections/commons-collections@3.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-collections:commons-collections",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "3.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a2209c89b2262264",
+            "description": "Apache Commons Logging is a thin adapter allowing configurable bridging to other,\n well-known logging systems.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-logging/commons-logging@1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-logging/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-logging:commons-logging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bd4694438efd7412",
+            "description": "Apache Commons Logging is a thin adapter allowing configurable bridging to other,\n well-known logging systems.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-logging/commons-logging@1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-logging/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-logging:commons-logging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6f64808d4580f225",
+            "description": "Module containing common code",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.micrometer/micrometer-commons@1.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/micrometer-metrics/micrometer-commercial",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.micrometer:micrometer-commons",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Micrometer",
+            "versionInfo": "1.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b4cc4782edd163cd",
+            "description": "Module containing common code",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.micrometer/micrometer-commons@1.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/micrometer-metrics/micrometer-commercial",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.micrometer:micrometer-commons",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Micrometer",
+            "versionInfo": "1.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-52bbda44195e83c2",
+            "description": "Module containing Observation related code",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.micrometer/micrometer-observation@1.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/micrometer-metrics/micrometer-commercial",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.micrometer:micrometer-observation",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Micrometer",
+            "versionInfo": "1.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fd3b7fe961670e8f",
+            "description": "Module containing Observation related code",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.micrometer/micrometer-observation@1.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/micrometer-metrics/micrometer-commercial",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.micrometer:micrometer-observation",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Micrometer",
+            "versionInfo": "1.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-632b55a72322bf73",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpclient@4.5.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.5.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c4ce0f1e461ab141",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpclient@4.5.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.5.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-507d919553165977",
+            "description": "Apache HttpComponents Core (blocking I/O)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpcore@4.4.16",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-core-ga",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpcore",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.4.16"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a76121a065e6d935",
+            "description": "Apache HttpComponents Core (blocking I/O)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpcore@4.4.16",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-core-ga",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpcore",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.4.16"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-61c21eb96f3166d9",
+            "description": "Core Tomcat implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
+            "licenseConcluded": "(EPL-2.0 AND GPL-2.0) OR ((GPL-2.0 AND LicenseRef-NOASSERTION) AND Apache-2.0 AND Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND CDDL-1.0) OR (LicenseRef-NOASSERTION AND CDDL-1.1) OR LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION",
+            "name": "org.apache.tomcat.embed:tomcat-embed-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "10.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a75caeff139db6f2",
+            "description": "Core Tomcat implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
+            "licenseConcluded": "(EPL-2.0 AND GPL-2.0) OR ((GPL-2.0 AND LicenseRef-NOASSERTION) AND Apache-2.0 AND Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND CDDL-1.0) OR (LicenseRef-NOASSERTION AND CDDL-1.1) OR LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION",
+            "name": "org.apache.tomcat.embed:tomcat-embed-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "10.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8e7ea653438c083",
+            "description": "Annotations Package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.tomcat/tomcat-annotations-api@10.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.tomcat:tomcat-annotations-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "10.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d7f405ac34e8111f",
+            "description": "Annotations Package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.tomcat/tomcat-annotations-api@10.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.tomcat:tomcat-annotations-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "10.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b121b3882e7bbdb1",
+            "description": "checker-qual contains annotations (type qualifiers) that a programmerwrites to specify Java code for type-checking by the Checker Framework.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.checkerframework/checker-qual@3.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://checkerframework.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.checkerframework:checker-qual",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: typetools",
+            "versionInfo": "3.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ba5e88824516d8fc",
+            "description": "checker-qual contains annotations (type qualifiers) that a programmerwrites to specify Java code for type-checking by the Checker Framework.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.checkerframework/checker-qual@3.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://checkerframework.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.checkerframework:checker-qual",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: typetools",
+            "versionInfo": "3.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8f87a479a39ceb29",
+            "description": "The Eclipse Jetty Toolchain Parent",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty.toolchain/jetty-jakarta-servlet-api@5.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse.org/jetty",
+            "licenseConcluded": "(CDDL-1.0 AND EPL-2.0 AND GPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (CDDL-1.0 AND GPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (EPL-2.0 AND GPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR ((GPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND LicenseRef-NOASSERTION) AND Apache-2.0 AND Apache-2.0 AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION AND CDDL-1.0) OR (LicenseRef-NOASSERTION AND CDDL-1.1) OR (LicenseRef-NOASSERTION AND EPL-1.0) OR Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION",
+            "name": "org.eclipse.jetty.toolchain:jetty-jakarta-servlet-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "5.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e9350bc0512b0828",
+            "description": "The Eclipse Jetty Toolchain Parent",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty.toolchain/jetty-jakarta-servlet-api@5.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse.org/jetty",
+            "licenseConcluded": "(CDDL-1.0 AND EPL-2.0 AND GPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (CDDL-1.0 AND GPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (EPL-2.0 AND GPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR ((GPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND LicenseRef-NOASSERTION) AND Apache-2.0 AND Apache-2.0 AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION AND CDDL-1.0) OR (LicenseRef-NOASSERTION AND CDDL-1.1) OR (LicenseRef-NOASSERTION AND EPL-1.0) OR Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION",
+            "name": "org.eclipse.jetty.toolchain:jetty-jakarta-servlet-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "5.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-29c594782dbabbd3",
+            "description": "Jetty HTTP Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-http@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-http",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7c8c022f114d2397",
+            "description": "Jetty HTTP Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-http@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-http",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a8e23acfed10db28",
+            "description": "Jetty I/O Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-io@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-io",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d2aa4256137795b5",
+            "description": "Jetty I/O Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-io@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-io",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2539546a6162596b",
+            "description": "Jetty Server Security Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-security@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-security",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bd3e7fe756f7cd36",
+            "description": "Jetty Server Security Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-security@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-security",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4e5cfdd8f8e85ba7",
+            "description": "Jetty Server Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-server@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-server",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-58a665da43d4e601",
+            "description": "Jetty Server Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-server@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-server",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c97a541ad8828fdd",
+            "description": "Jetty Servlet Container",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-servlet@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-servlet",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ef85bec83f2ea360",
+            "description": "Jetty Servlet Container",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-servlet@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-servlet",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-211705bc95fd670e",
+            "description": "Utility Servlets from Jetty",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-servlets@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.eclipse.jetty:jetty-servlets",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7fbf15758ced35f0",
+            "description": "Utility Servlets from Jetty",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-servlets@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.eclipse.jetty:jetty-servlets",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4eabc602735bc7c9",
+            "description": "Jetty Utilities Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-util@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-util",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-70119af92d227902",
+            "description": "Jetty Utilities Artifact",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.jetty/jetty-util@11.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0 AND LicenseRef-NOASSERTION AND Apache-2.0 AND EPL-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "org.eclipse.jetty:jetty-util",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
+            "versionInfo": "11.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-24b3d81e07eb9b",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/checkstyle@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:checkstyle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3811a1b900d17d70",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/checkstyle@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:checkstyle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/checkstyle/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a7aca3410b3243b4",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/dependencies@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:dependencies",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f4aa66768aeaa446",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/dependencies@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:dependencies",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-534d262fdef9a0ba",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/dependencies-clm@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:dependencies-clm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-971a5dc35068e235",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/dependencies-clm@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:dependencies-clm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1bacfede846bc505",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/onap-license@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:onap-license",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8e093455fae64c63",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/onap-license@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:onap-license",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/license/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5780e5617c550a8f",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/oparent@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:oparent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7e5da65eb1b362da",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/oparent@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:oparent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2e65584cd38ba05a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/oparent-python@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:oparent-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c173003f29c05e2d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/oparent-python@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:oparent-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/oparent-python/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ac21064ce26d4851",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.oparent/version@3.3.4-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.oparent:version",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "3.3.4-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1178146268cacff4",
+            "description": "The slf4j API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.slf4j/slf4j-api@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "org.slf4j:slf4j-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "description": "The slf4j API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.slf4j/slf4j-api@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "org.slf4j:slf4j-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-64cc50efaf4bc7fa",
+            "description": "Spring AOP",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-aop@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-aop",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f754b6ebc350acdb",
+            "description": "Spring AOP",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-aop@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-aop",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-55c4fb1c7a484c18",
+            "description": "Spring Beans",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-beans@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND (EPL-1.0 AND LicenseRef-scancode-other-copyleft) AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
+            "name": "org.springframework:spring-beans",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dfcc8bb1e68618ca",
+            "description": "Spring Beans",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-beans@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND (EPL-1.0 AND LicenseRef-scancode-other-copyleft) AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
+            "name": "org.springframework:spring-beans",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dc44c2a280209656",
+            "description": "Spring Context",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-context@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND (EPL-1.0 AND LicenseRef-scancode-other-copyleft) AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
+            "name": "org.springframework:spring-context",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f46070490507d3f6",
+            "description": "Spring Context",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-context@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND (EPL-1.0 AND LicenseRef-scancode-other-copyleft) AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
+            "name": "org.springframework:spring-context",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b0b908d53438bb20",
+            "description": "Spring Core",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-core@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b522acea5914c68e",
+            "description": "Spring Core",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-core@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-36c6937535de587f",
+            "description": "Spring Expression Language (SpEL)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-expression@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-expression",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-76ab304ca47d5345",
+            "description": "Spring Expression Language (SpEL)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-expression@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-expression",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b13de3f634f9daf0",
+            "description": "Spring Commons Logging Bridge",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-jcl@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-jcl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b3db7d16c15b9840",
+            "description": "Spring Commons Logging Bridge",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-jcl@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-jcl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2401323c761a7b3",
+            "description": "Spring Web",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-web@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dee05aa5c48c66c9",
+            "description": "Spring Web",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-web@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-28ca39a93f4f17e6",
+            "description": "Spring Web MVC",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-webmvc@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-webmvc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e18c615b9816d8b5",
+            "description": "Spring Web MVC",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-webmvc@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework:spring-webmvc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a52540ff419e0807",
+            "description": "WebJar for Bootstrap",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.webjars/bootstrap@5.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://webjars.org",
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.webjars:bootstrap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: WebJars",
+            "versionInfo": "5.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-daf4c28b6750396",
+            "description": "WebJar for Bootstrap",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.webjars/bootstrap@5.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://webjars.org",
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.webjars:bootstrap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: WebJars",
+            "versionInfo": "5.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-291558cba663ccbb",
+            "description": "WebJar for jQuery",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.webjars/jquery@3.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.webjars.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.webjars:jquery",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "supplier": "Organization: jQuery",
+            "versionInfo": "3.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b2740eb499e0bbe",
+            "description": "WebJar for jQuery",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.webjars/jquery@3.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.webjars.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.webjars:jquery",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "supplier": "Organization: jQuery",
+            "versionInfo": "3.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-10fca94c65c1f098",
+            "description": "Xerces2 provides high performance, fully compliant XML parsers in the Apache Xerces family. This new version of Xerces continues to build upon the Xerces Native Interface (XNI), a complete framework for building parser components and configurations that is extremely modular and easy to program.\n\n The Apache Xerces2 parser is the reference implementation of XNI but other parser components, configurations, and parsers can be written using the Xerces Native Interface. For complete design and implementation documents, refer to the XNI Manual.\n\n Xerces2 provides fully conforming XML Schema 1.0 and 1.1 processors. An experimental implementation of the \"XML Schema Definition Language (XSD): Component Designators (SCD) Candidate Recommendation (January 2010)\" is also provided for evaluation. For more information, refer to the XML Schema page.\n\n Xerces2 also provides a complete implementation of the Document Object Model Level 3 Core and Load/Save W3C Recommendations and provides a complete implementation of the XML Inclusions (XInclude) W3C Recommendation. It also provides support for OASIS XML Catalogs v1.1.\n\n Xerces2 is able to parse documents written according to the XML 1.1 Recommendation, except that it does not yet provide an option to enable normalization checking as described in section 2.13 of this specification. It also handles namespaces according to the XML Namespaces 1.1 Recommendation, and will correctly serialize XML 1.1 documents if the DOM level 3 load/save APIs are in use.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/xerces/xercesImpl@2.9.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://xerces.apache.org/xerces2-j/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "xerces:xercesImpl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "2.9.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7f08aa3bde116967",
+            "description": "Xerces2 provides high performance, fully compliant XML parsers in the Apache Xerces family. This new version of Xerces continues to build upon the Xerces Native Interface (XNI), a complete framework for building parser components and configurations that is extremely modular and easy to program.\n\n The Apache Xerces2 parser is the reference implementation of XNI but other parser components, configurations, and parsers can be written using the Xerces Native Interface. For complete design and implementation documents, refer to the XNI Manual.\n\n Xerces2 provides fully conforming XML Schema 1.0 and 1.1 processors. An experimental implementation of the \"XML Schema Definition Language (XSD): Component Designators (SCD) Candidate Recommendation (January 2010)\" is also provided for evaluation. For more information, refer to the XML Schema page.\n\n Xerces2 also provides a complete implementation of the Document Object Model Level 3 Core and Load/Save W3C Recommendations and provides a complete implementation of the XML Inclusions (XInclude) W3C Recommendation. It also provides support for OASIS XML Catalogs v1.1.\n\n Xerces2 is able to parse documents written according to the XML 1.1 Recommendation, except that it does not yet provide an option to enable normalization checking as described in section 2.13 of this specification. It also handles namespaces according to the XML Namespaces 1.1 Recommendation, and will correctly serialize XML 1.1 documents if the DOM level 3 load/save APIs are in use.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/xerces/xercesImpl@2.9.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://xerces.apache.org/xerces2-j/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "xerces:xercesImpl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "2.9.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-53046dac31fd5c3a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/xml-apis/xml-apis@1.3.04",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-NOASSERTION AND SAX-PD AND W3C",
+            "licenseDeclared": "Apache-2.0",
+            "name": "xml-apis:xml-apis",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/dependencies-clm/pom.xml",
+            "versionInfo": "1.3.04"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c3015585729310a3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/xml-apis/xml-apis@1.3.04",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-NOASSERTION AND SAX-PD AND W3C",
+            "licenseDeclared": "Apache-2.0",
+            "name": "xml-apis:xml-apis",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: oparent/pom.xml",
+            "versionInfo": "1.3.04"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-94b5abee43392512",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "onap.oparent",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-oparent-oparent",
+            "comment": "This package was added to the Trivy analysis for the oparent by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "oparent",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "80e8e8d54a8d97b6f27c25a9054c5befd7e444ad"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-oparent-oparent-cia",
+            "comment": "This package was added to the Trivy analysis for the oparent/cia by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
+            "name": "oparent-cia",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "63c33ba9a13ba5598c049d3e36f99114288ab69e"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-654ed2ca61768964",
+            "relatedSpdxElement": "SPDXRef-Package-971a5dc35068e235",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-7b2e85e7e808e20a",
+            "relatedSpdxElement": "SPDXRef-Package-f4aa66768aeaa446",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-7fad67c9493a1301",
+            "relatedSpdxElement": "SPDXRef-Package-ac21064ce26d4851",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-861af846a7bc2e17",
+            "relatedSpdxElement": "SPDXRef-Package-c173003f29c05e2d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-983e9f1685261a64",
+            "relatedSpdxElement": "SPDXRef-Package-3811a1b900d17d70",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-cabcb6f2f90e976b",
+            "relatedSpdxElement": "SPDXRef-Package-7e5da65eb1b362da",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e7e0ac769d563b57",
+            "relatedSpdxElement": "SPDXRef-Package-8e093455fae64c63",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-654ed2ca61768964",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-7b2e85e7e808e20a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-7fad67c9493a1301",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-861af846a7bc2e17",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-983e9f1685261a64",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-cabcb6f2f90e976b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-oparent-oparent",
+            "relatedSpdxElement": "SPDXRef-Application-e7e0ac769d563b57",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-10fca94c65c1f098",
+            "relatedSpdxElement": "SPDXRef-Package-c3015585729310a3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-211705bc95fd670e",
+            "relatedSpdxElement": "SPDXRef-Package-1178146268cacff4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-211705bc95fd670e",
+            "relatedSpdxElement": "SPDXRef-Package-29c594782dbabbd3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-211705bc95fd670e",
+            "relatedSpdxElement": "SPDXRef-Package-4eabc602735bc7c9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-211705bc95fd670e",
+            "relatedSpdxElement": "SPDXRef-Package-d2aa4256137795b5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2401323c761a7b3",
+            "relatedSpdxElement": "SPDXRef-Package-55c4fb1c7a484c18",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2401323c761a7b3",
+            "relatedSpdxElement": "SPDXRef-Package-b522acea5914c68e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2401323c761a7b3",
+            "relatedSpdxElement": "SPDXRef-Package-fd3b7fe961670e8f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2539546a6162596b",
+            "relatedSpdxElement": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2539546a6162596b",
+            "relatedSpdxElement": "SPDXRef-Package-4e5cfdd8f8e85ba7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-28ca39a93f4f17e6",
+            "relatedSpdxElement": "SPDXRef-Package-2401323c761a7b3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-28ca39a93f4f17e6",
+            "relatedSpdxElement": "SPDXRef-Package-36c6937535de587f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-28ca39a93f4f17e6",
+            "relatedSpdxElement": "SPDXRef-Package-55c4fb1c7a484c18",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-28ca39a93f4f17e6",
+            "relatedSpdxElement": "SPDXRef-Package-b522acea5914c68e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-28ca39a93f4f17e6",
+            "relatedSpdxElement": "SPDXRef-Package-dc44c2a280209656",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-28ca39a93f4f17e6",
+            "relatedSpdxElement": "SPDXRef-Package-f754b6ebc350acdb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-29c594782dbabbd3",
+            "relatedSpdxElement": "SPDXRef-Package-1178146268cacff4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-29c594782dbabbd3",
+            "relatedSpdxElement": "SPDXRef-Package-4eabc602735bc7c9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-29c594782dbabbd3",
+            "relatedSpdxElement": "SPDXRef-Package-d2aa4256137795b5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-36c6937535de587f",
+            "relatedSpdxElement": "SPDXRef-Package-b522acea5914c68e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4e5cfdd8f8e85ba7",
+            "relatedSpdxElement": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4e5cfdd8f8e85ba7",
+            "relatedSpdxElement": "SPDXRef-Package-7c8c022f114d2397",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4e5cfdd8f8e85ba7",
+            "relatedSpdxElement": "SPDXRef-Package-8f87a479a39ceb29",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4e5cfdd8f8e85ba7",
+            "relatedSpdxElement": "SPDXRef-Package-a8e23acfed10db28",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4eabc602735bc7c9",
+            "relatedSpdxElement": "SPDXRef-Package-1178146268cacff4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-52bbda44195e83c2",
+            "relatedSpdxElement": "SPDXRef-Package-b4cc4782edd163cd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-10fca94c65c1f098",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-211705bc95fd670e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-29c594782dbabbd3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-5549ba69007ac5d3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-58a665da43d4e601",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-632b55a72322bf73",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-76ab304ca47d5345",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-987f0d884cb980f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-9b2740eb499e0bbe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-a75caeff139db6f2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-b0b908d53438bb20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-bd3e7fe756f7cd36",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-c97a541ad8828fdd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-daf4c28b6750396",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-dee05aa5c48c66c9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-e18c615b9816d8b5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-e99b62fcd5f3fe08",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-534d262fdef9a0ba",
+            "relatedSpdxElement": "SPDXRef-Package-f305a6c2fe5814df",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5549ba69007ac5d3",
+            "relatedSpdxElement": "SPDXRef-Package-a2209c89b2262264",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5549ba69007ac5d3",
+            "relatedSpdxElement": "SPDXRef-Package-ee66c07e3321e877",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-55c4fb1c7a484c18",
+            "relatedSpdxElement": "SPDXRef-Package-b522acea5914c68e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-58a665da43d4e601",
+            "relatedSpdxElement": "SPDXRef-Package-1178146268cacff4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-58a665da43d4e601",
+            "relatedSpdxElement": "SPDXRef-Package-29c594782dbabbd3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-58a665da43d4e601",
+            "relatedSpdxElement": "SPDXRef-Package-d2aa4256137795b5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-58a665da43d4e601",
+            "relatedSpdxElement": "SPDXRef-Package-e9350bc0512b0828",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-61c21eb96f3166d9",
+            "relatedSpdxElement": "SPDXRef-Package-8e7ea653438c083",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-632b55a72322bf73",
+            "relatedSpdxElement": "SPDXRef-Package-a2209c89b2262264",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-632b55a72322bf73",
+            "relatedSpdxElement": "SPDXRef-Package-a473a4007584b6da",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-632b55a72322bf73",
+            "relatedSpdxElement": "SPDXRef-Package-a76121a065e6d935",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-64cc50efaf4bc7fa",
+            "relatedSpdxElement": "SPDXRef-Package-b0b908d53438bb20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-64cc50efaf4bc7fa",
+            "relatedSpdxElement": "SPDXRef-Package-dfcc8bb1e68618ca",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-70119af92d227902",
+            "relatedSpdxElement": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-76ab304ca47d5345",
+            "relatedSpdxElement": "SPDXRef-Package-b0b908d53438bb20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7c8c022f114d2397",
+            "relatedSpdxElement": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7c8c022f114d2397",
+            "relatedSpdxElement": "SPDXRef-Package-70119af92d227902",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7c8c022f114d2397",
+            "relatedSpdxElement": "SPDXRef-Package-a8e23acfed10db28",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f08aa3bde116967",
+            "relatedSpdxElement": "SPDXRef-Package-53046dac31fd5c3a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7fbf15758ced35f0",
+            "relatedSpdxElement": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7fbf15758ced35f0",
+            "relatedSpdxElement": "SPDXRef-Package-70119af92d227902",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7fbf15758ced35f0",
+            "relatedSpdxElement": "SPDXRef-Package-7c8c022f114d2397",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7fbf15758ced35f0",
+            "relatedSpdxElement": "SPDXRef-Package-a8e23acfed10db28",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-2401323c761a7b3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-2539546a6162596b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-28ca39a93f4f17e6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-291558cba663ccbb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-2e6ef5063a1edaaa",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-36c6937535de587f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-4e5cfdd8f8e85ba7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-61c21eb96f3166d9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-7c8c022f114d2397",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-7f08aa3bde116967",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-7fbf15758ced35f0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-a52540ff419e0807",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-b522acea5914c68e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-bec8e106e7e32909",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-c4ce0f1e461ab141",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-c96f1eb8c9928f0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-ef85bec83f2ea360",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971a5dc35068e235",
+            "relatedSpdxElement": "SPDXRef-Package-fb10403600b3ff59",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a75caeff139db6f2",
+            "relatedSpdxElement": "SPDXRef-Package-d7f405ac34e8111f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a8e23acfed10db28",
+            "relatedSpdxElement": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a8e23acfed10db28",
+            "relatedSpdxElement": "SPDXRef-Package-70119af92d227902",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-1bacfede846bc505",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-24b3d81e07eb9b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-2e65584cd38ba05a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-534d262fdef9a0ba",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-5780e5617c550a8f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ac21064ce26d4851",
+            "relatedSpdxElement": "SPDXRef-Package-a7aca3410b3243b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b0b908d53438bb20",
+            "relatedSpdxElement": "SPDXRef-Package-b3db7d16c15b9840",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b522acea5914c68e",
+            "relatedSpdxElement": "SPDXRef-Package-b13de3f634f9daf0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bd3e7fe756f7cd36",
+            "relatedSpdxElement": "SPDXRef-Package-1178146268cacff4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bd3e7fe756f7cd36",
+            "relatedSpdxElement": "SPDXRef-Package-58a665da43d4e601",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bec8e106e7e32909",
+            "relatedSpdxElement": "SPDXRef-Package-bd4694438efd7412",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bec8e106e7e32909",
+            "relatedSpdxElement": "SPDXRef-Package-ef819315512c418e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c4ce0f1e461ab141",
+            "relatedSpdxElement": "SPDXRef-Package-507d919553165977",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c4ce0f1e461ab141",
+            "relatedSpdxElement": "SPDXRef-Package-bd4694438efd7412",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c4ce0f1e461ab141",
+            "relatedSpdxElement": "SPDXRef-Package-c2e3fe189b7ebd8b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c96f1eb8c9928f0",
+            "relatedSpdxElement": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c96f1eb8c9928f0",
+            "relatedSpdxElement": "SPDXRef-Package-d819c03338c7108d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c97a541ad8828fdd",
+            "relatedSpdxElement": "SPDXRef-Package-1178146268cacff4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c97a541ad8828fdd",
+            "relatedSpdxElement": "SPDXRef-Package-bd3e7fe756f7cd36",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d2aa4256137795b5",
+            "relatedSpdxElement": "SPDXRef-Package-1178146268cacff4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d2aa4256137795b5",
+            "relatedSpdxElement": "SPDXRef-Package-4eabc602735bc7c9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dc44c2a280209656",
+            "relatedSpdxElement": "SPDXRef-Package-36c6937535de587f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dc44c2a280209656",
+            "relatedSpdxElement": "SPDXRef-Package-55c4fb1c7a484c18",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dc44c2a280209656",
+            "relatedSpdxElement": "SPDXRef-Package-b522acea5914c68e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dc44c2a280209656",
+            "relatedSpdxElement": "SPDXRef-Package-f754b6ebc350acdb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dee05aa5c48c66c9",
+            "relatedSpdxElement": "SPDXRef-Package-52bbda44195e83c2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dee05aa5c48c66c9",
+            "relatedSpdxElement": "SPDXRef-Package-b0b908d53438bb20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dee05aa5c48c66c9",
+            "relatedSpdxElement": "SPDXRef-Package-dfcc8bb1e68618ca",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dfcc8bb1e68618ca",
+            "relatedSpdxElement": "SPDXRef-Package-b0b908d53438bb20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e18c615b9816d8b5",
+            "relatedSpdxElement": "SPDXRef-Package-64cc50efaf4bc7fa",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e18c615b9816d8b5",
+            "relatedSpdxElement": "SPDXRef-Package-76ab304ca47d5345",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e18c615b9816d8b5",
+            "relatedSpdxElement": "SPDXRef-Package-b0b908d53438bb20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e18c615b9816d8b5",
+            "relatedSpdxElement": "SPDXRef-Package-dee05aa5c48c66c9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e18c615b9816d8b5",
+            "relatedSpdxElement": "SPDXRef-Package-dfcc8bb1e68618ca",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e18c615b9816d8b5",
+            "relatedSpdxElement": "SPDXRef-Package-f46070490507d3f6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e99b62fcd5f3fe08",
+            "relatedSpdxElement": "SPDXRef-Package-41ddc76142f8409",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e99b62fcd5f3fe08",
+            "relatedSpdxElement": "SPDXRef-Package-54a0c30f018b3adf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e99b62fcd5f3fe08",
+            "relatedSpdxElement": "SPDXRef-Package-74278e9d85a506df",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e99b62fcd5f3fe08",
+            "relatedSpdxElement": "SPDXRef-Package-a786a73108369aca",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e99b62fcd5f3fe08",
+            "relatedSpdxElement": "SPDXRef-Package-ba5e88824516d8fc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e99b62fcd5f3fe08",
+            "relatedSpdxElement": "SPDXRef-Package-c2fa4c639d53fa9c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ef85bec83f2ea360",
+            "relatedSpdxElement": "SPDXRef-Package-2539546a6162596b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ef85bec83f2ea360",
+            "relatedSpdxElement": "SPDXRef-Package-3e0d5c3c4d76a6f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f305a6c2fe5814df",
+            "relatedSpdxElement": "SPDXRef-Package-1178146268cacff4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f305a6c2fe5814df",
+            "relatedSpdxElement": "SPDXRef-Package-b1ca53fc135b8d83",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f46070490507d3f6",
+            "relatedSpdxElement": "SPDXRef-Package-64cc50efaf4bc7fa",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f46070490507d3f6",
+            "relatedSpdxElement": "SPDXRef-Package-76ab304ca47d5345",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f46070490507d3f6",
+            "relatedSpdxElement": "SPDXRef-Package-b0b908d53438bb20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f46070490507d3f6",
+            "relatedSpdxElement": "SPDXRef-Package-dfcc8bb1e68618ca",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f754b6ebc350acdb",
+            "relatedSpdxElement": "SPDXRef-Package-55c4fb1c7a484c18",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f754b6ebc350acdb",
+            "relatedSpdxElement": "SPDXRef-Package-b522acea5914c68e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fb10403600b3ff59",
+            "relatedSpdxElement": "SPDXRef-Package-21cdca603eb62e5f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fb10403600b3ff59",
+            "relatedSpdxElement": "SPDXRef-Package-af46789643a9e84f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fb10403600b3ff59",
+            "relatedSpdxElement": "SPDXRef-Package-b121b3882e7bbdb1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fb10403600b3ff59",
+            "relatedSpdxElement": "SPDXRef-Package-caa011d5c78cae0f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fb10403600b3ff59",
+            "relatedSpdxElement": "SPDXRef-Package-ef9088866775dfda",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fb10403600b3ff59",
+            "relatedSpdxElement": "SPDXRef-Package-f8aa8ac340b1a07b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fd3b7fe961670e8f",
+            "relatedSpdxElement": "SPDXRef-Package-6f64808d4580f225",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-94b5abee43392512",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-94b5abee43392512",
+            "relatedSpdxElement": "SPDXRef-onap-oparent-oparent",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-94b5abee43392512",
+            "relatedSpdxElement": "SPDXRef-onap-oparent-oparent-cia",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
