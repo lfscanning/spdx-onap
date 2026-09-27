@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T07:43:32Z",
+        "created": "2026-09-27T02:46:12Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -19,9 +19,9 @@
             "licenseId": "LicenseRef-NOASSERTION"
         }
     ],
-    "name": "/tmp/tmp64qu62d3/code",
+    "name": "/tmp/tmp46wgmyq0/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp64qu62d3/code-fc010f80-b401-4bc1-83ad-3386fc4adcc4",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp46wgmyq0/code-9cff69eb-92a3-40a5-9ca2-6dc16bafa338",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-d13b61f80a0aaa80",
@@ -45,6 +45,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-bb98318e4d571e1e",
+            "description": "A self-contained Python driver for communicating with MySQL servers, using an API that is compliant with the Python Database API Specification v2.0 (PEP 249).",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -54,15 +55,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://dev.mysql.com/doc/connector-python/en/",
             "licenseConcluded": "0BSD AND Apache-2.0 AND (Apache-2.0 OR BSD-3-Clause) AND BSD-2-Clause AND (BSD-2-Clause OR GPL-2.0-or-later) AND BSD-3-Clause AND BSD-4-Clause AND BSD-4-Clause-UC AND BSD-Attribution-HPND-disclaimer AND CC-BY-SA-3.0 AND CMU-Mach-nodoc AND FSFULLRWD AND FreeBSD-DOC AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-3.0-only AND HPND-export-US-modify AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND ISC AND LGPL-2.1-only AND LGPL-2.1-or-later AND MIT AND MIT-CMU AND MPL-2.0 AND LicenseRef-NOASSERTION AND OLDAP-2.8 AND OpenSSL AND Python-2.0 AND RSA-MD AND UPL-1.0 AND Zlib AND curl AND Apache-2.0 AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-2.0-only AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0 AND GPL-3.0-or-later",
             "name": "mysql-connector-python",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: MySQL",
             "versionInfo": "8.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-13141979b267c521",
+            "description": "Convert data to their natural (human-readable) format",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -72,15 +76,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/tehmaze/natural",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "natural",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: maze",
             "versionInfo": "0.2.0"
         },
         {
             "SPDXID": "SPDXRef-Package-10173e210501a8c1",
+            "description": "OpenTelemetry Python Distro",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -90,15 +97,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/opentelemetry-distro",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "opentelemetry-distro",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "0.54b1"
         },
         {
             "SPDXID": "SPDXRef-Package-8a8cbc2b58e9206c",
+            "description": "OpenTelemetry Collector Exporters",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -108,15 +118,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "opentelemetry-exporter-otlp",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.33.1"
         },
         {
             "SPDXID": "SPDXRef-Package-face97485a756cf2",
+            "description": "OpenTelemetry requests instrumentation",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -126,15 +139,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-requests",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "opentelemetry-instrumentation-requests",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "0.54b1"
         },
         {
             "SPDXID": "SPDXRef-Package-a7e9fb30fe63df19",
+            "description": "PostgreSQL interface library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -144,11 +160,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://codeberg.org/tlocke/pg8000",
             "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "pg8000",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: Tony Locke",
             "versionInfo": "1.30.1"
         },
         {
@@ -174,6 +192,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-b2757428db66e4fb",
+            "description": "Generic automation framework for acceptance testing and robotic process automation (RPA)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -183,11 +202,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://robotframework.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "robotframework",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: Robot Framework",
             "versionInfo": "3.2.2"
         },
         {
@@ -210,6 +231,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-22bb65711c537b1b",
+            "description": "Robot Framework keyword library wrapper around requests",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -219,15 +241,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/MarketSquare/robotframework-requests",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "robotframework-requests",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: marketsquare",
             "versionInfo": "0.9.3"
         },
         {
             "SPDXID": "SPDXRef-Package-7ef8e2848c165f47",
+            "description": "Web testing library for Robot Framework",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -237,15 +262,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/robotframework/SeleniumLibrary",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "robotframework-seleniumlibrary",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: Robot Framework",
             "versionInfo": "4.5.0"
         },
         {
             "SPDXID": "SPDXRef-Package-b6d8b17f6888c07a",
+            "description": "Official Python bindings for Selenium WebDriver",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -255,11 +283,13 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "NONE",
+            "homepage": "https://www.selenium.dev",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "NONE",
             "name": "selenium",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite/requirements.txt",
+            "supplier": "Organization: Selenium",
             "versionInfo": "4.5.0"
         },
         {
@@ -284,6 +314,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-46eea55becd9064a",
+            "description": "The Slack API Platform SDK for Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -293,15 +324,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/slackapi/python-slack-sdk",
             "licenseConcluded": "MIT AND MIT AND Python-2.0",
             "licenseDeclared": "MIT",
             "name": "slack-sdk",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: testsuite-pythonsdk-tests/requirements.txt",
+            "supplier": "Organization: SlackAPI",
             "versionInfo": "3.21.3"
         },
         {
             "SPDXID": "SPDXRef-Package-1cba8094cd783e0b",
+            "description": "OPNFV reference testing framework",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -311,7 +345,8 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "NONE",
+            "homepage": "https://wiki.opnfv.org/display/functest",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "NONE",
             "name": "xtesting",
             "primaryPackagePurpose": "LIBRARY",
@@ -319,7 +354,7 @@
             "versionInfo": "0.91.0"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-57704147163c4e66",
+            "SPDXID": "SPDXRef-Filesystem-b77b607b121e077c",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0",
@@ -535,51 +570,51 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-57704147163c4e66",
+            "relatedSpdxElement": "SPDXRef-Filesystem-b77b607b121e077c",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-cds",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-cds-mock-odl",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-cds-mock-server",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-cds-mock-ssh",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-oom",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-python-testing-utils",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-pythonsdk-tests",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-57704147163c4e66",
+            "spdxElementId": "SPDXRef-Filesystem-b77b607b121e077c",
             "relatedSpdxElement": "SPDXRef-onap-testsuite-testsuite-robot-utils",
             "relationshipType": "CONTAINS"
         }
