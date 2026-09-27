@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T09:16:44Z",
+        "created": "2026-09-27T00:40:57Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -16,39 +16,39 @@
     "hasExtractedLicensingInfos": [
         {
             "extractedText": "---\n- BSD License\n",
-            "licenseId": "LicenseRef-fixed-0x465e210a77e50e35"
+            "licenseId": "LicenseRef-fixed-0x4fe5965e39e4e115"
         },
         {
             "extractedText": "The Apache Software License, Version 2.0",
-            "licenseId": "LicenseRef-fixed-0x118f253d2b70fbec"
+            "licenseId": "LicenseRef-fixed-0x4baa5a0f57bf33a6"
         },
         {
             "extractedText": "Apache License, Version 2.0",
-            "licenseId": "LicenseRef-fixed-0x2ec7bfab40db013e"
+            "licenseId": "LicenseRef-fixed-0xf17bb2ac685f225"
         },
         {
             "extractedText": "((EPL-2.0 OR Apache-2.0) AND (EPL-1.0 AND BSD-3-Clause) AND BSD-3-Clause AND EPL-2.0 AND Classpath-exception-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND ((EPL-2.0 AND BSD-3-Clause AND GPL-2.0-only) AND LicenseRef-scancode-unknown-spdx)) AND (Apache-2.0 AND W3C AND LicenseRef-scancode-public-domain AND OFL-1.1 AND MIT AND GPL-2.0-only AND Classpath-exception-2.0) AND (EPL-2.0 AND MIT) AND (GPL-2.0-only AND Classpath-exception-2.0 AND LicenseRef-scancode-generic-export-compliance) AND BSD-3-Clause",
-            "licenseId": "LicenseRef-fixed-0x16d11bcdb4b7395c"
+            "licenseId": "LicenseRef-fixed-0x6ec6043283b12dc1"
         },
         {
             "extractedText": "((EPL-2.0 OR Apache-2.0) AND BSD-3-Clause AND EPL-2.0 AND Classpath-exception-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND ((EPL-2.0 AND BSD-3-Clause AND GPL-2.0-only) AND LicenseRef-scancode-unknown-spdx)) AND (Apache-2.0 AND W3C AND LicenseRef-scancode-public-domain AND OFL-1.1 AND MIT AND GPL-2.0-only AND Classpath-exception-2.0) AND (EPL-2.0 AND MIT) AND (GPL-2.0-only AND Classpath-exception-2.0 AND LicenseRef-scancode-generic-export-compliance) AND BSD-3-Clause",
-            "licenseId": "LicenseRef-fixed-0x7622a73ccd11b8c"
+            "licenseId": "LicenseRef-fixed-0x2bff0aab1689a593"
         },
         {
             "extractedText": "(BSD-3-Clause AND EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-3-Clause AND EPL-2.0) AND (EPL-2.0 OR BSD-3-Clause) AND ((EPL-2.0 OR Apache-2.0) AND BSD-3-Clause AND (EPL-2.0 OR BSD-3-Clause)) AND (CDDL-1.0 AND BSD-3-Clause) AND (BSD-3-Clause AND Apache-2.0 AND LicenseRef-scancode-public-domain) AND Apache-2.0 AND CDDL-1.0 AND (CDDL-1.0 AND Apache-2.0) AND (Apache-2.0 AND CDDL-1.1 AND Classpath-exception-2.0 AND GPL-2.0-only) AND (CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0) AND (CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0 AND Apache-2.0 AND BSD-3-Clause AND CDDL-1.0) AND (CDDL-1.0 AND CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0 AND BSD-3-Clause) AND (CDDL-1.0 AND BSD-3-Clause AND Apache-2.0 AND LicenseRef-scancode-public-domain AND MIT AND Apache-1.1) AND (CDDL-1.0 AND BSD-3-Clause AND LicenseRef-scancode-public-domain) AND (CDDL-1.0 AND (MIT AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND Apache-2.0) AND (Apache-2.0 AND CDDL-1.0) AND (CDDL-1.0 AND Apache-2.0 AND CC-BY-2.5 AND LicenseRef-scancode-public-domain) AND (CDDL-1.0 AND EPL-2.0 AND EPL-1.0 AND LGPL-2.1-only AND CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0) AND (Apache-2.0 AND EPL-1.0 AND CC-BY-4.0 AND LicenseRef-scancode-public-domain) AND (Apache-2.0 AND CC-BY-2.5 AND CC0-1.0) AND (MIT AND Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-public-domain) AND (Apache-2.0 AND CPL-1.0 AND W3C-19980720 AND LicenseRef-scancode-generic-export-compliance) AND EPL-2.0 AND BSD-3-Clause AND EPL-2.0 OR (BSD-3-Clause AND EPL-2.0) AND LicenseRef-scancode-service-comp-arch",
-            "licenseId": "LicenseRef-fixed-0x511e4ac6eb7f8c9e"
+            "licenseId": "LicenseRef-fixed-0x7332d87daaf56978"
         },
         {
             "extractedText": "Eclipse Public License (EPL), Version 2.0,Eclipse Distribution License (EDL), Version 1.0",
-            "licenseId": "LicenseRef-fixed-0x1622cbda179a7a6a"
+            "licenseId": "LicenseRef-fixed-0x1747832f071de64e"
         },
         {
             "extractedText": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) AND (EPL-2.0 AND GPL-2.0) OR (GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND Classpath-exception-2.0 AND BSD-2-Clause AND Apache-2.0 AND MIT AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0",
-            "licenseId": "LicenseRef-fixed-0x247b89c95fdad909"
+            "licenseId": "LicenseRef-fixed-0x4441594c886b8dc5"
         },
         {
             "extractedText": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) AND (Apache-2.0 AND CC0-1.0 AND EPL-2.0 AND GPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND NOASSERTION) OR (Apache-2.0 AND CC0-1.0 AND EPL-2.0 AND GPL-2.0 AND GPL-2.0-only AND LicenseRef-scancode-public-domain AND NOASSERTION) AND (Apache-2.0 AND CC0-1.0 AND EPL-2.0 AND GPL-2.0) OR (Apache-2.0 AND CC0-1.0 AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND (EPL-2.0 AND GPL-2.0) OR (GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND Classpath-exception-2.0 AND Apache-2.0 AND CC0-1.0 AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0",
-            "licenseId": "LicenseRef-fixed-0x288ed310c2d96c55"
+            "licenseId": "LicenseRef-fixed-0x2d1d8b52857788ea"
         },
         {
             "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
@@ -60,9 +60,9 @@
             "licenseId": "LicenseRef-Public-domain-statement"
         }
     ],
-    "name": "/tmp/tmpzdtzpr9s/code",
+    "name": "/tmp/tmp31sglk_9/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpzdtzpr9s/code-f122efcf-7cf7-428b-bc58-f58bef1df762",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp31sglk_9/code-4f365d91-7820-4414-b606-a745d75a46ec",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-b59920b4dc19063f",
@@ -438,7 +438,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5c20a1135ebba6c9",
-            "description": "Generate errors that contain a code frame that point to source locations.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -448,13 +447,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://babel.dev/docs/en/next/babel-code-frame",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "@babel/code-frame",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: aai-graphgraph/graphgraph-fe/package-lock.json",
-            "supplier": "Organization: Babel",
             "versionInfo": "7.14.5"
         },
         {
@@ -9136,7 +9133,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/EELF/wiki",
-            "licenseConcluded": "LicenseRef-fixed-0x465e210a77e50e35",
+            "licenseConcluded": "LicenseRef-fixed-0x4fe5965e39e4e115",
             "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.eelf:eelf-core",
             "primaryPackagePurpose": "LIBRARY",
@@ -9157,7 +9154,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/EELF/wiki",
-            "licenseConcluded": "LicenseRef-fixed-0x465e210a77e50e35",
+            "licenseConcluded": "LicenseRef-fixed-0x4fe5965e39e4e115",
             "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.eelf:eelf-core",
             "primaryPackagePurpose": "LIBRARY",
@@ -9178,7 +9175,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/EELF/wiki",
-            "licenseConcluded": "LicenseRef-fixed-0x465e210a77e50e35",
+            "licenseConcluded": "LicenseRef-fixed-0x4fe5965e39e4e115",
             "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.eelf:eelf-core",
             "primaryPackagePurpose": "LIBRARY",
@@ -11328,7 +11325,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/FasterXML/jackson-jakarta-rs-providers",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.jakarta.rs:jackson-jakarta-rs-json-provider",
             "primaryPackagePurpose": "LIBRARY",
@@ -11410,7 +11407,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/FasterXML/jackson-jakarta-rs-providers",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.jakarta.rs:jackson-jakarta-rs-json-provider",
             "primaryPackagePurpose": "LIBRARY",
@@ -22668,7 +22665,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://netty.io/",
-            "licenseConcluded": "LicenseRef-fixed-0x2ec7bfab40db013e",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "io.netty:netty-all",
             "primaryPackagePurpose": "LIBRARY",
@@ -22709,7 +22706,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://netty.io/",
-            "licenseConcluded": "LicenseRef-fixed-0x2ec7bfab40db013e",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "io.netty:netty-all",
             "primaryPackagePurpose": "LIBRARY",
@@ -26345,7 +26342,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x16d11bcdb4b7395c",
+            "licenseConcluded": "LicenseRef-fixed-0x6ec6043283b12dc1",
             "licenseDeclared": "EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26366,7 +26363,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x16d11bcdb4b7395c",
+            "licenseConcluded": "LicenseRef-fixed-0x6ec6043283b12dc1",
             "licenseDeclared": "EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26408,7 +26405,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x7622a73ccd11b8c",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26429,7 +26426,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x7622a73ccd11b8c",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26450,7 +26447,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x7622a73ccd11b8c",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26491,7 +26488,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x16d11bcdb4b7395c",
+            "licenseConcluded": "LicenseRef-fixed-0x6ec6043283b12dc1",
             "licenseDeclared": "EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26512,7 +26509,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x7622a73ccd11b8c",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26554,7 +26551,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x7622a73ccd11b8c",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26596,7 +26593,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x7622a73ccd11b8c",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -26617,7 +26614,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x16d11bcdb4b7395c",
+            "licenseConcluded": "LicenseRef-fixed-0x6ec6043283b12dc1",
             "licenseDeclared": "EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -29629,7 +29626,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5c5a93c9451c80b1",
-            "description": "JSON.parse with context information on error",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -29639,13 +29635,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/npm/json-parse-even-better-errors#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "json-parse-even-better-errors",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: aai-graphgraph/graphgraph-fe/package-lock.json",
-            "supplier": "Organization: npm",
             "versionInfo": "2.3.1"
         },
         {
@@ -33914,7 +33908,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-console",
             "primaryPackagePurpose": "LIBRARY",
@@ -33935,7 +33929,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-console",
             "primaryPackagePurpose": "LIBRARY",
@@ -33956,7 +33950,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-groovysh",
             "primaryPackagePurpose": "LIBRARY",
@@ -33977,7 +33971,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-groovysh",
             "primaryPackagePurpose": "LIBRARY",
@@ -33998,7 +33992,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-json",
             "primaryPackagePurpose": "LIBRARY",
@@ -34019,7 +34013,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-json",
             "primaryPackagePurpose": "LIBRARY",
@@ -34040,7 +34034,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-jsr223",
             "primaryPackagePurpose": "LIBRARY",
@@ -34061,7 +34055,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-jsr223",
             "primaryPackagePurpose": "LIBRARY",
@@ -34082,7 +34076,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-swing",
             "primaryPackagePurpose": "LIBRARY",
@@ -34103,7 +34097,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-swing",
             "primaryPackagePurpose": "LIBRARY",
@@ -34124,7 +34118,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-templates",
             "primaryPackagePurpose": "LIBRARY",
@@ -34145,7 +34139,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-templates",
             "primaryPackagePurpose": "LIBRARY",
@@ -34166,7 +34160,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-xml",
             "primaryPackagePurpose": "LIBRARY",
@@ -34187,7 +34181,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://groovy-lang.org",
-            "licenseConcluded": "LicenseRef-fixed-0x118f253d2b70fbec",
+            "licenseConcluded": "LicenseRef-fixed-0x4baa5a0f57bf33a6",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.groovy:groovy-xml",
             "primaryPackagePurpose": "LIBRARY",
@@ -39040,7 +39034,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "LicenseRef-fixed-0x511e4ac6eb7f8c9e",
+            "licenseConcluded": "LicenseRef-fixed-0x7332d87daaf56978",
             "licenseDeclared": "Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND CC-BY-2.5 AND CC-BY-4.0 AND CC0-1.0 AND CDDL-1.0 AND CDDL-1.1 AND CPL-1.0 AND EPL-1.0 AND EPL-2.0 AND GPL-2.0-only AND LGPL-2.1-only AND LicenseRef-scancode-generic-export-compliance AND LicenseRef-scancode-public-domain AND MIT AND LicenseRef-NOASSERTION AND W3C-19980720",
             "name": "org.eclipse.persistence:eclipselink",
             "primaryPackagePurpose": "LIBRARY",
@@ -39080,7 +39074,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "LicenseRef-fixed-0x511e4ac6eb7f8c9e",
+            "licenseConcluded": "LicenseRef-fixed-0x7332d87daaf56978",
             "licenseDeclared": "Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND CC-BY-2.5 AND CC-BY-4.0 AND CC0-1.0 AND CDDL-1.0 AND CDDL-1.1 AND CPL-1.0 AND EPL-1.0 AND EPL-2.0 AND GPL-2.0-only AND LGPL-2.1-only AND LicenseRef-scancode-generic-export-compliance AND LicenseRef-scancode-public-domain AND MIT AND LicenseRef-NOASSERTION AND W3C-19980720",
             "name": "org.eclipse.persistence:eclipselink",
             "primaryPackagePurpose": "LIBRARY",
@@ -39180,7 +39174,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "LicenseRef-fixed-0x511e4ac6eb7f8c9e",
+            "licenseConcluded": "LicenseRef-fixed-0x7332d87daaf56978",
             "licenseDeclared": "Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND CC-BY-2.5 AND CC-BY-4.0 AND CC0-1.0 AND CDDL-1.0 AND CDDL-1.1 AND CPL-1.0 AND EPL-1.0 AND EPL-2.0 AND GPL-2.0-only AND LGPL-2.1-only AND LicenseRef-scancode-generic-export-compliance AND LicenseRef-scancode-public-domain AND MIT AND LicenseRef-NOASSERTION AND W3C-19980720",
             "name": "org.eclipse.persistence:eclipselink",
             "primaryPackagePurpose": "LIBRARY",
@@ -39277,7 +39271,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "LicenseRef-fixed-0x511e4ac6eb7f8c9e",
+            "licenseConcluded": "LicenseRef-fixed-0x7332d87daaf56978",
             "licenseDeclared": "Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND CC-BY-2.5 AND CC-BY-4.0 AND CC0-1.0 AND CDDL-1.0 AND CDDL-1.1 AND CPL-1.0 AND EPL-1.0 AND EPL-2.0 AND GPL-2.0-only AND LGPL-2.1-only AND LicenseRef-scancode-generic-export-compliance AND LicenseRef-scancode-public-domain AND MIT AND LicenseRef-NOASSERTION AND W3C-19980720",
             "name": "org.eclipse.persistence:eclipselink",
             "primaryPackagePurpose": "LIBRARY",
@@ -39541,7 +39535,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.eclipse.org/eclipselink",
-            "licenseConcluded": "LicenseRef-fixed-0x1622cbda179a7a6a",
+            "licenseConcluded": "LicenseRef-fixed-0x1747832f071de64e",
             "licenseDeclared": "EPL-2.0 AND BSD-3-Clause",
             "name": "org.eclipse.persistence:org.eclipse.persistence.core",
             "primaryPackagePurpose": "LIBRARY",
@@ -39562,7 +39556,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.eclipse.org/eclipselink",
-            "licenseConcluded": "LicenseRef-fixed-0x1622cbda179a7a6a",
+            "licenseConcluded": "LicenseRef-fixed-0x1747832f071de64e",
             "licenseDeclared": "EPL-2.0 AND BSD-3-Clause",
             "name": "org.eclipse.persistence:org.eclipse.persistence.core",
             "primaryPackagePurpose": "LIBRARY",
@@ -39583,7 +39577,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.eclipse.org/eclipselink",
-            "licenseConcluded": "LicenseRef-fixed-0x1622cbda179a7a6a",
+            "licenseConcluded": "LicenseRef-fixed-0x1747832f071de64e",
             "licenseDeclared": "EPL-2.0 AND BSD-3-Clause",
             "name": "org.eclipse.persistence:org.eclipse.persistence.core",
             "primaryPackagePurpose": "LIBRARY",
@@ -39604,7 +39598,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.eclipse.org/eclipselink",
-            "licenseConcluded": "LicenseRef-fixed-0x1622cbda179a7a6a",
+            "licenseConcluded": "LicenseRef-fixed-0x1747832f071de64e",
             "licenseDeclared": "EPL-2.0 AND BSD-3-Clause",
             "name": "org.eclipse.persistence:org.eclipse.persistence.core",
             "primaryPackagePurpose": "LIBRARY",
@@ -40807,7 +40801,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x247b89c95fdad909",
+            "licenseConcluded": "LicenseRef-fixed-0x4441594c886b8dc5",
             "licenseDeclared": "EPL-2.0 OR (Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-3-Clause AND EPL-2.0) OR (BSD-3-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.core:jersey-client",
             "primaryPackagePurpose": "LIBRARY",
@@ -40870,7 +40864,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x247b89c95fdad909",
+            "licenseConcluded": "LicenseRef-fixed-0x4441594c886b8dc5",
             "licenseDeclared": "EPL-2.0 OR (Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-3-Clause AND EPL-2.0) OR (BSD-3-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.core:jersey-client",
             "primaryPackagePurpose": "LIBRARY",
@@ -40974,7 +40968,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x247b89c95fdad909",
+            "licenseConcluded": "LicenseRef-fixed-0x4441594c886b8dc5",
             "licenseDeclared": "EPL-2.0 OR (Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-3-Clause AND EPL-2.0) OR (BSD-3-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.core:jersey-client",
             "primaryPackagePurpose": "LIBRARY",
@@ -40995,7 +40989,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x288ed310c2d96c55",
+            "licenseConcluded": "LicenseRef-fixed-0x2d1d8b52857788ea",
             "licenseDeclared": "Apache-2.0 AND CC0-1.0 AND EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown AND LicenseRef-NOASSERTION",
             "name": "org.glassfish.jersey.core:jersey-common",
             "primaryPackagePurpose": "LIBRARY",
@@ -41100,7 +41094,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x288ed310c2d96c55",
+            "licenseConcluded": "LicenseRef-fixed-0x2d1d8b52857788ea",
             "licenseDeclared": "Apache-2.0 AND CC0-1.0 AND EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown AND LicenseRef-NOASSERTION",
             "name": "org.glassfish.jersey.core:jersey-common",
             "primaryPackagePurpose": "LIBRARY",
@@ -60077,7 +60071,7 @@
             "versionInfo": "0.1.0"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "SPDXID": "SPDXRef-Filesystem-878dd54690469734",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND (Apache-2.0 OR MIT) AND CC-BY-4.0 AND MIT AND OFL-1.1 AND LicenseRef-Public-domain-statement",
@@ -89418,76 +89412,76 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "relatedSpdxElement": "SPDXRef-Filesystem-878dd54690469734",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-aai-common",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-babel",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-graphadmin",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-graphgraph",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-logging-service",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-model-loader",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-oom",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-resources",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-rest-client",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-schema-service",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-sparky-be",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-sparky-fe",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-test-config",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-2445bac0464ab6c7",
+            "spdxElementId": "SPDXRef-Filesystem-878dd54690469734",
             "relatedSpdxElement": "SPDXRef-onap-aai-aai-traversal",
             "relationshipType": "CONTAINS"
         }
