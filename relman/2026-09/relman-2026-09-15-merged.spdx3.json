@@ -1,0 +1,609 @@
+{
+    "@context": "https://spdx.org/rdf/3.0.1/spdx-context.jsonld",
+    "@graph": [
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo0",
+            "created": "2026-09-27T03:01:26Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd3",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd2",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd7"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd6",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd5",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd0",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd4",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd1"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo1",
+            "comment": "This is a generated SPDX License object from the SPDX license list",
+            "created": "2026-09-16T00:00:00Z",
+            "createdBy": [
+                "https://spdx.org/licenses/creatoragent/3_29_0"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo2",
+            "created": "2026-09-27T03:01:26Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd44",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd45",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd49"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd43",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd46",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd42",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd48",
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd47"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd10",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "2358d4e7f547f5526c48f00b5230b11982aa15a4",
+            "software_sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd37",
+            "comment": "This package was added to the Trivy analysis for the relman by the Scaffold tool SBOM augmentation",
+            "creationInfo": "_:CreationInfo0",
+            "name": "relman"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd12",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd13"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd13",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "relman-2026-09-15.zip/relman/.gitreview",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "f86c2d1be5cf2d1de2bfc84e5610d80b"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "33edfaaf87a7d81b99e019ea7c22838364e6ebadbc783debf52025d6acdcfaf2"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "f8c977db15956cff0ba30475f2b7a8e184b77fcf"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd14",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd13",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd15",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd13",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd16",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd17"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd17",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "relman-2026-09-15.zip/relman/INFO.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "419c4ecf308961583ce9df4d5450ab034f5723cb"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "2bd6ebe43d2c8ede3af251338ce11e97bffabea27dcb1d4ddf4f13bc40e0a3eb"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "8e263966d865c2b6753fcc0db465e76d"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd18",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd17",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd19",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd17",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd2",
+            "creationInfo": "_:CreationInfo0",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd20",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd21"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd21",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "relman-2026-09-15.zip/relman/repos/repos-schema.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "29cd9b4a51431bfb2db74aace6e994d907a5c8eb8e0e8fe8d6b637acde5e0445"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "d11e43dc0b7a5cedc6c4932ed549736a"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "314803d855bd94fffd5356976c489e8615b5205e"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd22",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd21",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd23",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd21",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd24",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd25"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd25",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "relman-2026-09-15.zip/relman/repos/repos.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "314c59807aa768d8beb15e89204dc9980f516d40a3c263ec5c7445aca9696958"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "524a49a0f52d319b14160ca9afbd78ba"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "eea8d403bedca3b2c6210708641ef626048835af"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd26",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd27",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd28",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd29"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd29",
+            "software_copyrightText": "2025 The Linux Foundation SPDX-License-Identifier: Apache-2.0",
+            "creationInfo": "_:CreationInfo0",
+            "name": "relman-2026-09-15.zip/relman/.github/dependabot.yml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "334125da760705de54ffbf63bc14f2a4"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "1e65a347696d7b3d8fadfd5223616266c046e3ac5464f177d0d0dcc9d06d27fd"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "0b021e1a53d761ce8c7acda4a444779fedbab8f7"
+                }
+            ]
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd3",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd30",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd29",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd31",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd29",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd32",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd33"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd33",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "relman-2026-09-15.zip/relman/repos/README.md",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "e6024553466de2a8960d6664ac63be09"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "e30c24567daa4c57c111f1f2417948b353b49f2e"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "3f62d740cee93018ff1bbb094b5c43901b5d220d2b7a60c6cef539abf591a593"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd34",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd33",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd35",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd33",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd36",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd37",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project onap"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd38",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd39",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd40",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project onap"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd41",
+            "from": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd44",
+            "creationInfo": "_:CreationInfo2",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd45",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd49",
+            "creationInfo": "_:CreationInfo2",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd7",
+            "creationInfo": "_:CreationInfo0",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd9",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "2026-09",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd40",
+            "creationInfo": "_:CreationInfo0",
+            "name": "onap.relman"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd0",
+            "creationInfo": "_:CreationInfo0",
+            "name": "protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd1",
+            "creationInfo": "_:CreationInfo0",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd4",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd42",
+            "creationInfo": "_:CreationInfo2",
+            "name": "protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd43",
+            "creationInfo": "_:CreationInfo2",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd46",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd47",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd48",
+            "creationInfo": "_:CreationInfo2",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd5",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/additionalToolSPDXRef-gnrtd6",
+            "creationInfo": "_:CreationInfo0",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "SpdxDocument",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/document0",
+            "dataLicense": "http://spdx.org/licenses/CC0-1.0",
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/sbom"
+            ],
+            "creationInfo": "_:CreationInfo2",
+            "name": "/tmp/tmptubw65c2/code"
+        },
+        {
+            "type": "software_Sbom",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/sbom",
+            "software_sbomType": [
+                "source"
+            ],
+            "element": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd9"
+            ],
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-onap/relman/2026-09/onap-relman-full/f12241b2-76dd-4da7-9017-dbfda1b8c81a-specv3/SPDXRef-gnrtd9"
+            ],
+            "creationInfo": "_:CreationInfo2"
+        },
+        {
+            "type": "Agent",
+            "spdxId": "https://spdx.org/licenses/creatoragent/3_29_0",
+            "creationInfo": "_:CreationInfo1",
+            "description": "This object is created and maintained by the SPDX legal team (https://spdx.dev/engage/participate/legal-team/)",
+            "name": "SPDX Legal Team"
+        }
+    ]
+}
