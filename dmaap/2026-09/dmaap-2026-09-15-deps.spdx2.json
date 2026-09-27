@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T06:50:37Z",
+        "created": "2026-09-27T01:30:22Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -15,29 +15,33 @@
     "dataLicense": "CC0-1.0",
     "hasExtractedLicensingInfos": [
         {
+            "extractedText": "---\n- BSD License\n",
+            "licenseId": "LicenseRef-fixed-0x4fe5965e39e4e115"
+        },
+        {
             "extractedText": "(EPL-2.0 AND GPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND GPL-2.0 AND GPL-2.0-only) OR (GPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0) AND (EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0) AND (CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0 AND Apache-2.0) AND (CDDL-1.0 AND Apache-2.0) AND (CDDL-1.0 AND GPL-2.0-only AND Classpath-exception-2.0 AND EPL-1.0 AND BSD-3-Clause AND Apache-2.0 AND LicenseRef-scancode-public-domain) AND (EPL-2.0 AND LicenseRef-scancode-generic-export-compliance) AND EPL-2.0 AND GPL-2.0-only AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0",
-            "licenseId": "LicenseRef-fixed-0x709716b2b0ec416c"
+            "licenseId": "LicenseRef-fixed-0x4996d076cbb03b2"
         },
         {
             "extractedText": "(EPL-2.0 OR BSD-3-Clause) AND ((EPL-2.0 OR Apache-2.0) AND BSD-3-Clause AND (EPL-2.0 OR BSD-3-Clause)) AND (CDDL-1.0 AND BSD-3-Clause) AND (BSD-3-Clause AND Apache-2.0 AND LicenseRef-scancode-public-domain) AND Apache-2.0 AND CDDL-1.0 AND (CDDL-1.0 AND Apache-2.0) AND (Apache-2.0 AND CDDL-1.1 AND Classpath-exception-2.0 AND GPL-2.0-only) AND (CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0) AND (CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0 AND Apache-2.0 AND BSD-3-Clause AND CDDL-1.0) AND (CDDL-1.0 AND CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0 AND BSD-3-Clause) AND (CDDL-1.0 AND BSD-3-Clause AND Apache-2.0 AND LicenseRef-scancode-public-domain AND MIT AND Apache-1.1) AND (CDDL-1.0 AND BSD-3-Clause AND LicenseRef-scancode-public-domain) AND (CDDL-1.0 AND (MIT AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND Apache-2.0) AND (Apache-2.0 AND CDDL-1.0) AND (CDDL-1.0 AND Apache-2.0 AND CC-BY-2.5 AND LicenseRef-scancode-public-domain) AND (CDDL-1.0 AND EPL-2.0 AND EPL-1.0 AND LGPL-2.1-only AND CDDL-1.1 AND GPL-2.0-only AND Classpath-exception-2.0) AND (Apache-2.0 AND EPL-1.0 AND CC-BY-4.0 AND LicenseRef-scancode-public-domain) AND (Apache-2.0 AND CC-BY-2.5 AND CC0-1.0) AND (MIT AND Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-public-domain) AND (Apache-2.0 AND CPL-1.0 AND W3C-19980720 AND LicenseRef-scancode-generic-export-compliance) AND EPL-2.0 AND BSD-3-Clause AND EPL-2.0 OR (BSD-3-Clause AND EPL-2.0)",
-            "licenseId": "LicenseRef-fixed-0x5c486934d4f91e61"
+            "licenseId": "LicenseRef-fixed-0x630dffd00ac5986d"
         },
         {
             "extractedText": "(EPL-2.0 AND GPL-2.0 AND LicenseRef-scancode-generic-export-compliance) OR (GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-generic-export-compliance) AND (EPL-2.0 AND GPL-2.0) OR (GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND Classpath-exception-2.0 AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0",
-            "licenseId": "LicenseRef-fixed-0x8a6a273395daab6"
+            "licenseId": "LicenseRef-fixed-0x54e46653b63b89cd"
         },
         {
             "extractedText": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) AND (EPL-2.0 AND GPL-2.0) OR (GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND Classpath-exception-2.0 AND BSD-2-Clause AND Apache-2.0 AND MIT AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0",
-            "licenseId": "LicenseRef-fixed-0x45dcc9c2f09f7690"
+            "licenseId": "LicenseRef-fixed-0x4441594c886b8dc5"
         },
         {
             "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
             "licenseId": "LicenseRef-NOASSERTION"
         }
     ],
-    "name": "/tmp/tmpm4bew08u/code",
+    "name": "/tmp/tmpve8o4vyo/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpm4bew08u/code-fc4a7453-b695-4fe2-9da8-13dd3a343152",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpve8o4vyo/code-b87cae46-4553-448c-af09-ff032ec4741b",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-8b947d077fd83b14",
@@ -555,6 +559,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://classworlds.codehaus.org/",
             "licenseConcluded": "Plexus",
             "licenseDeclared": "Plexus",
             "name": "classworlds:classworlds",
@@ -573,6 +578,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://classworlds.codehaus.org/",
             "licenseConcluded": "Plexus",
             "licenseDeclared": "Plexus",
             "name": "classworlds:classworlds",
@@ -593,7 +599,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/EELF/wiki",
-            "licenseConcluded": "BSD-3-Clause",
+            "licenseConcluded": "LicenseRef-fixed-0x4fe5965e39e4e115",
             "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.eelf:eelf-core",
             "primaryPackagePurpose": "LIBRARY",
@@ -614,7 +620,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/EELF/wiki",
-            "licenseConcluded": "BSD-3-Clause",
+            "licenseConcluded": "LicenseRef-fixed-0x4fe5965e39e4e115",
             "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.eelf:eelf-core",
             "primaryPackagePurpose": "LIBRARY",
@@ -635,7 +641,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/EELF/wiki",
-            "licenseConcluded": "BSD-3-Clause",
+            "licenseConcluded": "LicenseRef-fixed-0x4fe5965e39e4e115",
             "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.eelf:eelf-core",
             "primaryPackagePurpose": "LIBRARY",
@@ -656,7 +662,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/EELF/wiki",
-            "licenseConcluded": "BSD-3-Clause",
+            "licenseConcluded": "LicenseRef-fixed-0x4fe5965e39e4e115",
             "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.eelf:eelf-core",
             "primaryPackagePurpose": "LIBRARY",
@@ -677,7 +683,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/EELF/wiki",
-            "licenseConcluded": "BSD-3-Clause",
+            "licenseConcluded": "LicenseRef-fixed-0x4fe5965e39e4e115",
             "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.eelf:eelf-core",
             "primaryPackagePurpose": "LIBRARY",
@@ -1065,6 +1071,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1a316628f201cae5",
+            "description": "Support for using Jakarta XML Bind (aka JAXB 3.0) annotations as an alternative\n to \"native\" Jackson annotations, for configuring data-binding.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1074,15 +1081,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-modules-base",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "2.14.1"
         },
         {
             "SPDXID": "SPDXRef-Package-ea018f19e9ce5727",
+            "description": "Support for using Jakarta XML Bind (aka JAXB 3.0) annotations as an alternative\n to \"native\" Jackson annotations, for configuring data-binding.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1092,15 +1102,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-modules-base",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "2.14.1"
         },
         {
             "SPDXID": "SPDXRef-Package-229e475de1676f9d",
+            "description": "jackson-module-scala",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1110,15 +1123,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-module-scala",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.module:jackson-module-scala_2.13",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/kafkaClient/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "2.13.3"
         },
         {
             "SPDXID": "SPDXRef-Package-406bec1919a9d969",
+            "description": "jackson-module-scala",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1128,11 +1144,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-module-scala",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.module:jackson-module-scala_2.13",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "2.13.3"
         },
         {
@@ -1385,6 +1403,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-514b590b0049518d",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1394,15 +1413,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.jetbrains.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.intellij:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-datarouter/datarouter-node/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "12.0"
         },
         {
             "SPDXID": "SPDXRef-Package-91cfcc438ee0aa81",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1412,15 +1434,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.jetbrains.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.intellij:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-datarouter/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "12.0"
         },
         {
             "SPDXID": "SPDXRef-Package-d6e4bc260d45640a",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1430,11 +1455,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.jetbrains.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.intellij:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-datarouter/datarouter-prov/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "12.0"
         },
         {
@@ -1481,6 +1508,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5fe9ebe50d690988",
+            "description": "scala-logging",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1490,6 +1518,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/lightbend/scala-logging",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "com.typesafe.scala-logging:scala-logging_2.13",
@@ -1499,6 +1528,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-86b43a8b6b440160",
+            "description": "scala-logging",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1508,6 +1538,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/lightbend/scala-logging",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "com.typesafe.scala-logging:scala-logging_2.13",
@@ -1887,6 +1918,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-508829d6728b6930",
+            "description": "The core of the LogUnit framework, containing API and non-logframework-specific code.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1896,15 +1928,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/netmikey/logunit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.github.netmikey.logunit:logunit-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/pom.xml",
+            "supplier": "Organization: Mike Meessen",
             "versionInfo": "1.1.3"
         },
         {
             "SPDXID": "SPDXRef-Package-7ab9f97ef1fa2821",
+            "description": "The core of the LogUnit framework, containing API and non-logframework-specific code.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1914,15 +1949,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/netmikey/logunit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.github.netmikey.logunit:logunit-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/pom.xml",
+            "supplier": "Organization: Mike Meessen",
             "versionInfo": "1.1.3"
         },
         {
             "SPDXID": "SPDXRef-Package-f62788604a5e40c0",
+            "description": "The core of the LogUnit framework, containing API and non-logframework-specific code.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1932,15 +1970,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/netmikey/logunit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.github.netmikey.logunit:logunit-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/kafkaClient/pom.xml",
+            "supplier": "Organization: Mike Meessen",
             "versionInfo": "1.1.3"
         },
         {
             "SPDXID": "SPDXRef-Package-159860fd48d5e073",
+            "description": "LogUnit's Logback implementation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1950,15 +1991,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/netmikey/logunit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.github.netmikey.logunit:logunit-logback",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/pom.xml",
+            "supplier": "Organization: Mike Meessen",
             "versionInfo": "1.1.3"
         },
         {
             "SPDXID": "SPDXRef-Package-625bd0205555b6f6",
+            "description": "LogUnit's Logback implementation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1968,15 +2012,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/netmikey/logunit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.github.netmikey.logunit:logunit-logback",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/pom.xml",
+            "supplier": "Organization: Mike Meessen",
             "versionInfo": "1.1.3"
         },
         {
             "SPDXID": "SPDXRef-Package-8a44c034638e9876",
+            "description": "LogUnit's Logback implementation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1986,11 +2033,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/netmikey/logunit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.github.netmikey.logunit:logunit-logback",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/kafkaClient/pom.xml",
+            "supplier": "Organization: Mike Meessen",
             "versionInfo": "1.1.3"
         },
         {
@@ -2373,6 +2422,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-7c9dc66a6e015b90",
+            "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2382,15 +2432,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/swagger-api/swagger-core",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.swagger:swagger-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Swagger",
             "versionInfo": "1.6.8"
         },
         {
             "SPDXID": "SPDXRef-Package-aca317628829e0d",
+            "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2400,11 +2453,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/swagger-api/swagger-core",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.swagger:swagger-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Swagger",
             "versionInfo": "1.6.8"
         },
         {
@@ -2752,7 +2807,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/eclipse-ee4j/jsonp",
-            "licenseConcluded": "LicenseRef-fixed-0x709716b2b0ec416c",
+            "licenseConcluded": "LicenseRef-fixed-0x4996d076cbb03b2",
             "licenseDeclared": "((EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0) AND GPL-2.0-only) AND LicenseRef-scancode-unknown",
             "name": "jakarta.json:jakarta.json-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -2773,7 +2828,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/eclipse-ee4j/jsonp",
-            "licenseConcluded": "LicenseRef-fixed-0x709716b2b0ec416c",
+            "licenseConcluded": "LicenseRef-fixed-0x4996d076cbb03b2",
             "licenseDeclared": "((EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0) AND GPL-2.0-only) AND LicenseRef-scancode-unknown",
             "name": "jakarta.json:jakarta.json-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -3507,6 +3562,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a865c861652e7724",
+            "description": "The Apache Commons Object Pooling Library.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3516,6 +3572,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-pool/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND CC-PDDC",
             "licenseDeclared": "Apache-2.0 AND CC-PDDC",
             "name": "org.apache.commons:commons-pool2",
@@ -3525,6 +3582,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e062a52151349a3",
+            "description": "The Apache Commons Object Pooling Library.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3534,6 +3592,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-pool/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND CC-PDDC",
             "licenseDeclared": "Apache-2.0 AND CC-PDDC",
             "name": "org.apache.commons:commons-pool2",
@@ -3693,6 +3752,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "(Apache-2.0 AND CDDL-1.0 AND EPL-2.0) AND BSD-3-Clause AND Apache-2.0 AND Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0",
             "name": "org.apache.kafka:kafka-metadata",
@@ -3711,6 +3771,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "(Apache-2.0 AND CDDL-1.0 AND EPL-2.0) AND BSD-3-Clause AND Apache-2.0 AND Apache-2.0 AND CDDL-1.0 AND EPL-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND CDDL-1.0 AND EPL-2.0",
             "name": "org.apache.kafka:kafka-metadata",
@@ -3729,6 +3790,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka-raft",
@@ -3747,6 +3809,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka-raft",
@@ -3765,6 +3828,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka-server-common",
@@ -3783,6 +3847,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka-server-common",
@@ -3801,6 +3866,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka-storage",
@@ -3819,6 +3885,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka-storage",
@@ -3837,6 +3904,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka-storage-api",
@@ -3855,6 +3923,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka-storage-api",
@@ -3873,6 +3942,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka_2.13",
@@ -3891,6 +3961,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka_2.13",
@@ -3909,6 +3980,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kafka.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.kafka:kafka_2.13",
@@ -4002,6 +4074,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4510f99374bb3701",
+            "description": "This component provides the generic interfaces needed to implement custom rules for the maven-enforcer-plugin.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4011,15 +4084,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/enforcer/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND CPL-1.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.enforcer:enforcer-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.0.0-M3"
         },
         {
             "SPDXID": "SPDXRef-Package-7473376c717b7d37",
+            "description": "This component provides the generic interfaces needed to implement custom rules for the maven-enforcer-plugin.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4029,15 +4105,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/enforcer/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND CPL-1.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.enforcer:enforcer-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.0.0-M3"
         },
         {
             "SPDXID": "SPDXRef-Package-1bbb2f81f6ea6e08",
+            "description": "This component contains the built-in Enforcer Rules",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4047,15 +4126,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/enforcer/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LGPL-2.0-or-later",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.enforcer:enforcer-rules",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.0.0-M3"
         },
         {
             "SPDXID": "SPDXRef-Package-222820ac4962d66a",
+            "description": "This component contains the built-in Enforcer Rules",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4065,15 +4147,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/enforcer/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LGPL-2.0-or-later",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.enforcer:enforcer-rules",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.0.0-M3"
         },
         {
             "SPDXID": "SPDXRef-Package-8ea8441ec288cd7e",
+            "description": "The Loving Iron Fist of Maven",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4083,15 +4168,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/enforcer/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LGPL-2.0-or-later",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.plugins:maven-enforcer-plugin",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.0.0-M3"
         },
         {
             "SPDXID": "SPDXRef-Package-8f48dcd309c3c53",
+            "description": "The Loving Iron Fist of Maven",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4101,15 +4189,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/enforcer/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LGPL-2.0-or-later",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.plugins:maven-enforcer-plugin",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.0.0-M3"
         },
         {
             "SPDXID": "SPDXRef-Package-bf382f1550cf62e0",
+            "description": "The application programming interface for the repository system.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4119,15 +4210,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/resolver/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.resolver:maven-resolver-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "1.4.1"
         },
         {
             "SPDXID": "SPDXRef-Package-cdd96494e41ad1d3",
+            "description": "The application programming interface for the repository system.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4137,15 +4231,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/resolver/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.resolver:maven-resolver-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "1.4.1"
         },
         {
             "SPDXID": "SPDXRef-Package-af1cf00c4aa26ba3",
+            "description": "A collection of utility classes to ease usage of the repository system.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4155,15 +4252,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/resolver/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.resolver:maven-resolver-util",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "1.4.1"
         },
         {
             "SPDXID": "SPDXRef-Package-f8cae10412cff3ce",
+            "description": "A collection of utility classes to ease usage of the repository system.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4173,15 +4273,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/resolver/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.resolver:maven-resolver-util",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "1.4.1"
         },
         {
             "SPDXID": "SPDXRef-Package-920b2d9337e1c81c",
+            "description": "A collection of ready-made filters to control inclusion/exclusion of artifacts during dependency resolution.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4191,15 +4294,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/shared/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.shared:maven-common-artifact-filters",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-f43e0abea19d42b0",
+            "description": "A collection of ready-made filters to control inclusion/exclusion of artifacts during dependency resolution.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4209,15 +4315,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/shared/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven.shared:maven-common-artifact-filters",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-2e2de654ad012a84",
+            "description": "A tree-based API for resolution of Maven project dependencies",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4227,15 +4336,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/shared/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND EPL-1.0",
             "licenseDeclared": "Apache-2.0 AND EPL-1.0",
             "name": "org.apache.maven.shared:maven-dependency-tree",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "2.2"
         },
         {
             "SPDXID": "SPDXRef-Package-6d147a2d74f3ddd3",
+            "description": "A tree-based API for resolution of Maven project dependencies",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4245,11 +4357,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/shared/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND EPL-1.0",
             "licenseDeclared": "Apache-2.0 AND EPL-1.0",
             "name": "org.apache.maven.shared:maven-dependency-tree",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "2.2"
         },
         {
@@ -4338,6 +4452,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-893cce00d0c97eec",
+            "description": "The API for Maven 3 plugins - Mojos - development.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4347,15 +4462,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/ref/4.0.0-rc-6/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven:maven-plugin-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-f0246273f44ac3c",
+            "description": "The API for Maven 3 plugins - Mojos - development.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4365,11 +4483,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://maven.apache.org/ref/4.0.0-rc-6/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.maven:maven-plugin-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "3.0"
         },
         {
@@ -4742,6 +4862,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-452553c0c54223ae",
+            "description": "A class loader framework",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4751,15 +4872,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://codehaus-plexus.github.io/plexus-classworlds/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.plexus:plexus-classworlds",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Plexus",
             "versionInfo": "2.2.3"
         },
         {
             "SPDXID": "SPDXRef-Package-b322194a2335ff84",
+            "description": "A class loader framework",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4769,15 +4893,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://codehaus-plexus.github.io/plexus-classworlds/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.plexus:plexus-classworlds",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Plexus",
             "versionInfo": "2.2.3"
         },
         {
             "SPDXID": "SPDXRef-Package-b6dbecb3c0117635",
+            "description": "Plexus Component Java Annotations, to describe plexus components properties in java sources with\n standard annotations instead of javadoc annotations.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4787,15 +4914,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://codehaus-plexus.github.io/plexus-containers/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.plexus:plexus-component-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Plexus",
             "versionInfo": "1.5.4"
         },
         {
             "SPDXID": "SPDXRef-Package-e725fd00cbe5f854",
+            "description": "Plexus Component Java Annotations, to describe plexus components properties in java sources with\n standard annotations instead of javadoc annotations.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4805,15 +4935,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://codehaus-plexus.github.io/plexus-containers/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.plexus:plexus-component-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Plexus",
             "versionInfo": "1.5.4"
         },
         {
             "SPDXID": "SPDXRef-Package-3e6d5bfa79980705",
+            "description": "The Plexus IoC container API and its default implementation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4823,15 +4956,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://codehaus-plexus.github.io/",
             "licenseConcluded": "NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.plexus:plexus-container-default",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Plexus",
             "versionInfo": "1.0-alpha-9"
         },
         {
             "SPDXID": "SPDXRef-Package-6912ebcccc87adaa",
+            "description": "The Plexus IoC container API and its default implementation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4841,11 +4977,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://codehaus-plexus.github.io/",
             "licenseConcluded": "NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.plexus:plexus-container-default",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Plexus",
             "versionInfo": "1.0-alpha-9"
         },
         {
@@ -4934,6 +5072,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-319794020a75cb7c",
+            "description": "Angus Mail Provider",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4943,15 +5082,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://eclipse-ee4j.github.io/angus-mail",
             "licenseConcluded": "(((EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0) AND BSD-3-Clause) AND BSD-3-Clause AND (EPL-2.0 AND GPL-2.0 AND LicenseRef-scancode-generic-export-compliance)) OR ((GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-generic-export-compliance) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "licenseDeclared": "BSD-3-Clause AND EPL-2.0 AND LicenseRef-NOASSERTION",
             "name": "org.eclipse.angus:angus-mail",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "1.0.0"
         },
         {
             "SPDXID": "SPDXRef-Package-48cc9c28427ea998",
+            "description": "Angus Mail Provider",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4961,11 +5103,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://eclipse-ee4j.github.io/angus-mail",
             "licenseConcluded": "(((EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0) AND BSD-3-Clause) AND BSD-3-Clause AND (EPL-2.0 AND GPL-2.0 AND LicenseRef-scancode-generic-export-compliance)) OR ((GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-generic-export-compliance) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "licenseDeclared": "BSD-3-Clause AND EPL-2.0 AND LicenseRef-NOASSERTION",
             "name": "org.eclipse.angus:angus-mail",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "1.0.0"
         },
         {
@@ -6094,7 +6238,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.eclipse.org/eclipselink",
-            "licenseConcluded": "LicenseRef-fixed-0x5c486934d4f91e61",
+            "licenseConcluded": "LicenseRef-fixed-0x630dffd00ac5986d",
             "licenseDeclared": "EPL-2.0 OR BSD-3-Clause",
             "name": "org.eclipse.persistence:org.eclipse.persistence.moxy",
             "primaryPackagePurpose": "LIBRARY",
@@ -6115,7 +6259,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.eclipse.org/eclipselink",
-            "licenseConcluded": "LicenseRef-fixed-0x5c486934d4f91e61",
+            "licenseConcluded": "LicenseRef-fixed-0x630dffd00ac5986d",
             "licenseDeclared": "EPL-2.0 OR BSD-3-Clause",
             "name": "org.eclipse.persistence:org.eclipse.persistence.moxy",
             "primaryPackagePurpose": "LIBRARY",
@@ -6178,7 +6322,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
-            "licenseConcluded": "LicenseRef-fixed-0x8a6a273395daab6",
+            "licenseConcluded": "LicenseRef-fixed-0x54e46653b63b89cd",
             "licenseDeclared": "EPL-2.0 OR (EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "name": "org.glassfish.hk2:hk2-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -6199,7 +6343,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
-            "licenseConcluded": "LicenseRef-fixed-0x8a6a273395daab6",
+            "licenseConcluded": "LicenseRef-fixed-0x54e46653b63b89cd",
             "licenseDeclared": "EPL-2.0 OR (EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "name": "org.glassfish.hk2:hk2-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -6335,6 +6479,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a4fb055f19c24a9",
+            "description": "JDK Http Container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6344,15 +6489,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND MIT AND LicenseRef-NOASSERTION) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION) OR ((Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND MIT AND LicenseRef-NOASSERTION) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND LicenseRef-NOASSERTION) AND Apache-2.0 AND BSD-2-Clause AND EPL-2.0 AND MIT AND LicenseRef-NOASSERTION AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (BSD-2-Clause AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (EPL-2.0 AND GPL-2.0-only AND MIT AND LicenseRef-NOASSERTION)",
             "name": "org.glassfish.jersey.containers:jersey-container-jdk-http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "3.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-cbda09f486efa8dc",
+            "description": "JDK Http Container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6362,11 +6510,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND MIT AND LicenseRef-NOASSERTION) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION) OR ((Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND MIT AND LicenseRef-NOASSERTION) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND LicenseRef-NOASSERTION) AND Apache-2.0 AND BSD-2-Clause AND EPL-2.0 AND MIT AND LicenseRef-NOASSERTION AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (BSD-2-Clause AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (EPL-2.0 AND GPL-2.0-only AND MIT AND LicenseRef-NOASSERTION)",
             "name": "org.glassfish.jersey.containers:jersey-container-jdk-http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "3.1.1"
         },
         {
@@ -6550,7 +6700,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x45dcc9c2f09f7690",
+            "licenseConcluded": "LicenseRef-fixed-0x4441594c886b8dc5",
             "licenseDeclared": "EPL-2.0 OR (Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-3-Clause AND EPL-2.0) OR (BSD-3-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.ext:jersey-entity-filtering",
             "primaryPackagePurpose": "LIBRARY",
@@ -6571,7 +6721,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x45dcc9c2f09f7690",
+            "licenseConcluded": "LicenseRef-fixed-0x4441594c886b8dc5",
             "licenseDeclared": "EPL-2.0 OR (Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-3-Clause AND EPL-2.0) OR (BSD-3-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.ext:jersey-entity-filtering",
             "primaryPackagePurpose": "LIBRARY",
@@ -6634,7 +6784,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x45dcc9c2f09f7690",
+            "licenseConcluded": "LicenseRef-fixed-0x4441594c886b8dc5",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.media:jersey-media-jaxb",
             "primaryPackagePurpose": "LIBRARY",
@@ -6655,7 +6805,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
-            "licenseConcluded": "LicenseRef-fixed-0x45dcc9c2f09f7690",
+            "licenseConcluded": "LicenseRef-fixed-0x4441594c886b8dc5",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.media:jersey-media-jaxb",
             "primaryPackagePurpose": "LIBRARY",
@@ -6707,6 +6857,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-631b7023ab9f417f",
+            "description": "Jersey JSON entity providers support module based on EclipseLink MOXy.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6716,15 +6867,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND MIT AND LicenseRef-NOASSERTION) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION) OR ((Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND MIT AND LicenseRef-NOASSERTION) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND LicenseRef-NOASSERTION) AND Apache-2.0 AND BSD-2-Clause AND EPL-2.0 AND MIT AND LicenseRef-NOASSERTION AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (BSD-2-Clause AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (EPL-2.0 AND GPL-2.0-only AND MIT AND LicenseRef-NOASSERTION)",
             "name": "org.glassfish.jersey.media:jersey-media-moxy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "3.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-bb55ae138b29aabe",
+            "description": "Jersey JSON entity providers support module based on EclipseLink MOXy.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6734,11 +6888,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND MIT AND LicenseRef-NOASSERTION) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION) OR ((Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND MIT AND LicenseRef-NOASSERTION) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND LicenseRef-NOASSERTION) AND Apache-2.0 AND BSD-2-Clause AND EPL-2.0 AND MIT AND LicenseRef-NOASSERTION AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (BSD-2-Clause AND EPL-2.0 AND GPL-2.0-only AND LicenseRef-NOASSERTION) OR (EPL-2.0 AND GPL-2.0-only AND MIT AND LicenseRef-NOASSERTION)",
             "name": "org.glassfish.jersey.media:jersey-media-moxy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "3.1.1"
         },
         {
@@ -6785,6 +6941,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5c491d8717d294a0",
+            "description": "Jersey Test Framework - JDK HTTP container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6794,15 +6951,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR ((Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-jdk-http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "3.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-8794f3cbc92a1968",
+            "description": "Jersey Test Framework - JDK HTTP container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6812,15 +6972,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR ((Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) AND (EPL-2.0 AND GPL-2.0)) OR ((GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
             "name": "org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-jdk-http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "3.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-24acfd5912933d13",
+            "description": "Jersey Test Framework Core",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6830,15 +6993,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "NONE",
             "licenseDeclared": "BSD-2-Clause OR Apache-2.0 OR MIT",
             "name": "org.glassfish.jersey.test-framework:jersey-test-framework-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "3.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-25680f024fc18803",
+            "description": "Jersey Test Framework Core",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6848,11 +7014,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "NONE",
             "licenseDeclared": "BSD-2-Clause OR Apache-2.0 OR MIT",
             "name": "org.glassfish.jersey.test-framework:jersey-test-framework-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "3.1.1"
         },
         {
@@ -8076,6 +8244,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-24d9af55905411be",
+            "description": "Spice up your java: Automatic Resource Management, automatic generation of getters, setters, equals, hashCode and toString, and more!",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8085,15 +8254,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projectlombok.org",
             "licenseConcluded": "BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "org.projectlombok:lombok",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/sampleClient/pom.xml",
+            "supplier": "Organization: Project Lombok",
             "versionInfo": "1.18.24"
         },
         {
             "SPDXID": "SPDXRef-Package-31e425b09aac1978",
+            "description": "Spice up your java: Automatic Resource Management, automatic generation of getters, setters, equals, hashCode and toString, and more!",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8103,15 +8275,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projectlombok.org",
             "licenseConcluded": "BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "org.projectlombok:lombok",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/pom.xml",
+            "supplier": "Organization: Project Lombok",
             "versionInfo": "1.18.24"
         },
         {
             "SPDXID": "SPDXRef-Package-7bbd3d20a200804",
+            "description": "scala-collection-compat",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8121,15 +8296,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.scala-lang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.scala-lang.modules:scala-collection-compat_2.13",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/pom.xml",
+            "supplier": "Organization: The Scala Programming Language",
             "versionInfo": "2.6.0"
         },
         {
             "SPDXID": "SPDXRef-Package-994bfd36c6d2cfae",
+            "description": "scala-collection-compat",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8139,15 +8317,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.scala-lang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.scala-lang.modules:scala-collection-compat_2.13",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/kafkaClient/pom.xml",
+            "supplier": "Organization: The Scala Programming Language",
             "versionInfo": "2.6.0"
         },
         {
             "SPDXID": "SPDXRef-Package-1b3c112945ded5a2",
+            "description": "scala-java8-compat",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8157,15 +8338,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.scala-lang.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.scala-lang.modules:scala-java8-compat_2.13",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/kafkaClient/pom.xml",
+            "supplier": "Organization: The Scala Programming Language",
             "versionInfo": "1.0.2"
         },
         {
             "SPDXID": "SPDXRef-Package-756784530889da6c",
+            "description": "scala-java8-compat",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8175,11 +8359,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.scala-lang.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.scala-lang.modules:scala-java8-compat_2.13",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-kafka11aaf/pom.xml",
+            "supplier": "Organization: The Scala Programming Language",
             "versionInfo": "1.0.2"
         },
         {
@@ -8541,6 +8727,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-429c231a4ef7d1ef",
+            "description": "Patched build of Guice: a lightweight dependency injection framework for Java 7 and above",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8550,15 +8737,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guice",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.sonatype.sisu:sisu-guice",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Sonatype",
             "versionInfo": "2.1.7"
         },
         {
             "SPDXID": "SPDXRef-Package-dd0462204c2df2e9",
+            "description": "Patched build of Guice: a lightweight dependency injection framework for Java 7 and above",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8568,15 +8758,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guice",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.sonatype.sisu:sisu-guice",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Sonatype",
             "versionInfo": "2.1.7"
         },
         {
             "SPDXID": "SPDXRef-Package-5b1ce7a554a9442a",
+            "description": "forge-parent",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8586,15 +8779,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://sisu.sonatype.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.sonatype.sisu:sisu-inject-bean",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Sonatype",
             "versionInfo": "1.4.2"
         },
         {
             "SPDXID": "SPDXRef-Package-965e7587c7c6e66a",
+            "description": "forge-parent",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8604,15 +8800,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://sisu.sonatype.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.sonatype.sisu:sisu-inject-bean",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Sonatype",
             "versionInfo": "1.4.2"
         },
         {
             "SPDXID": "SPDXRef-Package-3289b0184307c0e2",
+            "description": "forge-parent",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8622,15 +8821,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://sisu.sonatype.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.sonatype.sisu:sisu-inject-plexus",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/dmaap-bc/pom.xml",
+            "supplier": "Organization: Sonatype",
             "versionInfo": "1.4.2"
         },
         {
             "SPDXID": "SPDXRef-Package-4209d8f2db60b40d",
+            "description": "forge-parent",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8640,11 +8842,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://sisu.sonatype.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.sonatype.sisu:sisu-inject-plexus",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dmaap-buscontroller/pom.xml",
+            "supplier": "Organization: Sonatype",
             "versionInfo": "1.4.2"
         },
         {
@@ -9190,7 +9394,7 @@
             "versionInfo": "1.30"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-ed49314b661783c9",
+            "SPDXID": "SPDXRef-Filesystem-9b9ff0f5c540b86f",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
@@ -14306,26 +14510,26 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-ed49314b661783c9",
+            "relatedSpdxElement": "SPDXRef-Filesystem-9b9ff0f5c540b86f",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ed49314b661783c9",
+            "spdxElementId": "SPDXRef-Filesystem-9b9ff0f5c540b86f",
             "relatedSpdxElement": "SPDXRef-onap-dmaap-dmaap",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ed49314b661783c9",
+            "spdxElementId": "SPDXRef-Filesystem-9b9ff0f5c540b86f",
             "relatedSpdxElement": "SPDXRef-onap-dmaap-dmaap-buscontroller",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ed49314b661783c9",
+            "spdxElementId": "SPDXRef-Filesystem-9b9ff0f5c540b86f",
             "relatedSpdxElement": "SPDXRef-onap-dmaap-dmaap-datarouter",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ed49314b661783c9",
+            "spdxElementId": "SPDXRef-Filesystem-9b9ff0f5c540b86f",
             "relatedSpdxElement": "SPDXRef-onap-dmaap-dmaap-kafka11aaf",
             "relationshipType": "CONTAINS"
         }
