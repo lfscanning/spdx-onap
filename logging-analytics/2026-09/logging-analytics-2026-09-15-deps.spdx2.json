@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T07:49:13Z",
+        "created": "2026-09-27T03:02:12Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -19,9 +19,9 @@
             "licenseId": "LicenseRef-NOASSERTION"
         }
     ],
-    "name": "/tmp/tmpt61zg7ld/code",
+    "name": "/tmp/tmpadm8x030/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpt61zg7ld/code-e2073e26-080a-4b0a-99fa-e5a4771533ed",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpadm8x030/code-4d9b5b33-c26b-4781-9e9f-821660149d22",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-99af1b8c29c76230",
@@ -179,6 +179,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-2644bf093fa4f551",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -188,15 +189,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.2.13"
         },
         {
             "SPDXID": "SPDXRef-Package-5972b24d7704ad1",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -206,15 +210,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.2.13"
         },
         {
             "SPDXID": "SPDXRef-Package-722a61dd2aa6ac3",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -224,15 +231,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.2.13"
         },
         {
             "SPDXID": "SPDXRef-Package-73bf5fea44a8ded6",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -242,15 +252,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-library/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.2.13"
         },
         {
             "SPDXID": "SPDXRef-Package-766bbb5dfe4d9d0",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -260,15 +273,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.2.13"
         },
         {
             "SPDXID": "SPDXRef-Package-dd9d52e6d64d0c61",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -278,15 +294,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.2.13"
         },
         {
             "SPDXID": "SPDXRef-Package-ebd75a3de5fe0f50",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -296,11 +315,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-slf4j-demo/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.2.13"
         },
         {
@@ -578,6 +599,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-186993e8acc1b086",
+            "description": "Support for reading and writing Smile (\"binary JSON\")\nencoded data using Jackson abstractions (streaming API, data binding,\ntree model)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -587,15 +609,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-dataformats-binary",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.dataformat:jackson-dataformat-smile",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "2.8.6"
         },
         {
             "SPDXID": "SPDXRef-Package-92c00c5b2aa489c4",
+            "description": "Support for reading and writing Smile (\"binary JSON\")\nencoded data using Jackson abstractions (streaming API, data binding,\ntree model)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -605,15 +630,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-dataformats-binary",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.dataformat:jackson-dataformat-smile",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "2.8.6"
         },
         {
             "SPDXID": "SPDXRef-Package-fada93c756842414",
+            "description": "Support for reading and writing Smile (\"binary JSON\")\nencoded data using Jackson abstractions (streaming API, data binding,\ntree model)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -623,11 +651,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-dataformats-binary",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.fasterxml.jackson.dataformat:jackson-dataformat-smile",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "2.8.6"
         },
         {
@@ -947,6 +977,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-96bf92ac7f68bbea",
+            "description": "Simplified, lightweight HTTP client library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -956,15 +987,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://unirest.io/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "MIT",
             "name": "com.mashape.unirest:unirest-java",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-slf4j-demo/pom.xml",
+            "supplier": "Organization: Kong",
             "versionInfo": "1.4.9"
         },
         {
             "SPDXID": "SPDXRef-Package-ade6b8801c1728ef",
+            "description": "Simplified, lightweight HTTP client library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -974,15 +1008,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://unirest.io/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "MIT",
             "name": "com.mashape.unirest:unirest-java",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Kong",
             "versionInfo": "1.4.9"
         },
         {
             "SPDXID": "SPDXRef-Package-e09ae9623307e7a6",
+            "description": "Simplified, lightweight HTTP client library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -992,15 +1029,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://unirest.io/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "MIT",
             "name": "com.mashape.unirest:unirest-java",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Kong",
             "versionInfo": "1.4.9"
         },
         {
             "SPDXID": "SPDXRef-Package-1b85efbf392e1e32",
+            "description": "Genson library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1010,15 +1050,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://genson.io",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.owlike:genson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: owlike",
             "versionInfo": "1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-482fad82fb0fa751",
+            "description": "Genson library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1028,15 +1071,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://genson.io",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.owlike:genson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: owlike",
             "versionInfo": "1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-796a34cb9d22b48b",
+            "description": "Genson library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1046,11 +1092,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://genson.io",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.owlike:genson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: owlike",
             "versionInfo": "1.1"
         },
         {
@@ -2005,6 +2053,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-41431d5a3d075701",
+            "description": "Annotations Package",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2014,6 +2063,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.tomcat:tomcat-annotations-api",
@@ -2023,6 +2073,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-8954834b3c81aa58",
+            "description": "Annotations Package",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2032,6 +2083,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.tomcat:tomcat-annotations-api",
@@ -2041,6 +2093,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-bd24bc7a94a9b75",
+            "description": "Annotations Package",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2050,6 +2103,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://tomcat.apache.org/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.apache.tomcat:tomcat-annotations-api",
@@ -2416,6 +2470,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5798058cfc5e37f2",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2425,15 +2480,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:aopalliance-repackaged",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-c8c0430d876fe8cf",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2443,15 +2501,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:aopalliance-repackaged",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-e43cbbf3455c1391",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2461,15 +2522,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:aopalliance-repackaged",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-546fe7901fc5b5ff",
+            "description": "org.objectweb.asm.all version 6.0_ALPHA repackaged as a module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2479,15 +2543,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "(BSD-3-Clause AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:asm-all-repackaged",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-a4847742620389f9",
+            "description": "org.objectweb.asm.all version 6.0_ALPHA repackaged as a module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2497,15 +2564,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "(BSD-3-Clause AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:asm-all-repackaged",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-db88f09062b785f9",
+            "description": "org.objectweb.asm.all version 6.0_ALPHA repackaged as a module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2515,15 +2585,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "(BSD-3-Clause AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:asm-all-repackaged",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-215d67ebfa772c66",
+            "description": "Injection API (JSR 330) version ${javax.inject.version} repackaged as OSGi bundle",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2533,15 +2606,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:javax.inject",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-772a5924bbca6891",
+            "description": "Injection API (JSR 330) version ${javax.inject.version} repackaged as OSGi bundle",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2551,15 +2627,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:javax.inject",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-bc7964e7a6fc1b35",
+            "description": "Injection API (JSR 330) version ${javax.inject.version} repackaged as OSGi bundle",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2569,15 +2648,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2.external:javax.inject",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-14a282c2b79f2d86",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2587,15 +2669,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.glassfish.hk2:class-model",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-9787412c2e957be1",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2605,15 +2690,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.glassfish.hk2:class-model",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-b45f5daa6cbe58cc",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2623,15 +2711,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.glassfish.hk2:class-model",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-328e9d0224904c97",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2641,15 +2732,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:config-types",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-9e17ed1a266be662",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2659,15 +2753,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:config-types",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-b27888cfab23381d",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2677,15 +2774,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:config-types",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-3f046e717e66c8e5",
+            "description": "This is so that other modules can depend on HK2 as an HK2 module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2695,15 +2795,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-7d540c90249ca4bc",
+            "description": "This is so that other modules can depend on HK2 as an HK2 module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2713,15 +2816,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-a6fa6fc30a3255d2",
+            "description": "This is so that other modules can depend on HK2 as an HK2 module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2731,15 +2837,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-8d111db38ef64bfa",
+            "description": "HK2 API module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2749,15 +2858,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-b825216273f51c7c",
+            "description": "HK2 API module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2767,15 +2879,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-fd89b433cdc2df7f",
+            "description": "HK2 API module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2785,15 +2900,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-7a3d3fa431959d44",
+            "description": "HK2 configuration module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2803,15 +2921,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:hk2-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-c0034b23d118b564",
+            "description": "HK2 configuration module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2821,15 +2942,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:hk2-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-fa993f6127d61029",
+            "description": "HK2 configuration module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2839,15 +2963,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://javaee.github.io/hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:hk2-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Java EE",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-4db280609bf75277",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2857,15 +2984,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:hk2-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-65eec9627224e034",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2875,15 +3005,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:hk2-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-97310cb85cc7300a",
+            "description": "Dependency Injection Kernel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2893,15 +3026,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:hk2-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-9398895c219ba0c7",
+            "description": "ServiceLocator Default Implementation",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2911,15 +3047,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-locator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-997409f8bcc7e6a",
+            "description": "ServiceLocator Default Implementation",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2929,15 +3068,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-locator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-f7c9a6d8ec68773",
+            "description": "ServiceLocator Default Implementation",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2947,15 +3089,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-locator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-32e0adc406297c66",
+            "description": "Run Level Service",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2965,15 +3110,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-runlevel",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-7103d821f191cb86",
+            "description": "Run Level Service",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2983,15 +3131,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-runlevel",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-e181f32a3f69b487",
+            "description": "Run Level Service",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3001,15 +3152,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-runlevel",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-2d06a4917bfa5fd7",
+            "description": "HK2 Implementation Utilities",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3019,15 +3173,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-utils",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-73800c13c2e65e99",
+            "description": "HK2 Implementation Utilities",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3037,15 +3194,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-utils",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-da689f4a208120c9",
+            "description": "HK2 Implementation Utilities",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3055,11 +3215,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.hk2:hk2-utils",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
@@ -3127,6 +3289,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-422b863820d1044c",
+            "description": "HK2 Spring Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3136,15 +3299,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:spring-bridge",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-ae8b5ac768fa9ff3",
+            "description": "HK2 Spring Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3154,15 +3320,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:spring-bridge",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-d21791a5f44e3ae8",
+            "description": "HK2 Spring Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3172,15 +3341,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/glassfish-hk2",
             "licenseConcluded": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "licenseDeclared": "CDDL-1.1 OR LicenseRef-NOASSERTION",
             "name": "org.glassfish.hk2:spring-bridge",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.4.0-b34"
         },
         {
             "SPDXID": "SPDXRef-Package-3271fc1f28f0c577",
+            "description": "Jersey Guava Repackaged",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3190,6 +3362,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jersey.java.net/",
             "licenseConcluded": "(CDDL-1.1 AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.jersey.bundles.repackaged:jersey-guava",
@@ -3199,6 +3372,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-91a3871266d223cc",
+            "description": "Jersey Guava Repackaged",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3208,6 +3382,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jersey.java.net/",
             "licenseConcluded": "(CDDL-1.1 AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.jersey.bundles.repackaged:jersey-guava",
@@ -3217,6 +3392,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a485291c129da55b",
+            "description": "Jersey Guava Repackaged",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3226,6 +3402,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jersey.java.net/",
             "licenseConcluded": "(CDDL-1.1 AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.jersey.bundles.repackaged:jersey-guava",
@@ -3550,6 +3727,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5346d98b03ed1df",
+            "description": "Jersey extension module providing support for Entity Data Filtering.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3559,15 +3737,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(CDDL-1.1 AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0 OR (CDDL-1.1 AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "name": "org.glassfish.jersey.ext:jersey-entity-filtering",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-ef2d371507ac53cc",
+            "description": "Jersey extension module providing support for Entity Data Filtering.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3577,15 +3758,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(CDDL-1.1 AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0 OR (CDDL-1.1 AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "name": "org.glassfish.jersey.ext:jersey-entity-filtering",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-f3db7239da49e332",
+            "description": "Jersey extension module providing support for Entity Data Filtering.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3595,15 +3779,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "(CDDL-1.1 AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0 OR (CDDL-1.1 AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "name": "org.glassfish.jersey.ext:jersey-entity-filtering",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-f71118ed223ba1d2",
+            "description": "Jersey extension module providing support for Spring 3 integration.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3613,6 +3800,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jersey.java.net/",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0 OR (CDDL-1.1 AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "name": "org.glassfish.jersey.ext:jersey-spring3",
@@ -3622,6 +3810,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-f8617c7b536e207d",
+            "description": "Jersey extension module providing support for Spring 3 integration.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3631,6 +3820,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jersey.java.net/",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0 OR (CDDL-1.1 AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "name": "org.glassfish.jersey.ext:jersey-spring3",
@@ -3640,6 +3830,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-f933df4f74c606ba",
+            "description": "Jersey extension module providing support for Spring 3 integration.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3649,6 +3840,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jersey.java.net/",
             "licenseConcluded": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0 OR (CDDL-1.1 AND GPL-2.0-only WITH Classpath-exception-2.0)",
             "name": "org.glassfish.jersey.ext:jersey-spring3",
@@ -3721,6 +3913,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-23c0e739ebe4a5c2",
+            "description": "Jersey JSON Jackson (2.x) entity providers support module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3730,15 +3923,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.glassfish.jersey.media:jersey-media-json-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-4c1c45a08eff4a4a",
+            "description": "Jersey JSON Jackson (2.x) entity providers support module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3748,15 +3944,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.glassfish.jersey.media:jersey-media-json-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-8833ca3c5c275174",
+            "description": "Jersey JSON Jackson (2.x) entity providers support module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3766,15 +3965,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.glassfish.jersey.media:jersey-media-json-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-c8033076e3b33398",
+            "description": "Jersey Multipart entity providers support module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3784,15 +3986,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.jersey.media:jersey-media-multipart",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-ce5fd9e84fde80fc",
+            "description": "Jersey Multipart entity providers support module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3802,15 +4007,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.jersey.media:jersey-media-multipart",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-ddc34dec5ecda637",
+            "description": "Jersey Multipart entity providers support module.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3820,15 +4028,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.glassfish.jersey.media:jersey-media-multipart",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.23"
         },
         {
             "SPDXID": "SPDXRef-Package-4fa84d83619b30e0",
+            "description": "Aggregator of the Hibernate Validator modules.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3838,15 +4049,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://hibernate.org/validator",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.hibernate:hibernate-validator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Hibernate",
             "versionInfo": "5.3.6.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-ae458238cee9561d",
+            "description": "Aggregator of the Hibernate Validator modules.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3856,15 +4070,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://hibernate.org/validator",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.hibernate:hibernate-validator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Hibernate",
             "versionInfo": "5.3.6.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-d19e057ab4ac2646",
+            "description": "Aggregator of the Hibernate Validator modules.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3874,15 +4091,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://hibernate.org/validator",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.hibernate:hibernate-validator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-slf4j-demo/pom.xml",
+            "supplier": "Organization: Hibernate",
             "versionInfo": "5.3.6.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-23376a6d73b65304",
+            "description": "Javassist (JAVA programming ASSISTant) makes Java bytecode manipulation\n simple. It is a class library for editing bytecodes in Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3892,15 +4112,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.javassist.org/",
             "licenseConcluded": "(Apache-2.0 AND LGPL-2.1-only AND MPL-1.1) OR LGPL-2.1-or-later OR (Apache-2.0 AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "Apache-2.0 AND LGPL-2.1 AND LGPL-2.1-only AND MPL-1.1",
             "name": "org.javassist:javassist",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: jboss-javassist",
             "versionInfo": "3.18.1-GA"
         },
         {
             "SPDXID": "SPDXRef-Package-90b02c5158611d6d",
+            "description": "Javassist (JAVA programming ASSISTant) makes Java bytecode manipulation\n simple. It is a class library for editing bytecodes in Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3910,15 +4133,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.javassist.org/",
             "licenseConcluded": "(Apache-2.0 AND LGPL-2.1-only AND MPL-1.1) OR LGPL-2.1-or-later OR (Apache-2.0 AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "Apache-2.0 AND LGPL-2.1 AND LGPL-2.1-only AND MPL-1.1",
             "name": "org.javassist:javassist",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: jboss-javassist",
             "versionInfo": "3.18.1-GA"
         },
         {
             "SPDXID": "SPDXRef-Package-e5d7e9ba5342f875",
+            "description": "Javassist (JAVA programming ASSISTant) makes Java bytecode manipulation\n simple. It is a class library for editing bytecodes in Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3928,11 +4154,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.javassist.org/",
             "licenseConcluded": "(Apache-2.0 AND LGPL-2.1-only AND MPL-1.1) OR LGPL-2.1-or-later OR (Apache-2.0 AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "Apache-2.0 AND LGPL-2.1 AND LGPL-2.1-only AND MPL-1.1",
             "name": "org.javassist:javassist",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: jboss-javassist",
             "versionInfo": "3.18.1-GA"
         },
         {
@@ -4000,6 +4228,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-bd2298092404392d",
+            "description": "JSON is a light-weight, language independent, data interchange format.\n See http://www.JSON.org/\n\n The files in this package implement JSON encoders/decoders in Java.\n It also includes the capability to convert between JSON and XML, HTTP\n headers, Cookies, and CDL.\n\n This is a reference implementation. There are a large number of JSON packages\n in Java. Perhaps someday the Java community will standardize on one. Until\n then, choose carefully.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4009,15 +4238,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/douglascrockford/JSON-java",
             "licenseConcluded": "JSON",
             "licenseDeclared": "JSON",
             "name": "org.json:json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-slf4j-demo/pom.xml",
+            "supplier": "Organization: Sean Leary",
             "versionInfo": "20140107"
         },
         {
             "SPDXID": "SPDXRef-Package-eda6c06e3ff55370",
+            "description": "JSON is a light-weight, language independent, data interchange format.\n See http://www.JSON.org/\n\n The files in this package implement JSON encoders/decoders in Java.\n It also includes the capability to convert between JSON and XML, HTTP\n headers, Cookies, and CDL.\n\n This is a reference implementation. There are a large number of JSON packages\n in Java. Perhaps someday the Java community will standardize on one. Until\n then, choose carefully.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4027,15 +4259,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/douglascrockford/JSON-java",
             "licenseConcluded": "JSON",
             "licenseDeclared": "JSON",
             "name": "org.json:json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Sean Leary",
             "versionInfo": "20140107"
         },
         {
             "SPDXID": "SPDXRef-Package-fb2ea861646876db",
+            "description": "JSON is a light-weight, language independent, data interchange format.\n See http://www.JSON.org/\n\n The files in this package implement JSON encoders/decoders in Java.\n It also includes the capability to convert between JSON and XML, HTTP\n headers, Cookies, and CDL.\n\n This is a reference implementation. There are a large number of JSON packages\n in Java. Perhaps someday the Java community will standardize on one. Until\n then, choose carefully.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4045,15 +4280,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/douglascrockford/JSON-java",
             "licenseConcluded": "JSON",
             "licenseDeclared": "JSON",
             "name": "org.json:json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Sean Leary",
             "versionInfo": "20140107"
         },
         {
             "SPDXID": "SPDXRef-Package-19a1cc4eaf48ac59",
+            "description": "Provides a streaming API to access attachments parts in a MIME message.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4063,15 +4301,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/metro-mimepull",
             "licenseConcluded": "((CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0) AND ((GPL-2.0-only OR CDDL-1.1) AND (GPL-2.0-only WITH Classpath-exception-2.0 OR CDDL-1.1)) AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.jvnet.mimepull:mimepull",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "1.9.6"
         },
         {
             "SPDXID": "SPDXRef-Package-296fc6f179754a35",
+            "description": "Provides a streaming API to access attachments parts in a MIME message.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4081,15 +4322,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/metro-mimepull",
             "licenseConcluded": "((CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0) AND ((GPL-2.0-only OR CDDL-1.1) AND (GPL-2.0-only WITH Classpath-exception-2.0 OR CDDL-1.1)) AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.jvnet.mimepull:mimepull",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "1.9.6"
         },
         {
             "SPDXID": "SPDXRef-Package-3da35942351c6785",
+            "description": "Provides a streaming API to access attachments parts in a MIME message.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4099,15 +4343,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/metro-mimepull",
             "licenseConcluded": "((CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0) AND ((GPL-2.0-only OR CDDL-1.1) AND (GPL-2.0-only WITH Classpath-exception-2.0 OR CDDL-1.1)) AND CDDL-1.1) OR GPL-2.0-only WITH Classpath-exception-2.0",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.jvnet.mimepull:mimepull",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "1.9.6"
         },
         {
             "SPDXID": "SPDXRef-Package-343d3b3ae70f98c1",
+            "description": "Java.net - The Source for Java Technology Collaboration",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4117,6 +4364,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://java.net/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.jvnet:tiger-types",
@@ -4126,6 +4374,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-56885b60e4101541",
+            "description": "Java.net - The Source for Java Technology Collaboration",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4135,6 +4384,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://java.net/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.jvnet:tiger-types",
@@ -4144,6 +4394,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-99cd96d84de12356",
+            "description": "Java.net - The Source for Java Technology Collaboration",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4153,6 +4404,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://java.net/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "org.jvnet:tiger-types",
@@ -5296,6 +5548,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-195b42e050ef6162",
+            "description": "Jakarta/Apache commons logging 1.2 implemented over SLF4J",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5305,15 +5558,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "MIT",
             "name": "org.slf4j:jcl-over-slf4j",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.7.26"
         },
         {
             "SPDXID": "SPDXRef-Package-1e5df1092f5e6358",
+            "description": "Jakarta/Apache commons logging 1.2 implemented over SLF4J",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5323,15 +5579,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "MIT",
             "name": "org.slf4j:jcl-over-slf4j",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.7.26"
         },
         {
             "SPDXID": "SPDXRef-Package-99fb476e42a76384",
+            "description": "Jakarta/Apache commons logging 1.2 implemented over SLF4J",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5341,11 +5600,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "MIT",
             "name": "org.slf4j:jcl-over-slf4j",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-slf4j-demo/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.7.26"
         },
         {
@@ -5413,6 +5674,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-34fbbdbdb735934f",
+            "description": "Log4j implemented over SLF4J",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5422,15 +5684,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.slf4j:log4j-over-slf4j",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.7.26"
         },
         {
             "SPDXID": "SPDXRef-Package-c74ab0b4cab347ec",
+            "description": "Log4j implemented over SLF4J",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5440,15 +5705,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.slf4j:log4j-over-slf4j",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-slf4j-demo/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.7.26"
         },
         {
             "SPDXID": "SPDXRef-Package-dc6f1e8f2faedf54",
+            "description": "Log4j implemented over SLF4J",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5458,11 +5726,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.slf4j:log4j-over-slf4j",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.7.26"
         },
         {
@@ -7420,6 +7690,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-26bb8a813de0f33d",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7429,15 +7700,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-library/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-6e00f7201824743",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7447,15 +7721,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-7529eab1b600d678",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7465,15 +7742,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.21"
         },
         {
             "SPDXID": "SPDXRef-Package-a423c47c9e0f7418",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7483,15 +7763,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.21"
         },
         {
             "SPDXID": "SPDXRef-Package-ac9af3d851ef03e",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7501,15 +7784,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-filter/logging-filter-spring/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.21"
         },
         {
             "SPDXID": "SPDXRef-Package-af92525cb6ae5fbc",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7519,15 +7805,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-b8f5c315dd4453ed",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7537,15 +7826,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-dfdd9be010b8f2c",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7555,11 +7847,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-filter/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.21"
         },
         {
@@ -7774,6 +8068,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3095ee310679a8d",
+            "description": "Spring Object/XML Marshalling",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7783,15 +8078,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-oxm",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-7508e02663d2b466",
+            "description": "Spring Object/XML Marshalling",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7801,15 +8099,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-oxm",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-7fa78ec8175beaa0",
+            "description": "Spring Object/XML Marshalling",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7819,15 +8120,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-oxm",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-8b1d54e4ed00900",
+            "description": "Spring Object/XML Marshalling",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7837,15 +8141,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-oxm",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-library/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-be2fc4863644d658",
+            "description": "Spring Object/XML Marshalling",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7855,15 +8162,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-oxm",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-e504c6dd39840fa5",
+            "description": "Spring Object/XML Marshalling",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7873,11 +8183,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-oxm",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
@@ -8029,6 +8341,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1253c853f19a1124",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8038,15 +8351,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-2f49b9ced4c658a3",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8056,15 +8372,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-demo/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-614b749eb2f2bdf0",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8074,15 +8393,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/logging-library/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-7fcd20930d881988",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8092,15 +8414,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-93ba96afe1677629",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8110,15 +8435,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-f27889fc80fbe43f",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8128,11 +8456,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: logging-analytics/reference/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "5.1.2.RELEASE"
         },
         {
@@ -8742,7 +9072,7 @@
             "versionInfo": "1.17"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-49b0914a29fcd68c",
+            "SPDXID": "SPDXRef-Filesystem-ba074a8f2168f418",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
@@ -13994,11 +14324,11 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-49b0914a29fcd68c",
+            "relatedSpdxElement": "SPDXRef-Filesystem-ba074a8f2168f418",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-49b0914a29fcd68c",
+            "spdxElementId": "SPDXRef-Filesystem-ba074a8f2168f418",
             "relatedSpdxElement": "SPDXRef-onap-logging-analytics-logging-analytics",
             "relationshipType": "CONTAINS"
         }
