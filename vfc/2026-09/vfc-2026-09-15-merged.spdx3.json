@@ -1,0 +1,1485 @@
+{
+    "@context": "https://spdx.org/rdf/3.0.1/spdx-context.jsonld",
+    "@graph": [
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo0",
+            "created": "2026-09-27T02:49:10Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd3",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd2",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd7"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd0",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd1",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd4",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd5",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd6"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo1",
+            "comment": "This is a generated SPDX License object from the SPDX license list",
+            "created": "2026-09-16T00:00:00Z",
+            "createdBy": [
+                "https://spdx.org/licenses/creatoragent/3_29_0"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo2",
+            "created": "2026-09-27T02:49:10Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd120",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd115",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd116"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd117",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd114",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd113",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd119",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd118"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd10",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd100",
+            "expandedlicensing_member": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd101",
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_DisjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd101",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd102",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project onap"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd103",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd98",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd104"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd104",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd105"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_DisjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd105",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd106",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd107"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd107",
+            "expandedlicensing_member": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd108",
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_DisjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd108",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd109",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project onap"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "29b3eef8c37e986f5cb582b01b6427031dfb64e0",
+            "software_sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd93",
+            "comment": "This package was added to the Trivy analysis for the vfc/nfvo/db by the Scaffold tool SBOM augmentation",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-nfvo-db"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd110",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd111"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd111",
+            "expandedlicensing_member": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd112",
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_DisjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd112",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd115",
+            "creationInfo": "_:CreationInfo2",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd116",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd12",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd13"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd120",
+            "creationInfo": "_:CreationInfo2",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "expandedlicensing_CustomLicense",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd121",
+            "simplelicensing_licenseText": "Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.\nWhen software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models.",
+            "comment": "",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Dual-license"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd13",
+            "software_copyrightText": "Copyright 2018 ZTE Corporation.",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/assembly.xml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "bf6fa7aaac0a28d028ebd7811854b159"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "ce239d9f52dbf67055d90dfd43ad02a92d2cba20"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "22bb28dfda8864ee532e3be5d19fe772668db78a84e08e5df361b18b62f34205"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd14",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd13",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd15",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd13",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd16",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd17"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd17",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/releases/1.3.1.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "ad37c4c4ef4093dd8c83d55eb4be88cb"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "930fab017533e2515c8534b63a4105e37b45b9c1"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "09ea5d25d2b991960f9b14b4cb0e46c6f6a979e0a3968f93c7764753d8d643fd"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd18",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd17",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd19",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd17",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd2",
+            "creationInfo": "_:CreationInfo0",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd20",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd21"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd21",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/releases/1.3.4-container.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "066c6ab45c14bccd84b5ae215938dfc94d35be942474888ba69f95bb0d10db14"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "d2fab9b76781a71ccc09bdc35ad46d5c"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "88f6f2f743fa560505c920f29b31be9c4ed9c205"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd22",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd21",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd23",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd21",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd24",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd25"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd25",
+            "software_attributionText": [
+                "952\n952\n952"
+            ],
+            "software_copyrightText": "copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must inclu\ncopyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.\ncopyright. More considerations for licensors: wiki.creativecommons.org/Considerations_for_licensors\ncopyright--then that use is not regulated by the license. Our\ncopyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More_considerations for the public:\nCopyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\ncopyright and/or similar rights\ncopyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights\nCopyright Treaty adopted on December 20, 1996, and/or similar international agreements.\ncopyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\ncopyright notice;\nCopyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/docker/LICENSE",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "629588b61ccde8ddb05ae87cab3f3e06"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "e63713a22a34eb8876d9d46e6368ab61b582de78d56d439a040885f04dcc495c"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "ce2c906b171b14784e95be74c7c5fadeb13cfbd5"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd26",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd27"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_DisjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd27",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd28",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd29",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd3",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd30",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd31"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd31",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/releases/1.3.5-container.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "25562a4b495d710848f0f8b1ae91ee897ccbccd4d097005b39d158b60bb3836c"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "63c9688449e2a71a070837d1cec67283"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "4594302374afc341e318b7058f3b9150b66b269c"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd32",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd31",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd33",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd31",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd34",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd35"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd35",
+            "software_copyrightText": "2025 The Linux Foundation SPDX-License-Identifier: Apache-2.0",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/.github/dependabot.yml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "0b021e1a53d761ce8c7acda4a444779fedbab8f7"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "1e65a347696d7b3d8fadfd5223616266c046e3ac5464f177d0d0dcc9d06d27fd"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "334125da760705de54ffbf63bc14f2a4"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd36",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd35",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd37",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd35",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd38",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd39"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd39",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/releases/1.3.3-container.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "2612e576fa4f0dd4d1c91cdf386fd5dd8a04f27ebd9421683676a91026106b81"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "2918cc36b53814921c6da10c06b8f35c"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "3cd14bc1900487a76b877fe4b14daaf9b7afda99"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd40",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd39",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd41",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd39",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd42",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd43"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd43",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/INFO.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "d047810ccbb1a1403d04150c79a068a9"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "c741b996250e5a38e0e2b395c83b5083f8e254e304f07d2711fa8654941590a9"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "db79cf8ae140de9180fa40582304d7e008ba05f9"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd44",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd43",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd45",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd43",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd46",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd47"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd47",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/version.properties",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "b7df5542094c79028af36244e6ae1827"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "e3668388574db5f780711a063212f027b4a5adec"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "1ff2fef52f07a9c06133bd560f5e01a695e452f530732c505dfd10890ce23bcd"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd48",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd47",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd49",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd47",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd50",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd51"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd51",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/.gitignore",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "d41d8cd98f00b204e9800998ecf8427e"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd52",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd51",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd53",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd51",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd54",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd55"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd55",
+            "software_downloadLocation": "NOASSERTION",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "application",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-nfvo-db/pom.xml"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd56",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd55",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd57"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd57",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageUrl": "pkg:maven/org.onap.vfc.nfvo.db/vfc-nfvo-db@1.3.5-SNAPSHOT",
+            "software_packageVersion": "1.3.5-SNAPSHOT",
+            "software_sourceInfo": "package found in: vfc-nfvo-db/pom.xml",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "library",
+            "creationInfo": "_:CreationInfo0",
+            "name": "org.onap.vfc.nfvo.db:vfc-nfvo-db"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd58",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd57",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoneLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd59",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd57",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoneLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd60",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd55",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoneLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd61",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd55",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoneLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd62",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd63"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd63",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/docker/Dockerfile",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "f37a0ac742fc5fa66fd39c1d4bbe387a18693968caadc99d49ec412310ecc09b"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "20d10633da62b5e0947bd7b94267e03e"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "4e9a1ea4857d7e7d93fc636608cc30a9d8a77769"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd64",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd63",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd65",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd63",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd66",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd67"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd67",
+            "software_copyrightText": "Copyright 2018 ZTE Corporation.",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/README.md",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "a24e5c65290a6302124a5b93591f4003ddc5f2bdd962cc19fe1628cc5bef0414"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "e127323bf2bbe53e8c37c637b9dc7689"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "b8a2b21f8bf3a6972621f37c390d4e072370647a"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd68",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd67",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd69",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd67",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd7",
+            "creationInfo": "_:CreationInfo0",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd70",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd71"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd71",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/docker/build_image.sh",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "1352ef78c0124fe7f238d7473fd210a4d896708b14d55dd7d6155d78d92a6528"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "ce30146fd2543fcb52be40e5915598a2"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "ab86fad64f4f0671a2ef0d960cacb689f8870632"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd72",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd71",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd73",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd71",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd74",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd75"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd75",
+            "software_copyrightText": "Copyright 2018 ZTE Corporation.",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/pom.xml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "ebaa6e4e345d54f8b39e0c1294dbab916af497399e4384bc63e0afbbb37b2301"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "5005f254628d745b4f29a0ecee2e7c14"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "dfd6d996d3a30dd1a468f510c558432a921f1d3d"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd76",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd75",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd77",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd75",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd78",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd79"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd79",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/docker/docker-env-config.sh",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "d114a50d2c6b6ac8610dfa29f1276ce8c67bd9de29445680b30781ac69dbb63f"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "229be166a88137cd04a91405d37416ad"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "848b7f6593028e136634403f6dccd1b44cc2cf31"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd80",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd79",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd81",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd79",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd82",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd83"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd83",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/docker/instance_run.sh",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "99e9f88abe7d349c657a7f22fdaf23b82753d6ab"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "39aeb01e7f85df3dc57e19f198930285"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "c14ba47cf627cfbeed86f7bf134b6501d8fdd3228859550aec156cffa252accf"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd84",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd83",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd85",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd83",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd86",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd87"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd87",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc-2026-09-15.zip/vfc-nfvo-db/.gitreview",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "737ae1224af74d78ad150c13033b5271"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "c0effc627f0b6f401df533ceadc4968882b09859"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "ff13451eee8c9c0274169e09bcf7a6943c8ce0db020beb87a911313b86564864"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd88",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd87",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd89",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd87",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd9",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "2026-09",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd109",
+            "creationInfo": "_:CreationInfo0",
+            "name": "onap.vfc"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd90",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd91"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd91",
+            "expandedlicensing_member": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd92",
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_DisjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd92",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd93",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project onap"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd94",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd95"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd95",
+            "expandedlicensing_member": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd96",
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_DisjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd96",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd97",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd98"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd98",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "3ab6cafdb7fd2a7371b354cf500f0919e69a385d",
+            "software_sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd102",
+            "comment": "This package was added to the Trivy analysis for the vfc by the Scaffold tool SBOM augmentation",
+            "creationInfo": "_:CreationInfo0",
+            "name": "vfc"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd99",
+            "from": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd98",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd100"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd0",
+            "creationInfo": "_:CreationInfo0",
+            "name": "protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd1",
+            "creationInfo": "_:CreationInfo0",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd113",
+            "creationInfo": "_:CreationInfo2",
+            "name": "protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd114",
+            "creationInfo": "_:CreationInfo2",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd117",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd118",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd119",
+            "creationInfo": "_:CreationInfo2",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd4",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd5",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/additionalToolSPDXRef-gnrtd6",
+            "creationInfo": "_:CreationInfo0",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "SpdxDocument",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/document0",
+            "dataLicense": "http://spdx.org/licenses/CC0-1.0",
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/sbom"
+            ],
+            "creationInfo": "_:CreationInfo2",
+            "name": "/tmp/tmpf6n9hl__/code"
+        },
+        {
+            "type": "software_Sbom",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/sbom",
+            "software_sbomType": [
+                "source"
+            ],
+            "element": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd9"
+            ],
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-onap/vfc/2026-09/onap-vfc-full/58d6e829-18d9-4d0b-a3bc-66d6d8d44a30-specv3/SPDXRef-gnrtd9"
+            ],
+            "creationInfo": "_:CreationInfo2"
+        },
+        {
+            "type": "Agent",
+            "spdxId": "https://spdx.org/licenses/creatoragent/3_29_0",
+            "creationInfo": "_:CreationInfo1",
+            "description": "This object is created and maintained by the SPDX legal team (https://spdx.dev/engage/participate/legal-team/)",
+            "name": "SPDX Legal Team"
+        }
+    ]
+}
