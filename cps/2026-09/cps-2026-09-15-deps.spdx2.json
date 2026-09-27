@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T07:48:23Z",
+        "created": "2026-09-27T03:00:49Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -15,20 +15,12 @@
     "dataLicense": "CC0-1.0",
     "hasExtractedLicensingInfos": [
         {
-            "extractedText": "The Apache Software License, Version 2.0",
-            "licenseId": "LicenseRef-fixed-0x6b4067e12293d0b6"
-        },
-        {
-            "extractedText": "Apache-2.0,Apache-2.0",
-            "licenseId": "LicenseRef-fixed-0xe03614747fc070f"
-        },
-        {
             "extractedText": "The Apache License, Version 2.0",
-            "licenseId": "LicenseRef-fixed-0x6a2407faafa82353"
+            "licenseId": "LicenseRef-fixed-0x2f0cc776464b6412"
         },
         {
             "extractedText": "((EPL-2.0 OR Apache-2.0) AND BSD-3-Clause AND EPL-2.0 AND Classpath-exception-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND ((EPL-2.0 AND BSD-3-Clause AND GPL-2.0-only) AND LicenseRef-scancode-unknown-spdx)) AND (Apache-2.0 AND W3C AND LicenseRef-scancode-public-domain AND OFL-1.1 AND MIT AND GPL-2.0-only AND Classpath-exception-2.0) AND (EPL-2.0 AND MIT) AND (GPL-2.0-only AND Classpath-exception-2.0 AND LicenseRef-scancode-generic-export-compliance) AND BSD-3-Clause",
-            "licenseId": "LicenseRef-fixed-0x77921b166732cc01"
+            "licenseId": "LicenseRef-fixed-0x2bff0aab1689a593"
         },
         {
             "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
@@ -40,9 +32,9 @@
             "licenseId": "LicenseRef-BSD-version-unspecified-"
         }
     ],
-    "name": "/tmp/tmp3wseot86/code",
+    "name": "/tmp/tmpbnvtw4ug/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp3wseot86/code-2640d556-6806-4466-afdd-b59302389a94",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpbnvtw4ug/code-a696e11c-2cad-431e-b61c-58e1a766478e",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-4662e8878f88ba8f",
@@ -375,6 +367,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1f384920827eaebb",
+            "description": "Java bindings and pure Java implementations of LZ4 and XXHash",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -384,15 +377,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/yawkat/lz4-java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "at.yawk.lz4:lz4-java",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Jonas Konrad",
             "versionInfo": "1.10.1"
         },
         {
             "SPDXID": "SPDXRef-Package-23d26043b7332e42",
+            "description": "Java bindings and pure Java implementations of LZ4 and XXHash",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -402,15 +398,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/yawkat/lz4-java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "at.yawk.lz4:lz4-java",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Jonas Konrad",
             "versionInfo": "1.10.1"
         },
         {
             "SPDXID": "SPDXRef-Package-5cadd3d69b5f6334",
+            "description": "Java bindings and pure Java implementations of LZ4 and XXHash",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -420,15 +419,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/yawkat/lz4-java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "at.yawk.lz4:lz4-java",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Jonas Konrad",
             "versionInfo": "1.10.1"
         },
         {
             "SPDXID": "SPDXRef-Package-35fa7e659a3497f",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -438,14 +440,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-service/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-service/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)"
         },
         {
             "SPDXID": "SPDXRef-Package-50e166c001d2b298",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -455,15 +460,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 OR (LGPL-2.1-only AND EPL-2.0 AND LGPL-2.1-only)",
             "licenseDeclared": "EPL-2.0 AND LGPL-2.1 AND LGPL-2.1-only",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.5.38"
         },
         {
             "SPDXID": "SPDXRef-Package-7870b1ba83ddff2c",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -473,14 +481,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)"
         },
         {
             "SPDXID": "SPDXRef-Package-837eb4e7a82af848",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -490,14 +501,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-app/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-app/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)"
         },
         {
             "SPDXID": "SPDXRef-Package-85330bc2473d3841",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -507,14 +521,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)"
         },
         {
             "SPDXID": "SPDXRef-Package-c2196266cf48abc7",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -524,15 +541,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 OR (LGPL-2.1-only AND EPL-2.0 AND LGPL-2.1-only)",
             "licenseDeclared": "EPL-2.0 AND LGPL-2.1 AND LGPL-2.1-only",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.5.34"
         },
         {
             "SPDXID": "SPDXRef-Package-f4ee4b53b3282ea0",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -542,11 +562,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 OR (LGPL-2.1-only AND EPL-2.0 AND LGPL-2.1-only)",
             "licenseDeclared": "EPL-2.0 AND LGPL-2.1 AND LGPL-2.1-only",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.5.34"
         },
         {
@@ -1816,7 +1838,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-828144bf0f0ae908",
-            "description": "Core Hazelcast Module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1826,13 +1847,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "http://www.hazelcast.com/hazelcast/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND CDDL-1.0 AND EPL-2.0 AND Elastic-2.0 AND GPL-2.0-only AND LGPL-2.0-only AND MIT AND LicenseRef-NOASSERTION AND Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND BSD-2-Clause AND MIT AND BSD-3-Clause AND MIT",
             "licenseDeclared": "Apache-2.0",
             "name": "com.hazelcast:hazelcast",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: hazelcast",
             "versionInfo": "5.5.0"
         },
         {
@@ -1890,6 +1909,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6f98ff9d2fcd2c5a",
+            "description": "A library to query and verify JSON",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1899,15 +1919,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/jayway/JsonPath",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.jayway.jsonpath:json-path",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: json-path",
             "versionInfo": "2.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-7eb1b008d0fb885d",
+            "description": "A library to query and verify JSON",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1917,11 +1940,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/jayway/JsonPath",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.jayway.jsonpath:json-path",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: json-path",
             "versionInfo": "2.9.0"
         },
         {
@@ -2722,6 +2747,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-356614ddb64c698c",
+            "description": "A java library that adds some very useful features to Gson, like Date serializing to unix timestamp or RFC3339, method (getter) serialization, pre and post processors and many more. Check out the documentation to learn how to use it!",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2731,15 +2757,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://gsonfire.io",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.gsonfire:gson-fire",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Julio Viera",
             "versionInfo": "1.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-92a56b7166539ead",
+            "description": "A java library that adds some very useful features to Gson, like Date serializing to unix timestamp or RFC3339, method (getter) serialization, pre and post processors and many more. Check out the documentation to learn how to use it!",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2749,15 +2778,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://gsonfire.io",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.gsonfire:gson-fire",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Julio Viera",
             "versionInfo": "1.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-ddc7a7ba86482d39",
+            "description": "A java library that adds some very useful features to Gson, like Date serializing to unix timestamp or RFC3339, method (getter) serialization, pre and post processors and many more. Check out the documentation to learn how to use it!",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2767,11 +2799,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://gsonfire.io",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "io.gsonfire:gson-fire",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-rest/pom.xml",
+            "supplier": "Organization: Julio Viera"
         },
         {
             "SPDXID": "SPDXRef-Package-3e9ffb18fec44110",
@@ -3225,7 +3259,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/micrometer-metrics/tracing-commercial",
-            "licenseConcluded": "LicenseRef-fixed-0x6b4067e12293d0b6",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.micrometer:micrometer-tracing-bridge-otel",
             "primaryPackagePurpose": "LIBRARY",
@@ -3246,7 +3280,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/micrometer-metrics/tracing-commercial",
-            "licenseConcluded": "LicenseRef-fixed-0x6b4067e12293d0b6",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.micrometer:micrometer-tracing-bridge-otel",
             "primaryPackagePurpose": "LIBRARY",
@@ -3612,7 +3646,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-11eed911b67690fa",
-            "description": "A Mavenized fork of Tomcat Native which incorporates various patches. This artifact is dynamically linked\n to OpenSSL and Apache APR.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3622,18 +3655,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/netty/netty-tcnative/",
-            "licenseConcluded": "LicenseRef-fixed-0xe03614747fc070f",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.netty:netty-tcnative",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: The Netty Project",
             "versionInfo": "2.0.81.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-b85acba8ecdd4077",
-            "description": "A Mavenized fork of Tomcat Native which incorporates various patches. This artifact is dynamically linked\n to OpenSSL and Apache APR.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3643,13 +3673,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/netty/netty-tcnative/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.netty:netty-tcnative-classes",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: The Netty Project",
             "versionInfo": "2.0.81.Final"
         },
         {
@@ -3749,7 +3777,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/semantic-conventions-java",
-            "licenseConcluded": "Apache-2.0",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry.semconv:opentelemetry-semconv",
             "primaryPackagePurpose": "LIBRARY",
@@ -3833,7 +3861,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "Apache-2.0",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-common",
             "primaryPackagePurpose": "LIBRARY",
@@ -3843,7 +3871,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-226977f9e4f0840f",
-            "description": "OpenTelemetry Protocol (OTLP) Exporters",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3853,18 +3880,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-otlp",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.62.0"
         },
         {
             "SPDXID": "SPDXRef-Package-327f90fc2a806c64",
-            "description": "OpenTelemetry Protocol (OTLP) Exporters",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3874,18 +3898,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-otlp",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.62.0"
         },
         {
             "SPDXID": "SPDXRef-Package-fbdea7aab5288196",
-            "description": "OpenTelemetry Protocol (OTLP) Exporters",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3895,17 +3916,14 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "io.opentelemetry:opentelemetry-exporter-otlp",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF"
+            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml"
         },
         {
             "SPDXID": "SPDXRef-Package-4978ffd1e2130800",
-            "description": "OpenTelemetry Protocol Exporter",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3915,18 +3933,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-otlp-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.62.0"
         },
         {
             "SPDXID": "SPDXRef-Package-c584a3266dec8d72",
-            "description": "OpenTelemetry OkHttp Senders",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3936,13 +3951,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-sender-okhttp",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.62.0"
         },
         {
@@ -4000,7 +4013,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "Apache-2.0",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-common",
             "primaryPackagePurpose": "LIBRARY",
@@ -4010,7 +4023,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5341418cf5a20053",
-            "description": "OpenTelemetry SDK Auto-configuration",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4020,18 +4032,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "LicenseRef-fixed-0x6a2407faafa82353",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-extension-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.62.0"
         },
         {
             "SPDXID": "SPDXRef-Package-5b5f01b70beb42a6",
-            "description": "OpenTelemetry SDK Auto-configuration",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4041,17 +4050,14 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "io.opentelemetry:opentelemetry-sdk-extension-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF"
+            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml"
         },
         {
             "SPDXID": "SPDXRef-Package-b3c164a597e8e261",
-            "description": "OpenTelemetry SDK Auto-configuration",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4061,13 +4067,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "LicenseRef-fixed-0x6a2407faafa82353",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-extension-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.62.0"
         },
         {
@@ -4083,7 +4087,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "Apache-2.0",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi",
             "primaryPackagePurpose": "LIBRARY",
@@ -4093,7 +4097,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6ca5f34965419f98",
-            "description": "OpenTelemetry - Jaeger Remote sampler",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4103,18 +4106,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "LicenseRef-fixed-0x6a2407faafa82353",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-extension-jaeger-remote-sampler",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.62.0"
         },
         {
             "SPDXID": "SPDXRef-Package-c8158ea3eb579cfa",
-            "description": "OpenTelemetry - Jaeger Remote sampler",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4124,18 +4124,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "LicenseRef-fixed-0x6a2407faafa82353",
+            "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-extension-jaeger-remote-sampler",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.62.0"
         },
         {
             "SPDXID": "SPDXRef-Package-face5ca331c5d9dd",
-            "description": "OpenTelemetry - Jaeger Remote sampler",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4145,13 +4142,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "io.opentelemetry:opentelemetry-sdk-extension-jaeger-remote-sampler",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml",
-            "supplier": "Organization: OpenTelemetry - CNCF"
+            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml"
         },
         {
             "SPDXID": "SPDXRef-Package-4d32659c3c7f2866",
@@ -4166,7 +4161,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "Apache-2.0",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-logs",
             "primaryPackagePurpose": "LIBRARY",
@@ -4187,7 +4182,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "Apache-2.0",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-metrics",
             "primaryPackagePurpose": "LIBRARY",
@@ -4208,7 +4203,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/opentelemetry-java",
-            "licenseConcluded": "Apache-2.0",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-sdk-trace",
             "primaryPackagePurpose": "LIBRARY",
@@ -4218,7 +4213,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-c855f0eb8e6c377a",
-            "description": "Core functionality for the Reactor Netty library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4228,18 +4222,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/reactor/reactor-netty",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.projectreactor.netty:reactor-netty-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Reactor",
             "versionInfo": "1.3.7"
         },
         {
             "SPDXID": "SPDXRef-Package-e9b4a13ab616f152",
-            "description": "HTTP functionality for the Reactor Netty library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4249,17 +4240,16 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/reactor/reactor-netty",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.projectreactor.netty:reactor-netty-http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Reactor",
             "versionInfo": "1.3.7"
         },
         {
             "SPDXID": "SPDXRef-Package-ed4fad71c8a9e463",
+            "description": "Non-Blocking Reactive Foundation for the JVM",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4269,15 +4259,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/reactor/reactor-core",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.projectreactor:reactor-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Reactor",
             "versionInfo": "3.8.7"
         },
         {
             "SPDXID": "SPDXRef-Package-66a2de64cff61822",
+            "description": "Configuration for Prometheus metrics and exposition formats.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4287,15 +4280,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://github.com/prometheus/client_java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.prometheus:prometheus-metrics-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Prometheus",
             "versionInfo": "1.7.0"
         },
         {
             "SPDXID": "SPDXRef-Package-8539931d09d94a8e",
+            "description": "Configuration for Prometheus metrics and exposition formats.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4305,15 +4301,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://github.com/prometheus/client_java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.prometheus:prometheus-metrics-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Prometheus",
             "versionInfo": "1.5.1"
         },
         {
             "SPDXID": "SPDXRef-Package-a244fae35f69db96",
+            "description": "Configuration for Prometheus metrics and exposition formats.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4323,11 +4322,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://github.com/prometheus/client_java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.prometheus:prometheus-metrics-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Prometheus",
             "versionInfo": "1.5.1"
         },
         {
@@ -4584,6 +4585,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-791d4934246714a9",
+            "description": "Common Module for Prometheus integrations with distributed tracing libraries.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4593,15 +4595,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://github.com/prometheus/client_java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.prometheus:prometheus-metrics-tracer-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Prometheus",
             "versionInfo": "1.5.1"
         },
         {
             "SPDXID": "SPDXRef-Package-e24511abc560fbec",
+            "description": "Common Module for Prometheus integrations with distributed tracing libraries.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4611,15 +4616,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://github.com/prometheus/client_java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.prometheus:prometheus-metrics-tracer-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Prometheus",
             "versionInfo": "1.5.1"
         },
         {
             "SPDXID": "SPDXRef-Package-f6396d895cb4c058",
+            "description": "Common Module for Prometheus integrations with distributed tracing libraries.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4629,11 +4637,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://github.com/prometheus/client_java",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.prometheus:prometheus-metrics-tracer-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Prometheus",
             "versionInfo": "1.7.0"
         },
         {
@@ -4902,6 +4912,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-239f46be8c214682",
+            "description": "swagger-annotations-jakarta",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4911,14 +4922,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/swagger-api/swagger-core",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "io.swagger.core.v3:swagger-annotations-jakarta",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Swagger"
         },
         {
             "SPDXID": "SPDXRef-Package-ade91657f7de8b67",
+            "description": "swagger-annotations-jakarta",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4928,14 +4942,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/swagger-api/swagger-core",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "io.swagger.core.v3:swagger-annotations-jakarta",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/pom.xml"
+            "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Swagger"
         },
         {
             "SPDXID": "SPDXRef-Package-db7895d634a5c87d",
+            "description": "swagger-annotations-jakarta",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -4945,11 +4962,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/swagger-api/swagger-core",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "io.swagger.core.v3:swagger-annotations-jakarta",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Swagger"
         },
         {
             "SPDXID": "SPDXRef-Package-719d6e1c9dad5ff4",
@@ -5131,7 +5150,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x77921b166732cc01",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -5152,7 +5171,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x77921b166732cc01",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -5173,7 +5192,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x77921b166732cc01",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -5372,6 +5391,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-28c0b0151b431189",
+            "description": "Jakarta Dependency Injection",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5381,15 +5401,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/injection-api",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (Apache-2.0 AND EPL-2.0)",
             "licenseDeclared": "Apache-2.0 OR (Apache-2.0 AND EPL-2.0)",
             "name": "jakarta.inject:jakarta.inject-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-e3df2f80422c2201",
+            "description": "Jakarta Dependency Injection",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5399,15 +5422,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/injection-api",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (Apache-2.0 AND EPL-2.0)",
             "licenseDeclared": "Apache-2.0 OR (Apache-2.0 AND EPL-2.0)",
             "name": "jakarta.inject:jakarta.inject-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-ee6de2bb8640703b",
+            "description": "Jakarta Dependency Injection",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5417,11 +5443,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/injection-api",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (Apache-2.0 AND EPL-2.0)",
             "licenseDeclared": "Apache-2.0 OR (Apache-2.0 AND EPL-2.0)",
             "name": "jakarta.inject:jakarta.inject-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.0.1"
         },
         {
@@ -6261,6 +6289,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a62e03841e6acd8a",
+            "description": "Java reflect give poor performance on getter setter an constructor calls, accessors-smart use ASM to speed up those calls.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6270,15 +6299,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://urielch.github.io/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "net.minidev:accessors-smart",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: netplex",
             "versionInfo": "2.5.2"
         },
         {
             "SPDXID": "SPDXRef-Package-a81d0f868c7babc8",
+            "description": "Java reflect give poor performance on getter setter an constructor calls, accessors-smart use ASM to speed up those calls.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6288,15 +6320,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://urielch.github.io/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "net.minidev:accessors-smart",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: netplex",
             "versionInfo": "2.5.2"
         },
         {
             "SPDXID": "SPDXRef-Package-18236bca9b698c6a",
+            "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999. JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6306,15 +6341,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://urielch.github.io/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "net.minidev:json-smart",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: netplex",
             "versionInfo": "2.5.2"
         },
         {
             "SPDXID": "SPDXRef-Package-2a95b9fa3d65bbda",
+            "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999. JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6324,11 +6362,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://urielch.github.io/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "net.minidev:json-smart",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: netplex",
             "versionInfo": "2.5.2"
         },
         {
@@ -7227,7 +7267,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-29fa4a985b538597",
-            "description": "checker-qual contains annotations (type qualifiers) that a programmerwrites to specify Java code for type-checking by the Checker Framework.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7237,18 +7276,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://checkerframework.org/",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "org.checkerframework:checker-qual",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/cps-ri/pom.xml",
-            "supplier": "Organization: typetools",
             "versionInfo": "3.52.0"
         },
         {
             "SPDXID": "SPDXRef-Package-80e11b26edbc9487",
-            "description": "checker-qual contains annotations (type qualifiers) that a programmerwrites to specify Java code for type-checking by the Checker Framework.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7258,18 +7294,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://checkerframework.org/",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "org.checkerframework:checker-qual",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: typetools",
             "versionInfo": "3.43.0"
         },
         {
             "SPDXID": "SPDXRef-Package-e98b3708e20dfc4a",
-            "description": "checker-qual contains annotations (type qualifiers) that a programmerwrites to specify Java code for type-checking by the Checker Framework.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7279,13 +7312,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://checkerframework.org/",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "org.checkerframework:checker-qual",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: typetools",
             "versionInfo": "3.52.0"
         },
         {
@@ -7457,7 +7488,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-71c697e9c357a19d",
-            "description": "Stax2 API is an extension to basic Stax 1.0 API that adds significant new functionality, such as full-featured bi-direction validation interface and high-performance Typed Access API.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7467,17 +7497,16 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "http://github.com/FasterXML/stax2-api",
             "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "org.codehaus.woodstox:stax2-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "4.2.2"
         },
         {
             "SPDXID": "SPDXRef-Package-348dcd30f9216b50",
+            "description": "Angus Activation Registries Implementation",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7487,11 +7516,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/angus-activation",
             "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
             "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
             "name": "org.eclipse.angus:angus-activation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.0.3"
         },
         {
@@ -8216,6 +8247,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-42829523796295ed",
+            "description": "Jetty Core WebSocket Client Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8225,15 +8257,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-client",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-8176745afbdac143",
+            "description": "Jetty Core WebSocket Client Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8243,15 +8278,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "EPL-2.0 AND Apache-2.0",
             "licenseDeclared": "EPL-2.0 AND Apache-2.0",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-client",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-d6df22cd6041dfe4",
+            "description": "Jetty Core WebSocket Client Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8261,15 +8299,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-client",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-73aad20d57059dbc",
+            "description": "Jetty Core WebSocket Common Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8279,15 +8320,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "EPL-2.0 AND Apache-2.0",
             "licenseDeclared": "EPL-2.0 AND Apache-2.0",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-b6b9dc00d588266a",
+            "description": "Jetty Core WebSocket Common Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8297,15 +8341,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-f74c62e3735a0449",
+            "description": "Jetty Core WebSocket Common Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8315,15 +8362,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-3ec3d7ed0158d444",
+            "description": "Jetty Core WebSocket Server Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8333,15 +8383,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-d55a3b4a2ac70626",
+            "description": "Jetty Core WebSocket Server Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8351,15 +8404,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-fff8bfb87bd3cc45",
+            "description": "Jetty Core WebSocket Server Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8369,11 +8425,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty.websocket:jetty-websocket-core-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
@@ -8594,7 +8652,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-301ecd7da9a81298",
-            "description": "Jetty Annotations Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8604,18 +8661,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-77c4badc9ddb0119",
-            "description": "Jetty Annotations Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8625,18 +8679,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "EPL-2.0 AND Apache-2.0",
             "licenseDeclared": "EPL-2.0 AND Apache-2.0",
             "name": "org.eclipse.jetty:jetty-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-f759e0fd00b85fad",
-            "description": "Jetty Annotations Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8646,18 +8697,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-5bec6556d678b75a",
-            "description": "Jetty Client API and HTTP/1.1 Implementation Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8667,18 +8715,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-client",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-7004832f5c3e2575",
-            "description": "Jetty Client API and HTTP/1.1 Implementation Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8688,18 +8733,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-client",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-77303e886eb1e71",
-            "description": "Jetty Client API and HTTP/1.1 Implementation Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8709,18 +8751,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-client",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-173b82a026b7c9df",
-            "description": "Jetty HTTP Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8730,18 +8769,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-3ecb30f5ca5636ea",
-            "description": "Jetty HTTP Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8751,18 +8787,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-4d27ad40bde954d6",
-            "description": "Jetty HTTP Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8772,18 +8805,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-243e2a09bd01fc8c",
-            "description": "Jetty I/O Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8793,18 +8823,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-io",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-24474f68f4022e8",
-            "description": "Jetty I/O Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8814,18 +8841,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-io",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-bbcd363d2cd4e8a3",
-            "description": "Jetty I/O Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8835,18 +8859,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-io",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-1c86507feb48374f",
-            "description": "Jetty JNDI and Annotation Support Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8856,18 +8877,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-plus",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-4d10b502a3f555a8",
-            "description": "Jetty JNDI and Annotation Support Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8877,18 +8895,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-plus",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-d670edd7f3392ee8",
-            "description": "Jetty JNDI and Annotation Support Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8898,18 +8913,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "EPL-2.0 AND Apache-2.0",
             "licenseDeclared": "EPL-2.0 AND Apache-2.0",
             "name": "org.eclipse.jetty:jetty-plus",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-2306188e2ede1f9c",
-            "description": "Jetty Server Security Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8919,18 +8931,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-security",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-a453181eec620049",
-            "description": "Jetty Server Security Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8940,18 +8949,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-security",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-be09b64d2b2b4efc",
-            "description": "Jetty Server Security Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8961,18 +8967,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-security",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-3a8e53b15c81af21",
-            "description": "Jetty Server Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8982,18 +8985,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-3adf4931d9937018",
-            "description": "Jetty Server Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9003,18 +9003,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-3da77fe2bab95510",
-            "description": "Jetty Server Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9024,18 +9021,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-61dbb05b0a92aec4",
-            "description": "Jetty Server Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9045,17 +9039,14 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.eclipse.jetty:jetty-server",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-application/pom.xml",
-            "supplier": "Organization: Eclipse Jetty"
+            "sourceInfo": "package found in: cps/cps-application/pom.xml"
         },
         {
             "SPDXID": "SPDXRef-Package-6b3f70f97576e16a",
-            "description": "Jetty Server Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9065,17 +9056,16 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
             "SPDXID": "SPDXRef-Package-31a9a664e810b2aa",
+            "description": "Jetty Session Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9085,15 +9075,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "EPL-2.0 AND Apache-2.0",
             "licenseDeclared": "EPL-2.0 AND Apache-2.0",
             "name": "org.eclipse.jetty:jetty-session",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-bb42af536a407223",
+            "description": "Jetty Session Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9103,15 +9096,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "EPL-2.0 AND Apache-2.0",
             "licenseDeclared": "EPL-2.0 AND Apache-2.0",
             "name": "org.eclipse.jetty:jetty-session",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.10"
         },
         {
             "SPDXID": "SPDXRef-Package-d5a2d7da7f3767ca",
+            "description": "Jetty Session Artifact",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9121,11 +9117,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jetty.org",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "licenseDeclared": "(Apache-2.0 AND EPL-2.0 AND LicenseRef-scancode-unknown-license-reference) OR (EPL-2.0 AND LicenseRef-scancode-unknown-license-reference)",
             "name": "org.eclipse.jetty:jetty-session",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Eclipse Jetty",
             "versionInfo": "12.1.12"
         },
         {
@@ -9301,6 +9299,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-cf4edc50bac86973",
+            "description": "Core API and libraries of hamcrest matcher framework.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9310,11 +9309,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://hamcrest.org/JavaHamcrest/",
             "licenseConcluded": "BSD-3-Clause",
             "licenseDeclared": "BSD-3-Clause",
             "name": "org.hamcrest:hamcrest",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Hamcrest",
             "versionInfo": "3.0"
         },
         {
@@ -9424,6 +9425,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-339d22004873a153",
+            "description": "Hibernate's core ORM functionality",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9433,11 +9435,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://hibernate.org/orm",
             "licenseConcluded": "(Apache-2.0 AND EPL-2.0) OR (BSD-3-Clause AND EPL-2.0)",
             "licenseDeclared": "Apache-2.0",
             "name": "org.hibernate.orm:hibernate-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Hibernate",
             "versionInfo": "7.4.5.Final"
         },
         {
@@ -9589,6 +9593,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4e80c3790ffffc5d",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9598,15 +9603,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/JetBrains/java-annotations",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "26.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-5862e2f353791edd",
+            "description": "An artifact of well-named and well-specified annotations to power static analysis checks",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9616,15 +9624,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jspecify.dev/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jspecify:jspecify",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: jspecify",
             "versionInfo": "1.0.0"
         },
         {
             "SPDXID": "SPDXRef-Package-8797ecf4f7ddfc5f",
+            "description": "An artifact of well-named and well-specified annotations to power static analysis checks",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9634,15 +9645,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jspecify.dev/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jspecify:jspecify",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: jspecify",
             "versionInfo": "1.0.0"
         },
         {
             "SPDXID": "SPDXRef-Package-a16a6a62b4193142",
+            "description": "An artifact of well-named and well-specified annotations to power static analysis checks",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9652,11 +9666,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://jspecify.dev/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jspecify:jspecify",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: jspecify",
             "versionInfo": "1.0.1"
         },
         {
@@ -9785,6 +9801,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-181519058c51b67b",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9794,14 +9811,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.mapstruct:mapstruct",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml",
+            "supplier": "Organization: mapstruct"
         },
         {
             "SPDXID": "SPDXRef-Package-28505def4390e1e9",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9811,14 +9831,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.mapstruct:mapstruct",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-rest/pom.xml",
+            "supplier": "Organization: mapstruct"
         },
         {
             "SPDXID": "SPDXRef-Package-32382f8d39481c8",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9828,15 +9851,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mapstruct:mapstruct",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: mapstruct",
             "versionInfo": "1.6.3"
         },
         {
             "SPDXID": "SPDXRef-Package-4ab8f662e29b7f98",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9846,15 +9872,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mapstruct:mapstruct",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: mapstruct",
             "versionInfo": "1.6.3"
         },
         {
             "SPDXID": "SPDXRef-Package-4c2b84bfcd3dac51",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9864,14 +9893,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.mapstruct:mapstruct",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-rest/pom.xml",
+            "supplier": "Organization: mapstruct"
         },
         {
             "SPDXID": "SPDXRef-Package-4293a4cc6a5fb903",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9881,15 +9913,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct-processor/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mapstruct:mapstruct-processor",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: mapstruct",
             "versionInfo": "1.6.3"
         },
         {
             "SPDXID": "SPDXRef-Package-86bc4386a460d0c2",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9899,14 +9934,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct-processor/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.mapstruct:mapstruct-processor",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-rest/pom.xml",
+            "supplier": "Organization: mapstruct"
         },
         {
             "SPDXID": "SPDXRef-Package-8d6e7354aed207a1",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9916,14 +9954,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct-processor/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.mapstruct:mapstruct-processor",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-rest/pom.xml",
+            "supplier": "Organization: mapstruct"
         },
         {
             "SPDXID": "SPDXRef-Package-b673ebcb695f7feb",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9933,15 +9974,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct-processor/",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mapstruct:mapstruct-processor",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: mapstruct",
             "versionInfo": "1.6.3"
         },
         {
             "SPDXID": "SPDXRef-Package-d54b79befcbda72c",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9951,11 +9995,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct-processor/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.mapstruct:mapstruct-processor",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml",
+            "supplier": "Organization: mapstruct"
         },
         {
             "SPDXID": "SPDXRef-Package-20807dca036df353",
@@ -9980,6 +10026,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6263b1abd25d58a0",
+            "description": "A library for instantiating Java objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9989,11 +10036,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://objenesis.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.objenesis:objenesis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: EasyMock",
             "versionInfo": "3.3"
         },
         {
@@ -13292,7 +13341,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5d0d5ca0429d691e",
-            "description": "PostgreSQL JDBC Driver Postgresql",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13302,18 +13350,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jdbc.postgresql.org",
             "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND (Apache-2.0 AND BSD-2-Clause)",
             "licenseDeclared": "BSD-2-Clause",
             "name": "org.postgresql:postgresql",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Postgresql JDBC",
             "versionInfo": "42.7.9"
         },
         {
             "SPDXID": "SPDXRef-Package-9e6ae38db1b81b68",
-            "description": "PostgreSQL JDBC Driver Postgresql",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13323,18 +13368,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jdbc.postgresql.org",
             "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND (Apache-2.0 AND BSD-2-Clause)",
             "licenseDeclared": "BSD-2-Clause",
             "name": "org.postgresql:postgresql",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/cps-ri/pom.xml",
-            "supplier": "Organization: Postgresql JDBC",
             "versionInfo": "42.7.9"
         },
         {
             "SPDXID": "SPDXRef-Package-efa8bf5466f13e1",
-            "description": "PostgreSQL JDBC Driver Postgresql",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13344,13 +13386,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://jdbc.postgresql.org",
             "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND (Apache-2.0 AND BSD-2-Clause)",
             "licenseDeclared": "BSD-2-Clause",
             "name": "org.postgresql:postgresql",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
-            "supplier": "Organization: Postgresql JDBC",
             "versionInfo": "42.7.9"
         },
         {
@@ -14082,6 +14122,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-83adb7b35a0aafed",
+            "description": "Spring Boot Actuator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14091,15 +14132,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-a71b01509d5ead94",
+            "description": "Spring Boot Actuator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14109,15 +14153,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-de355fdb17c5f20e",
+            "description": "Spring Boot Actuator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14127,15 +14174,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-25430dff1668aad6",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14145,15 +14195,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-512b7bf405fc457a",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14163,15 +14216,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-5fc6820ef9c17b19",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14181,15 +14237,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-849a6c1aa949a306",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14199,15 +14258,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-afee022cecb49d0e",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14217,11 +14279,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-2e915755ef4a782c",
@@ -14288,6 +14352,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-c5a7ebee3d3b5ec8",
+            "description": "Spring Boot Cache",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14297,11 +14362,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-cache",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
@@ -14326,6 +14393,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-94284e4a18d86923",
+            "description": "Spring Boot Data JPA",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14335,11 +14403,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-data-jpa",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
@@ -14398,6 +14468,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-7ab029ee48ce736c",
+            "description": "Spring Boot Hibernate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14407,15 +14478,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-hibernate",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-728bb8597b551460",
+            "description": "Spring Boot HTTP Client",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14425,15 +14499,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-http-client",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-c6b0f9436c2673ae",
+            "description": "Spring Boot HTTP Client",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14443,11 +14520,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-http-client",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
@@ -14662,6 +14741,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-dd5879fec5796fd7",
+            "description": "Spring Boot JPA",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14671,11 +14751,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-jpa",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
@@ -15035,6 +15117,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-ba4af87e84255fac",
+            "description": "Spring Boot Reactor Netty",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15044,15 +15127,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-reactor-netty",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-38d2d7f285880186",
+            "description": "Spring Boot RestClient and RestTemplate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15062,15 +15148,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-restclient",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-c29ad1316b7693b4",
+            "description": "Spring Boot RestClient and RestTemplate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15080,11 +15169,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-restclient",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
@@ -15489,6 +15580,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-40f0ec8a4d8dae9e",
+            "description": "Starter for using aspect-oriented programming with AspectJ",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15498,14 +15590,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-aspectj",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-539190a0829219ff",
+            "description": "Starter for using aspect-oriented programming with AspectJ",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15515,14 +15610,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-aspectj",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-service/pom.xml"
+            "sourceInfo": "package found in: cps/cps-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-7049ff5a119c3347",
+            "description": "Starter for using aspect-oriented programming with AspectJ",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15532,14 +15630,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-aspectj",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-service/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-c0362d31e0404d4b",
+            "description": "Starter for using aspect-oriented programming with AspectJ",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15549,15 +15650,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-aspectj",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-f5cb7553fc2d5563",
+            "description": "Starter for using aspect-oriented programming with AspectJ",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15567,14 +15671,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-aspectj",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-fa0d8064fea59b06",
+            "description": "Starter for using aspect-oriented programming with AspectJ",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15584,15 +15691,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-aspectj",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-4445fa1819e49b4",
+            "description": "Starter for using Spring's caching support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15602,15 +15712,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-cache",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-8307e8fa096bc778",
+            "description": "Starter for using Spring's caching support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15620,14 +15733,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-cache",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-service/pom.xml"
+            "sourceInfo": "package found in: cps/cps-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-a5129366145bf474",
+            "description": "Starter for using Spring's caching support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15637,15 +15753,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-cache",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-5c8530b48f7cbdb5",
+            "description": "Starter for using Spring Data JPA with Hibernate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15655,14 +15774,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-data-jpa",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ri/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ri/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-9a40979e1e02e7a2",
+            "description": "Starter for using Spring Data JPA with Hibernate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15672,15 +15794,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-data-jpa",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-f9ba65f4560b87b3",
+            "description": "Starter for using Spring Data JPA with Hibernate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15690,11 +15815,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-data-jpa",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
@@ -15774,6 +15901,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-10ec22f915106284",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15783,14 +15911,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/policy-executor-stub/pom.xml"
+            "sourceInfo": "package found in: cps/policy-executor-stub/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-11478bb14af8ea36",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15800,14 +15931,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-application/pom.xml"
+            "sourceInfo": "package found in: cps/cps-application/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-1cdc6d8ad9a8534a",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15817,14 +15951,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-21e7578413a035b3",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15834,14 +15971,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-rest-stub/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-rest-stub/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-3a278f29bbeddb74",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15851,15 +15991,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-5f370b49e7770fb",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15869,14 +16012,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-rest/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-795256d540179d05",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15886,14 +16032,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-81122472b371f8ec",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15903,14 +16052,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-rest-stub/cps-ncmp-rest-stub-service/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-rest-stub/cps-ncmp-rest-stub-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-83d5162faff13a87",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15920,14 +16072,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-app/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-app/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-8ec549089d195d02",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15937,14 +16092,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-rest-stub/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-rest-stub/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-947412d3ce57be55",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15954,15 +16112,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-9cb487f112a9525b",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15972,15 +16133,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-a4cfa95e2068ab7d",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15990,14 +16154,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-rest/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-c09e1f57bb05a995",
+            "description": "Starter for using Jetty as the embedded servlet container",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16007,11 +16174,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-jetty",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
@@ -16187,6 +16356,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3e6fa428352bd266",
+            "description": "Starter for using Spring Security's OAuth2 resource server features (deprecated in favor of spring-boot-starter-security-oauth2-resource-server)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16196,15 +16366,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-oauth2-resource-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-457f17f61ae24bb4",
+            "description": "Starter for using Spring Security's OAuth2 resource server features (deprecated in favor of spring-boot-starter-security-oauth2-resource-server)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16214,15 +16387,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-oauth2-resource-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-96d70234fbaa3395",
+            "description": "Starter for using Spring Security's OAuth2 resource server features (deprecated in favor of spring-boot-starter-security-oauth2-resource-server)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16232,11 +16408,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-oauth2-resource-server",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-application/pom.xml"
+            "sourceInfo": "package found in: cps/cps-application/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-fc26c354bd201160",
@@ -16261,6 +16439,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3048ebdd78d92995",
+            "description": "Starter for using Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16270,15 +16449,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-security",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-379262e9093fa226",
+            "description": "Starter for using Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16288,15 +16470,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-security",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-3e8583c070f16e15",
+            "description": "Starter for using Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16306,15 +16491,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-security",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-a2b1524660bdf5c8",
+            "description": "Starter for using Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16324,14 +16512,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-security",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-application/pom.xml"
+            "sourceInfo": "package found in: cps/cps-application/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-fbae7bcbdc230340",
+            "description": "Starter for using Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16341,15 +16532,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-security",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-18e0541c4efef56d",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16359,15 +16553,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-1d92d2b7312362b1",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16377,14 +16574,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-rest/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-398a7eed3e663607",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16394,15 +16594,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-48ce5c61358f9ec7",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16412,14 +16615,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-5bcf7b588eb5e632",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16429,14 +16635,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/policy-executor-stub/pom.xml"
+            "sourceInfo": "package found in: cps/policy-executor-stub/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-60abef83cecd73f7",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16446,14 +16655,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ncmp-rest/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ncmp-rest/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-64b721231244c987",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16463,14 +16675,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-ri/pom.xml"
+            "sourceInfo": "package found in: cps/cps-ri/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-70410c494e9163ce",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16480,15 +16695,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-8893faeaba2490d9",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16498,14 +16716,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-service/pom.xml"
+            "sourceInfo": "package found in: cps/cps-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-a9a8564e9d4b9e77",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16515,15 +16736,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-cbc4bc5864b84790",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16533,14 +16757,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-service/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-d805e581b4a90a54",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16550,11 +16777,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-1dd5f7fcfb7c5bb8",
@@ -17220,6 +17449,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-23319901d5ebbf00",
+            "description": "Spring Kafka Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17229,14 +17459,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.kafka:spring-kafka",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-395d5b7266e25389",
+            "description": "Spring Kafka Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17246,14 +17479,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.kafka:spring-kafka",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps/cps-service/pom.xml"
+            "sourceInfo": "package found in: cps/cps-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-a652d21cfb0962d5",
+            "description": "Spring Kafka Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17263,15 +17499,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.kafka:spring-kafka",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-aa1033778116c4f5",
+            "description": "Spring Kafka Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17281,14 +17520,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.kafka:spring-kafka",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-service/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-stub/dmi-stub-service/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-bc66128c9aaf15a6",
+            "description": "Spring Kafka Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17298,14 +17540,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
             "licenseConcluded": "NONE",
             "licenseDeclared": "NONE",
             "name": "org.springframework.kafka:spring-kafka",
             "primaryPackagePurpose": "LIBRARY",
-            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml"
+            "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring"
         },
         {
             "SPDXID": "SPDXRef-Package-bddd13f8b2975cb8",
+            "description": "Spring Kafka Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17315,15 +17560,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.kafka:spring-kafka",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "4.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-e97ccb4751198786",
+            "description": "Spring Kafka Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17333,15 +17581,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.kafka:spring-kafka",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.2.6"
         },
         {
             "SPDXID": "SPDXRef-Package-fc4adacc2d3e3cb4",
+            "description": "Spring Kafka Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17351,15 +17602,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.kafka:spring-kafka",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.2.6"
         },
         {
             "SPDXID": "SPDXRef-Package-70f8446904b3c1df",
+            "description": "Spring Retry provides an abstraction around retrying failed operations, with an\n\t\temphasis on declarative control of the process and policy-based behaviour that is\n\t\teasy to extend and customize. For instance, you can configure a plain POJO\n\t\toperation to retry if it fails, based on the type of exception, and with a fixed\n\t\tor exponential backoff.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17369,15 +17623,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-retry",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "name": "org.springframework.retry:spring-retry",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "2.0.10"
         },
         {
             "SPDXID": "SPDXRef-Package-d8bdfae7641b22db",
+            "description": "Spring Retry provides an abstraction around retrying failed operations, with an\n\t\temphasis on declarative control of the process and policy-based behaviour that is\n\t\teasy to extend and customize. For instance, you can configure a plain POJO\n\t\toperation to retry if it fails, based on the type of exception, and with a fixed\n\t\tor exponential backoff.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17387,15 +17644,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-retry",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "name": "org.springframework.retry:spring-retry",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "2.0.10"
         },
         {
             "SPDXID": "SPDXRef-Package-51c615c355c4f212",
+            "description": "Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17405,15 +17665,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-security",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.security:spring-security-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-571e2e796f48da14",
+            "description": "Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17423,15 +17686,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-security",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.security:spring-security-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-7fabb57851262f4f",
+            "description": "Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17441,11 +17707,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-security",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.security:spring-security-config",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.1.0"
         },
         {
@@ -17576,6 +17844,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-770f54ba9d344d93",
+            "description": "Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17585,15 +17854,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-security",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.security:spring-security-oauth2-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-2a7b7fa138a3d2d",
+            "description": "Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17603,15 +17875,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-security",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.security:spring-security-oauth2-jose",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-9a4008dba57eb8dc",
+            "description": "Spring Security",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17621,11 +17896,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-security",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.security:spring-security-oauth2-resource-server",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.1.1"
         },
         {
@@ -17964,6 +18241,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-d7e333e0659f20d0",
+            "description": "Spring Context Support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -17973,11 +18251,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND (EPL-1.0 AND LicenseRef-scancode-other-copyleft) AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
             "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
             "name": "org.springframework:spring-context-support",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.0.9"
         },
         {
@@ -18254,6 +18534,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-940da693ab96e9ec",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -18263,15 +18544,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND (EPL-1.0 AND LicenseRef-scancode-other-copyleft) AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
             "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/dmi-service/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.0.8"
         },
         {
             "SPDXID": "SPDXRef-Package-b62e27a85523c5cc",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -18281,15 +18565,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND (EPL-1.0 AND LicenseRef-scancode-other-copyleft) AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
             "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.0.9"
         },
         {
             "SPDXID": "SPDXRef-Package-f4f556e142c9a6dd",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -18299,11 +18586,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND (EPL-1.0 AND LicenseRef-scancode-other-copyleft) AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
             "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-scancode-other-copyleft",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: cps-ncmp-dmi-plugin/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "7.0.8"
         },
         {
@@ -18906,7 +19195,7 @@
             "versionInfo": "3.1.4"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-39f87a9f57c07df4",
+            "SPDXID": "SPDXRef-Filesystem-218a63be9b90eba6",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND EPL-1.0 AND LicenseRef-BSD-version-unspecified- AND BSD-2-Clause AND BSD-3-Clause",
@@ -58156,16 +58445,16 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-39f87a9f57c07df4",
+            "relatedSpdxElement": "SPDXRef-Filesystem-218a63be9b90eba6",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-39f87a9f57c07df4",
+            "spdxElementId": "SPDXRef-Filesystem-218a63be9b90eba6",
             "relatedSpdxElement": "SPDXRef-onap-cps-cps",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-39f87a9f57c07df4",
+            "spdxElementId": "SPDXRef-Filesystem-218a63be9b90eba6",
             "relatedSpdxElement": "SPDXRef-onap-cps-cps-ncmp-dmi-plugin",
             "relationshipType": "CONTAINS"
         }
