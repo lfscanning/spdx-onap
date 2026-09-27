@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T07:45:27Z",
+        "created": "2026-09-27T02:48:33Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -16,16 +16,16 @@
     "hasExtractedLicensingInfos": [
         {
             "extractedText": "((EPL-2.0 OR Apache-2.0) AND (EPL-1.0 AND BSD-3-Clause) AND BSD-3-Clause AND EPL-2.0 AND Classpath-exception-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND ((EPL-2.0 AND BSD-3-Clause AND GPL-2.0-only) AND LicenseRef-scancode-unknown-spdx)) AND (Apache-2.0 AND W3C AND LicenseRef-scancode-public-domain AND OFL-1.1 AND MIT AND GPL-2.0-only AND Classpath-exception-2.0) AND (EPL-2.0 AND MIT) AND (GPL-2.0-only AND Classpath-exception-2.0 AND LicenseRef-scancode-generic-export-compliance) AND BSD-3-Clause",
-            "licenseId": "LicenseRef-fixed-0x791502eb8b12fcdd"
+            "licenseId": "LicenseRef-fixed-0x6ec6043283b12dc1"
         },
         {
             "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
             "licenseId": "LicenseRef-NOASSERTION"
         }
     ],
-    "name": "/tmp/tmp_ah7xk_2/code",
+    "name": "/tmp/tmpqh1utjx3/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp_ah7xk_2/code-7b98cb7a-c77c-47bf-948f-a2bad02fb964",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpqh1utjx3/code-84bde8ae-4efd-4c97-8bb5-e3a8426a416f",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-8f8fa7cdbec71eb6",
@@ -289,6 +289,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-ed396aa7ea58bd5b",
+            "description": "Angular - the compiler library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -298,15 +299,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/angular/angular#readme",
             "licenseConcluded": "Apache-2.0 AND MIT AND MIT",
             "licenseDeclared": "MIT",
             "name": "@angular/compiler",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Angular",
             "versionInfo": "5.2.11"
         },
         {
             "SPDXID": "SPDXRef-Package-dae9baa5ba27d06c",
+            "description": "Angular - the core framework",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -316,15 +320,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/angular/angular#readme",
             "licenseConcluded": "Apache-2.0 AND MIT AND MIT",
             "licenseDeclared": "MIT",
             "name": "@angular/core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Angular",
             "versionInfo": "5.2.11"
         },
         {
             "SPDXID": "SPDXRef-Package-41026e424aadc235",
+            "description": "Angular - directives and services for creating forms",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -334,15 +341,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/angular/angular#readme",
             "licenseConcluded": "Apache-2.0 AND MIT AND MIT",
             "licenseDeclared": "MIT",
             "name": "@angular/forms",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Angular",
             "versionInfo": "5.2.11"
         },
         {
             "SPDXID": "SPDXRef-Package-622e2eabf64da45a",
+            "description": "Angular - the http service",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -352,15 +362,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/angular/angular#readme",
             "licenseConcluded": "Apache-2.0 AND MIT AND MIT AND LicenseRef-NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "@angular/http",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Angular",
             "versionInfo": "5.2.11"
         },
         {
             "SPDXID": "SPDXRef-Package-74680ebab0121fcb",
+            "description": "Angular - library for using Angular in a web browser",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -370,11 +383,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/angular/angular#readme",
             "licenseConcluded": "Apache-2.0 AND MIT AND MIT",
             "licenseDeclared": "MIT",
             "name": "@angular/platform-browser",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Angular",
             "versionInfo": "5.2.11"
         },
         {
@@ -400,6 +415,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-826187c566ce8d00",
+            "description": "Angular - the routing library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -409,15 +425,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/angular/angular/tree/main/packages/router",
             "licenseConcluded": "Apache-2.0 AND MIT AND MIT",
             "licenseDeclared": "MIT",
             "name": "@angular/router",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Angular",
             "versionInfo": "5.2.11"
         },
         {
             "SPDXID": "SPDXRef-Package-6dff9ff416a5be8c",
+            "description": "Translation library (i18n) for Angular",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -427,15 +446,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/ngx-translate/core#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "@ngx-translate/core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: ngx-translate",
             "versionInfo": "9.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-29fb357fd0ffbae0",
+            "description": "http loader for dynamically loading translation files for @ngx-translate/core",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -454,6 +476,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-45b8b44d9c0edd56",
+            "description": "Stub TypeScript definitions entry for marked, which provides its own types definitions",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -472,6 +495,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-71cc42aee5e3b5d7",
+            "description": "TypeScript definitions for prismjs",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -481,15 +505,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/prismjs",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "@types/prismjs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: DefinitelyTyped",
             "versionInfo": "1.26.5"
         },
         {
             "SPDXID": "SPDXRef-Package-db533bdb776af5c0",
+            "description": "TypeScript definitions for resize-observer-browser",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -499,11 +526,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/resize-observer-browser",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "@types/resize-observer-browser",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: DefinitelyTyped",
             "versionInfo": "0.1.11"
         },
         {
@@ -548,6 +577,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a1c967a7c826df02",
+            "description": "Reference implementations of popular deep learning models",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -557,15 +587,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/keras-team/keras-applications",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "Keras-Applications",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-nlp/standalone/src/main/assembly/requirements.txt",
+            "supplier": "Organization: Keras",
             "versionInfo": "1.0.8"
         },
         {
             "SPDXID": "SPDXRef-Package-379bf46e51badce2",
+            "description": "Easy data preprocessing and data augmentation for deep learning models",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -575,15 +608,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/keras-team/keras-preprocessing",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "Keras-Preprocessing",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-nlp/standalone/src/main/assembly/requirements.txt",
+            "supplier": "Organization: Keras",
             "versionInfo": "1.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-d1c05de96d174af4",
+            "description": "A Python module for creating Excel XLSX files.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -593,15 +629,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/jmcnamara/XlsxWriter",
             "licenseConcluded": "NOASSERTION",
             "licenseDeclared": "BSD-2-Clause",
             "name": "XlsxWriter",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-nlp/standalone/src/main/assembly/requirements.txt",
+            "supplier": "Organization: John McNamara",
             "versionInfo": "1.1.8"
         },
         {
             "SPDXID": "SPDXRef-Package-837b795e5857b052",
+            "description": "Angular 2 or 4 datetime picker component",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -611,11 +650,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/CuppaLabs/angular2-datetimepicker#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "angular2-datetimepicker",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Pradeep Terli",
             "versionInfo": "1.1.1"
         },
         {
@@ -700,6 +741,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-32dec19946875bb9",
+            "description": "Promise based HTTP client for the browser and node.js",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -709,15 +751,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://axios-http.com",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "axios",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: axios",
             "versionInfo": "0.19.2"
         },
         {
             "SPDXID": "SPDXRef-Package-23c37dce309d6253",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -727,15 +772,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.4.11"
         },
         {
             "SPDXID": "SPDXRef-Package-322e051f2ae11e80",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -745,15 +793,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.4.11"
         },
         {
             "SPDXID": "SPDXRef-Package-420fdea980e127c8",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -763,15 +814,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.4.11"
         },
         {
             "SPDXID": "SPDXRef-Package-92826d68ccd5f87a",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -781,15 +835,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.4.11"
         },
         {
             "SPDXID": "SPDXRef-Package-9fe3106707e3a919",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -799,15 +856,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.4.11"
         },
         {
             "SPDXID": "SPDXRef-Package-ab7a878dcf2c0534",
+            "description": "logback-classic module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -817,11 +877,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
             "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
             "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
             "name": "ch.qos.logback:logback-classic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
             "versionInfo": "1.4.11"
         },
         {
@@ -952,6 +1014,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-967edfba53df8d3c",
+            "description": "Modern copy to clipboard. No Flash. Just 2kb",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -961,15 +1024,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://clipboardjs.com",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "clipboard",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Zeno Rocha",
             "versionInfo": "2.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-5eeca285da7641c3",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -979,15 +1045,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-674bdbc629ca5bc6",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -997,15 +1066,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-6c06e88f6026a2a5",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1015,15 +1087,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-79a74004af253b30",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1033,15 +1108,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-84c3dd6df04d88c5",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1051,15 +1129,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-d79441e014a75bf1",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1069,15 +1150,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-33ced129d8d887b6",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1087,15 +1171,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2-extension",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-3a63506e031f82b6",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1105,15 +1192,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2-extension",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-405f2caeecb8c603",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1123,15 +1213,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2-extension",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-52e102b3646bdb41",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1141,15 +1234,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2-extension",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-acccee02305480f2",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1159,15 +1255,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2-extension",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-f7cec95e174871dc",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1177,15 +1276,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba.fastjson2:fastjson2-extension",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-57da562cb5935780",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1195,15 +1297,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba:fastjson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-773abe10dfae66c9",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1213,15 +1318,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba:fastjson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-853ef67bc5ceedec",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1231,15 +1339,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba:fastjson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-a5679c661922c75c",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1249,15 +1360,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba:fastjson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-cb4492c10c9b3e77",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1267,15 +1381,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba:fastjson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
             "SPDXID": "SPDXRef-Package-ffcce1c78433b13",
+            "description": "Fastjson is a JSON processor (JSON parser + JSON generator) written in Java",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1285,11 +1402,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/alibaba/fastjson2",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.alibaba:fastjson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Alibaba",
             "versionInfo": "2.0.6"
         },
         {
@@ -2552,6 +2671,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3e8360020c7ce914",
+            "description": "Given JSON-like content, converts it to valid JSON.\n\nThis can be attached at either end of a data-pipeline to help satisfy\nPostel's principle:\n\n be conservative in what you do, be liberal in what you accept from\n others\n\nApplied to JSON-like content from others, it will produce well-formed\nJSON that should satisfy any parser you use.\n\nApplied to your output before you send, it will coerce minor mistakes in\nencoding and make it easier to embed your JSON in HTML and XML.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2561,15 +2681,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/OWASP/json-sanitizer",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "com.mikesamuel:json-sanitizer",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: OWASP",
             "versionInfo": "1.2.2"
         },
         {
             "SPDXID": "SPDXRef-Package-5347d92151b20bc",
+            "description": "Given JSON-like content, converts it to valid JSON.\n\nThis can be attached at either end of a data-pipeline to help satisfy\nPostel's principle:\n\n be conservative in what you do, be liberal in what you accept from\n others\n\nApplied to JSON-like content from others, it will produce well-formed\nJSON that should satisfy any parser you use.\n\nApplied to your output before you send, it will coerce minor mistakes in\nencoding and make it easier to embed your JSON in HTML and XML.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2579,11 +2702,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/OWASP/json-sanitizer",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "com.mikesamuel:json-sanitizer",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: OWASP",
             "versionInfo": "1.2.2"
         },
         {
@@ -2922,6 +3047,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-59f25d58b0b94c48",
+            "description": "A Retrofit Converter which uses Jackson for serialization.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2931,15 +3057,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:converter-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-61c79ba7e48fbbd4",
+            "description": "A Retrofit Converter which uses Jackson for serialization.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2949,15 +3078,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:converter-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-6f27c699c0cf9ed1",
+            "description": "A Retrofit Converter which uses Jackson for serialization.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2967,15 +3099,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:converter-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-a9c2e5ce94957539",
+            "description": "A Retrofit Converter which uses Jackson for serialization.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2985,15 +3120,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:converter-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-b9afbe0b7013b02b",
+            "description": "A Retrofit Converter which uses Jackson for serialization.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3003,15 +3141,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:converter-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-cbdb4a5a74676b29",
+            "description": "A Retrofit Converter which uses Jackson for serialization.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3021,15 +3162,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:converter-jackson",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-7af52306d0e5b056",
+            "description": "A type-safe HTTP client for Android and Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3039,15 +3183,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:retrofit",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.7.2"
         },
         {
             "SPDXID": "SPDXRef-Package-88c11763a1a2f55b",
+            "description": "A type-safe HTTP client for Android and Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3057,15 +3204,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:retrofit",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.7.2"
         },
         {
             "SPDXID": "SPDXRef-Package-95814e2da32a8b07",
+            "description": "A type-safe HTTP client for Android and Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3075,15 +3225,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:retrofit",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.7.2"
         },
         {
             "SPDXID": "SPDXRef-Package-d7dfb54af17dc38",
+            "description": "A type-safe HTTP client for Android and Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3093,15 +3246,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:retrofit",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.7.2"
         },
         {
             "SPDXID": "SPDXRef-Package-f3a97de2e761724b",
+            "description": "A type-safe HTTP client for Android and Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3111,15 +3267,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:retrofit",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-f53313402a2db203",
+            "description": "A type-safe HTTP client for Android and Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3129,11 +3288,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/square/retrofit",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "com.squareup.retrofit2:retrofit",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Square",
             "versionInfo": "2.9.0"
         },
         {
@@ -3747,6 +3908,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-9437f073066ac622",
+            "description": "Lightweight debugging utility for Node.js and the browser",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3756,15 +3918,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/debug-js/debug#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "debug",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Debug.js",
             "versionInfo": "3.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-fb389c3e5f84a6f7",
+            "description": "Lightweight event delegation",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3774,15 +3939,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/zenorocha/delegate#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "delegate",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Zeno Rocha",
             "versionInfo": "3.2.0"
         },
         {
             "SPDXID": "SPDXRef-Package-c5e0a1db76445f8b",
+            "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3792,15 +3960,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://echarts.apache.org",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "echarts",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "4.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-80683ea944684a97",
+            "description": "Event emitter",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3810,15 +3981,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/component-emitter#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "emitter-component",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
             "versionInfo": "1.1.2"
         },
         {
             "SPDXID": "SPDXRef-Package-354036c0d2641035",
+            "description": "Discover and load entry points from installed packages.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3828,15 +4002,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/takluyver/entrypoints",
             "licenseConcluded": "MIT AND MIT AND LicenseRef-NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "entrypoints",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-nlp/standalone/src/main/assembly/requirements.txt",
+            "supplier": "Organization: Thomas Kluyver",
             "versionInfo": "0.3"
         },
         {
             "SPDXID": "SPDXRef-Package-c8601fc9a05d61e0",
+            "description": "Discover and load entry points from installed packages.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3846,15 +4023,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/takluyver/entrypoints",
             "licenseConcluded": "MIT AND MIT AND LicenseRef-NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "entrypoints",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-nlp/nlp/requirements.txt",
+            "supplier": "Organization: Thomas Kluyver",
             "versionInfo": "0.3"
         },
         {
             "SPDXID": "SPDXRef-Package-3b024087f505ceee",
+            "description": "A lightweight library that provides tools for organizing asynchronous code",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3864,15 +4044,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/stefanpenner/es6-promise",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "es6-promise",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Stefan Penner",
             "versionInfo": "4.2.8"
         },
         {
             "SPDXID": "SPDXRef-Package-fba4dfe4a94dfcc7",
+            "description": "Generate massive amounts of fake contextual data",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3882,6 +4065,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/Marak/Faker.js#readme",
             "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT AND MIT AND Apache-2.0 AND LicenseRef-scancode-visual-idiot AND MIT AND Beerware AND WTFPL",
             "licenseDeclared": "MIT",
             "name": "faker",
@@ -3891,6 +4075,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4890cc32bd098b5a",
+            "description": "HTTP and HTTPS modules that follow redirects.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3900,15 +4085,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/follow-redirects/follow-redirects",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "follow-redirects",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: follow-redirects",
             "versionInfo": "1.5.10"
         },
         {
             "SPDXID": "SPDXRef-Package-282f9662b4090e11",
+            "description": "The iconic font and CSS framework",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3918,15 +4106,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://fontawesome.io/",
             "licenseConcluded": "CC-BY-3.0 AND OFL-1.1 AND MIT AND OFL-1.1 AND OFL-1.1 AND MIT",
             "licenseDeclared": "MIT AND OFL-1.1",
             "name": "font-awesome",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Font Awesome",
             "versionInfo": "4.7.0"
         },
         {
             "SPDXID": "SPDXRef-Package-b0a5cee7d90c2779",
+            "description": "Clean single-source support for Python 3 and 2",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3936,15 +4127,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://python-future.org",
             "licenseConcluded": "(BSD-3-Clause AND HPND AND MIT AND LicenseRef-NOASSERTION AND Python-2.0) OR GPL-2.0-only",
             "licenseDeclared": "MIT",
             "name": "future",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-nlp/standalone/src/main/assembly/requirements.txt",
+            "supplier": "Organization: Python Charmers",
             "versionInfo": "0.17.1"
         },
         {
             "SPDXID": "SPDXRef-Package-260411551cbb2f4b",
+            "description": "A more versatile way of adding & removing event listeners",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -3954,11 +4148,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/zenorocha/good-listener#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "good-listener",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Zeno Rocha",
             "versionInfo": "1.2.2"
         },
         {
@@ -5454,6 +5650,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3cf599f2205eefb3",
+            "description": "Instrumentation of Java libraries using OpenTelemetry.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5463,15 +5660,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry.instrumentation:opentelemetry-instrumentation-api-semconv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.2-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-5a856eec18994961",
+            "description": "Instrumentation of Java libraries using OpenTelemetry.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5481,15 +5681,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry.instrumentation:opentelemetry-instrumentation-api-semconv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.2-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-764583258596de15",
+            "description": "Instrumentation of Java libraries using OpenTelemetry.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5499,15 +5702,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry.instrumentation:opentelemetry-instrumentation-api-semconv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.2-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-d03ad72e39e0f28a",
+            "description": "Instrumentation of Java libraries using OpenTelemetry.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5517,11 +5723,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry.instrumentation:opentelemetry-instrumentation-api-semconv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.2-alpha"
         },
         {
@@ -5610,6 +5818,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-229511e3455380bb",
+            "description": "OpenTelemetry Logs API",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5619,15 +5828,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-api-logs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-29c791b08ee398e7",
+            "description": "OpenTelemetry Logs API",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5637,15 +5849,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-api-logs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-6f622df01ad69889",
+            "description": "OpenTelemetry Logs API",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5655,15 +5870,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-api-logs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-bd7e585ebe766694",
+            "description": "OpenTelemetry Logs API",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5673,11 +5891,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-api-logs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0-alpha"
         },
         {
@@ -5850,6 +6070,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-369c04a63192fc27",
+            "description": "OpenTelemetry - Zipkin Exporter",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5859,15 +6080,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-zipkin",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0"
         },
         {
             "SPDXID": "SPDXRef-Package-d3a3be0fa094f7ff",
+            "description": "OpenTelemetry - Zipkin Exporter",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5877,15 +6101,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-zipkin",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0"
         },
         {
             "SPDXID": "SPDXRef-Package-d4a76007ac6551fb",
+            "description": "OpenTelemetry - Zipkin Exporter",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5895,15 +6122,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-zipkin",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0"
         },
         {
             "SPDXID": "SPDXRef-Package-e8df03b378f28c8c",
+            "description": "OpenTelemetry - Zipkin Exporter",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5913,15 +6143,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-exporter-zipkin",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0"
         },
         {
             "SPDXID": "SPDXRef-Package-132f000fb6a16d54",
+            "description": "OpenTelemetry API Extensions for AWS",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5931,15 +6164,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-extension-aws",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0"
         },
         {
             "SPDXID": "SPDXRef-Package-256751e91107b54",
+            "description": "OpenTelemetry API Extensions for AWS",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5949,15 +6185,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-extension-aws",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0"
         },
         {
             "SPDXID": "SPDXRef-Package-b96e4ca68bc5253f",
+            "description": "OpenTelemetry API Extensions for AWS",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5967,15 +6206,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-extension-aws",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0"
         },
         {
             "SPDXID": "SPDXRef-Package-def73fc523a71f0a",
+            "description": "OpenTelemetry API Extensions for AWS",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -5985,11 +6227,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-extension-aws",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0"
         },
         {
@@ -6498,6 +6742,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-11607529b696073c",
+            "description": "OpenTelemetry Semantic Conventions",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6507,15 +6752,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-semconv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-6af4981fe38937d9",
+            "description": "OpenTelemetry Semantic Conventions",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6525,15 +6773,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-semconv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-b6906642f761d685",
+            "description": "OpenTelemetry Semantic Conventions",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6543,15 +6794,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-semconv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0-alpha"
         },
         {
             "SPDXID": "SPDXRef-Package-e20af3ac4c71a516",
+            "description": "OpenTelemetry Semantic Conventions",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6561,11 +6815,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/open-telemetry/opentelemetry-java",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry:opentelemetry-semconv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: OpenTelemetry - CNCF",
             "versionInfo": "1.19.0-alpha"
         },
         {
@@ -6654,6 +6910,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-8d5cd7a4b646180b",
+            "description": "Non-Blocking Reactive Foundation for the JVM",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6663,15 +6920,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/reactor/reactor-core",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.projectreactor:reactor-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Reactor",
             "versionInfo": "3.5.10"
         },
         {
             "SPDXID": "SPDXRef-Package-c30de8ce52c86cb",
+            "description": "Non-Blocking Reactive Foundation for the JVM",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -6681,11 +6941,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/reactor/reactor-core",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.projectreactor:reactor-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Reactor",
             "versionInfo": "3.5.10"
         },
         {
@@ -7488,6 +7750,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1b6e11dad8b87596",
+            "description": "Zipkin Reporter (Parent)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7497,15 +7760,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/openzipkin/zipkin-reporter-java/zipkin-sender-okhttp3",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.zipkin.reporter2:zipkin-sender-okhttp3",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Open Zipkin",
             "versionInfo": "2.16.3"
         },
         {
             "SPDXID": "SPDXRef-Package-2ac478aba5d193ba",
+            "description": "Zipkin Reporter (Parent)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7515,15 +7781,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/openzipkin/zipkin-reporter-java/zipkin-sender-okhttp3",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.zipkin.reporter2:zipkin-sender-okhttp3",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Open Zipkin",
             "versionInfo": "2.16.3"
         },
         {
             "SPDXID": "SPDXRef-Package-307da92c0c539cfd",
+            "description": "Zipkin Reporter (Parent)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7533,15 +7802,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/openzipkin/zipkin-reporter-java/zipkin-sender-okhttp3",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.zipkin.reporter2:zipkin-sender-okhttp3",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Open Zipkin",
             "versionInfo": "2.16.3"
         },
         {
             "SPDXID": "SPDXRef-Package-7edc354f3a26644b",
+            "description": "Zipkin Reporter (Parent)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7551,11 +7823,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/openzipkin/zipkin-reporter-java/zipkin-sender-okhttp3",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "io.zipkin.reporter2:zipkin-sender-okhttp3",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Open Zipkin",
             "versionInfo": "2.16.3"
         },
         {
@@ -7655,7 +7929,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x791502eb8b12fcdd",
+            "licenseConcluded": "LicenseRef-fixed-0x6ec6043283b12dc1",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -7676,7 +7950,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x791502eb8b12fcdd",
+            "licenseConcluded": "LicenseRef-fixed-0x6ec6043283b12dc1",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -7812,6 +8086,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-963f79bb6d70df3b",
+            "description": "Jakarta Dependency Injection",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7821,15 +8096,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/injection-api",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (Apache-2.0 AND EPL-2.0)",
             "licenseDeclared": "Apache-2.0 OR (Apache-2.0 AND EPL-2.0)",
             "name": "jakarta.inject:jakarta.inject-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-bf47b2bab294a594",
+            "description": "Jakarta Dependency Injection",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -7839,11 +8117,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/injection-api",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (Apache-2.0 AND EPL-2.0)",
             "licenseDeclared": "Apache-2.0 OR (Apache-2.0 AND EPL-2.0)",
             "name": "jakarta.inject:jakarta.inject-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.0.1"
         },
         {
@@ -8142,6 +8422,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-b5e16c31869a7c2a",
+            "description": "A Python implementation of the JSON5 data format.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8181,6 +8462,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a7e543a96dd57f98",
+            "description": "Simple, lightweight key-binding lib",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8190,15 +8472,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/AlexDM0/keycharm#readme",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND MIT",
             "licenseDeclared": "Apache-2.0 AND MIT",
             "name": "keycharm",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Alex",
             "versionInfo": "0.2.0"
         },
         {
             "SPDXID": "SPDXRef-Package-3f1775ec409fd762",
+            "description": "Lodash modular utilities.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8208,11 +8493,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://lodash.com/",
             "licenseConcluded": "MIT AND MIT AND CC0-1.0",
             "licenseDeclared": "CC0-1.0 AND MIT",
             "name": "lodash",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Lodash Utilities",
             "versionInfo": "4.17.21"
         },
         {
@@ -8322,6 +8609,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-36834d31cad9e648",
+            "description": "mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8331,11 +8619,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/jgraph/mxgraph",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "mxgraph",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: draw.io",
             "versionInfo": "4.2.2"
         },
         {
@@ -8550,6 +8840,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-34cb0df8c570039f",
+            "description": "Angular Multi-Select Dropdown",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8559,15 +8850,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/nileshpatel17/ng-multiselect-dropdown#readme",
             "licenseConcluded": "0BSD AND MIT",
             "licenseDeclared": "MIT",
             "name": "ng-multiselect-dropdown",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Nilesh Patel",
             "versionInfo": "0.2.14"
         },
         {
             "SPDXID": "SPDXRef-Package-e7d12d38cb361fa8",
+            "description": "An enterprise-class UI components based on Ant Design and Angular",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8577,15 +8871,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://ng.ant.design",
             "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "ng-zorro-antd",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: NG-ZORRO",
             "versionInfo": "0.7.1"
         },
         {
             "SPDXID": "SPDXRef-Package-4fcf03c8da36774e",
+            "description": "angular 2 clipboard",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8595,11 +8892,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/maxisam/ngx-clipboard",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "ngx-clipboard",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Sam Lin",
             "versionInfo": "10.0.0"
         },
         {
@@ -8758,6 +9057,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-7de255a704a84a9c",
+            "description": "master POM",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8767,6 +9067,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://ant.apache.org/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND SAX-PD AND W3C",
             "licenseDeclared": "Apache-2.0 AND SAX-PD AND W3C",
             "name": "org.apache.ant:ant",
@@ -8776,6 +9077,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-b6b9c0491d5df2aa",
+            "description": "master POM",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8785,6 +9087,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://ant.apache.org/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND SAX-PD AND W3C",
             "licenseDeclared": "Apache-2.0 AND SAX-PD AND W3C",
             "name": "org.apache.ant:ant",
@@ -8794,6 +9097,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1af60e2b7ce7384a",
+            "description": "master POM",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8803,15 +9107,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://ant.apache.org/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND SAX-PD AND W3C",
             "licenseDeclared": "Apache-2.0 AND SAX-PD AND W3C",
             "name": "org.apache.ant:ant-launcher",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "1.10.12"
         },
         {
             "SPDXID": "SPDXRef-Package-ea89dea76dbaa04c",
+            "description": "master POM",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -8821,11 +9128,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://ant.apache.org/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND SAX-PD AND W3C",
             "licenseDeclared": "Apache-2.0 AND SAX-PD AND W3C",
             "name": "org.apache.ant:ant-launcher",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
             "versionInfo": "1.10.12"
         },
         {
@@ -9452,6 +9761,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-140e8a8108e0f363",
+            "description": "Apache POI - Java API To Access Microsoft Format Files",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9461,6 +9771,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://poi.apache.org/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND MIT AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND MIT AND LicenseRef-NOASSERTION",
             "name": "org.apache.poi:poi-ooxml-schemas",
@@ -9470,6 +9781,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-d9fc6211cec966",
+            "description": "Apache POI - Java API To Access Microsoft Format Files",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9479,6 +9791,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://poi.apache.org/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND MIT AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND MIT AND LicenseRef-NOASSERTION",
             "name": "org.apache.poi:poi-ooxml-schemas",
@@ -9936,6 +10249,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-334da0a0c031632f",
+            "description": "Angus Activation Registries Implementation",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9945,15 +10259,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/angus-activation",
             "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
             "licenseDeclared": "BSD-3-Clause",
             "name": "org.eclipse.angus:angus-activation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-ba2425a241ee6e67",
+            "description": "Angus Activation Registries Implementation",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -9963,11 +10280,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-ee4j/angus-activation",
             "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
             "licenseDeclared": "BSD-3-Clause",
             "name": "org.eclipse.angus:angus-activation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
             "versionInfo": "2.0.1"
         },
         {
@@ -10344,6 +10663,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-79d6649764f91271",
+            "description": "Common reflection code used in support of annotation processing",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10353,15 +10673,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://hibernate.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "LGPL-2.1",
             "name": "org.hibernate.common:hibernate-commons-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Hibernate",
             "versionInfo": "6.0.6.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-95876f8eca510cee",
+            "description": "Common reflection code used in support of annotation processing",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10371,15 +10694,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://hibernate.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "LGPL-2.1",
             "name": "org.hibernate.common:hibernate-commons-annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Hibernate",
             "versionInfo": "6.0.6.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-3ba3051172a636c",
+            "description": "Hibernate's core ORM functionality",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10389,15 +10715,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://hibernate.org/orm",
             "licenseConcluded": "BSD-3-Clause AND EPL-2.0 AND LGPL-2.1-only AND LGPL-2.1-or-later",
             "licenseDeclared": "LGPL-2.1",
             "name": "org.hibernate.orm:hibernate-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Hibernate",
             "versionInfo": "6.1.7.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-6da7d5bb54a9d83",
+            "description": "Hibernate's core ORM functionality",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10407,11 +10736,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://hibernate.org/orm",
             "licenseConcluded": "BSD-3-Clause AND EPL-2.0 AND LGPL-2.1-only AND LGPL-2.1-or-later",
             "licenseDeclared": "LGPL-2.1",
             "name": "org.hibernate.orm:hibernate-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Hibernate",
             "versionInfo": "6.1.7.Final"
         },
         {
@@ -10500,6 +10831,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1f064c4a0c8a993b",
+            "description": "Parent POM for JBoss projects. Provides default project build configuration.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10509,15 +10841,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.jboss.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jboss:jandex",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: jboss",
             "versionInfo": "2.4.2.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-ae5b8dd058b031a6",
+            "description": "Parent POM for JBoss projects. Provides default project build configuration.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10527,11 +10862,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.jboss.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jboss:jandex",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: jboss",
             "versionInfo": "2.4.2.Final"
         },
         {
@@ -10662,6 +10999,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-237a7f6a11347e3a",
+            "description": "Kotlin Common Standard Library (legacy, use kotlin-stdlib instead)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10671,15 +11009,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-4224d0ad1b7607db",
+            "description": "Kotlin Common Standard Library (legacy, use kotlin-stdlib instead)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10689,15 +11030,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-724904a88ed5d7a7",
+            "description": "Kotlin Common Standard Library (legacy, use kotlin-stdlib instead)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10707,15 +11051,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-77f8df723b86946c",
+            "description": "Kotlin Common Standard Library (legacy, use kotlin-stdlib instead)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10725,15 +11072,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-9a465a600ff9dd40",
+            "description": "Kotlin Common Standard Library (legacy, use kotlin-stdlib instead)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10743,15 +11093,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-ed6021759e484359",
+            "description": "Kotlin Common Standard Library (legacy, use kotlin-stdlib instead)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10761,15 +11114,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-17003ba400f95226",
+            "description": "Kotlin Standard Library JDK 7 extension",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10779,15 +11135,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk7",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-8c6c83622d2e5b61",
+            "description": "Kotlin Standard Library JDK 7 extension",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10797,15 +11156,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk7",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-94f2f114f688b360",
+            "description": "Kotlin Standard Library JDK 7 extension",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10815,15 +11177,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk7",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-b536fc0ed3f37c31",
+            "description": "Kotlin Standard Library JDK 7 extension",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10833,15 +11198,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk7",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-20a24027e78bd324",
+            "description": "Kotlin Standard Library JDK 8 extension",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10851,15 +11219,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk8",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-48ba26f2b76e3bee",
+            "description": "Kotlin Standard Library JDK 8 extension",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10869,15 +11240,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk8",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-4ac60dadd3fc3360",
+            "description": "Kotlin Standard Library JDK 8 extension",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10887,15 +11261,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk8",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-fcb704ccae5588d",
+            "description": "Kotlin Standard Library JDK 8 extension",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10905,15 +11282,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://kotlinlang.org/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk8",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "1.7.22"
         },
         {
             "SPDXID": "SPDXRef-Package-5f894f962267a774",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10923,15 +11303,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/JetBrains/java-annotations",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "13.0"
         },
         {
             "SPDXID": "SPDXRef-Package-66df050d59c4d95",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10941,15 +11324,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/JetBrains/java-annotations",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "13.0"
         },
         {
             "SPDXID": "SPDXRef-Package-c55f5a488783de07",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10959,15 +11345,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/JetBrains/java-annotations",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "13.0"
         },
         {
             "SPDXID": "SPDXRef-Package-d11fe1d18cf6c229",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10977,15 +11366,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/JetBrains/java-annotations",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "13.0"
         },
         {
             "SPDXID": "SPDXRef-Package-e3afd0cccfd7f8a5",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -10995,15 +11387,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/JetBrains/java-annotations",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "13.0"
         },
         {
             "SPDXID": "SPDXRef-Package-f68f257f0ee5a790",
+            "description": "A set of annotations used for code inspection support and code documentation.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11013,11 +11408,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/JetBrains/java-annotations",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.jetbrains:annotations",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: JetBrains",
             "versionInfo": "13.0"
         },
         {
@@ -11106,6 +11503,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-b263a511c1a79bdd",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11115,15 +11513,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mapstruct:mapstruct",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: mapstruct",
             "versionInfo": "1.3.1.Final"
         },
         {
             "SPDXID": "SPDXRef-Package-c42c0a762b2104ac",
+            "description": "An annotation processor for generating type-safe bean mappers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11133,11 +11534,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://mapstruct.org/mapstruct/",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mapstruct:mapstruct",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: mapstruct",
             "versionInfo": "1.3.1.Final"
         },
         {
@@ -11370,6 +11773,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-484758eec6ae1094",
+            "description": "The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented\n applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or\n annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping\n tools.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11379,15 +11783,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/mybatis-3/",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND MPL-1.1) OR LGPL-2.1-or-later OR Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mybatis:mybatis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: MyBatis",
             "versionInfo": "3.5.11"
         },
         {
             "SPDXID": "SPDXRef-Package-66b69dab2444c7b3",
+            "description": "The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented\n applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or\n annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping\n tools.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11397,15 +11804,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/mybatis-3/",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND MPL-1.1) OR LGPL-2.1-or-later OR Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mybatis:mybatis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: MyBatis",
             "versionInfo": "3.5.11"
         },
         {
             "SPDXID": "SPDXRef-Package-98791d7bdd966c20",
+            "description": "The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented\n applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or\n annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping\n tools.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11415,15 +11825,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/mybatis-3/",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND MPL-1.1) OR LGPL-2.1-or-later OR Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mybatis:mybatis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: MyBatis",
             "versionInfo": "3.5.11"
         },
         {
             "SPDXID": "SPDXRef-Package-c035ee4d4fa3b289",
+            "description": "The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented\n applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or\n annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping\n tools.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11433,11 +11846,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/mybatis-3/",
             "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND MPL-1.1) OR LGPL-2.1-or-later OR Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mybatis:mybatis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: MyBatis",
             "versionInfo": "3.5.11"
         },
         {
@@ -11514,6 +11929,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-8b916c5c5d66c6f1",
+            "description": "A library for instantiating Java objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11523,15 +11939,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://objenesis.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.objenesis:objenesis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: EasyMock",
             "versionInfo": "3.2"
         },
         {
             "SPDXID": "SPDXRef-Package-c73475a49df6cb2c",
+            "description": "A library for instantiating Java objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11541,15 +11960,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://objenesis.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.objenesis:objenesis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: EasyMock",
             "versionInfo": "3.2"
         },
         {
             "SPDXID": "SPDXRef-Package-d90637db8c926dca",
+            "description": "A library for instantiating Java objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11559,15 +11981,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://objenesis.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.objenesis:objenesis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: EasyMock",
             "versionInfo": "3.2"
         },
         {
             "SPDXID": "SPDXRef-Package-eee1d05357ab9b2d",
+            "description": "A library for instantiating Java objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -11577,11 +12002,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://objenesis.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.objenesis:objenesis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: EasyMock",
             "versionInfo": "3.2"
         },
         {
@@ -12882,6 +13309,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-55471f99f372071",
+            "description": "Spring Boot Actuator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -12891,15 +13319,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-55472d455510c21c",
+            "description": "Spring Boot Actuator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -12909,15 +13340,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-6b6df0dedc6c0158",
+            "description": "Spring Boot Actuator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -12927,15 +13361,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-6d174d4ad61d9d65",
+            "description": "Spring Boot Actuator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -12945,15 +13382,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-46a868d4d1163d63",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -12963,15 +13403,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-64816e721c6cf984",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -12981,15 +13424,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-721a2613453412d3",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -12999,15 +13445,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-9365abe77119b900",
+            "description": "Spring Boot Actuator AutoConfigure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13017,11 +13466,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-actuator-autoconfigure",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
@@ -13362,6 +13813,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-61a128837f3b3fc6",
+            "description": "Starter for aspect-oriented programming with Spring AOP and AspectJ",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13371,15 +13823,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-aop",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-a6657cbb0a2f875",
+            "description": "Starter for aspect-oriented programming with Spring AOP and AspectJ",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13389,15 +13844,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-aop",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-4153ad265bd71ebc",
+            "description": "Starter for using Spring Data JPA with Hibernate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13407,15 +13865,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-data-jpa",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-ef28a8471690b359",
+            "description": "Starter for using Spring Data JPA with Hibernate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13425,11 +13886,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-data-jpa",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
@@ -13560,6 +14023,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4f5efe1851bfec2b",
+            "description": "Starter for reading and writing JSON",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13569,15 +14033,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-733c051a7960ec73",
+            "description": "Starter for reading and writing JSON",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13587,15 +14054,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-777ec78ecd15bd34",
+            "description": "Starter for reading and writing JSON",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13605,15 +14075,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-7beacb944690094f",
+            "description": "Starter for reading and writing JSON",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13623,15 +14096,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-ad75f560fd1ec510",
+            "description": "Starter for reading and writing JSON",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13641,15 +14117,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-c875039eee480b22",
+            "description": "Starter for reading and writing JSON",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13659,11 +14138,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
@@ -13920,6 +14401,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-8f1745505a905621",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13929,15 +14411,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
             "SPDXID": "SPDXRef-Package-d1532b913a4a0e8d",
+            "description": "Starter for using Java Bean Validation with Hibernate Validator",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -13947,11 +14432,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework.boot:spring-boot-starter-validation",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.0.11"
         },
         {
@@ -14166,6 +14653,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6fcc293afe9e40ed",
+            "description": "Core plugin infrastructure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14175,15 +14663,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-plugin/spring-plugin-core",
             "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "name": "org.springframework.plugin:spring-plugin-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "2.0.0.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-a272463de2819208",
+            "description": "Core plugin infrastructure",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14193,15 +14684,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-plugin/spring-plugin-core",
             "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "name": "org.springframework.plugin:spring-plugin-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "2.0.0.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-17a9360c2f39ad43",
+            "description": "Extension package for metadata based plugins",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14211,15 +14705,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-plugin/spring-plugin-metadata",
             "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "name": "org.springframework.plugin:spring-plugin-metadata",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "2.0.0.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-95e5df96bb3d8a7d",
+            "description": "Extension package for metadata based plugins",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14229,11 +14726,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-plugin/spring-plugin-metadata",
             "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
             "name": "org.springframework.plugin:spring-plugin-metadata",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "2.0.0.RELEASE"
         },
         {
@@ -14910,6 +15409,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-317c443bc06548bd",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14919,15 +15419,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-3ee480a30feccd6e",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14937,15 +15440,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-58b4e0eb867a7928",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14955,15 +15461,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-8bdf5b6aacd03a4a",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14973,15 +15482,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-8ea868bc542d1413",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -14991,15 +15503,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-8f661a8ce7e6f04f",
+            "description": "Spring Commons Logging Bridge",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15009,11 +15524,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-jcl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
@@ -15186,6 +15703,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-315f25bf4b4e1ec4",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15195,15 +15713,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-3161305e980eb9a3",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15213,15 +15734,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/intentanalysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-ab14164dfa0afde5",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15231,15 +15755,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-server/server/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-bd8ef2a444001cc2",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15249,15 +15776,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-ecc50417edf60485",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15267,15 +15797,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-llm-adaptation/llm-adaptation/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
             "SPDXID": "SPDXRef-Package-f78c3e04f86324cf",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15285,11 +15818,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-intent-analysis/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "6.0.12"
         },
         {
@@ -15666,6 +16201,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3763ab226509f989",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15680,10 +16216,12 @@
             "name": "pandas",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-nlp/nlp/requirements.txt",
+            "supplier": "Organization: pandas",
             "versionInfo": "0.24.2"
         },
         {
             "SPDXID": "SPDXRef-Package-b36d9651b135fece",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15698,10 +16236,12 @@
             "name": "pandas",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui-nlp/standalone/src/main/assembly/requirements.txt",
+            "supplier": "Organization: pandas",
             "versionInfo": "0.24.2"
         },
         {
             "SPDXID": "SPDXRef-Package-4117bc90ce496b97",
+            "description": "Lightweight, robust, elegant syntax highlighting.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15711,11 +16251,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/PrismJS/prism#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "prismjs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Prism.js",
             "versionInfo": "1.30.0"
         },
         {
@@ -15918,6 +16460,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-35755c6bcc3ed0bd",
+            "description": "A flexible Server-Sent Events source; supports POST requests and custom headers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15927,15 +16470,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/mpetazzoni/sse.js",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "sse.js",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Maxime Petazzoni",
             "versionInfo": "2.6.0"
         },
         {
             "SPDXID": "SPDXRef-Package-556d38d873796809",
+            "description": "A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15945,15 +16491,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://sweetalert2.github.io/",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "sweetalert2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: SweetAlert2",
             "versionInfo": "4.3.3"
         },
         {
             "SPDXID": "SPDXRef-Package-df0f0badc3163e36",
+            "description": "Symbol.observable ponyfill",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -15963,11 +16512,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/blesh/symbol-observable#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "symbol-observable",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Ben Lesh",
             "versionInfo": "1.0.1"
         },
         {
@@ -16026,6 +16577,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6afc13b53a9081b6",
+            "description": "A tiny (less than 1k) event emitter library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16035,16 +16587,17 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/scottcorgan/tiny-emitter#readme",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "tiny-emitter",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
+            "supplier": "Organization: Scott Corgan",
             "versionInfo": "2.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-6561ed89519a9c0e",
-            "description": "Runtime library for TypeScript helper functions",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16054,13 +16607,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://www.typescriptlang.org/",
             "licenseConcluded": "0BSD",
             "licenseDeclared": "0BSD",
             "name": "tslib",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: usecase-ui/usecaseui-portal/package-lock.json",
-            "supplier": "Organization: Microsoft",
             "versionInfo": "1.14.1"
         },
         {
@@ -16103,6 +16654,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-25ac3d7055c531c",
+            "description": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -16112,6 +16664,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.python-excel.org/",
             "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "xlrd",
@@ -16177,7 +16730,7 @@
             "versionInfo": "4.3.2"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-ea217b1b2e5ff1e",
+            "SPDXID": "SPDXRef-Filesystem-27b2476a8bec3265",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
@@ -24116,31 +24669,31 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-ea217b1b2e5ff1e",
+            "relatedSpdxElement": "SPDXRef-Filesystem-27b2476a8bec3265",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ea217b1b2e5ff1e",
+            "spdxElementId": "SPDXRef-Filesystem-27b2476a8bec3265",
             "relatedSpdxElement": "SPDXRef-onap-usecase-ui-usecase-ui",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ea217b1b2e5ff1e",
+            "spdxElementId": "SPDXRef-Filesystem-27b2476a8bec3265",
             "relatedSpdxElement": "SPDXRef-onap-usecase-ui-usecase-ui-intent-analysis",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ea217b1b2e5ff1e",
+            "spdxElementId": "SPDXRef-Filesystem-27b2476a8bec3265",
             "relatedSpdxElement": "SPDXRef-onap-usecase-ui-usecase-ui-llm-adaptation",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ea217b1b2e5ff1e",
+            "spdxElementId": "SPDXRef-Filesystem-27b2476a8bec3265",
             "relatedSpdxElement": "SPDXRef-onap-usecase-ui-usecase-ui-nlp",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-ea217b1b2e5ff1e",
+            "spdxElementId": "SPDXRef-Filesystem-27b2476a8bec3265",
             "relatedSpdxElement": "SPDXRef-onap-usecase-ui-usecase-ui-server",
             "relationshipType": "CONTAINS"
         }
