@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T07:46:17Z",
+        "created": "2026-09-27T02:49:58Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -24,9 +24,9 @@
             "licenseId": "LicenseRef-Apache-2.0-ASF-license-header-"
         }
     ],
-    "name": "/tmp/tmpcnt7d691/code",
+    "name": "/tmp/tmpgkkekzm8/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpcnt7d691/code-59835ea5-c929-42cb-b284-6427e1bdd659",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpgkkekzm8/code-26cd8f54-1f20-44b2-860e-29ade4743ac7",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-562b7a02f14c9780",
@@ -965,6 +965,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-2abffe682f73e43",
+            "description": "Jackson is a high-performance JSON processor (parser, generator)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -974,6 +975,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://jackson.codehaus.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.jackson:jackson-core-asl",
@@ -983,6 +985,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-602b0af647600205",
+            "description": "Jackson is a high-performance JSON processor (parser, generator)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -992,6 +995,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://jackson.codehaus.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.jackson:jackson-core-asl",
@@ -1001,6 +1005,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6d137c8264e250b9",
+            "description": "Jax-RS provider for JSON content type, based on \nJackson JSON processor's data binding functionality.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1010,6 +1015,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://jackson.codehaus.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.jackson:jackson-jaxrs",
@@ -1019,6 +1025,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e89728db011f4828",
+            "description": "Jax-RS provider for JSON content type, based on \nJackson JSON processor's data binding functionality.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1028,6 +1035,7 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://jackson.codehaus.org",
             "licenseConcluded": "Apache-2.0",
             "licenseDeclared": "Apache-2.0",
             "name": "org.codehaus.jackson:jackson-jaxrs",
@@ -1077,7 +1085,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-615d66a3797fb7e6",
-            "description": "Stax2 API is an extension to basic Stax 1.0 API that adds significant new functionality, such as full-featured bi-direction validation interface and high-performance Typed Access API.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1087,18 +1094,15 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "http://github.com/FasterXML/stax2-api",
             "licenseConcluded": "BSD-2-Clause",
             "licenseDeclared": "BSD-2-Clause",
             "name": "org.codehaus.woodstox:stax2-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
-            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "3.1.4"
         },
         {
             "SPDXID": "SPDXRef-Package-84a8e158962d8b32",
-            "description": "Stax2 API is an extension to basic Stax 1.0 API that adds significant new functionality, such as full-featured bi-direction validation interface and high-performance Typed Access API.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1108,13 +1112,11 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "http://github.com/FasterXML/stax2-api",
             "licenseConcluded": "BSD-2-Clause",
             "licenseDeclared": "BSD-2-Clause",
             "name": "org.codehaus.woodstox:stax2-api",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
-            "supplier": "Organization: FasterXML, LLC",
             "versionInfo": "3.1.4"
         },
         {
@@ -1201,6 +1203,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-47157fa8d892b6bf",
+            "description": "Javassist (JAVA programming ASSISTant) makes Java bytecode manipulation\n simple. It is a class library for editing bytecodes in Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1210,15 +1213,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.javassist.org/",
             "licenseConcluded": "(Apache-2.0 AND LGPL-2.1-only AND MPL-1.1) OR LGPL-2.1-or-later OR (Apache-2.0 AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "Apache-2.0 AND LGPL-2.1 AND LGPL-2.1-only AND MPL-1.1",
             "name": "org.javassist:javassist",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: jboss-javassist",
             "versionInfo": "3.18.1-GA"
         },
         {
             "SPDXID": "SPDXRef-Package-67edd004b733f4e1",
+            "description": "Javassist (JAVA programming ASSISTant) makes Java bytecode manipulation\n simple. It is a class library for editing bytecodes in Java.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1228,11 +1234,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.javassist.org/",
             "licenseConcluded": "(Apache-2.0 AND LGPL-2.1-only AND MPL-1.1) OR LGPL-2.1-or-later OR (Apache-2.0 AND LicenseRef-NOASSERTION)",
             "licenseDeclared": "Apache-2.0 AND LGPL-2.1 AND LGPL-2.1-only AND MPL-1.1",
             "name": "org.javassist:javassist",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: jboss-javassist",
             "versionInfo": "3.18.1-GA"
         },
         {
@@ -1273,6 +1281,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-ea6d694cc75b1842",
+            "description": "The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented\n applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or\n annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping\n tools.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1282,15 +1291,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/mybatis-3/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mybatis:mybatis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: MyBatis",
             "versionInfo": "3.2.7"
         },
         {
             "SPDXID": "SPDXRef-Package-f023f4a2b8efa879",
+            "description": "The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented\n applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or\n annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping\n tools.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1300,11 +1312,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://www.mybatis.org/mybatis-3/",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.mybatis:mybatis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: MyBatis",
             "versionInfo": "3.2.7"
         },
         {
@@ -1345,6 +1359,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-52dc35e9466698e3",
+            "description": "A library for instantiating Java objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1354,15 +1369,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://objenesis.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.objenesis:objenesis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: EasyMock",
             "versionInfo": "2.1"
         },
         {
             "SPDXID": "SPDXRef-Package-e1cd70be56a476ec",
+            "description": "A library for instantiating Java objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1372,11 +1390,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://objenesis.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.objenesis:objenesis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: EasyMock",
             "versionInfo": "2.1"
         },
         {
@@ -1560,6 +1580,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-487ff19d5a77074f",
+            "description": "Various utilities for accessing internals of a class.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1569,15 +1590,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.powermock:powermock-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: PowerMock",
             "versionInfo": "1.5.4"
         },
         {
             "SPDXID": "SPDXRef-Package-87b4369a3c024f20",
+            "description": "Various utilities for accessing internals of a class.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1587,15 +1611,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.powermock:powermock-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: PowerMock",
             "versionInfo": "1.5.4"
         },
         {
             "SPDXID": "SPDXRef-Package-2a31eabec5fbd6b0",
+            "description": "PowerMock support module for JUnit 4.x.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1605,15 +1632,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.powermock:powermock-module-junit4",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: PowerMock",
             "versionInfo": "1.5.4"
         },
         {
             "SPDXID": "SPDXRef-Package-d77f56b3118f6d32",
+            "description": "PowerMock support module for JUnit 4.x.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1623,15 +1653,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.powermock:powermock-module-junit4",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: PowerMock",
             "versionInfo": "1.5.4"
         },
         {
             "SPDXID": "SPDXRef-Package-305b54f9537e23d1",
+            "description": "PowerMock support module for all versions of JUnit 4.x.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1641,15 +1674,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.powermock:powermock-module-junit4-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: PowerMock",
             "versionInfo": "1.5.4"
         },
         {
             "SPDXID": "SPDXRef-Package-a05eeb44b72d8bc4",
+            "description": "PowerMock support module for all versions of JUnit 4.x.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1659,11 +1695,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "http://www.powermock.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "Apache-2.0",
             "name": "org.powermock:powermock-module-junit4-common",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: PowerMock",
             "versionInfo": "1.5.4"
         },
         {
@@ -2118,6 +2156,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-2a6ec4ba92c1e311",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2127,15 +2166,18 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/lifecycle-test/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.1.0.RELEASE"
         },
         {
             "SPDXID": "SPDXRef-Package-97fe834e9327a5be",
+            "description": "Spring Transaction",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -2145,11 +2187,13 @@
                 }
             ],
             "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
             "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause",
             "licenseDeclared": "Apache-2.0",
             "name": "org.springframework:spring-tx",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: vnfsdk-lctest/pom.xml",
+            "supplier": "Organization: Spring",
             "versionInfo": "3.1.0.RELEASE"
         },
         {
@@ -2317,7 +2361,7 @@
             "versionInfo": "1.2"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-55901a64f56c9f39",
+            "SPDXID": "SPDXRef-Filesystem-1a92c056c9cc82d3",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND LicenseRef-Apache-2.0-ASF-license-header- AND CC-BY-4.0",
@@ -3343,26 +3387,26 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-55901a64f56c9f39",
+            "relatedSpdxElement": "SPDXRef-Filesystem-1a92c056c9cc82d3",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-55901a64f56c9f39",
+            "spdxElementId": "SPDXRef-Filesystem-1a92c056c9cc82d3",
             "relatedSpdxElement": "SPDXRef-onap-vnfsdk-vnfsdk",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-55901a64f56c9f39",
+            "spdxElementId": "SPDXRef-Filesystem-1a92c056c9cc82d3",
             "relatedSpdxElement": "SPDXRef-onap-vnfsdk-vnfsdk-lctest",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-55901a64f56c9f39",
+            "spdxElementId": "SPDXRef-Filesystem-1a92c056c9cc82d3",
             "relatedSpdxElement": "SPDXRef-onap-vnfsdk-vnfsdk-model",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-55901a64f56c9f39",
+            "spdxElementId": "SPDXRef-Filesystem-1a92c056c9cc82d3",
             "relatedSpdxElement": "SPDXRef-onap-vnfsdk-vnfsdk-pkgtools",
             "relationshipType": "CONTAINS"
         }
