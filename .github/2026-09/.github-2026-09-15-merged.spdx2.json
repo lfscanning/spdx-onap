@@ -1,0 +1,409 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-09-27T03:04:45Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "No license found",
+            "licenseId": "LicenseRef-No-license-found"
+        },
+        {
+            "extractedText": "License by Nomos.",
+            "licenseId": "LicenseRef-fossology-See-URL",
+            "name": "See-URL"
+        }
+    ],
+    "name": "/tmp/tmp6_h_ytmc/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-f8e36394caf005a4",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-No-license-found",
+            "licenseDeclared": "LicenseRef-No-license-found",
+            "name": "onap..github",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-onap-.github-.github",
+            "comment": "This package was added to the Trivy analysis for the .github by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseConcluded": "LicenseRef-No-license-found",
+            "licenseDeclared": "LicenseRef-No-license-found",
+            "name": ".github",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "supplier": "Organization: Linux Foundation Project onap",
+            "versionInfo": "ec9c8060eefb68bbbc990bbec6ff1dcef2da03d4"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item14790351",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7a4b4f5e3707eb901e32fb5c1bc1fd4920534c748664618fbf3ee34592dc2c84"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "73a8379660c7813e75f018b51b450848"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "99cf3f8dd6aebff07019b78d895f86f6d14ef1ed"
+                }
+            ],
+            "copyrightText": "2026 The Linux Foundation",
+            "fileName": ".github-2026-09-15.zip/.github/.github/zizmor.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790353",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "29cbf7856e1fb5bc95284f776d2c10ed"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dcebc60d73771b730bed8e2e36525850a915e647"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "200a23208194f296343b17ff63715975f366c089f7c15ffe7580867581d228d2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.github/workflows/gerrit-required-bypassable-verify.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790354",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bcfa03cec40f6f0ebaeae9cb392a7831d8cc6e67408cc5ac0719e5706efc73f4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "373d8f92f3b71601374a2f8e70467505"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ad0a0ca873ea6fcfea65a3d5579bab5085e592a1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.github/workflows/gerrit-required-verify.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790355",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d617785c134ad1a6664afdc9d70d548b"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "88c2dc0aa67e92b448313782e6a18d02fe88d5e4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "71e260dbf4048c50997c56daca8f8f7d76c1680ca6921a4c8c94447d549a7688"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.github/workflows/doc-rules-compose.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790356",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fc01329556be86a6ca26b7f59b9591facaf158d0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "050bfd86ba3d4159dd95c1d2386c8d0d224545b3d55ccc55a24720dda3f5e9dd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a1ebf3926e318edda94d700bf3cc3ab0"
+                }
+            ],
+            "copyrightText": "2026 The Linux Foundation",
+            "fileName": ".github-2026-09-15.zip/.github/.github/workflows/call-github2gerrit.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790357",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "43048c9d38778dc6986949520040c7dd"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "14790a1d1c43cde5fbce59a89686c5e9dbdecd51"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8731701ca41bbf7bf19bfad1d8b6a6df55f1038c929b47227d5bac87e40a4f52"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.github/workflows/gerrit-required-merge.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790358",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0a9c7db03706d03324165cb79b16bb659183148d8c619e5d9d95f9c7c0d63e7a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d622d795df692485c7c26494f90492e6"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cb4b8417aaca4c853c416fdfb943923ca35c4cf9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.github/workflows/gerrit-verify.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790359",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e31f5ebe5d81f197f6ad6aba9394f505"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "181916443d00a839e8aa55f7abd12d0a48233390"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "87b23ffb7fd2cc5578a70f8d888e927e8757237df86b7b922da166802e57cac0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/INFO.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790360",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cbc49d414c816e024f3f4911e5cbfe07"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ab91c7834b8346a82fc6fbdbd83ee3fcfebb09235390be01a32115bedea66fc4"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d5d36d08f058b9891d8e9fa15e4202d5291f76ad"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.editorconfig",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790361",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "97f26ce6eddbb2c18a09ef486eabeebe34905e8cc35cb11342d50ca189580824"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ddc4588f3db5da8503eebe603399ed38"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f13190e3d2c6334bd36abf0c7d5d7c0017e72927"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.gitlint",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790362",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "04fdb5c726de61acaa295bbd02d0cd0d"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a26a7dd11c3230972acba3b063140dec7b756928"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9a1bd9138e146c5f2698cbe7c704a4f6eefe2da3b09517011918ea6470a7ed7c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.gitreview",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item14790363",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e276dc5dd7742e6435b0dd7345edf88"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "65b24b943dd039f81d38840f038caf4e39df23eb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1d6749dd3c7b72863f9055bed9e3cab5d322984e5b39a77cf96f9c049ee54ec2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": ".github-2026-09-15.zip/.github/.pre-commit-config.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-f8e36394caf005a4",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f8e36394caf005a4",
+            "relatedSpdxElement": "SPDXRef-onap-.github-.github",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790351",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790353",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790354",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790355",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790356",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790357",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790358",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790359",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790360",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790361",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790362",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-onap-.github-.github",
+            "relatedSpdxElement": "SPDXRef-item14790363",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
