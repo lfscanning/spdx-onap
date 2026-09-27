@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T07:45:43Z",
+        "created": "2026-09-27T02:49:10Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -13,9 +13,9 @@
         "licenseListVersion": "3.20"
     },
     "dataLicense": "CC0-1.0",
-    "name": "/tmp/tmp0nl6n81a/code",
+    "name": "/tmp/tmpf6n9hl__/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp0nl6n81a/code-514bd5f3-70d0-4a78-8100-fbcbb58f89fb",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpf6n9hl__/code-f8d750b8-772a-4482-8bed-835873836d6e",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-3f266244475f2eb3",
@@ -45,7 +45,7 @@
             "versionInfo": "1.3.5-SNAPSHOT"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-74146402c9664495",
+            "SPDXID": "SPDXRef-Filesystem-ccfb7d7761537e0c",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0)",
@@ -95,16 +95,16 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-74146402c9664495",
+            "relatedSpdxElement": "SPDXRef-Filesystem-ccfb7d7761537e0c",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-74146402c9664495",
+            "spdxElementId": "SPDXRef-Filesystem-ccfb7d7761537e0c",
             "relatedSpdxElement": "SPDXRef-onap-vfc-vfc",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-74146402c9664495",
+            "spdxElementId": "SPDXRef-Filesystem-ccfb7d7761537e0c",
             "relatedSpdxElement": "SPDXRef-onap-vfc-vfc-nfvo-db",
             "relationshipType": "CONTAINS"
         }
