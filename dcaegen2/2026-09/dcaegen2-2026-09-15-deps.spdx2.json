@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-09-26T06:41:11Z",
+        "created": "2026-09-27T01:23:12Z",
         "creators": [
             "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
             "Tool: trivy-dev",
@@ -16,32 +16,32 @@
     "hasExtractedLicensingInfos": [
         {
             "extractedText": "Apache License, Version 2.0",
-            "licenseId": "LicenseRef-fixed-0x65517c57b03c45db"
+            "licenseId": "LicenseRef-fixed-0xf17bb2ac685f225"
         },
         {
             "extractedText": "---\n- Apache License, Version 2.0\n",
-            "licenseId": "LicenseRef-fixed-0x6eeb38ea27b84703"
+            "licenseId": "LicenseRef-fixed-0x6b2b841cfd799dc6"
         },
         {
             "extractedText": "The Apache License, Version 2.0",
-            "licenseId": "LicenseRef-fixed-0x6a2407faafa82353"
+            "licenseId": "LicenseRef-fixed-0x2f0cc776464b6412"
         },
         {
             "extractedText": "((EPL-2.0 OR Apache-2.0) AND BSD-3-Clause AND EPL-2.0 AND Classpath-exception-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND ((EPL-2.0 AND BSD-3-Clause AND GPL-2.0-only) AND LicenseRef-scancode-unknown-spdx)) AND (Apache-2.0 AND W3C AND LicenseRef-scancode-public-domain AND OFL-1.1 AND MIT AND GPL-2.0-only AND Classpath-exception-2.0) AND (EPL-2.0 AND MIT) AND (GPL-2.0-only AND Classpath-exception-2.0 AND LicenseRef-scancode-generic-export-compliance) AND BSD-3-Clause",
-            "licenseId": "LicenseRef-fixed-0x77921b166732cc01"
+            "licenseId": "LicenseRef-fixed-0x2bff0aab1689a593"
         },
         {
             "extractedText": "CDDL-1.1 AND (GPL-2.0-only AND Classpath-exception-2.0) AND GPL-2.0-only WITH Classpath-exception-2.0 OR CDDL-1.1",
-            "licenseId": "LicenseRef-fixed-0x6ae4dbb68e84b043"
+            "licenseId": "LicenseRef-fixed-0x31e24898bbdfdbe4"
         },
         {
             "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
             "licenseId": "LicenseRef-NOASSERTION"
         }
     ],
-    "name": "/tmp/tmprnotdgbh/code",
+    "name": "/tmp/tmpcray8lti/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmprnotdgbh/code-5ce7e7ae-e33a-43e2-89ee-a0ef6676c51b",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpcray8lti/code-66d26117-d951-4b37-80fe-5cf282de6873",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-84fb01eee50f88f8",
@@ -4476,7 +4476,7 @@
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/dmaap-framework/tree/master/CambriaClient",
             "licenseConcluded": "NONE",
-            "licenseDeclared": "NONE",
+            "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.nsa:saClientLibrary",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-services-son-handler/pom.xml",
@@ -4496,7 +4496,7 @@
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/dmaap-framework/tree/master/CambriaClient",
             "licenseConcluded": "NONE",
-            "licenseDeclared": "NONE",
+            "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.nsa:saClientLibrary",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-services/components/kpi-computation-ms/pom.xml",
@@ -4516,7 +4516,7 @@
             "filesAnalyzed": false,
             "homepage": "https://github.com/att/dmaap-framework/tree/master/CambriaClient",
             "licenseConcluded": "NONE",
-            "licenseDeclared": "NONE",
+            "licenseDeclared": "BSD-3-Clause",
             "name": "com.att.nsa:saClientLibrary",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-collectors-restconf/pom.xml",
@@ -16206,7 +16206,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-base-http_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16227,7 +16227,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-base-http_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16248,7 +16248,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-base-http_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16332,7 +16332,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x6eeb38ea27b84703",
+            "licenseConcluded": "LicenseRef-fixed-0x6b2b841cfd799dc6",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-http2_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16353,7 +16353,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x6eeb38ea27b84703",
+            "licenseConcluded": "LicenseRef-fixed-0x6b2b841cfd799dc6",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-http2_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16374,7 +16374,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x6eeb38ea27b84703",
+            "licenseConcluded": "LicenseRef-fixed-0x6b2b841cfd799dc6",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-http2_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16458,7 +16458,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-netty4-http_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16479,7 +16479,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-netty4-http_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16500,7 +16500,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-netty4-http_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16584,7 +16584,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-toggle_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16605,7 +16605,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-toggle_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -16626,7 +16626,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/twitter/finagle",
-            "licenseConcluded": "LicenseRef-fixed-0x65517c57b03c45db",
+            "licenseConcluded": "LicenseRef-fixed-0xf17bb2ac685f225",
             "licenseDeclared": "Apache-2.0",
             "name": "com.twitter:finagle-toggle_2.11",
             "primaryPackagePurpose": "LIBRARY",
@@ -35818,7 +35818,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
-            "licenseConcluded": "LicenseRef-fixed-0x6a2407faafa82353",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry.instrumentation:opentelemetry-instrumentation-annotations",
             "primaryPackagePurpose": "LIBRARY",
@@ -35839,7 +35839,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
-            "licenseConcluded": "LicenseRef-fixed-0x6a2407faafa82353",
+            "licenseConcluded": "LicenseRef-fixed-0x2f0cc776464b6412",
             "licenseDeclared": "Apache-2.0",
             "name": "io.opentelemetry.instrumentation:opentelemetry-instrumentation-annotations",
             "primaryPackagePurpose": "LIBRARY",
@@ -47646,7 +47646,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x77921b166732cc01",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -47751,7 +47751,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/jakartaee/jaf-api",
-            "licenseConcluded": "LicenseRef-fixed-0x77921b166732cc01",
+            "licenseConcluded": "LicenseRef-fixed-0x2bff0aab1689a593",
             "licenseDeclared": "BSD-3-Clause",
             "name": "jakarta.activation:jakarta.activation-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -50376,7 +50376,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/javaee/jaxb-spec",
-            "licenseConcluded": "LicenseRef-fixed-0x6ae4dbb68e84b043",
+            "licenseConcluded": "LicenseRef-fixed-0x31e24898bbdfdbe4",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "javax.xml.bind:jaxb-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -50397,7 +50397,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/javaee/jaxb-spec",
-            "licenseConcluded": "LicenseRef-fixed-0x6ae4dbb68e84b043",
+            "licenseConcluded": "LicenseRef-fixed-0x31e24898bbdfdbe4",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "javax.xml.bind:jaxb-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -50544,7 +50544,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/javaee/jaxb-spec",
-            "licenseConcluded": "LicenseRef-fixed-0x6ae4dbb68e84b043",
+            "licenseConcluded": "LicenseRef-fixed-0x31e24898bbdfdbe4",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "javax.xml.bind:jaxb-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -50565,7 +50565,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/javaee/jaxb-spec",
-            "licenseConcluded": "LicenseRef-fixed-0x6ae4dbb68e84b043",
+            "licenseConcluded": "LicenseRef-fixed-0x31e24898bbdfdbe4",
             "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
             "name": "javax.xml.bind:jaxb-api",
             "primaryPackagePurpose": "LIBRARY",
@@ -86565,6 +86565,7 @@
             "name": "org.openapi4j:openapi-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-services-sdk/services/pom.xml",
+            "supplier": "Organization: openapi4j",
             "versionInfo": "1.0.4"
         },
         {
@@ -86585,6 +86586,7 @@
             "name": "org.openapi4j:openapi-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-services-sdk/services/external-schema-manager/pom.xml",
+            "supplier": "Organization: openapi4j",
             "versionInfo": "1.0.4"
         },
         {
@@ -86605,6 +86607,7 @@
             "name": "org.openapi4j:openapi-core",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-services-sdk/pom.xml",
+            "supplier": "Organization: openapi4j",
             "versionInfo": "1.0.4"
         },
         {
@@ -86625,6 +86628,7 @@
             "name": "org.openapi4j:openapi-schema-validator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-services-sdk/pom.xml",
+            "supplier": "Organization: openapi4j",
             "versionInfo": "1.0.4"
         },
         {
@@ -86645,6 +86649,7 @@
             "name": "org.openapi4j:openapi-schema-validator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-services-sdk/services/pom.xml",
+            "supplier": "Organization: openapi4j",
             "versionInfo": "1.0.4"
         },
         {
@@ -86665,6 +86670,7 @@
             "name": "org.openapi4j:openapi-schema-validator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: dcaegen2-services-sdk/services/external-schema-manager/pom.xml",
+            "supplier": "Organization: openapi4j",
             "versionInfo": "1.0.4"
         },
         {
@@ -107823,7 +107829,7 @@
             "versionInfo": "0.8.29"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-43685dce8128cde9",
+            "SPDXID": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0",
@@ -190863,91 +190869,91 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-43685dce8128cde9",
+            "relatedSpdxElement": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-analytics-tca-gen2",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-collectors-datafile",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-collectors-hv-ves",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-collectors-restconf",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-collectors-snmptrap",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-collectors-ves",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-deployments",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-platform-ves-openapi-manager",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-services",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-services-heartbeat",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-services-mapper",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-services-pm-mapper",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-services-prh",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-services-sdk",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-services-son-handler",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-43685dce8128cde9",
+            "spdxElementId": "SPDXRef-Filesystem-31e77b8fb79410a1",
             "relatedSpdxElement": "SPDXRef-onap-dcaegen2-dcaegen2-utils",
             "relationshipType": "CONTAINS"
         }
