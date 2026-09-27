@@ -1,0 +1,955 @@
+{
+    "@context": "https://spdx.org/rdf/3.0.1/spdx-context.jsonld",
+    "@graph": [
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo0",
+            "created": "2026-09-27T03:04:45Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd2",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd3",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd7"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd0",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd1",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd4",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd5",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd6"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo1",
+            "comment": "This is a generated SPDX License object from the SPDX license list",
+            "created": "2026-09-16T00:00:00Z",
+            "createdBy": [
+                "https://spdx.org/licenses/creatoragent/3_29_0"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo2",
+            "created": "2026-09-27T03:04:45Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd71",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd70",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd75"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd73",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd72",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd74",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd68",
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd69"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd10",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "ec9c8060eefb68bbbc990bbec6ff1dcef2da03d4",
+            "software_sourceInfo": "The source this package was part of the LF Scanning configuration for the project onap",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd63",
+            "comment": "This package was added to the Trivy analysis for the .github by the Scaffold tool SBOM augmentation",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd12",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd13"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd13",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.github/workflows/gerrit-required-merge.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "8731701ca41bbf7bf19bfad1d8b6a6df55f1038c929b47227d5bac87e40a4f52"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "43048c9d38778dc6986949520040c7dd"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "14790a1d1c43cde5fbce59a89686c5e9dbdecd51"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd14",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd13",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd15",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd13",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd16",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd17"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd17",
+            "software_copyrightText": "2026 The Linux Foundation",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.github/workflows/call-github2gerrit.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "050bfd86ba3d4159dd95c1d2386c8d0d224545b3d55ccc55a24720dda3f5e9dd"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "a1ebf3926e318edda94d700bf3cc3ab0"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "fc01329556be86a6ca26b7f59b9591facaf158d0"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd18",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd17",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd19",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd17",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd2",
+            "creationInfo": "_:CreationInfo0",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd20",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd21"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd21",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.github/workflows/gerrit-verify.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "0a9c7db03706d03324165cb79b16bb659183148d8c619e5d9d95f9c7c0d63e7a"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "d622d795df692485c7c26494f90492e6"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "cb4b8417aaca4c853c416fdfb943923ca35c4cf9"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd22",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd21",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd23",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd21",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd24",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd25"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd25",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.github/workflows/gerrit-required-bypassable-verify.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "dcebc60d73771b730bed8e2e36525850a915e647"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "200a23208194f296343b17ff63715975f366c089f7c15ffe7580867581d228d2"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "29cbf7856e1fb5bc95284f776d2c10ed"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd26",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd27",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd28",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd29"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd29",
+            "software_copyrightText": "2026 The Linux Foundation",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.github/zizmor.yml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "7a4b4f5e3707eb901e32fb5c1bc1fd4920534c748664618fbf3ee34592dc2c84"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "73a8379660c7813e75f018b51b450848"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "99cf3f8dd6aebff07019b78d895f86f6d14ef1ed"
+                }
+            ]
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd3",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd30",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd29",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd31",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd29",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd32",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd33"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd33",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.pre-commit-config.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "5e276dc5dd7742e6435b0dd7345edf88"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "65b24b943dd039f81d38840f038caf4e39df23eb"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "1d6749dd3c7b72863f9055bed9e3cab5d322984e5b39a77cf96f9c049ee54ec2"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd34",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd33",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd35",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd33",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd36",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd37"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd37",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.github/workflows/doc-rules-compose.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "71e260dbf4048c50997c56daca8f8f7d76c1680ca6921a4c8c94447d549a7688"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "d617785c134ad1a6664afdc9d70d548b"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "88c2dc0aa67e92b448313782e6a18d02fe88d5e4"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd38",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd37",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd39",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd37",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd40",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd41"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd41",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.github/workflows/gerrit-required-verify.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "bcfa03cec40f6f0ebaeae9cb392a7831d8cc6e67408cc5ac0719e5706efc73f4"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "373d8f92f3b71601374a2f8e70467505"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "ad0a0ca873ea6fcfea65a3d5579bab5085e592a1"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd42",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd41",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd43",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd41",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd44",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd45"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd45",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.editorconfig",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "d5d36d08f058b9891d8e9fa15e4202d5291f76ad"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "cbc49d414c816e024f3f4911e5cbfe07"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "ab91c7834b8346a82fc6fbdbd83ee3fcfebb09235390be01a32115bedea66fc4"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd46",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd45",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd47",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd45",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd48",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd49"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd49",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/INFO.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "181916443d00a839e8aa55f7abd12d0a48233390"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "87b23ffb7fd2cc5578a70f8d888e927e8757237df86b7b922da166802e57cac0"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "e31f5ebe5d81f197f6ad6aba9394f505"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd50",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd49",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd51",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd49",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd52",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd53"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd53",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.gitreview",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "04fdb5c726de61acaa295bbd02d0cd0d"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "a26a7dd11c3230972acba3b063140dec7b756928"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "9a1bd9138e146c5f2698cbe7c704a4f6eefe2da3b09517011918ea6470a7ed7c"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd54",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd53",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd55",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd53",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd56",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd57"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd57",
+            "software_copyrightText": "NOASSERTION",
+            "creationInfo": "_:CreationInfo0",
+            "name": ".github-2026-09-15.zip/.github/.gitlint",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "97f26ce6eddbb2c18a09ef486eabeebe34905e8cc35cb11342d50ca189580824"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "ddc4588f3db5da8503eebe603399ed38"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "f13190e3d2c6334bd36abf0c7d5d7c0017e72927"
+                }
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd58",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd57",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd59",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd57",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd60"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_CustomLicense",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd60",
+            "simplelicensing_licenseText": "License by Nomos.",
+            "comment": "",
+            "creationInfo": "_:CreationInfo0",
+            "name": "See-URL"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd61",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd62"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_CustomLicense",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd62",
+            "simplelicensing_licenseText": "No license found",
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "creationInfo": "_:CreationInfo0",
+            "name": ""
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd63",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project onap"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd64",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd62"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd65",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd62"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd66",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project onap"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd67",
+            "from": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd62"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd7",
+            "creationInfo": "_:CreationInfo0",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd70",
+            "creationInfo": "_:CreationInfo2",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd71",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd75",
+            "creationInfo": "_:CreationInfo2",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd9",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "2026-09",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd66",
+            "creationInfo": "_:CreationInfo0",
+            "name": "onap..github"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd0",
+            "creationInfo": "_:CreationInfo0",
+            "name": "protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd1",
+            "creationInfo": "_:CreationInfo0",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd4",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd5",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd6",
+            "creationInfo": "_:CreationInfo0",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd68",
+            "creationInfo": "_:CreationInfo2",
+            "name": "protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd69",
+            "creationInfo": "_:CreationInfo2",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd72",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd73",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/additionalToolSPDXRef-gnrtd74",
+            "creationInfo": "_:CreationInfo2",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "SpdxDocument",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/document0",
+            "dataLicense": "http://spdx.org/licenses/CC0-1.0",
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/sbom"
+            ],
+            "creationInfo": "_:CreationInfo2",
+            "name": "/tmp/tmp6_h_ytmc/code"
+        },
+        {
+            "type": "software_Sbom",
+            "spdxId": "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/sbom",
+            "software_sbomType": [
+                "source"
+            ],
+            "element": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd9"
+            ],
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-onap/.github/2026-09/onap-.github-full/fd162a7a-4a7d-404c-9ef1-d125b3cf87c3-specv3/SPDXRef-gnrtd9"
+            ],
+            "creationInfo": "_:CreationInfo2"
+        },
+        {
+            "type": "Agent",
+            "spdxId": "https://spdx.org/licenses/creatoragent/3_29_0",
+            "creationInfo": "_:CreationInfo1",
+            "description": "This object is created and maintained by the SPDX legal team (https://spdx.dev/engage/participate/legal-team/)",
+            "name": "SPDX Legal Team"
+        }
+    ]
+}
